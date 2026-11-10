@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+RTX,2022,67074000000.0,5504000000.0,0.08205862182067568,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+RTX,2023,68920000000.0,3561000000.0,0.05166860127684272,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+RTX,2024,80738000000.0,6538000000.0,0.08097797815155193,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+RTX,2025,88603000000.0,9300000000.0,0.10496258591695541,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

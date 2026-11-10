@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+WSO,2022,7274344000.0,831578000.0,0.11431656242817222,Revenues,OperatingIncomeLoss
+WSO,2023,7283767000.0,794810000.0,0.10912073381809166,Revenues,OperatingIncomeLoss
+WSO,2024,7618317000.0,781775000.0,0.1026178091565368,Revenues,OperatingIncomeLoss
+WSO,2025,7239290000.0,720347000.0,0.09950520009558948,Revenues,OperatingIncomeLoss

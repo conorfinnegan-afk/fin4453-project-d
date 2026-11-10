@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+LDOS,2022,14287000000.0,1088000000.0,0.07615314621684048,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+LDOS,2023,15339000000.0,621000000.0,0.0404850381380794,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+LDOS,2024,,,,,
+LDOS,2025,16576000000.0,1827000000.0,0.1102195945945946,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

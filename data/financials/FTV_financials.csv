@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+FTV,2022,5825700000.0,987400000.0,0.1694903616732753,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+FTV,2023,3913900000.0,574000000.0,0.14665678734765836,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+FTV,2024,4080900000.0,716300000.0,0.1755250067387096,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+FTV,2025,4159100000.0,720200000.0,0.1731624630328677,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+AWI,2022,1233100000.0,278700000.0,0.22601573270618766,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+AWI,2023,1295200000.0,323700000.0,0.24992279184681904,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+AWI,2024,1445700000.0,374300000.0,0.258905720412257,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+AWI,2025,1620800000.0,430900000.0,0.2658563672260612,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

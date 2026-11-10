@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+IEX,2022,3181900000.0,751400000.0,0.2361482133316572,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+IEX,2023,3273900000.0,732500000.0,0.22373927120559578,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+IEX,2024,3268800000.0,677200000.0,0.2071708272148801,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+IEX,2025,3457500000.0,699300000.0,0.20225596529284165,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

@@ -1,0 +1,68 @@
+ticker,status,item1_len,item1_confidence,item7_len,item7_confidence,backlog,filing_date
+MMM,success,24066,high confidence,91260,high confidence,False,2025-02-05
+AOS,failed,21584,high confidence,0,no_match,True,2025-02-11
+ALLE,success,35494,high confidence,52342,high confidence,False,2025-02-18
+AME,success,32963,high confidence,31769,high confidence,True,2025-02-20
+AXON,success,49047,high confidence,48802,high confidence,False,2025-02-28
+BA,success,17842,high confidence,93041,high confidence,True,2025-02-03
+CARR,success,26048,high confidence,52434,high confidence,True,2025-02-11
+CAT,success,102542,high confidence,104319,high confidence,True,2025-02-14
+FIX,success,36694,high confidence,50348,high confidence,True,2025-02-20
+CMI,success,57982,high confidence,87211,high confidence,True,2025-02-11
+DOV,success,56646,high confidence,81525,high confidence,False,2025-02-14
+DD,success,37980,high confidence,98514,high confidence,True,2025-02-14
+ETN,failed,11704,high confidence,0,no_match,False,2025-02-27
+EME,success,31809,high confidence,65678,high confidence,True,2025-02-26
+EMR,success,19442,high confidence,63987,high confidence,True,2025-11-10
+FTV,success,38429,high confidence,69928,high confidence,False,2025-02-25
+GE,failed,0,no_match,0,no_match,False,2025-02-03
+GNRC,success,82519,high confidence,223836,high confidence,False,2025-02-19
+GD,success,53673,high confidence,54619,high confidence,True,2025-02-07
+HON,failed,0,failed,0,failed,False,
+HWM,success,32080,high confidence,39587,high confidence,False,2025-02-14
+HUBB,success,19678,high confidence,147580,high confidence,True,2025-02-13
+HII,success,46249,high confidence,223859,high confidence,True,2025-02-06
+IEX,success,44081,high confidence,35922,high confidence,True,2025-02-20
+ITW,success,29610,high confidence,91879,high confidence,True,2025-02-14
+IR,success,40743,high confidence,58107,high confidence,True,2025-02-19
+J,success,39217,high confidence,64865,high confidence,True,2025-11-20
+JCI,success,37536,high confidence,62311,high confidence,True,2025-11-14
+LHX,success,23810,high confidence,64577,high confidence,True,2025-02-14
+LDOS,success,56238,high confidence,43319,high confidence,True,2025-02-11
+LII,success,36000,high confidence,127584,high confidence,False,2025-02-11
+LMT,success,38492,high confidence,107622,high confidence,True,2025-01-28
+MAS,success,17789,high confidence,34336,high confidence,False,2025-02-11
+NDSN,success,30889,high confidence,28483,high confidence,False,2025-12-17
+NOC,success,32359,high confidence,72188,high confidence,True,2025-01-30
+OTIS,success,39792,high confidence,63799,high confidence,False,2025-02-04
+PCAR,success,34632,high confidence,54827,high confidence,True,2025-02-19
+PH,success,29298,high confidence,43596,high confidence,True,2025-08-22
+PNR,success,21859,high confidence,54670,high confidence,True,2025-02-25
+PWR,success,64302,high confidence,284696,high confidence,True,2025-02-20
+ROK,success,8256,high confidence,71191,high confidence,True,2025-11-12
+RTX,success,52865,high confidence,320860,high confidence,True,2025-02-03
+SNA,success,41394,high confidence,82968,high confidence,False,2025-02-13
+SWK,success,33702,high confidence,103156,high confidence,False,2025-02-18
+TXT,success,32528,high confidence,41445,high confidence,True,2025-02-06
+TT,success,32097,high confidence,65109,high confidence,True,2025-02-06
+TDG,success,21628,high confidence,63646,high confidence,False,2025-11-12
+VRT,success,38018,high confidence,30135,high confidence,True,2025-02-18
+WAB,success,51814,high confidence,58312,high confidence,True,2025-02-12
+GWW,success,23113,high confidence,29759,high confidence,False,2025-02-20
+XYL,success,49535,high confidence,97158,high confidence,True,2025-03-03
+DE,success,53857,high confidence,129000,high confidence,True,2025-12-18
+AGCO,success,106597,high confidence,30934,high confidence,False,2002-03-15
+OSK,success,59640,high confidence,44983,high confidence,True,2025-02-20
+TEX,success,34542,high confidence,46579,high confidence,True,2025-02-20
+FLS,success,47963,high confidence,213953,high confidence,True,2025-02-26
+LECO,success,14916,high confidence,45124,high confidence,True,2025-02-26
+BWXT,failed,0,failed,0,failed,False,
+TTC,failed,0,failed,0,failed,False,
+HXL,failed,53363,high confidence,0,no_match,True,2025-02-05
+ITT,success,43542,high confidence,66365,high confidence,True,2025-02-10
+TKR,success,30029,high confidence,75253,high confidence,True,2025-02-20
+GTLS,failed,0,failed,0,failed,False,
+WTS,success,61384,high confidence,63095,high confidence,False,2025-02-18
+DY,success,26990,high confidence,181150,high confidence,True,2025-02-28
+AWI,success,29402,high confidence,46846,high confidence,False,2025-02-25
+WSO,success,43702,high confidence,78795,high confidence,True,2025-02-28

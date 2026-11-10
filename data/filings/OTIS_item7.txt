@@ -1,0 +1,1233 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+BUSINESS OVERVIEW
+We are the world’s leading elevator and escalator manufacturing, installation and service company. Our Company is organized into two segments, New Equipment and Service. Through our New Equipment segment, we design, manufacture, sell and install a wide range of passenger and freight elevators, as well as escalators and moving walkways for residential and commercial buildings and infrastructure projects. Our New Equipment customers include real-estate and building developers and general contractors who develop and/or design buildings for residential, commercial, retail or mixed-use activity. We sell our New Equipment directly to customers, as well as through agents and distributors.
+Through our Service segment, we perform maintenance and repair services for both our own products and those of other manufacturers and provide modernization services to upgrade elevators and escalators. Maintenance services include inspections to ensure code compliance, preventive maintenance offerings and other customized maintenance offerings tailored to meet customer needs, as well as repair services to address equipment and component wear and tear and breakdowns. Modernization services enhance equipment operation and improve building functionality. Modernization offerings can range from relatively simple upgrades of interior finishes and aesthetics to complex upgrades of larger components and sub-systems. Our typical Service customers include building owners, facility managers, housing associations and government agencies that operate buildings where elevators and escalators are installed.
+We serve our customers through a global network of employees. These include sales personnel, field technicians with separate skills in performing installation and service, as well as engineers driving our continued product development and innovation. We function under a centralized operating model whereby we pursue a global strategy set around New Equipment and Service because we seek to grow our maintenance portfolio, in part, through the conversion of new elevator and escalator installations into service contracts. Accordingly, we benefit from an integrated global strategy, which sets priorities and establishes accountability across the full product lifecycle.
+For additional discussion of our business, refer to Item 1 in this Form 10-K.
+UpLift
+Announced in July 2023, UpLift is a program with the goal of transforming our operating model. UpLift includes the standardization of our processes and improvement of our supply chain procurement, among other aspects of the program, as well as organizational changes which result in restructuring actions. We expect UpLift to generate approximately $200 million in annual run-rate savings by the second half of 2025, with restructuring and other incremental costs to complete the transformation ("UpLift transformation costs") of approximately $300 million.
+The Company generated approximately $70 million of pre-tax savings in 2024, including run-rate savings of approximately $120 million, driven by our simplified operating structure, optimized organizational spans and layers, and reduced digital technology costs. These savings are primarily reflected in Selling, general and administrative expenses.
+UpLift costs incurred are as follows:
+(dollars in millions)
+2024
+2023
+UpLift restructuring costs
+$
+31
+$
+25
+UpLift transformation costs
+65
+16
+Total UpLift costs
+$
+96
+$
+41
+Total UpLift costs incurred to date are $137 million, including $56 million of restructuring costs and $81 million of transformation costs.
+UpLift restructuring costs are primarily severance costs and are recorded primarily in Selling, general and administrative in the Consolidated Statements of Operations. UpLift transformation costs are primarily for consultants, third-party service providers and personnel focused on designing and implementing a centralized service delivery model that supports our new organizational structure, including the standardization of our supply chain and digital technology procurement. These costs are recorded in Other income (expense), net in the Consolidated Statements of Operations.
+26
+Table of Contents
+For further details, refer to the discussion on restructuring costs in the "Results of Operations," as well as "
+Note 16: Restructuring and Transformation Costs" to the Consolidated Financial Statements in Item 8 in this Form 10-K.
+German Tax Litigation 
+In August 2024, we received a favorable ruling regarding a German tax litigation. As a result, we recorded income tax benefits of approximately $185 million and related interest income of approximately $200 million, which are included in Income tax expense (benefit), net and Interest expense (income), net, respectively, in the Consolidated Statements of Operations for 2024. Additionally, pursuant to the Tax Matters Agreement ("TMA") with RTX Corporation ("RTX", our former parent), the Company recorded indemnification expense of $194 million for amounts due to RTX resulting from the outcome of the German tax litigation. This expense is included in Other expense (income), net in the Consolidated Statements of Operations for 2024.
+For further details, refer to "Note 15: Income Taxes" and "Note 21: Contingencies" to the Consolidated Financial Statements in Item 8 in this Form 10-K.
+Impact of Global Macroeconomic Conditions on Our Company
+Global macroeconomic conditions have impacted, and continue to impact, aspects of the Company's operations and overall financial performance. These macroeconomic conditions include, among others, inflationary pressures, high interest rates and tighter credit conditions. These macroeconomic trends could continue to impact our business, including impacts to overall financial performance in 2025, as a result of the following, among other things:
+•
+Customer demand impacting our new equipment, maintenance and repair, and modernization businesses;
+•
+Customer liquidity constraints and related credit reserve;
+•
+Cancellations or delays of customer orders; and
+•
+Supplier liquidity, as well as supplier and raw material capacity constraints, delays and related costs.
+We currently do not expect any significant impact to our capital and financial resources from these macroeconomic conditions, including to our overall liquidity position based on our available cash and cash equivalents and our access to credit facilities and the capital markets. 
+See the "Liquidity and Financial Condition" section of this item of this Form 10-K for further detail and Item 1A in this Form 10-K for macroeconomic risks related to our business.
+Risks Associated with Ongoing Conflicts
+The ongoing conflict between Russia and Ukraine has resulted in worldwide geopolitical and macroeconomic uncertainty, including volatile commodity markets, foreign exchange fluctuations, supply chain disruptions, increased risk of cybersecurity incidents, reputational risk, increased operating costs (including fuel and other input costs), environmental, health and safety risks related to securing and maintaining facilities, additional sanctions and other regulations (including restrictions on the transfer of funds to and from Russia). As discussed below, we do not have operations in Russia.
+To the extent possible, we continue to operate our business in Ukraine, which represented less than 1% of our 2024, 2023 and 2022 revenue and operating profit. As previously disclosed, we sold our business in Russia, which represented approximately 1% of our revenue and operating profit in 2022, respectively, to a third party in July 2022. The operations were comprised mostly of New Equipment. We recorded losses from the sale and conflict-related charges totaling $28 million, primarily in Other income (expense), net in the Consolidated Statements of Operations in 2022. See "Note 8: Business Acquisitions, Dispositions, Goodwill and Intangible Assets" in Item 8 in this Form 10-K for further details.
+Additionally, we do not have operations or material net sales in Israel or Gaza. Although we have operations in the Middle East and transport products through the Red Sea, we currently do not expect the recent conflicts in that region to have a material impact on our business.
+27
+Table of Contents
+We cannot predict how the events described above will evolve. Depending on the ultimate outcomes of these conflicts, which remain uncertain, they could heighten certain risks disclosed in Item 1A in this Form 10-K, including but not limited to, adverse effects on macroeconomic conditions, including increased inflation, constraints on the availability of commodities, supply chain disruption and decreased business spending; cyber-incidents; disruptions to our or our business partners’ global technology infrastructure, including through cyberattack or cyber-intrusion; adverse changes in international trade policies and relations; claims, litigation and regulatory enforcement; our ability to implement and execute our business strategy; terrorist activities; our exposure to foreign currency fluctuations; reputational risk; and constraints, volatility, or disruption in the capital markets, any of which could have a material adverse effect on our business, results of operations, cash flows and financial condition.
+Environmental, Social and Governance ("ESG")
+There have been no, and we do not expect there to be in the near term, material impacts on our business, financial condition or results of operations as a result of compliance with legislation or regulatory rules regarding climate change, from the known physical eff
+ects of climate change or as a result of implementing our ESG initiatives. Increased regulation and other climate change concerns, however, could subject us to additional costs and restrictions, and we are not able to predict how su
+ch regulations or concerns would affect our business, operations or financial results.
+ For a discussion of risks associated with ESG matters, see Item 1A in this Form 10-K.
+For a discussion of Otis’ ESG goals, see the discussion under "Environmental, Social and Governance ("ESG")" in Item 1 in this Form 10-K.
+Zardoya Otis Tender Offer
+As previously disclosed, the Company announced the Tender Offer to acquire all issued and outstanding shares of Zardoya Otis not owned by Otis, at an offer price of €7.07 per share in cash, after adjusting for dividends. The results of the Tender Offer were announced on April 7, 2022, with tenders of 45.49% of the shares outstanding accepted. The shares tendered to the Company were settled in cash on April 12, 2022 for approximately €1.5 billion from the Company's restricted cash held in escrow, resulting in the Company owning 95.51% of Zardoya Otis. The acquisition and settlement of the remaining issued and outstanding shares not owned by the Company for approximately €150 million (based on the adjusted tender price of €7.07 per share) and the automatic delisting of Zardoya Otis shares both occurred during the second quarter of 2022. Zardoya Otis was renamed Otis Mobility upon completion of the Tender Offer and delisting.
+See "Note 1: Business Overview" and "Note 9: Borrowings and Lines of Credit" in Item 8 in this Form 10-K for further details regarding this transaction and financing arrangements entered into in connection with the Tender Offer.
+28
+Table of Contents
+RESULTS OF OPERATIONS
+Net Sales
+(dollars in millions)
+2024
+2023
+2022
+Net sales
+$
+14,261
+$
+14,209 
+$
+13,685 
+Percentage change year-over-year
+0.4
+%
+3.8 
+%
+(4.3)
+%
+The factors contributing to the total percentage change year-over-year in total Net sales are as follows:
+2024
+2023
+Organic volume
+1.4
+%
+5.6 
+%
+Foreign currency translation
+(1.2)
+%
+(1.2)
+%
+Acquisitions and divestitures, net
+0.2
+%
+(0.6)
+%
+Total % change
+0.4
+%
+3.8 
+%
+The Organic volume increase of 1.4% for 2024 was driven by an increase in organic sales of 6.8% in Service, offset by a decrease of (6.4)% in New Equipment.
+The Organic volume increase of 5.6% for 2023 was driven by an increase in organic sales of 7.7% in Service and 2.6% in New Equipment. 
+The decrease in Net sales due to Acquisitions and divestitures, net in 2023 is primarily the result of the sale of our Russia business in the third quarter of 2022.
+See "Segment Review" below for a discussion of Net sales by segment.
+Cost of Products and Services Sold
+(dollars in millions)
+2024
+2023
+2022
+Cost of products and services sold
+$
+10,004
+$
+10,016 
+$
+9,765 
+Percentage change year-over-year
+(0.1)
+%
+2.6 
+%
+(3.4)
+%
+The factors contributing to the percentage change year-over-year in total cost of products and services sold are as follows:
+2024
+2023
+Organic volume
+0.9
+%
+4.8 
+%
+Foreign currency translation
+(1.3)
+%
+(1.3)
+%
+Acquisitions and divestitures, net and Other
+0.3
+%
+(0.9)
+%
+Total % change
+(0.1)
+%
+2.6 
+%
+The organic increase in total cost of products and services sold in 2024 and 2023, were primarily driven by the organic sales changes noted above. Productivity and lower commodity prices, primarily steel, were partially offset by inflationary pressures, including annual wage increases and higher Service-related material costs.
+The decrease in Total cost of products and services sold due to Acquisitions and divestitures, net and Other in 2023 is primarily the result of the sale of our Russia business in the third quarter of 2022.
+29
+Table of Contents
+Gross Margin
+(dollars in millions)
+2024
+2023
+2022
+Gross margin
+$
+4,257
+$
+4,193 
+$
+3,920 
+Gross margin percentage
+29.9
+%
+29.5 
+%
+28.6 
+%
+Gross margin percentage increased 40 basis points in 2024 compared to 2023, due to Service sales growing faster than New Equipment sales, the benefits from productivity and lower commodity prices, partially offset by the inflationary pressures described above.
+Gross margin percentage increased 90 basis points in 2023 compared to 
+2022
+, due to the benefit from favorable pricing, Service sales growing faster than New Equipment sales, lower commodity prices, and the benefits from productivity, partially offset by the inflationary pressures described above.
+Research and Development
+(dollars in millions)
+2024
+2023
+2022
+Research and development
+$
+152
+$
+144 
+$
+150 
+Percentage of Net sales
+1.1
+%
+1.0 
+%
+1.1 
+%
+Research and development was relatively flat in 2024 compared to 2023 and 2022. Research and development includes product development and innovation, including for IoT and developing the next generation of connected elevators and escalators. 
+Selling, General and Administrative
+(dollars in millions)
+2024
+2023
+2022
+Selling, general and administrative
+$
+1,861
+$
+1,884 
+$
+1,763 
+Percentage of Net sales
+13.0
+%
+13.3 
+%
+12.9 
+%
+Selling, general and administrative expenses decreased $23 million in 2024 compared to 2023, driven by savings resulting from UpLift, lower restructuring costs and favorable foreign exchange impacts, partially offset by annual wage increases and higher other employment-related costs.
+Selling, general and administrative expenses increased $121 million in 2023 compared to 2022, driven by annual wage increases, higher other employment-related costs, higher restructuring costs and higher credit loss reserves, partially offset by favorable foreign exchange impacts of $8 million.
+Selling, general and administrative expenses as a percentage of Net sales decreased 30 basis points in 2024 compared to 2023, and increased 40 basis points in 2023 compared to 2022.
+Restructuring Costs
+(dollars in millions)
+2024
+2023
+2022
+UpLift restructuring costs
+$
+31
+$
+25
+$
+—
+Other restructuring costs
+40
+42
+60
+Total restructuring costs
+$
+71
+$
+67
+$
+60
+We initiate restructuring actions to keep our cost structure competitive. Charges generally arise from severance related to workforce reductions and, to a lesser degree, facility exit and lease termination costs associated with the consolidation of office and manufacturing operations. We continue to closely monitor the economic environment and may undertake further restructuring actions to keep our cost structure aligned with the demands of the prevailing market conditions. 
+30
+Table of Contents
+UpLift restructuring costs were $31 million and $25 million in 2024 and 2023, respectively. We also incurred $65 million and $16 million of UpLift transformation costs in 2024 and 2023, respectively, which are primarily for consultants, third-party service providers and personnel focused on designing and implementing a centralized service delivery model that supports our new organizational structure, including the standardization of our supply chain and digital technology procurement. These costs are recorded in Other income (expense), net in the Consolidated Statements of Operations.
+Other restructuring action costs were $40 million in 2024 and included $24 million of costs related to 2024 actions and $16 million of costs related to 2023 actions.
+Most of the expected restructuring charges will require cash payments, which we have funded and expect to continue to fund with cash generated from operations. The table below presents approximate cash outflows related to the restructuring actions during 2024, and the expected cash payments to complete the actions announced:
+(dollars in millions)
+UpLift Actions
+Other Actions
+Total Restructuring
+Cash outflows during the year ended December 31, 2024
+$
+31 
+$
+34 
+$
+65 
+Expected cash payments remaining to complete actions announced
+37 
+53 
+90 
+The approved UpLift restructuring actions are expected to generate approximately $80 million in annual recurring savings by the end of 2025, primarily in Selling, general and administrative expenses, and of which approximately $39 million was realized during 2024.
+For other restructuring actions, we generally expect to achieve annual recurring savings within the two-year period subsequent to initiating the actions, including $45 million for the 2024 actions and $42 million for the 2023 actions, split evenly in Cost of Products and Services Sold and in Selling, general and administrative expenses. Approximately $50 million of savings was realized for the 2024 and 2023 actions during 2024.
+For additional discussion of restructuring and transformation costs, see "Note 16: Restructuring and Transformation Costs" in Item 8 in this Form 10-K.
+Other Income (Expense), Net
+(dollars in millions)
+2024
+2023
+2022
+Other income (expense), net
+$
+(236)
+$
+21
+$
+26
+Other income (expense), net primarily includes the impact of changes in the fair value and settlement of derivatives, gains or losses on sale of businesses and fixed assets, earnings from equity method investments, fair value changes on equity securities, impairments, UpLift transformation costs, non-recurring Separation-related adjustments and certain other operating items.
+The change in Other income (expense), net of $(257) million in 2024 compared to 2023, was primarily driven by Separation-related adjustments of $177 million, UpLift transformation costs of $65 million, $18 million of impairment loss related to net assets held for sale, foreign currency mark-to market adjustments, and non-recurring litigation-related settlement costs, including $18 million in the second quarter of 2024, partially offset by other reserve adjustments.
+The change in Other income (expense), net of $(5) million in 2023 compared to 2022 was primarily driven by UpLift transformation costs of $16 million and the absence of the settlement of certain legal matters in 2022, partially offset by the impact of foreign currency mark-to-market adjustments and the absence of the loss on the sale of our Russia business and related charges when compared to 2022.
+For additional discussion of the Separation-related adjustments, litigation-related settlement c
+osts and held fo
+r sale impairment, see "Note 22: Segment Financial Data" in Item 8 in this Form 10-K. 
+For additional discussion of UpLift transformation costs, see "Note 16: Restructuring and Transformation Costs" in Item 8 in this Form 10-K. 
+31
+Table of Contents
+Interest Expense (Income), Net
+(dollars in millions)
+2024
+2023
+2022
+Interest expense (income), net
+$
+(31)
+$
+150
+$
+143
+Interest expens
+e (income), net primarily relates to interest expense on our external debt, offset by interest income earned on cash balances and short-term investments, and also includes interest related to tax matters.
+The change in Interest expense (income), net of $(181) million in 2024 compared to 2023, was primarily driven by approximately $200 million related to the German tax litigation, interest reserve adjustments and higher interest income, partially offset by higher interest expense related to the $600 million and €850 million unsecured, unsubordinated debt issued in November 2024 and $750 million unsecured, unsubordinated debt issued in August 2023. 
+Interest expense (income), net increased $7 million in 2023 compared to 2022, primarily driven by higher interest expense related to the $750 million unsecured, unsubordinated debt issued in August 2023, partially offset by higher interest income.
+The average interest rate on our external debt for 2024, 2023 and 2022 was 2.5%, 2.1% and 2.0%, respectively.
+For additional discussion of borrowings, see "Note 9: Borrowings and Lines of Credit" 
+in Item 8 in this Form 10-K. 
+For additional discussion of German tax litigation, see "Note 21: Contingencies" and "Note 22: 
+Segment Financial Data"
+ in Item 8 in this Form 10-K.
+Income Taxes
+2024
+2023
+2022
+Effective tax rate
+15.0
+%
+26.2 
+%
+27.5 
+%
+The 2024 effective tax rate is lower than the 2023 effective tax rate and the statutory U.S. rate primarily due to recognition of estimated tax benefits arising as a result of the resolution of the German tax litigation and the reduction of a deferred tax liability related to the mitigation of future repatriation costs.
+The 2023 and 2022 effective tax rates are higher than the statutory U.S. rate primarily due to higher international tax rates as compared to the lower U.S. federal statutory rate.
+The 2023 effective tax rate is lower than the 2022 effective tax rate primarily due to the absence of the tax impact related to the sale of our Russia business recorded in 2022, as well as the release of valuation allowances on non-U.S. losses and U.S. foreign tax credits, reduction in the deferred tax liability related to lower withholding tax on repatriation of certain foreign earnings, and reversal of tax reserves related to the U.S. foreign tax credit regulations, all recorded in 2023.
+For additional discussion of income taxes and the effective income tax rate, see "Note 15: Income Taxes" in Item 8 in this Form 10-K. 
+Noncontrolling Interest in Subsidiaries' Earnings and Net Income Attributable to Otis Worldwide Corporation
+(dollars in millions)
+2024
+2023
+2022
+Noncontrolling interest in subsidiaries' earnings
+$
+89
+$
+92
+$
+116
+Net income attributable to Otis Worldwide Corporation
+$
+1,645
+$
+1,406
+$
+1,253
+Noncontrolling interest in subsidiaries' earnings were relatively flat in 2024 in comparison to 2023. Other than our acquisition of the noncontrolling shares of our subsidiary in Japan during the second quarter of 2024, ownership interest in the underlying non-wholly owned subsidiaries has remained generally consistent year-over-year. See "Note 1: Business Overview" in Item 8 in this Form 10-K for further discussion of the noncontrolling interest acquisition.
+32
+Table of Contents
+Noncontrolling interest in subsidiaries' earnings decreased in 2023 in comparison to 2022 primarily driven by Otis' increase to full ownership in Otis Mobility (formerly Zardoya Otis) in the second quarter of 2022, as well as impacts of foreign exchange, partially offset by higher net income from non-wholly owned subsidiaries. For details on the results of the Tender Offer and purchases of shares of Otis Mobility not previously owned by the Company, see "Note 1: Business Overview" in Item 8 in this Form 10-K.
+Net income attributable to Otis Worldwide Corporation increased in 2024 compared to 2023, due to a lower effective tax rate and lower interest expense, partially offset by lower operating profit (including the unfavorable impact of foreign exchange rates).
+Net income attributable to Otis Worldwide Corporation increased in 2023 compared to 2022, due to higher operating profit (including the unfavorable impact of foreign exchange rates), lower noncontrolling interest in subsidiaries' earnings, and a lower effective tax rate.
+33
+Table of Contents
+Segment Review
+Summary performance for our operating segments for 2024, 
+2023 and 2022
+ was as follows:
+Net Sales
+Operating Profit
+Operating Profit Margin
+(dollars in millions)
+2024
+2023
+2022
+2024
+2023
+2022
+2024
+2023
+2022
+New Equipment
+$
+5,367
+$
+5,812
+$
+5,778
+$
+329
+$
+381
+$
+381
+6.1
+%
+6.6 
+%
+6.6 
+%
+Service
+8,894
+8,397
+7,801
+2,185
+2,014
+1,832
+24.6
+%
+24.0 
+%
+23.5 
+%
+Total segment
+14,261
+14,209
+13,579
+2,514
+2,395
+2,213
+17.6
+%
+16.9 
+%
+16.3 
+%
+Corporate and Unallocated
+General corporate expenses and other
+—
+—
+—
+158
+126
+87
+UpLift restructuring
+—
+—
+—
+31
+25
+—
+Other restructuring 
+—
+—
+—
+40
+42
+60
+UpLift transformation costs
+—
+—
+—
+65
+16
+—
+Separation-related reserve adjustment
+—
+—
+—
+177
+—
+—
+Russia operations
+—
+—
+106
+—
+—
+5
+Russia sale and conflict-related charges
+—
+—
+—
+—
+—
+28
+Litigation-related settlement costs
+—
+—
+—
+18
+—
+—
+Held for sale impairment
+—
+—
+—
+18
+—
+—
+Other, net
+—
+—
+—
+(1)
+—
+—
+Total
+$
+14,261
+$
+14,209
+$
+13,685
+$
+2,008
+$
+2,186
+$
+2,033
+14.1
+%
+15.4 
+%
+14.9 
+%
+New Equipment
+The New Equipment segment designs, manufactures, sells and installs a wide range of passenger and freight elevators, as well as escalators and moving walkways in residential and commercial buildings and infrastructure projects. Our New Equipment customers include real-estate and building developers and general contracto
+rs who
+ develop and/or design buildings for residential, infrastructure, commercial, retail or mixed-use activity. We sell directly to customers as well as through agents and distributors. We also sell New Equipment to government agencies to support infrastructure projects, such as airports, railways or metros.
+Summary performance for New Equipment for 
+2024, 
+2023 and 2022 was as follows:
+Total Increase (Decrease)
+Year-Over-Year for:
+(dollars in millions)
+2024
+2023
+2022
+2024 compared with 2023
+2023 compared with 2022
+Net sales
+$
+5,367
+$
+5,812 
+$
+5,778 
+$
+(445)
+(7.7)
+%
+$
+34
+0.6 
+%
+Cost of sales
+4,443
+4,837 
+4,855 
+(394)
+(8.1)
+%
+(18)
+(0.4)
+%
+924
+975 
+923 
+(51)
+(5.2)
+%
+52
+5.6 
+%
+Operating expenses 
+595
+594 
+542 
+1
+0.2
+%
+52
+9.6 
+%
+Operating profit
+$
+329
+$
+381 
+$
+381 
+$
+(52)
+(13.6)
+%
+$
+—
+— 
+%
+Operating profit margin
+6.1
+%
+6.6 
+%
+6.6 
+%
+34
+Table of Contents
+Summary analysis of the Net sales change for New Equipment for 2024 and 
+2023
+ compared with the prior years was as follows:
+Components of Net sales change:
+2024
+2023
+Organic
+(6.4)
+%
+2.6 
+%
+Foreign currency translation
+(1.4)
+%
+(2.1)
+%
+Acquisitions/Divestitures, net and Other
+0.1
+%
+0.1 
+%
+Total % change
+(7.7)
+%
+0.6 
+%
+2024
+ Compared with 2023
+The organic sales decrease of (6.4)% was driven by a greater than 20% decline in China, partially offset by mid single-digit organic sales growth in Americas and Asia Pacific and low single-digit organic sales growth in EMEA.
+New Equipment operating profit decreased $(52) million including foreign exchange headwinds of $(8) million. The impacts of lower volume and unfavorable regional and product mix were partially offset by favorable price, productivity including the benefits from UpLift, and commodity tailwinds. Operating margin decreased 50 basis points.
+2023
+ Compared with 2022 
+The organic sales increase of 2.6% was driven by mid single-digit organic sales growth in EMEA and low single-digit organic sales growth in Americas and Asia.
+New Equipment operating profit was flat, including $(26) million of foreign exchange headwinds. Higher volume, favorable price, improved productivity and commodity tailwinds were partially offset by regional and product mix headwinds and higher selling, general and administrative costs. Operating margin was flat.
+35
+Table of Contents
+Service
+The Service segment performs maintenance and repair services for both our products and those of other manufacturers and provides modernization services to upgrade elevators and escalators. Maintenance services include inspections to ensure code compliance, preventive maintenance offerings and other customized maintenance offerings tailored to meet customer needs, as well as repair services that address equipment and component wear and tear, and breakdowns. Modernization services enhance equipment operation and improve building functionality. Modernization offerings can range from relatively simple upgrades of interior finishes and aesthetics, to complex upgrades of larger components and sub-systems. Our typical Service customers include building owners, facility managers, housing associations and government agencies that operate buildings where elevators and escalators are installed.
+Summary performance for Service for 
+2024, 
+2023 and 2022 was as follows:
+Total Increase (Decrease)
+Year-Over-Year for:
+(dollars in millions)
+2024
+2023
+2022
+2024 compared with 2023
+2023 compared with 2022
+Net sales
+$
+8,894
+$
+8,397 
+$
+7,801 
+$
+497
+5.9
+%
+$
+596
+7.6 
+%
+Cost of sales
+5,533
+5,173 
+4,791 
+360
+7.0
+%
+382
+8.0 
+%
+3,361
+3,224 
+3,010 
+137
+4.2
+%
+214
+7.1 
+%
+Operating expenses 
+1,176
+1,210 
+1,178 
+(34)
+(2.8)
+%
+32
+2.7 
+%
+Operating profit
+$
+2,185
+$
+2,014 
+$
+1,832 
+$
+171
+8.5
+%
+$
+182
+9.9 
+%
+Operating profit margin
+24.6
+%
+24.0 
+%
+23.5 
+%
+Summary analysis of the Net sales change for Service f
+or 2024 and 2023 compared with the prior years was as follows:
+Components of Net sales change:
+2024
+2023
+Organic
+6.8
+%
+7.7 
+%
+Foreign currency translation
+(1.2)
+%
+(0.4)
+%
+Acquisitions/Divestitures, net and Other
+0.3
+%
+0.3 
+%
+Total % change
+5.9
+%
+7.6 
+%
+2024 
+Compared with 2023
+Net Sales
+The organic sales increase of 6.8% is due to organic sales increases in maintenance and repair of 5.7% and modernization of 11.7%. 
+Components of Net sales change:
+Maintenance and Repair
+Modernization
+Organic
+5.7
+%
+11.7
+%
+Foreign currency translation
+(1.1)
+%
+(1.5)
+%
+Acquisitions/Divestitures, net and Other
+0.3
+%
+0.1
+%
+Total % change
+4.9
+%
+10.3
+%
+Operating profit
+Service operating profit increased $171 million including foreign exchange headwinds of $(21) million. Higher volume, improved pricing on maintenance contracts, and productivity including the benefits from UpLift were partially offset by inflationary pressures, including annual wage increases and higher material costs. Operating margin increased 60 basis points. 
+36
+Table of Contents
+2023 Compared with 2022 
+Net Sales
+The organic sales increase of 7.7% is due to organic sales increases 
+in maintenance and repair of 7.8%, and modernization of 7.3%.
+Components of Net sales change:
+Maintenance and Repair
+Modernization
+Organic
+7.8 
+%
+7.3 
+%
+Foreign currency translation
+(0.3)
+%
+(0.8)
+%
+Acquisitions/Divestitures, net and Other
+0.3 
+%
+0.4 
+%
+Total % change
+7.8 
+%
+6.9 
+%
+Operating Profit
+Service operating profit increased $182 million including foreign exchange tailwinds of $4 million, primarily driven by higher volume, improved pricing on maintenance contracts and productivity, which were partially offset by annual wage increases and other inflationary pressures, including higher material costs. Operating margin increased 50 basis points.
+Corporate and Unallocated
+(dollars in millions)
+2024
+2023
+2022
+General corporate expenses and other
+$
+158
+$
+126
+$
+87
+UpLift restructuring
+31
+25
+—
+Other restructuring
+40
+42
+60
+UpLift transformation costs
+65
+16
+—
+Separation-related adjustments
+177
+—
+—
+Russia operations
+—
+—
+5
+Russia sale and conflict-related charges
+—
+—
+28
+Litigation-related settlement costs
+18
+—
+—
+Held for sale impairment
+18
+—
+—
+Other, net
+(1)
+—
+—
+Total Corporate and Unallocated
+$
+506
+$
+209
+$
+180
+General corporate expenses and other increased $32 million and $39 million in 2024 compared to 2023 and 2023 compared to 2022, respectively, primarily due to higher corporate costs and the impact of foreign currency mark-to-market adjustments.
+For additional discussion of the Separation-related adjustments, litigation-related settlement costs, held for sale impairment and Russia, see "Note 22: Segment Financial Data" to the Consolidated Financial Statements in Item 8 in this Form 10-K. For additional discussion of the restructuring and UpLift transformation costs, see "Note 16: Restructuring and Transformation Costs" to the Consolidated Financial Statements in Item 8 in this Form 10-K.
+37
+Table of Contents
+LIQUIDITY AND FINANCIAL CONDITION
+We expect to fund our ongoing operating, investing and financing requirements mainly through cash flows from operations, available liquidity through cash on hand and available bank lines of credit and access to the capital markets. 
+As of December 31, 2024, we had cash and cash equivalents of approximately $2.3 billion, of which approximately 37% was held by the Company's foreign subsidiaries. Domestic cash and cash equivalents as of December 31, 2024 includes amounts that will be used to fund the repayment at maturity of the $1.3 billion 2.056% notes due April 5, 2025. We manage our worldwide cash requirements by reviewing available funds among the many subsidiaries through which we conduct our business and the cost-effectiveness with which those funds can be accessed. On occasion, we are required to maintain cash deposits with certain banks with respect to contractual obligations related to acquisitions and divestitures or other legal obligations. The amount of such restricted cash was $21 million and $6 million as of December 31, 2024 and 2023, respectively.
+From time-to-time we may need to access the capital markets to obtain financing. We may incur indebtedness or issue equity as needed. Although we believe that the arrangements in place as of December 31, 2024 permit us to finance our operations on acceptable terms and conditions, our access to, and the availability of, financing on acceptable terms and conditions in the future could be impacted by many factors, including (1) our credit ratings or absence of a credit rating, (2) the liquidity of the overall capital markets and (3) the current state of the economy, including tighter credit conditions. There can be no assurance that we will continue to have access to the capital markets on terms acceptable to us.
+The following table contains several key measures of our financial condition and liquidity:
+(dollars in millions)
+December 31, 2024
+December 31, 2023
+Cash and cash equivalents
+$
+2,300
+$
+1,274 
+Total debt
+8,324
+6,898 
+Net debt (total debt less cash and cash equivalents)
+6,024
+5,624 
+Total equity
+(4,785)
+(4,855)
+Total capitalization (total debt plus total equity)
+3,539
+2,043 
+Net capitalization (total debt plus total equity less cash and cash equivalents)
+1,239
+769 
+Total debt to total capitalization
+235
+%
+338 
+%
+Net debt to net capitalization
+486
+%
+731 
+%
+The Company does not intend to reinvest certain undistributed earnings of our international subsidiaries that have been previously taxed in the U.S. For the remainder of the Company’s undistributed international earnings, unless tax effective to repatriate, we will continue to permanently reinvest these earnings.
+Borrowings and Lines of Credit
+The following is a summary of the long-term debt issuances and repayments in 2024, 2023 and 2022:
+(dollars in millions) 
+Issuance Date
+Description of Debt
+Aggregate Principal Balance
+November 19, 2024
+2.875% notes due 2027 (€850 million principal value)
+$
+899
+November 19, 2024
+5.125% notes due 2031
+600
+August 16, 2023
+5.25% notes due 2028
+750
+Repayment Date
+Description of Debt
+Aggregate Principal Paid
+November 13, 2023
+0.000% notes due 2023 (€500 million principal value)
+$
+534
+January 14, 2022
+LIBOR plus 45 bps floating rate notes due 2023
+500
+38
+Table of Contents
+A portion of the proceeds from the November 2024 issuance of the Euro and USD notes listed above will be used to fund the repayment at maturity of the Company's currently outstanding $1.3 billion 2.056% notes due April 5, 2025. The remainder of the proceeds were used to fund the repayment of the Company's commercial paper and for other general corporate purposes.
+The proceeds from the August 2023 issuance of $750 million notes listed above were used to fund the repayments of Otis' commercial paper and €500 million 0.000% notes that were due in November 2023, with the remainder used for other general corporate purposes.
+There is no commercial paper outstanding as of December 31, 2024. For additional discussion of borrowings, see "Note 9: Borrowings and Lines of Credit" in Item 8 of this Form 10-K.
+Share Repurchase Program
+On December 1, 2022, our Board of Directors approved a share repurchase program for up to $2.0 billion of Common Stock, of which approximately $200 million was remaining as of December 31, 2024. 
+On January 16, 2025, our Board of Directors revoked any remaining share repurchase authority under the prior share repurchase program and approved a new share repurchase program for up to $2.0 billion of Common Stock.
+Under these programs, shares may be purchased on the open market, in privately negotiated transactions, under accelerated share repurchase programs or under plans complying with Rules 10b5-1 and 10b-18 under the Securities Exchange Act of 1934, as amended.
+Discussion of Cash Flows
+The following table reflects the major categories of cash flows. For additional details, see the Consolidated Statements of Cash Flows.
+(dollars in millions)
+2024
+2023
+2022
+Net cash flows provided by (used in):
+Operating activities
+$
+1,563
+$
+1,627
+$
+1,560
+Investing activities
+(164)
+(183)
+(33)
+Financing activities
+(309)
+(1,350)
+(3,652)
+Effect of exchange rate changes on cash and cash equivalents
+(49)
+(9)
+(157)
+Net increase (decrease) in cash and cash equivalents and restricted cash
+$
+1,041
+$
+85
+$
+(2,282)
+Operating activities
+Cash flows from operating activities primarily represent inflows and outflows associated with our operations. Primary activities include net income from operations adjusted for non-cash transactions, working capital changes and changes in other assets and liabilities. 
+The decrease in net cash provided by operating activities in 2024 compared to 2023 was primarily driven by Separation-related and UpLift-related net payments, approximately $49 million and $86 million, respectively, in 2024, compared to net payments of approximately $25 million and $20 million, respectively, in 2023. Working capital activity includes a smaller decrease in Accounts receivable, net in 2024 compared to 2023 due to the timing of billings and collections, mostly offset by a smaller increase in Accounts payable in 2024 compared to 2023 due to the timing of payments to suppliers and other activity.
+The increase in net cash provided by operating activities in 2023 compared to 2022 was primarily driven by changes in working capital balances during the periods, including an increase in Accrued liabilities in 2023 compared to a decrease in 2022 due to the timing of income tax payments in the periods, as well as a decrease in Inventories in 2023 compared to an increase in 2022. These were offset by a smaller increase in Accounts payable in 2023 compared to 2022 due to the timing of payments to suppliers and higher balances due as of December 31, 2022 compared to December 31, 2021 and other working capital changes.
+39
+Table of Contents
+During 2024, net cash provided by operating activities was $1.6 billion. Net income of $1.7 billion includes approximately $185 million of income taxes benefits and approximately $200 million of interest income, partially offset by $194 million of indemnification expense resulting from the outcome of the German tax litigation during the third quarter of 2024, none of which resulted in cash flow activity during 2024. A decrease in Accounts receivable, net, due to the timing of billings and collections is mostly offset by an increase in Accounts payable due to the timing of payments to suppliers. For additional discussion of the German tax litigation, see "Note 1: Business Overview" and "Note 21: Contingent Liabilities" in Item 8 of this Form 10-K.
+During 2023, net cash provided by operating activities was $1.6 billion. The primary driver of the inflow related to $1.5 billion of net income and an increase in Accounts payable. These were partially offset by an increase in Accounts receivable, net, due to the volume and timing of billings.
+Investing activities
+Cash flows from investing activities primarily represent inflows and outflows associated with long-term assets, including capital expenditures, investments in businesses and securities, proceeds from the sale of fixed assets and the settlement of derivative contracts. 
+The decrease in net cash used in investing activities in 2024 compared to 2023 was primarily driven by the net cash receipts from the settlement of derivative instruments in 2024 compared to net cash payments in 2023 partially offset by acquisitions of businesses and intangible assets. The increase in net cash used in investing activities in 2023 compared to 2022 was primarily driven by net cash payments from the settlement of derivative instruments in 2023 compared to net cash receipts in 2022, as well as the absence of net proceeds from the sale of our business in Russia in 2022.
+During 2024, net cash used in investing activities was $164 million. The primary drivers of the outflow related to $126 million of capital expenditures and $87 million of acquisitions of businesses and intangible assets, partially offset by $49 million of net cash receipts from the settlement of derivative instruments. 
+During 2023, net cash used in investing activities was $183 million. The primary drivers of the outflow related to $138 million of capital expenditures, $36 million of acquisitions of businesses and intangible assets and $28 million of net cash payments from the settlement of derivative instruments.
+As discussed in "Note 17: Financial Instruments" in Item 8 in this Form 10-K, we enter into derivative instruments for risk management purposes. We operate internationally and, in the normal course of business, are exposed to fluctuations in interest rates, foreign exchange rates and commodity prices. These fluctuations can increase the costs of financing, investing and operating the business. We use derivative instruments, including forward contracts and options to manage certain foreign currency and commodity price exposures.
+Financing activities
+Cash flows from financing activities primarily represent inflows and outflows associated with equity and borrowings. Primary activities include short-term and long-term borrowing activity, paying dividends to shareholders, the repurchase of our Common Stock and dividends or other payments to noncontrolling interests. 
+The decrease in net cash used in financing activities in 2024 compared to 2023 was primarily due to the net proceeds from the long-term debt issued in 2024. The decrease in net cash used in financing activities in 2023 compared to 2022 was primarily due to the absence of the settlement of the Tender Offer in 2022.
+During 2024, net cash used in financing activities was $309 million. The primary drivers of the outflow were the repurchases of our Common Stock of $1.0 billion, dividends paid on our Common Stock and to noncontrolling shareholders of $606 million and $94 million, respectively, and acquisitions of noncontrolling interest shares of $75 million, including approximately $70 million for our subsidiary in Japan. These were partially offset by the net proceeds from the long-term debt issuance of $1.5 billion.
+40
+Table of Contents
+During 2023, net cash used in financing activities was $1.4 billion. The primary drivers of the outflow were the repurchases of our Common Stock of $800 million and dividends paid on our Common Stock and to noncontrolling shareholders of $539 million and $85 million, respectively. Additionally, net repayments of short-term borrowings of $113 million and repayments of long-term debt of $534 million were funded by $741 million of net proceeds from the issuance of long-term debt.
+For additional discussion of borrowing activity, see "Note 9: Borrowings and Lines of Credit" in Item 8 in this Form 10-K.
+41
+Table of Contents
+Guaranteed Securities: Summarized Financial Information
+The following information is provided in compliance with Rule 13-01 of Regulation S-X under the Securities Exchange Act of 1934, as amended, with respect to the 2026 Euro Notes, the 2027 Euro Notes and the 2031 Euro Notes (together the "Euro Notes"), in each case issued by Highland Holdings S.à r.l. ("Highland"), a private limited liability company (
+société à responsabilité limitée
+) incorporated and existing under the laws of the Grand Duchy of Luxembourg ("Luxembourg"). The Euro Notes are fully and unconditionally guaranteed by Otis Worldwide Corporation ("OWC") on an unsecured, unsubordinated basis. Refer to "Note 9: Borrowings and Lines of Credit" in Item 8 in this Form 10-K for additional information.
+Highland is a wholly-owned, indirect consolidated subsidiary of OWC. OWC is incorporated under the laws of Delaware. As a company incorporated and existing under the laws of Luxembourg, and with its registered office in Luxembourg, Highland is subject to Luxembourg insolvency and bankruptcy laws in the event any insolvency proceedings are initiated against it. Luxembourg bankruptcy law is significantly different from, and may be less favorable to creditors than, the bankruptcy law in effect in the United States and may make it more difficult for creditors to recover the amount they could expect to recover in liquidation under U.S. insolvency and bankruptcy rules.
+The Euro Notes are not guaranteed by any of OWC's or Highland's subsidiaries (all OWC subsidiaries other than Highland are referred to herein as "non-guarantor subsidiaries"). Holders of the Euro Notes will have a direct claim only against Highland, as issuer, and OWC, as guarantor.
+The following tables set forth the summarized financial information as of and for the years ended December 31, 2024 and 2023 of each of OWC and Highland on a standalone basis, which does not include the consolidated impact of the assets, liabilities, and financial results of their subsidiaries except as noted on the tables below, nor does it include any impact of intercompany eliminations as there were no intercompany transactions between OWC and Highland. This summarized financial information is not intended to present the financial position or results of operations of OWC or Highland in accordance with U.S. GAAP.
+Year Ended December 31,
+(dollars in millions)
+2024
+2023
+OWC Statement of Operations - Standalone and Unconsolidated
+Revenue
+$
+—
+$
+—
+Cost of revenue
+—
+—
+Operating expenses
+10
+9
+Income from consolidated subsidiaries
+49
+143
+Income (loss) from operations excluding income from consolidated subsidiaries
+(191)
+(11)
+Net income (loss) excluding income from consolidated subsidiaries
+(364)
+(119)
+As of December 31,
+(dollars in millions)
+2024
+2023
+OWC Balance Sheet - Standalone and Unconsolidated
+Current assets (intercompany receivables from non-guarantor subsidiaries)
+$
+—
+$
+—
+Current assets (excluding intercompany receivables from non-guarantor subsidiaries)
+1,490
+63
+Noncurrent assets (investments in consolidated subsidiaries)
+1,198
+1,236
+Noncurrent assets (excluding investments in consolidated subsidiaries)
+37
+43
+Current liabilities (intercompany payables to non-guarantor subsidiaries)
+6,277
+3,753
+Current liabilities (excluding intercompany payables to non-guarantor subsidiaries)
+1,625
+119
+Noncurrent liabilities (intercompany payables to non-guarantor subsidiaries)
+—
+—
+Noncurrent liabilities (excluding intercompany payables to non-guarantor subsidiaries)
+5,100
+5,880
+42
+Table of Contents
+Year Ended December 31,
+(dollars in millions)
+2024
+2023
+Highland Statement of Operations - Standalone and Unconsolidated
+Revenue
+$
+—
+$
+—
+Cost of revenue
+—
+—
+Operating expenses
+1
+1
+Income from consolidated subsidiaries
+420
+477
+Income (loss) from operations excluding income from consolidated subsidiaries
+(1)
+(1)
+Net income (loss) excluding income from consolidated subsidiaries
+(248)
+(196)
+As of December 31,
+(dollars in millions)
+2024
+2023
+Highland Balance Sheet - Standalone and Unconsolidated
+Current assets (intercompany receivables from non-guarantor subsidiaries)
+$
+—
+$
+75
+Current assets (excluding intercompany receivables from non-guarantor subsidiaries)
+—
+—
+Noncurrent assets (investments in consolidated subsidiaries)
+15,711
+15,711
+Noncurrent assets (intercompany receivables from non-guarantor subsidiaries)
+460
+518
+Noncurrent assets (excluding investments in consolidated subsidiaries)
+—
+—
+Current liabilities (intercompany payables to non-guarantor subsidiaries)
+—
+—
+Current liabilities (excluding intercompany payables to non-guarantor subsidiaries)
+4
+1
+Current liabilities (intercompany payables from non-guarantor subsidiaries)
+9
+—
+Noncurrent liabilities (intercompany payables to non-guarantor subsidiaries)
+3,513
+3,467
+Noncurrent liabilities (excluding intercompany payables to non-guarantor subsidiaries)
+2,017
+1,199
+CRITICAL ACCOUNTING ESTIMATES
+Preparation of the consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. "Note 2: Summary of Significant Accounting Policies" in Item 8 in this Form 10-K describes the significant accounting policies used in preparation of the Consolidated Financial Statements. Management believes the most complex and sensitive judgments, because of their significance to the Consolidated Financial Statements, result primarily from the need to make estimates about the effects of matters that are inherently uncertain. The most significant areas involving management judgments and estimates are described below. Actual results in these areas could differ from management’s estimates. 
+Revenue Recognition from Contracts with Customers 
+We recognize revenue in accordance with FASB ASC Topic 606: 
+Revenue from Contracts with Customers
+ and its related amendments,
+(referred to, collectively, as "ASC 606").
+ For new equipment and modernization contracts, equipment and installation are typically procured in a single contract providing the customer with a complete installed elevator or escalator unit. The combination of equipment and installation promises are typically a single performance obligation. For these performance obligations, revenue is recognized over time using costs incurred to date relative to total estimated costs at completion to measure progress. Contract costs are usually incurred over a period of time, which can be several years, and the estimation of these costs requires management’s judgment. Contract costs included in the calculation are comprised of labor, materials, subcontractors’ costs or other direct costs and indirect costs, which include indirect labor costs.
+43
+Table of Contents
+The long-term nature of the contracts, the complexity of the products and the scale of the projects can affect our ability to estimate costs precisely. In developing our cost estimates, we utilize a combination of our historical costs experience and expected costs considering current circumstances. We review cost estimates for modification on significant new equipment and modernization contracts on a quarterly basis and when circumstances change, and for others, no less frequently than annually or when circumstances change and warrant a modification to a previous estimate. We record changes in contract estimates using the cumulative catch-up method and we review changes in contract estimates for their impact on net sales or operating profit in the Consolidated Financial Statements. Modifications are recognized as a cumulative catch-up or treated as a separate accounting contract if the modification adds distinct goods or services and the modification is priced at its stand-alone selling price.
+See "Note 2: Summary of Significant Accounting Policies" in Item 8 in this Form 10-K.
+Income Taxes
+The future tax benefit arising from deductible temporary differences and tax carryforwards was $576 million and $618 million as of December 31, 2024 and 2023, respectively. Management estimates that our earnings during the periods when the temporary differences become deductible will be generally sufficient to realize the related future income tax benefits, which may be realized over an extended period of time. For those jurisdictions where the expiration date of tax carryforwards or the projected operating results indicate that realization is not likely, a valuation allowance is provided. 
+In assessing the need for a valuation allowance, we estimate future taxable income, considering the feasibility of ongoing tax planning strategies and the realizability of tax loss carryforwards. Valuation allowances related to deferred tax assets can be affected by changes to tax laws, changes to statutory tax rates and future taxable income levels. In the event we were to determine that we would not be able to realize all or a portion of our deferred tax assets in the future, we would reduce such amounts through an increase to tax expense in the period in which that determination is made or when tax law changes are enacted. Conversely, if we were to determine that we would be able to realize our deferred tax assets in the future in excess of the net carrying amounts, we would decrease the recorded valuation allowance through a decrease to tax expense in the period in which that determination is made. 
+In the ordinary course of business there is inherent uncertainty in quantifying our income tax positions. We assess our income tax positions and record tax benefits for all years subject to examination based upon management’s evaluation of the facts, circumstances and information available at the reporting date. For those tax positions where it is more likely than not that a tax benefit will be sustained, we have recorded the largest amount of tax benefit with a greater than 50% likelihood of being realized upon 
+ultimate settlement with a taxing authority that has full knowledge of all relevant information. For those income tax positions where it is not more likely than not that a tax benefit will be sustained, no tax benefit has been recognized in the Consolidated Financial Statements. See "Note 21: Contingent Liabilities" in Item 8 in this Form 10-K for discussion of administrative review proceedings with the German Tax Office. 
+Goodwill 
+We have generated goodwill as a result of our acquisitions. At the time of acquisition, we account for business acquisitions using the purchase method of accounting, in accordance with which assets acquired and liabilities assumed are recorded at their respective fair values at the acquisition date. The fair value of the consideration paid, including contingent consideration, is assigned to the assets acquired and liabilities assumed based on their respective fair values. Goodwill represents the excess of the purchase price over the estimated fair values of the assets acquired and liabilities assumed.
+We review our goodwill for impairment on an annual basis at July 1 or more frequently if events or a change in circumstances indicate that the carrying amount may not be recoverable. We test goodwill for impairment at a level within the Company referred to as the reporting unit, which is one level below the operating segment level. We have determined there are three reporting units within each business segment.
+44
+Table of Contents
+In accordance with Accounting Standards Codification ("ASC") 350, 
+Intangibles – Goodwill and Other
+, we initially perform a qualitative assessment (commonly known as "step zero") to determine whether further impairment testing is necessary before performing the two-step test. The qualitative assessment requires judgments by management about economic conditions including the entity’s operating environment, its industry and other market considerations, entity-specific events related to financial performance or loss of key personnel and other events that could impact the reporting unit. If management concludes, based on assessment of relevant events, facts and circumstances, that it is more likely than not that a reporting unit’s fair value is greater than its carrying value, no further impairment testing is required. If we determine, based on this assessment, that it is more likely than not that the fair value of the reporting unit is less than its carrying value, we perform a quantitative goodwill impairment test by comparing the reporting unit’s fair value with its carrying value. An impairment loss is recognized for the amount by which the reporting unit’s carrying value exceeds its fair value, up to the total amount of goodwill allocated to the reporting unit. No impairment loss is recognized if the fair value of the reporting unit exceeds its carrying value.
+We completed the annual goodwill impairment test for all of our reporting units 
+as of July 1, 2024 and d
+etermined that no adjustment to goodwill was necessary as the fair value of each reporting unit was in excess of the carrying value of each reporting unit. 
+Contingent Liabilities
+Otis is party to litigation related to a n
+umber of matters as described in "Note 21: Contingent Liabilities" in Item 8 in this Form 10-K. In 
+particular, they may include risks associated with contractual, regulatory and other matters, which may arise in the ordinary course of business. The outcome of these matters may have a material effect on the financial position, results of operations or cash flows. Management regularly analyzes current information about these matters and accrues for contingent losses that are probable and reasonably estimable. To assess the exposure to potential liability, we consult with relevant internal and external counsel. In making the decision regarding the need for loss accruals, management considers the degree of probability of an unfavorable outcome and the ability to make a sufficiently reliable estimate of the amount of loss. See Part I, 
+Item 1A in this Form 10-K for further discussion.
+Employee Benefit Plans
+We sponsor domestic and international defined benefit pension and other postretirement plans. Major assumptions used in the accounting for these employee benefit plans include the discount rate, expected return on plan assets, rate of increase in employee compensation levels and mortality rates. Assumptions are determined based on company data and appropriate market indicators, and are evaluated each year as of December 31. A change in any of these assumptions would have an effect on net periodic pension and postretirement benefit costs reported in the Consolidated Financial Statements.
+In the following table, we show the sensitivity of our pension plan liabilities to a 25 basis point change in the discount rates for benefit obligations, as of December 31, 2024:
+(dollars in millions)
+Increase in Discount Rate of 25 bps
+Decrease in Discount Rate of 25 bps
+Projected benefit obligation
+$
+(22)
+$
+23
+The impact on the net periodic pension (benefit) cost, the accumulated postretirement benefit obligation and the net periodic postretirement (benefit) cost is each less than $1 million. 
+Pension expense is also sensitive to changes in the expected long-term rate of asset return. An increase or decrease of 25 basis points in the expected long-term rate of asset return would have decreased or increased 2024 pension expense by approximately $2 million. 
+The weighted-average discount rates used to measure pension liabilities and costs utilize each plan’s specific cash flows and are then compared to high-quality bond indices for reasonableness. Global market interest rates decreased in 2024 as compared with 2023, and, as a result, the weighted-average discount rate used to measure pension liabilities was 3.3% in 2024 and 3.4% in 2023. 
+See "Note 12: Employee Benefit Plans" in Item 8 in this Form 10-K for further discussion.
+45
+Table of Contents
+Off-Balance Sheet Arrangements and Contractual Obligations
+We extend a variety of financial guarantees to third parties in support of our business. We also have obligations arising from environmental, health and safety, tax and employment matters. Circumstances that could cause the contingent obligations and liabilities arising from these arrangements to come to fruition include changes in the underlying transaction, non-performance under a contract or deterioration in the financial condition of the guaranteed party.
+Otis' contractual obligations and commitments as of December 31, 2024 are discussed below. See also "Note 12: Employee Benefit Plans" in Item 8 of this Form 10-K for further discussion of our expected pension and postretirement contributions.
+Long-term Debt
+See "Note 9: Borrowings and Lines of Credit" in Item 8 of this Form 10-K for further discussion of our long-term debt principal payments as of December 31, 2024. In the following table, we show the timing of payments of interest on long-term debt as of December 31, 2024:
+Payments Due by Period
+(dollars in millions)
+Total
+2025
+2026-2027
+2028-2029
+Thereafter
+Long-term debt - future interest
+$
+1,738
+$
+216
+$
+395
+$
+285
+$
+842
+For long-term debt denominated in foreign currencies, the interest payments above reflect U.S. dollar amounts using foreign currency exchange rates as of 
+December 31, 2024.
+Purchase Obligations
+Purchase obligations include amounts committed for the purchase of goods and services under legally enforceable contracts or purchase orders. Where it is not practically feasible to determine the legally enforceable portion of our obligation under certain of our long-term purchase agreements, we include additional expected purchase obligations beyond what may be legally enforceable. We enter into contractual purchase commitments with suppliers and service vendors to support our information technology that are either necessary to operate our business or result from implementing strategic initiatives. In the following table, we show the timing of payments of total purchase obligations as of December 31, 2024:
+Payments Due by Period
+(dollars in millions)
+Total
+2025
+2026-2027
+2028-2029
+Thereafter
+Purchase obligations
+$
+1,606
+$
+1,062
+$
+477
+$
+67
+$
+—
+Other Long-term Liabilities
+Other long-term liabilities in the table below includes obligations related to product, service and warranty policies, estimated remediation costs and contractual indemnities, and are included in Other long-term liabilities on the "Consolidated Balance Sheets" in Item 8 of this Form 10-K. 
+The timing of expected cash flows associated with these obligations is based upon management's estimates over the terms of these agreements and is largely based upon historical experience. 
+In the following table, we show the timing of these payments as of December 31, 2024:
+Payments Due by Period
+(dollars in millions)
+Total
+2025
+2026-2027
+2028-2029
+Thereafter
+Other long-term liabilities
+$
+192
+$
+10
+$
+105
+$
+14
+$
+63
+The amounts above include $80 million of non-current contractual payables due to RTX for reimbursement of tax payments that RTX is responsible to pay after the Separation pursuant to the TMA. Otis will reimburse RTX for those tax payments through 2026.
+46
+Table of Contents
+Unrecognized Tax Benefits
+Otis has unrecognized tax benefits
+ of $149 million as
+ of December 31, 
+2024.
+ The timing of when such unrecognized tax benefits will become realizable is uncertain. See "Note 15: Income Taxes" in Item 8 in this Form 10-K for additional discussion on unrecognized tax benefits.

@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+SNA,2022,4468600000.0,1207200000.0,0.2701517253725999,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+SNA,2023,4703200000.0,1310400000.0,0.27861881272325223,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+SNA,2024,4677600000.0,1345700000.0,0.2876902685137677,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+SNA,2025,,,,,

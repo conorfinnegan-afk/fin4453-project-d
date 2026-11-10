@@ -1,0 +1,29 @@
+ticker,cik,name,reason
+GEV,0001996810,GE Vernova,Spun off in 2024; insufficient standalone 10-K history (<4 years)
+VLTO,0001967680,Veralto,Spun off from Danaher in 2023; insufficient 10-K history
+KVUE,0001944048,Kenvue,Consumer Health spin-off (non-industrial/insufficient history)
+DAL,0000027904,Delta Air Lines,Airline transportation service; does not report manufacturing backlog
+UAL,0000100517,United Airlines Holdings,Airline passenger carrier; no manufacturing backlog
+LUV,0000092380,Southwest Airlines,Airline passenger carrier; no manufacturing backlog
+AAL,0000006201,American Airlines Group,Airline passenger carrier; no manufacturing backlog
+UNP,0000100885,Union Pacific,Railroad transport operator; no manufacturing backlog
+CSX,0000277948,CSX Corporation,Railroad freight operator; no manufacturing backlog
+NSC,0000702165,Norfolk Southern,Railroad freight operator; no manufacturing backlog
+FDX,0000035625,FedEx Corporation,Package delivery/logistics operator; no manufacturing backlog
+UPS,0001090727,United Parcel Service,Package delivery/logistics operator; no manufacturing backlog
+CHRW,0001043277,C.H. Robinson,Freight forwarding broker; no manufacturing backlog
+EXPD,0000746515,Expeditors International,Logistics brokerage; no manufacturing backlog
+JBHT,0000728535,J.B. Hunt Transport,Trucking logistics; no manufacturing backlog
+ODFL,0000878926,Old Dominion Freight Line,Less-than-truckload motor carrier; no manufacturing backlog
+FAST,0000815556,Fastenal,Wholesale distributor; does not report backlog
+PAYX,0000784977,Paychex,HR/payroll business service; no backlog
+ADP,0000008670,Automatic Data Processing,HR software/business service; no backlog
+BRO,000079282,Brown & Brown,Insurance brokerage; no manufacturing backlog
+CPRT,0000900075,Copart,Online salvage vehicle auctions; no manufacturing backlog
+CTAS,0000723254,Cintas,Uniform rental and facility services; no manufacturing backlog
+EFX,0000033185,Equifax,Credit reporting and information services; no manufacturing backlog
+RSG,0001060391,Republic Services,Waste collection and environmental services; no backlog
+WM,0000823768,Waste Management,Waste management and recycling services; no backlog
+URI,0001067701,United Rentals,Equipment rental provider; no manufacturing order backlog
+GFL,0001780288,GFL Environmental,Environmental services; no backlog reported
+BLDR,0001312384,Builders FirstSource,Building supply distribution; does not report order backlog

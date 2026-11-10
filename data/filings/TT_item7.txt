@@ -1,0 +1,661 @@
+Item 7.
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following Management's Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements that involve risks and uncertainties. Our actual results may differ materially from the results discussed in the forward-looking statements. Factors that might cause a difference include, but are not limited to, those discussed under Item 1A. Risk Factors in this Annual Report on Form 10-K. The following section is qualified in its entirety by the more detailed information, including our financial statements and the notes thereto, which appears elsewhere in this Annual Report.
+This section discusses 2024 and 2023 significant items affecting our consolidated operating results, financial condition and liquidity and provides a year-to-year comparison between 2024 and 2023. Discussions of 2022 significant items and year-to-year comparisons between 2023 and 2022 have been excluded in this Form 10-K and can be found in "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Part II, Item 7 of our Annual Report on Form 10-K for year ended December 31, 2023.
+Overview
+Organizational
+Trane Technologies plc is a global climate innovator. We bring sustainable and efficient solutions to buildings, homes and transportation through our strategic brands, Trane
+®
+ and Thermo King
+®
+, and our environmentally responsible portfolio of products, services and connected intelligent controls.
+2030 Sustainability Commitments
+Our commitment to sustainability extends to the environmental and social impacts of our people, operations, products and services. We have announced ambitious 2030 Sustainability Commitments, including our Gigaton Challenge to reduce customers' carbon emissions by a billion metric tons through sustainable products and services. We are also Leading by Example as we work toward carbon-neutral operations, zero waste-to-landfill and net positive water use in water-stressed locations. We also committed to reducing embodied carbon in our products by 40%, while also designing products for circularity. Our 2030 emissions reduction targets have been validated by the Science Based Targets Initiative (SBTi), and we are one of very few companies worldwide with validated 2050 net-zero targets. Finally, our Opportunity for All commitment focuses on investing in our people and our uplifting and inclusive culture, and broadening access to Science, Technology, Engineering and Math (STEM) education and careers in our communities.
+Recent Acquisitions
+During the third quarter of 2024, we completed acquisitions of two businesses. One acquisition is a Commercial HVAC distributor with sales and service business in the United States. The second acquisition is a technology-focused acquisition that expands the Company's product offerings in the Transport Refrigeration business. The results of both acquisitions are reported within the Americas segment.
+The Company completed the acquisition of two businesses in January 2025. One acquisition is a Commercial HVAC distributor with sales and service business in Belgium and Luxembourg. The results of the acquisition will be reported within the EMEA segment. The second acquisition is a building management platform for HVAC optimization, using advanced artificial intelligence technologies. The results of the acquisition will be reported within the Americas segment. The results of the acquisitions will be included in our consolidated financial statements from the date of the acquisitions.
+Significant Matters
+Reorganization of Aldrich and Murray
+On June 18, 2020 (Petition Date), our indirect wholly-owned subsidiaries, Aldrich and Murray each filed a voluntary petition for reorganization under the Bankruptcy Code. As a result of the Chapter 11 filings, all asbestos-related lawsuits against Aldrich and Murray have been stayed due to the imposition of a statutory automatic stay applicable in Chapter 11 bankruptcy cases. Only Aldrich and Murray have filed for Chapter 11 relief. Neither Aldrich's wholly-owned subsidiary, 200 Park, Murray's wholly-owned subsidiary, ClimateLabs, nor the Trane Companies are part of the Chapter 11 filings.
+The goal of these Chapter 11 filings is to resolve equitably and permanently all current and future asbestos-related claims in a manner beneficial to claimants, Aldrich and Murray through court approval of a plan of reorganization that would create a trust pursuant to section 524(g) of the Bankruptcy Code, establish claims resolution procedures for all current and future asbestos-related claims against Aldrich and Murray and channel such claims to the trust for resolution in accordance with those procedures.
+28
+Table of Contents
+Aldrich and its wholly-owned subsidiary 200 Park and Murray and its wholly-owned subsidiary ClimateLabs were deconsolidated as of the Petition Date and their respective assets and liabilities were derecognized from our Consolidated Financial Statements. 
+In 2021, Aldrich and Murray reached an agreement in principle with the court-appointed legal representative of future asbestos claimants (the FCR) and filed a motion to create a $270.0 million trust intended to constitute a "qualified settlement fund" within the meaning of the Treasury Regulations under Section 468B of the Internal Revenue Code (QSF). On January 27, 2022, the Bankruptcy Court granted the request to fund the QSF, which was funded on March 2, 2022, resulting in an operating cash outflow of $270.0 million reported in our Consolidated Statements of Cash Flows, of which $91.8 million was allocated to continuing operations and $178.2 million was allocated to discontinued operations for the year ended December 31, 2022.
+On April 6, 2023, certain individual claimants filed a motion to dismiss the Chapter 11 cases (Claimant Motion to Dismiss). Subsequently, on May 15, 2023, the committee representing current asbestos claimants (the ACC) filed its own motion to dismiss the Chapter 11 cases (ACC Motion to Dismiss, and, together with the Claimant Motion to Dismiss, the Motions to Dismiss). Aldrich, Murray and the FCR filed responses in opposition to the Motions to Dismiss, and the Company filed papers joining in Aldrich and Murray's opposition. A hearing on the Motions to Dismiss was held on July 14, 2023. On December 28, 2023, the Bankruptcy Court entered an order denying the Motions to Dismiss. On January 11, 2024, the ACC and the individual claimants filed motions with the United States District Court for the District of North Carolina (the District Court) seeking leave to appeal the order denying the Motions to Dismiss (Motions for Leave to Appeal) and to certify the appeals directly to the Court of Appeals for the Fourth Circuit. At a hearing on February 9, 2024, the Bankruptcy Court granted the motions to certify direct appeals to the Fourth Circuit. On April 17, 2024, the Fourth Circuit entered an order denying the petitions for direct appeal. On May 1, 2024, the ACC and the individual claimants filed petitions with the Fourth Circuit seeking rehearing 
+en banc. 
+Aldrich and Murray opposed the petitions and the Fourth Circuit denied the petitions by order dated May 15, 2024. On May 28, 2024, Aldrich and Murray filed their response with the District Court in opposition to the Motions for Leave to Appeal. The FCR filed its response to the Motions for Leave to Appeal on May 29, 2024. The ACC and the individual claimants filed their replies in support of the Motions for Leave to Appeal on June 11, 2024. 
+On January 23, 2023, an individual claimant filed a motion to lift the automatic order to pursue its asbestos suit against Aldrich and Murray notwithstanding the Chapter 11 cases (the Stay Relief Motion). Aldrich and Murray, the FCR, and certain non-debtor affiliates each opposed the Stay Relief Motion. The Bankruptcy Court denied the Stay Relief Motion after holding a hearing on March 30, 2023. The Bankruptcy Court entered an order memorializing its March oral ruling on November 13, 2024. The individual claimant filed a notice with the Bankruptcy Court appealing the order denying the Stay Relief Motion to the District Court on November 27, 2024.
+It is not possible to predict how the District Court will rule on these pending motions, whether an appellate court will affirm or reverse the Bankruptcy Court orders denying the Motions to Dismiss and the Stay Relief Motion, whether the Bankruptcy Court will approve the terms of the Plan, what the extent of the asbestos liability will be or how long the Chapter 11 cases will last.The Chapter 11 cases remain pending as of February 6, 2025.
+For detailed information on the bankruptcy cases of Aldrich and Murray, see Part I, Item 1, "Business - Asbestos-Related Matters," Part I, Item 1A, "Risk Factors - Risks Related to Litigation," Part I, Item 3, "Legal Proceedings," and Part II, Item 8, Consolidated Financial Statements, and Note 20, "Commitments and Contingencies."
+29
+Table of Contents
+Trends and Economic Events
+We are a global corporation with worldwide operations. As a global business, our operations are affected by worldwide, regional and industry-specific economic factors as well as geopolitical, environmental and social factors wherever we operate or do business. Our geographic diversity and the breadth of our products and services portfolios have helped mitigate the impact of any one industry or the economy of any single country on our consolidated operating results.
+Given our broad range of products manufactured and geographic markets served, management uses a variety of factors to predict the outlook for the Company. We monitor key competitors and customers in order to gauge relative performance and the outlook for the future. We regularly perform detailed evaluations of the different market segments we serve to proactively detect trends and to adapt our strategies accordingly, including potential triggers and actions to be taken under recessionary scenarios. In addition, we believe our backlog and order levels are indicative of future revenue and thus are a key measure of anticipated performance.
+We expect conditions to remain mixed across our served end markets and geographies. Overall Commercial HVAC markets in Americas and EMEA remain strong due to demand for our differentiated customer driven solutions and the benefits of installing energy efficient products and decarbonizing the built environment. In Asia, markets are more dynamic, with weak macro-economic conditions driving soft demand in China and more stable macro-economic conditions driving modest demand in the rest of Asia. Transport refrigeration markets are experiencing lower demand as freight rates remain low, particularly in the United States. Residential markets in the United States have improved in 2024 but are undergoing a regulatory transition which could bring short-term variation in demand, and uncertainties remain from economic risks and higher interest rates.
+We continue to see material and wage inflation impact our cost structure. Our performance may be impacted by future developments that are uncertain. Geopolitical risks and macroeconomic events could cause disruptions to operations, supply chains, end markets, financial markets and overall economic conditions which could negatively impact our business.
+We believe we have a solid foundation of global brands that are highly differentiated in all of our major product lines. Our geographic mix, diversity of our portfolio, and our large installed product base, provide growth opportunities from replacement demand and within our service revenue streams. Additionally, we are investing substantial resources to innovate and develop new products and services which we expect to drive future growth.
+30
+Table of Contents
+Results of Operations
+Non-GAAP Financial Measures
+Organic Revenue
+We define organic revenue as net revenues adjusted for the impact of currency, acquisitions and divestitures
+. 
+Organic revenue is not defined under U.S. Generally Accepted Accounting Principles (GAAP) and may not be comparable to similarly-titled measures used by other companies and should not be considered a substitute for revenue as determined in accordance with GAAP.
+Selected references are made to revenue growth on an organic basis so that certain financial results can be viewed without the impacts of fluctuations in foreign currency rates and acquisitions, thereby providing comparisons of operating performance from period to period of the business that we have owned during both periods presented. We believe organic revenue growth provides investors with useful supplemental information about our revenues in both periods presented.
+Segment Adjusted EBITDA
+We define Segment Adjusted EBITDA as net earnings excluding interest expense, income taxes, depreciation and amortization, restructuring, non-cash adjustments for contingent consideration, merger and acquisition-related costs, unallocated corporate expenses, discontinued operations and other non-recurring items. Segment Adjusted EBITDA, and ratios based on it, are used in the development of annual operating plans, including capital expenditure and operational budgets, and in measuring performance against targets for purposes of incentive compensation. Segment Adjusted EBITDA also provides a useful tool for assessing the operating performance and comparability between periods and our ability to generate cash because it excludes the impact of certain non-cash or non-recurring items that can vary significantly from period to period. Segment Adjusted EBITDA is not defined under GAAP and may not be comparable to similarly-titled measures used by other companies and should not be considered a substitute for net earnings or other results as determined in accordance with GAAP.
+Segment Adjusted Operating Income
+We define Segment Adjusted Operating Income as operating income adjusted to exclude restructuring costs, merger and acquisition-related costs, non-cash adjustments for contingent consideration and other non-recurring items. Segment Adjusted Operating Income, and ratios based on it, are used to provide a comprehensive view of segment profitability and evaluate efficient returns on assets. Segment Adjusted Operating Income also provides a useful tool for assessing the comparability between periods because it eliminates non-recurring items that can vary from period to period. Segment Adjusted Operating Income is not defined under GAAP and may not be comparable to similarly-titled measures used by other companies and should not be considered a substitute for net earnings or other results as determined in accordance with GAAP.
+Year Ended December 31, 2024 Compared to the Year Ended December 31, 2023 - Consolidated Results
+Dollar amounts in millions
+2024
+2023
+Period Change
+2024
+ % of revenues
+2023
+ % of revenues
+Net revenues
+$
+19,838.2 
+$
+17,677.6 
+$
+2,160.6 
+Cost of goods sold
+(12,757.7)
+(11,820.4)
+(937.3)
+64.3%
+66.9%
+Gross profit
+7,080.5 
+5,857.2 
+1,223.3 
+35.7%
+33.1%
+Selling and administrative expenses
+(3,580.4)
+(2,963.2)
+(617.2)
+18.1%
+16.7%
+Operating income
+3,500.1 
+2,894.0 
+606.1 
+17.6%
+16.4%
+Interest expense
+(238.4)
+(234.5)
+(3.9)
+Other income/(expense), net
+(19.9)
+(92.2)
+72.3 
+Earnings before income taxes
+3,241.8 
+2,567.3 
+674.5 
+Provision for income taxes
+(627.6)
+(498.4)
+(129.2)
+Earnings from continuing operations
+2,614.2 
+2,068.9 
+545.3 
+Discontinued operations, net of tax
+(24.7)
+(27.2)
+2.5 
+Net earnings
+$
+2,589.5 
+$
+2,041.7 
+$
+547.8 
+31
+Table of Contents
+Net Revenues
+Net revenues
+ for the year ended December 31, 2024 increased by 12.2%, or $2,160.6 million, compared with the same period of 2023.
+The components of the period change were as follows:
+Volume
+9.4 
+%
+Pricing
+2.3 
+%
+Organic revenue 
+(1)
+11.7 
+%
+Acquisitions
+1.0 
+%
+Currency translation
+(0.5)
+%
+Total 
+12.2 
+%
+(1) 
+Represents a non-GAAP measure. For more information, see "Non-GAAP Financial Measures."
+The increase in 
+Net revenues
+ was primarily driven by higher volumes as a result of stronger end-customer demand within our Americas and EMEA segments, realization of price increases and incremental revenue from acquisitions, partially offset by an unfavorable impact from foreign currency translation. Refer to "Results by Segment" below for a discussion of 
+Net revenues
+ by segment.
+Gross Profit Margin
+Gross profit margin for the year ended December 31, 2024 increased 260 basis points to 35.7% compared to 33.1% for the same period of 2023 primarily due to gross productivity and price realization, partially offset by inflation.
+Selling and Administrative Expenses
+Selling and administrative expenses 
+for the year ended December 31, 2024 increased by 20.8%, or $617.2 million, compared with the same period of 2023. The increase in 
+Selling and administrative expenses
+ was primarily driven by an increase in human capital costs related to investing in our people, higher sales commissions, incremental selling and administrative expenses of acquired businesses and higher levels of business reinvestment. Additionally, non-cash adjustments to contingent consideration reduced 
+Selling and administrative expenses 
+for the years ended December 31, 2024 and December 31, 2023 by $25.0 million and $49.3 million, respectively. 
+Selling and administrative expenses
+ as a percentage of 
+Net revenues
+ for the year ended December 31, 2024 increased 140 basis points from 16.7% to 18.1%.
+Interest Expense
+Interest expense
+ for the year ended December 31, 2024 increased by 1.7% or $3.9 million compared with the same period of 2023 primarily due to the issuance of $500 million of 5.100% Senior Notes due in 2034. The increase in interest expense was partially offset by an increase in interest income from short-term investments purchased with proceeds from the debt issuance, which is reported in 
+Other (income)/expense, net
+. We had no commercial paper outstanding as of December 31, 2024.
+Provision for Income Taxes
+The 2024 effective tax rate was 19.4% which was lower than the U.S. Statutory rate of 21% due to excess tax benefits from employee share-based payments and earnings in non-U.S. jurisdictions, which, in aggregate have a lower effective tax rate, and includes the impact of the Organisation for Economic Co-operation and Development (OECD) tax reform initiative (Pillar Two), partially offset by U.S. state and local taxes. Revenues from non-U.S. jurisdictions accounted for approximately 26% of our total 2024 revenues, such that a material portion of our pretax income was earned and taxed outside the U.S. at rates up to 38%. When comparing the results of multiple reporting periods, among other factors, the mix of earnings between U.S. and foreign jurisdictions can cause variability in our overall effective tax rate.
+The 2023 effective tax rate was 19.4% which was lower than the U.S. Statutory rate of 21% due to a $30.3 million reduction in valuation allowances primarily related to deferred tax assets associated with both foreign tax credits and operations of international subsidiaries. Additional items that impact the effective tax rate are excess tax benefits from employee share-based payments and earnings in non-U.S. jurisdictions, which in aggregate have a lower effective tax rate offset by an impairment of an equity investment, and U.S. state and local taxes. Revenues from non-U.S. jurisdictions accounted for approximately 28% of our total 2023 revenues, such that a material portion of our pretax income was earned and taxed outside the U.S. at rates up to 38%. When comparing the results of multiple reporting periods, among other factors, the mix of earnings between U.S. and foreign jurisdictions can cause variability in our overall effective tax rate.
+32
+Table of Contents
+Year Ended December 31, 2024 Compared to the Year Ended December 31, 2023 - Segment Results
+We operate under three reportable segments designed to create deep customer focus and relevance in markets around the world. Intercompany sales between segments are immaterial.
+•
+Our Americas segment innovates for customers in North America and Latin America. The Americas segment encompasses commercial heating, cooling and ventilation systems, building controls and solutions, and energy services and solutions; residential heating and cooling; and transport refrigeration systems and solutions. 
+•
+Our EMEA segment innovates for customers in the Europe, Middle East and Africa region. The EMEA segment encompasses heating, cooling and ventilation systems, services and solutions for commercial buildings, and transport refrigeration systems and solutions.
+•
+Our Asia Pacific segment innovates for customers throughout the Asia Pacific region. The Asia Pacific segment encompasses heating, cooling and ventilation systems, services and solutions for commercial buildings and transport refrigeration systems and solutions.
+The following discussion compares our results for each of our three reportable segments for the year ended December 31, 2024 compared to the year ended December 31, 2023.
+Dollar amounts in millions
+2024
+2023
+% Change
+Americas
+Net revenues
+$
+15,903.2 
+$
+13,832.0 
+15.0 
+%
+Segment Adjusted EBITDA
+3,318.3 
+2,669.6 
+24.3 
+%
+Segment Adjusted EBITDA as a percentage of net revenues
+20.9 
+%
+19.3 
+%
+EMEA
+Net revenues
+$
+2,556.7 
+$
+2,401.2 
+6.5 
+%
+Segment Adjusted EBITDA
+505.1 
+464.7 
+8.7 
+%
+Segment Adjusted EBITDA as a percentage of net revenues
+19.8 
+%
+19.4 
+%
+Asia Pacific
+Net revenues
+$
+1,378.3 
+$
+1,444.4 
+(4.6)
+%
+Segment Adjusted EBITDA
+329.3 
+321.3 
+2.5 
+%
+Segment Adjusted EBITDA as a percentage of net revenues
+23.9 
+%
+22.2 
+%
+Total Net revenues
+$
+19,838.2 
+$
+17,677.6 
+12.2 
+%
+Total Segment Adjusted EBITDA
+4,152.7 
+3,455.6 
+20.2 
+%
+Total Segment Adjusted EBITDA as a percentage of net revenues
+20.9 
+%
+19.5 
+%
+33
+Table of Contents
+Americas
+Net revenues
+ for the year ended December 31, 2024 increased by 15.0% or $2,071.2 million, compared with the same period of 2023.
+The components of the period change were as follows:
+Volume
+11.6 
+%
+Pricing
+2.7 
+%
+Organic revenue 
+(1)
+14.3 
+%
+Acquisitions
+1.0 
+%
+Currency translation
+(0.3)
+%
+Total 
+15.0 
+%
+The increase in 
+organic revenue
+ was primarily driven by higher volumes led by strong demand within both our Commercial HVAC and Residential HVAC businesses and realization of price increases for both equipment and services within our Commercial HVAC business, partially offset by softer transport markets. 
+The increase in revenue from acquisitions primarily relates to Helmer Scientific Inc (Helmer) acquired in the second quarter of 2023, Nuvolo Technologies Corporation (Nuvolo) acquired in the fourth quarter of 2023 and a Commercial HVAC sales channel acquisition in the third quarter of 2024. 
+Segment Adjusted EBITDA margin for the year ended December 31, 2024 increased by 160 basis points to 20.9% compared to 19.3% for the same period of 2023 primarily due to price realization, gross productivity and higher volumes, partially offset by inflation and continued business reinvestment.
+EMEA
+Net revenues
+ for the year ended December 31, 2024 increased by 6.5% or $155.5 million, compared with the same period of 2023.
+The components of the period change were as follows:
+Volume
+4.9 
+%
+Pricing
+0.9 
+%
+Organic revenue 
+(1)
+5.8 
+%
+Acquisitions
+1.3 
+%
+Currency translation
+(0.6)
+%
+Total 
+6.5 
+%
+The increase in 
+organic revenue 
+was primarily driven by strong customer demand within our Commercial HVAC business and realization of price increases within both our Commercial HVAC and Transport Refrigeration businesses.
+The increase in revenue from acquisitions primarily relates to MTA acquired in the second quarter of 2023.
+Segment Adjusted EBITDA margin for the year ended December 31, 2024 increased by 40 basis points to 19.8% compared to 19.4% for the same period of 2023 primarily due to favorable productivity and price, partially offset by inflation, continued business reinvestment and loss from a devaluation of the Egyptian pound.
+Asia Pacific
+Net revenues
+ for the year ended December 31, 2024 decreased by 4.6% or $66.1 million, compared with the same period of 2023.
+The components of the period change were as follows:
+Volume
+(4.2)
+%
+Pricing
+1.2 
+%
+Organic revenue 
+(1)
+(3.0)
+%
+Currency translation
+(1.6)
+%
+Total
+(4.6)
+%
+34
+Table of Contents
+The decrease in 
+organic revenue 
+was primarily driven by lower volumes in China, partially offset by realization of price increases within our Commercial HVAC business and higher volumes in the rest of Asia. 
+Segment Adjusted EBITDA margin for the year ended December 31, 2024 increased by 170 basis points to 23.9% compared to 22.2% for the same period of 2023 primarily due to gross productivity and price realization, partially offset by lower volumes, inflation and continued business reinvestment. 
+Liquidity and Capital Resources
+We assess our liquidity in terms of our ability to generate cash to fund our operating, investing and financing activities. In doing so, we review and analyze our current cash on hand, the number of days our sales are outstanding, inventory turns, capital expenditure commitments and income tax payments. Our cash requirements primarily consist of the following:
+•
+Funding of working capital
+•
+Debt service requirements
+•
+Funding of capital expenditures
+•
+Dividend payments
+•
+Funding of acquisitions, joint ventures and equity investments
+•
+Share repurchases
+Our primary sources of liquidity include cash balances on hand, cash flows from operations, proceeds from debt offerings, commercial paper, and borrowing availability under our existing credit facilities. We earn a significant amount of our operating income in jurisdictions where it is deemed to be permanently reinvested. Our most prominent jurisdiction of operation is the U.S. We expect existing cash and cash equivalents available to the U.S. operations, the cash generated by our U.S. operations, our committed credit lines as well as our expected ability to access the capital and debt markets will be sufficient to fund our U.S. operating and capital needs for at least the next twelve months and thereafter for the foreseeable future. In addition, we expect existing non-U.S. cash and cash equivalents and the cash generated by our non-U.S. operations will be sufficient to fund our non-U.S. operating and capital needs for at least the next twelve months and thereafter for the foreseeable future. The maximum aggregate amount of unsecured commercial paper notes available to be issued, on a private placement basis, under the commercial paper program is $2.0 billion, of which we had no outstanding balance as of December 31, 2024.
+As of December 31, 2024, we had $1,590.1 million of cash and cash equivalents on hand, of which $1,423.0 million was held by non-U.S. subsidiaries. Cash and cash equivalents held by our non-U.S. subsidiaries are generally available for use in our U.S. operations via intercompany loans, equity infusions or via distributions from direct or indirectly owned non-U.S. subsidiaries for which we do not assert permanent reinvestment. In general, repatriation of cash to the U.S. can be completed with no significant incremental U.S. tax. However, to the extent that we repatriate funds from non-U.S. subsidiaries for which we assert permanent reinvestment to fund our U.S. operations, we would be required to accrue and pay applicable non-U.S. taxes. As of December 31, 2024, we currently have no plans to repatriate funds from subsidiaries for which we assert permanent reinvestment.
+Share repurchases are made in accordance with our balanced capital allocation strategy, subject to market conditions and regulatory requirements. In February 2022, our Board of Directors authorized the repurchase of up to $3.0 billion of our ordinary shares (2022 Authorization) and in December 2024, our Board of Directors authorized the repurchase of up to an additional $5.0 billion of our ordinary shares (2024 Authorization) upon the conclusion of the 2022 Authorization. During the year ended December 31, 2024, we repurchased and canceled approximately $1.3 billion of ordinary shares, leaving $1.2 billion remaining under the 2022 Authorization and $5.0 billion remaining under the 2024 Authorization. Additionally, during the period after December 31, 2024 through January 31, 2025, we repurchased approximately $100 million of our ordinary shares under the 2022 Authorization.
+We expect to pay a competitive and growing dividend. Since the launch of Trane Technologies in March 2020, we have increased our quarterly dividend per share by 58%, from $0.53 to $0.84 per ordinary share, or $2.12 to $3.36 per share annualized. All four 2024 quarterly dividends were paid during the year ended December 31, 2024. In February 2025, our Board of Directors declared an increase in our quarterly share dividend by 12%, from $0.84 to $0.94 per ordinary share, or $3.36 to $3.76 per share annualized starting in the first quarter of 2025. 
+We continue to actively manage and strengthen our business portfolio to meet the current and future needs of our customers. We achieve this partly through engaging in research and development and sustaining activities and partly through acquisitions. Sustaining activities include costs incurred to reduce production costs, improve existing products, create custom solutions for customers and provide support to our manufacturing facilities. Each year, we make investments in new product development and new technology innovation as they are key factors in achieving our strategic objectives as a leader in the climate sector. In addition, we make investments in technology and business for our operational sustainability programs. Our research and development and sustaining costs account for approximately 2% of annual
+ Net revenues. 
+35
+Table of Contents
+In pursuing our business strategy, we routinely conduct discussions, evaluate targets and enter into agreements regarding possible acquisitions, divestitures, joint ventures and equity investments. We have acquired several businesses, entered into joint ventures and invested in companies that complement existing products and services further enhancing our product portfolio. We deployed capital of approximately $197 million and $881 million to acquisitions and equity investments completed during the years ended December 31, 2024 and December 31, 2023, respectively. In 2024, we committed capital of approximately $470 million attributable to acquisitions and equity investments that were signed in 2024 and were closed in 2024 or in January 2025.
+We incur costs associated with restructuring initiatives intended to result in improved operating performance, profitability and working capital levels. Actions associated with these initiatives may include workforce reductions, improving manufacturing productivity, realignment of management structures and rationalizing certain assets. We believe that our existing cash balances, anticipated cash flow from operations, committed credit lines and access to the capital markets will be sufficient to fund share repurchases, dividends, research and development, sustaining activities,
+business portfolio changes and ongoing restructuring actions.
+Certain of our subsidiaries entered into Funding Agreements with Aldrich and Murray pursuant to which those subsidiaries are obligated, among other things, to pay the costs and expenses of Aldrich and Murray during the pendency of the Chapter 11 cases to the extent distributions from their respective subsidiaries are insufficient to do so and to provide an amount for the funding for a trust established pursuant to section 524(g) of the Bankruptcy Code, to the extent that the other assets of Aldrich and Murray are insufficient to provide the requisite trust funding. During the third quarter of 2021, Aldrich and Murray filed a motion with the Bankruptcy Court to create a $270.0 million qualified settlement fund (QSF). The funds held in the QSF would be available to provide funding for the Section 524(g) Trust upon effectiveness of the Plan. On January 27, 2022, the Bankruptcy Court granted the request to fund the QSF, which was funded on March 2, 2022.
+Liquidity
+The following table contains several key measures of our financial condition and liquidity at the periods ended December 31:
+In millions
+2024
+2023
+Cash and cash equivalents
+$
+1,590.1 
+$
+1,095.3 
+Short-term borrowings and current maturities of long-term debt
+452.2 
+801.9 
+Long-term debt
+4,318.1 
+3,977.9 
+Total debt
+4,770.3 
+4,779.8 
+Total Trane Technologies plc shareholders' equity
+7,457.4 
+6,995.2 
+Total equity
+7,486.9 
+7,017.0 
+Debt-to-total capital ratio
+38.9 
+%
+40.5 
+%
+Debt and Credit Facilities
+As of December 31, 2024, our short-term obligations primarily consist of current maturities of $157.2 million that mature in June 2025 and $295.0 million of fixed rate debentures that contain a put feature that the holders may exercise on each anniversary of the issuance date. If exercised, we are obligated to repay in whole or in part, at the holder's option, the outstanding principal amount (plus accrued and unpaid interest) of the debentures held by the holder. In accordance with notice requirements as specified in the offering documents, holders had the option to exercise puts up to $37.2 million for settlement in February 2025 but did not exercise such option. In accordance with notice requirements as specified in the offering documents, holders will have the option to exercise puts up to $257.8 million for settlement in November 2025. We also maintain a commercial paper program which is used for general corporate purposes. Under the program, the maximum aggregate amount of unsecured commercial paper notes available to be issued, on a private placement basis, is $2.0 billion as of December 31, 2024. We had no commercial paper outstanding at December 31, 2024 and December 31, 2023. See Note 7, "Debt and Credit Facilities," to the Consolidated Financial Statements for additional information regarding the terms of our short-term obligations.
+Our long-term obligations primarily consist of long-term debt with final maturity dates ranging between 2026 and 2049. In addition, we maintain two $1.0 billion senior unsecured revolving credit facilities, one of which matures in June 2026 and the other which matures in April 2027. The facilities provide support for our commercial paper program and can be used for working capital and other general corporate purposes. Total commitments of $2.0 billion were unused at December 31, 2024 and December 31, 2023. See Note 7, "Debt and Credit Facilities," to the Consolidated Financial Statements and further below in 
+Supplemental Guarantor Financial Information
+ for additional information regarding the terms of our long-term obligations and their related guarantees.
+36
+Table of Contents
+Cash Flows
+The following table reflects the major categories of cash flows for the years ended December 31, respectively. For additional details, please see the Consolidated Statements of Cash Flows in the Consolidated Financial Statements.
+In millions
+2024
+2023
+Net cash provided by continuing operating activities
+$
+3,177.7 
+$
+2,426.8 
+Net cash used in continuing investing activities
+(562.9)
+(1,172.2)
+Net cash used in continuing financing activities
+(2,020.6)
+(1,350.3)
+Operating Activities
+Net cash provided by continuing operating activities for the year ended December 31, 2024 was $3,177.7 million, of which net income provided $2,938.8 million after adjusting for non-cash transactions. Net cash provided by continuing operating activities for the year ended December 31, 2023 was $2,426.8 million, of which net income provided $2,499.6 million after adjusting for non-cash transactions. The year-over-year increase in net cash from continuing operating activities was primarily due to higher net earnings and an improved cash conversion cycle. 
+Investing Activities
+Cash flows from investing activities represents inflows and outflows regarding the purchase and sale of assets. Primary activities associated with these items include capital expenditures, proceeds from the sale of property, plant and equipment, acquisitions, funding of joint ventures and other equity investments and purchases and sales of short-term investments. During the year ended December 31, 2024, net cash used in investing activities from continuing operations was $562.9 million. The primary drivers of the usage were attributable to capital expenditures of $370.6 million and acquisitions of businesses of $180.3 million, net of cash acquired. During the year ended December 31, 2023, net cash used in investing activities from continuing operations was $1,172.2 million. The primary drivers of the usage was attributable to acquisition of businesses, which totaled $862.8 million, net of cash acquired, and capital expenditures of $300.7 million.
+Financing Activities
+Cash flows from financing activities represent inflows and outflows that account for external activities affecting equity and debt. Primary activities associated with these actions include paying dividends to shareholders, repurchasing our own shares, net proceeds from debt issuances and proceeds from shares issued in connection with incentive plans. During the year ended December 31, 2024, net cash used in financing activities from continuing operations was $2,020.6 million. The primary drivers of the outflow related to the repurchase of $1,280.8 million in ordinary shares and dividends paid to ordinary shareholders of $757.5 million. In addition, we received $498.5 million in proceeds from the issuance of 5.100% Senior Notes due 2034, which was offset by the redemption of $500.0 million of 3.550% Senior Notes that matured in November 2024. During the year ended December 31, 2023, net cash used in financing activities from continuing operations was $1,350.3 million. The primary drivers of the outflow related to dividends paid to ordinary shareholders of $683.7 million and the repurchase of $669.3 million in ordinary shares. In addition, we received $699.1 million in proceeds from the issuance of 5.250% Senior Notes due March 2033 which was offset by the redemption of $700.0 million of Senior Notes due June 2023. 
+37
+Table of Contents
+Free Cash Flow
+Free cash flow is a non-GAAP measure and defined as 
+Net cash provided by (used in) continuing operating activities 
+adjusted for
+capital expenditures, cash payments for restructuring, legacy legal liability, transformation costs and merger and acquisition (M&A) related costs less insurance settlements on property claims and an adjustment for our special three-year Outperformance Incentive Program. This measure is useful to management and investors because it is consistent with management's assessment of our operating cash flow performance. The most comparable GAAP measure to free cash flow is
+ Net cash provided by (used in) continuing operating activities
+. Free cash flow may not be comparable to similarly-titled measures used by other companies and should not be considered a substitute for 
+Net cash provided by (used in) continuing operating activities
+ in accordance with GAAP.
+A reconciliation of 
+Net cash provided by (used in) continuing operating activities
+ to free cash flow the years ended December 31 is as follows:
+In millions
+2024
+2023
+Net cash provided by (used in) continuing operating activities
+$
+3,177.7 
+$
+2,426.8 
+Capital expenditures
+(370.6)
+(300.7)
+Cash payments for restructuring
+8.6 
+12.3 
+Legacy legal liability
+2.7 
+— 
+Transformation costs paid
+— 
+3.9 
+M&A transaction costs
+1.7 
+18.9 
+Insurance settlements on property claims
+— 
+(10.0)
+Adjustment for Outperformance Incentive Program 
+(2)
+(31.1)
+— 
+Free cash flow 
+(1)
+$
+2,789.0 
+$
+2,151.2 
+(1) 
+Represents a non-GAAP measure. 
+(2) 
+The Company implemented a special three-year Outperformance Incentive Program during the year ended December 31, 2024 that provides additional incentive-based cash compensation to eligible participants based primarily on the achievement of outsized revenue performance beyond what is achievable under the Company’s existing short-term incentive programs. Performance is measured over three annual periods representing the years ended December 31, 2024, 2025 and 2026. Cash payments related to performance achieved will be made in the quarter ended March 31, 2027. This adjustment represents amounts earned in the respective performance period that will be paid during the quarter ended March 31, 2027. 
+Pension Plans
+Our investment objective in managing defined benefit plan assets is to ensure that all present and future benefit obligations are met as they come due. We seek to achieve this goal while trying to mitigate volatility in plan funded status, contribution and expense by better matching the characteristics of the plan assets to that of the plan liabilities. We use a dynamic approach to asset allocation to increase fixed income assets as the plan's funded status improves. We monitor plan funded status and asset allocation regularly in addition to investment manager performance. In addition, we monitor the impact of market conditions on our defined benefit plans on a regular basis. None of our defined benefit pension plans have experienced a significant impact on their liquidity due to market volatility. See Note 11, "Pension and Postretirement Benefits Other Than Pensions," to the Consolidated Financial Statements for additional information regarding pensions.
+Capital Resources
+Based on historical performance and current expectations, we believe our cash and cash equivalents balance, the cash generated from our operations, our committed credit lines and our expected ability to access capital markets, including our commercial paper program, will satisfy our working capital needs, capital expenditures, dividends, share repurchases, upcoming debt maturities, and other liquidity requirements associated with our operations for the foreseeable future.
+Capital expenditures were $370.6 million, $300.7 million and $291.8 million for the years ended December 31, 2024, 2023 and 2022, respectively. Our investments continue to improve manufacturing productivity, expand capacity, reduce costs, provide environmental enhancements, upgrade information technology infrastructure and security and advanced technologies for existing facilities. The capital expenditure program for 2025 is estimated to be approximately 2.0% of revenues, including amounts approved in prior periods. Many of these projects are subject to review and cancellation at our option without incurring substantial charges.
+For financial market risk impacting the Company, see Part II, Item 7A, "Quantitative and Qualitative Disclosure About Market Risk."
+38
+Table of Contents
+Capitalization
+Financing rates and conditions associated with future borrowings under our commercial paper program or term debt offerings will be affected by general financing conditions and our credit ratings. On April 10, 2024, Moody's announced that it upgraded our long-term credit rating from Baa1 to A3 and put the Company on positive outlook. On October 31, 2024, Standard and Poor's announced that it revised our long-term credit rating from BBB+ stable to BBB+ positive. As of December 31, 2024, our credit ratings were as follows:
+Short-term
+Long-term
+Moody's
+P-2
+A3
+Standard and Poor's
+A-2
+BBB+
+The credit ratings set forth above are not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal by the assigning rating organization. Each rating should be evaluated independently of any other rating.
+Our public debt does not contain financial covenants and our revolving credit lines have a debt-to-total capital covenant of 65%. As of December 31, 2024, our debt-to-total capital ratio was significantly beneath this limit.
+Contractual Obligations
+Our contractual cash obligations include required payments of long-term debt principal and interest, purchase obligations and expected obligations under our pension and postretirement benefit plans. In addition, we have required payments of operating leases, income taxes and expected obligations under the Funding agreement, environmental and product liability matters. For additional information regarding leases, income taxes, including unrecognized tax benefits, and contingent liabilities, see Note 10 "Leases," Note 16 "Income Taxes" and Note 20 "Commitments and Contingencies," respectively, to the Consolidated Financial Statements. Our material cash requirements include the following contractual and other obligations.
+Debt
+At December 31, 2024, we had outstanding aggregate long-term debt principal payments of $4,802.2 million, with $452.2 million payable within 12 months. The amount payable within 12 months includes $295.0 million of debt redeemable at the option of the holder. The scheduled maturities of these bonds range between 2027 and 2028. Future interest payments on long-term debt total $2,348.6 million, with $220.5 million payable within 12 months. See Note 7, "Debt and Credit Facilities," to the Consolidated Financial Statements for additional information regarding debt.
+Purchase Obligations
+Purchase obligations include commitments under legally enforceable contracts or purchase orders. At December 31, 2024, we had purchase obligations of $1,161.2 million, which are primarily payable within 12 months.
+Pensions
+It is our objective to contribute to the pension plans to ensure adequate funds are available in the plans to make benefit payments to plan participants and beneficiaries when required. We currently expect that we will contribute approximately $30 million to our enterprise plans worldwide in 2025. The timing and amounts of future contributions are dependent upon the funding status of the plans, which is expected to vary as a result of changes in interest rates, returns on underlying assets, and other factors. See Note 11, "Pensions and Postretirement Benefits Other Than Pensions," to the Consolidated Financial Statements for additional information regarding pensions.
+Postretirement Benefits Other than Pensions
+We fund postretirement benefit costs principally on a pay-as-you-go basis as medical costs are incurred by covered retiree populations. Benefit payments, which are net of expected plan participant contributions and Medicare Part D subsidy, are expected to be approximately $29 million in 2025. See Note 11, "Pensions and Postretirement Benefits Other Than Pensions," to the Consolidated Financial Statements for additional information regarding postretirement benefits other than pensions.
+39
+Table of Contents
+Supplemental Guarantor Financial Information
+Trane Technologies plc (Plc or Parent Company) and certain of its 100% directly or indirectly owned subsidiaries provide guarantees of public debt issued by other 100% directly or indirectly owned subsidiaries of Plc. The following table shows our guarantor relationships as of December 31, 2024:
+Parent, issuer or guarantors
+Notes issued
+Notes guaranteed
+Trane Technologies plc (Plc)
+None
+All registered notes and debentures
+Trane Technologies Irish Holdings Unlimited Company (TT Holdings)
+None
+All notes issued by TTFL and TTC HoldCo
+Trane Technologies Global Holding II Company (TT Global II)
+None
+All notes issued by TTFL and TTC HoldCo
+Trane Technologies Lux International Holding Company S.à.r.l. (TT International)
+None
+All notes issued by TTFL and TTC HoldCo
+Trane Technologies Americas Holding Corporation (TT Americas)
+None
+All notes issued by TTFL and TTC HoldCo
+Trane Technologies Financing Limited
+(TTFL)
+3.500% Senior Notes due 2026
+3.800% Senior Notes due 2029
+5.250% Senior Notes due 2033
+5.100% Senior Notes due 2034
+4.650% Senior Notes due 2044
+4.500% Senior Notes due 2049
+All notes and debentures issued by TTC HoldCo and TTC
+Trane Technologies HoldCo Inc. (TTC HoldCo)
+3.750% Senior Notes due 2028
+5.750% Senior Notes due 2043
+4.300% Senior Notes due 2048
+All notes issued by TTFL
+Trane Technologies Company LLC (TTC)
+7.200% Debentures due 2025
+6.480% Debentures due 2025
+Puttable debentures due 2027-2028
+All notes issued by TTFL and TTC HoldCo
+Each subsidiary debt issuer and guarantor is owned 100% directly or indirectly by the Parent Company. Each guarantee is full and unconditional, and provided on a joint and several basis. There are no significant restrictions of the Parent Company, or any guarantor, to obtain funds from its subsidiaries, such as provisions in debt agreements that prohibit dividend payments, loans or advances to the parent by a subsidiary. The following tables present summarized financial information for the Parent Company and subsidiary debt issuers and guarantors on a combined basis (together, "obligor group") after elimination of intercompany transactions and balances based on the Company's legal entity ownerships and guarantees outstanding at December 31, 2024. Our obligor groups as of December 31, 2024 were as follows: Obligor group 1 consists of Plc, TT Holdings, TT Global II, TT International, TT Americas, TTFL, TTC HoldCo and TTC; Obligor group 2 consists of Plc, TTFL and TTC.
+40
+Table of Contents
+Summarized Statements of Earnings
+Year ended December 31, 2024
+In millions
+Obligor group 1
+Obligor group 2
+Net revenues
+$
+— 
+$
+— 
+Gross profit (loss)
+— 
+— 
+Intercompany interest and fees
+1,232.3 
+2,956.9 
+Earnings (loss) from continuing operations
+844.1 
+2,071.4 
+Discontinued operations, net of tax
+(20.9)
+(23.7)
+Net earnings (loss)
+823.2 
+2,047.7 
+Less: Net earnings attributable to noncontrolling interests
+— 
+— 
+Net earnings (loss) attributable to Trane Technologies plc
+$
+823.2 
+$
+2,047.7 
+Summarized Balance Sheet
+December 31, 2024
+In millions
+Obligor group 1
+Obligor group 2
+ASSETS
+Intercompany receivables
+$
+265.6 
+$
+4,363.2 
+Current assets
+413.8 
+4,469.0 
+Intercompany notes receivable
+500.0 
+4,900.0 
+Noncurrent assets
+1,320.0 
+5,603.5 
+LIABILITIES
+Intercompany payables
+5,290.2 
+2,530.3 
+Current liabilities
+6,305.0 
+3,490.0 
+Intercompany notes payable
+4,000.0 
+4,000.0 
+Noncurrent liabilities
+9,014.6 
+7,650.2 
+Critical Accounting Estimates
+Management's Discussion and Analysis of Financial Condition and Results of Operations are based upon our Consolidated Financial Statements, which have been prepared in accordance with U.S. GAAP. The preparation of financial statements in conformity with those accounting principles requires management to use judgment in making estimates and assumptions based on the relevant information available at the end of each period. These estimates and assumptions have a significant effect on reported amounts of assets and liabilities, revenue and expenses as well as the disclosure of contingent assets and liabilities because they result primarily from the need to make estimates and assumptions on matters that are inherently uncertain. Actual results may differ from these estimates. If updated information or actual amounts are different from previous estimates, the revisions are included in our results for the period in which they become known.
+The following is a summary of certain accounting estimates and assumptions made by management that we consider critical.
+•
+Goodwill and indefinite-lived intangible assets – We have significant goodwill and indefinite-lived intangible assets on our balance sheet related to acquisitions. These assets are tested and reviewed annually during the fourth quarter for impairment or when there is a significant change in events or circumstances that indicate that the fair value of an asset is more likely than not less than the carrying amount of the asset. In addition, an interim impairment test is completed upon a triggering event or when there is a reorganization of reporting structure or disposal of all or a portion of a reporting unit.
+The determination of estimated fair value requires us to make assumptions about estimated cash flows, including profit margins, long-term forecasts, discount rates and terminal growth rates. We developed these assumptions based on the market and geographic risks unique to each reporting unit. The estimates of fair value are based on the best information available as of the date of the assessment, which primarily incorporates management assumptions about expected future cash flows.
+Annual Goodwill Impairment Test
+Impairment of goodwill is tested at the reporting unit level. The test compares the carrying amount of the reporting unit to its estimated fair value. If the estimated fair value of a reporting unit exceeds its carrying amount, goodwill of the 
+41
+Table of Contents
+reporting unit is not impaired. To the extent that the carrying value of the reporting unit exceeds its estimated fair value, an impairment loss would be recognized for the amount by which the reporting unit's carrying amount exceeds its fair value, not to exceed the carrying amount of goodwill in that reporting unit.
+As quoted market prices are not available for our reporting units, the calculation of their estimated fair value is determined using three valuation techniques: a discounted cash flow model (an income approach), a market-adjusted multiple of earnings or revenues (a market approach), and a similar transactions method (also a market approach). The discounted cash flow approach relies on our estimates of future cash flows and explicitly addresses factors such as timing, revenue growth rates, and margins, with due consideration given to forecasting risk. The market-adjusted multiple of earnings or revenues approach reflects the market's expectations for future growth and risk, with adjustments to account for differences between the guideline publicly traded companies and the subject reporting units. The similar transactions method considers prices paid in transactions that have recently occurred in our industry or in related industries. These valuation techniques are weighted 50%, 40% and 10%, respectively.
+Under the income approach, we assumed a forecasted cash flow period of five to ten years with discount rates ranging from 8.5% to 15.5% and a terminal growth rate of 3.5% to 4.0%. Under the guideline public company method, we used multiples of earnings before interest, taxes, depreciation and amortization (EBITDA) or revenues based on the market information of comparable companies. Additionally, we compared the estimated aggregate fair value of our reporting units to our overall market capitalization. The excess of the estimated fair value over carrying value (expressed as a percentage of carrying value) for most reporting units exceeded 400%. The estimated fair value of one reporting unit formed upon the acquisition of Nuvolo in November 2023 was approximately equal to its carrying value. As of December 31, 2024, this reporting unit had $313.0 million of goodwill. A significant increase in the discount rate, decrease in the long-term growth rate, or substantial reductions in our end markets and volume assumptions could have a negative impact on the estimated fair value of this reporting unit.
+Other Indefinite-lived intangible assets
+Other intangible assets with indefinite useful lives are tested for impairment on an annual basis. The fair value of intangible assets with indefinite useful lives is determined on a relief from royalty methodology (income approach) which is based on the implied royalty paid, at an appropriate discount rate, to license the use of an asset rather than owning the asset. The present value of the after-tax cost savings (i.e., royalty relief) indicates the estimated fair value of the asset. Any excess of the carrying value over the estimated fair value would be recognized as an impairment loss equal to that excess.
+In testing our other indefinite-lived intangible assets for impairment, we forecasted revenues for a period of five years with discount rates ranging from 8.5% to 14.0%, terminal growth rates of 3.5%, and royalty rates ranging from 1.0% to 4.5%. For significant indefinite-lived intangible assets, the excess of the estimated fair value over carrying value (expressed as a percentage of carrying value) exceeded 400%. A significant increase in the discount rate, decrease in the long-term growth rate, decrease in the royalty rate or substantial reductions in our end markets and volume assumptions could have a negative impact on the estimated fair values of any of our tradenames.
+•
+Business combinations - Acquisitions that meet the definition of a business combination are recorded using the acquisition method of accounting. We include the operating results of acquired entities from their respective dates of acquisition. We recognize and measure the identifiable assets acquired, liabilities assumed, including contingent consideration relating to potential earnout provisions and any non-controlling interest as of the acquisition date fair value. The valuation of intangible assets is determined using an income approach methodology. We use assumptions to value the intangible assets including projected cash flows, including revenue growth rates and margins, customer attrition rates, royalty rates, tax rates and discount rates. The excess, if any, of total consideration transferred in a business combination over the fair value of identifiable assets acquired, liabilities assumed, and any non-controlling interest is recognized as goodwill. Costs incurred as a result of a business combination other than costs related to the issuance of debt or equity securities are recorded in the period the costs are incurred.
+Contingent consideration
+We assess any contingent consideration included in the consideration paid of a business combination. The value recorded is based on estimates of future financial projections on revenue under various potential scenarios, in which a Monte Carlo simulation model runs many iterations based on comparable companies' revenue growth rates and their implied revenue volatilities. These cash flow projections are discounted with a risk adjusted rate. Each quarter until such contingent amounts are earned, the fair value of the liability is evaluated at each reporting period and adjusted as a component of operating expenses based on changes to the underlying assumptions. The estimates used to determine the fair value of the contingent consideration liability are subject to significant judgment, specifically revenue growth rates, implied revenue volatilities and discount rates.
+42
+Table of Contents
+•
+Revenue recognition – Revenue is recognized when control of a good or service promised in a contract (i.e., performance obligation) is transferred to a customer. Control is obtained when a customer has the ability to direct the use of and obtain substantially all of the remaining benefits from that good or service. A majority of our revenues are recognized at a point-in-time as control is transferred at a distinct point in time per the terms of a contract. However, a portion of our revenues are recognized over time as the customer simultaneously receives control as we perform work under a contract. For these arrangements, the cost-to-cost input method is used as it best depicts the transfer of control to the customer that occurs as we incur costs.
+The transaction price allocated to performance obligations reflects our expectations about the consideration we will be entitled to receive from a customer. To determine the transaction price, variable and non-cash consideration are assessed as well as whether a significant financing component exists. We include variable consideration in the estimated transaction price when it is probable that significant reversal of revenue recognized would not occur when the uncertainty associated with variable consideration is subsequently resolved. We consider historical data in determining our best estimates of variable consideration, and the related accruals are recorded using the expected value method.
+We enter into sales arrangements that contain multiple goods and services. For these arrangements, each good or service is evaluated to determine whether it represents a distinct performance obligation and whether the sales price for each obligation is representative of standalone selling price. If available, we utilize observable prices for goods or services sold separately to similar customers in similar circumstances to evaluate relative standalone selling price. List prices are used if they are determined to be representative of standalone selling prices. Where necessary, we ensure that the total transaction price is then allocated to the distinct performance obligations based on the determination of their relative standalone selling price at the inception of the arrangement.
+We recognize revenue for delivered goods or services when the delivered good or service is distinct, control of the good or service has transferred to the customer, and only customary refund or return rights related to the goods or services exist. For extended warranties and long-term service agreements, revenue for these distinct performance obligations are recognized over time on a straight-line basis over the respective contract term.
+•
+Income taxes – Deferred tax assets and liabilities are determined based on temporary differences between financial reporting and tax bases of assets and liabilities, applying enacted tax rates expected to be in effect for the year in which the differences are expected to reverse. We recognize future tax benefits, such as net operating losses and tax credits, to the extent that realizing these benefits is considered in our judgment to be more likely than not. We regularly review the recoverability of our deferred tax assets considering our historic profitability, projected future taxable income, timing of the reversals of existing temporary differences and the feasibility of our tax planning strategies. Where appropriate, we record a valuation allowance with respect to a future tax benefit.
+The provision for income taxes involves a significant amount of management judgment regarding interpretation of relevant facts and laws in the jurisdictions in which we operate. Future changes in applicable laws, projected levels of taxable income, and tax planning could change the effective tax rate and tax balances recorded by us. In addition, tax authorities periodically review income tax returns filed by us and can raise issues regarding our filing positions, timing and amount of income or deductions, and the allocation of income among the jurisdictions in which we operate. A significant period of time may elapse between the filing of an income tax return and the ultimate resolution of an issue raised by a revenue authority with respect to that return. We believe that we have adequately provided for any reasonably foreseeable resolution of these matters. We will adjust our estimate if significant events so dictate. To the extent that the ultimate results differ from our original or adjusted estimates, the effect will be recorded in the provision for income taxes in the period that the matter is finally resolved.
+•
+Employee benefit plans – We provide a range of benefits to eligible employees and retirees, including pensions, postretirement and postemployment benefits. Determining the cost associated with such benefits is dependent on various actuarial assumptions including discount rates, expected return on plan assets, compensation increases, mortality, turnover rates and healthcare cost trend rates. Actuarial valuations are performed to determine expense in accordance with GAAP. Actual results may differ from the actuarial assumptions and are generally accumulated and amortized into earnings over future periods. We review our actuarial assumptions at each measurement date and make modifications to the assumptions based on current rates and trends, if appropriate. The discount rate, the rate of compensation increase and the expected long-term rates of return on plan assets are determined as of each measurement date. We believe that the assumptions utilized in recording our obligations under our plans are reasonable based on input from our actuaries, outside investment advisors and information as to assumptions used by plan sponsors.
+43
+Table of Contents
+Changes in any of the assumptions can have an impact on the net periodic pension cost or postretirement benefit cost. Estimated sensitivities to the expected 2025 net periodic pension cost of a 0.25% rate decline in the two basic assumptions are as follows: the decline in the discount rate would increase expense by $0.2 million and the decline in the estimated return on assets would increase expense by $4.8 million. A 0.25% rate decrease in the discount rate for postretirement benefits would increase expected 2025 net periodic postretirement benefit cost by $0.3 million.
+Recent Accounting Pronouncements
+See Note 2, "Summary of Significant Accounting Policies" to the Consolidated Financial Statements for a discussion of recent accounting pronouncements.

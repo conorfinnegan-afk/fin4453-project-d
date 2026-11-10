@@ -1,0 +1,937 @@
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion and analysis should be read in conjunction with the Company’s Consolidated Financial Statements and related notes in this annual report. This discussion may contain forward-looking statements based upon current expectations that involve risks and uncertainties. The Company’s actual results and the timing of selected events could differ materially from those anticipated in these forward-looking statements as a result of several factors, including those set forth under 
+Item 1A
+, “Risk Factors” and under the heading “Cautionary Statement Under the Private Securities Litigation Reform Act” discussed elsewhere in this annual report.
+This discussion includes certain non-GAAP financial measures that have been defined and reconciled to their most directly comparable financial measure prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”) under the headings “Non-GAAP Disclosures” and “Free Cash Flow.” This discussion also includes Operating working capital which has been defined under the heading “Liquidity and Capital Resources.” The non-GAAP financial measures disclosed by the Company should not be considered a substitute for, or superior to, financial measures prepared in accordance with U.S. GAAP. The financial results prepared in accordance with U.S. GAAP and the reconciliations from these results should be carefully evaluated.
+Overview
+IDEX is an applied solutions provider specializing in the manufacturing of fluid and metering technologies, health and science technologies and fire, safety and other diversified products built to customers’ specifications. IDEX’s products are sold in niche markets across a wide range of industries throughout the world. Accordingly, IDEX’s businesses are affected by levels of industrial activity and economic conditions in the U.S. and in other countries where it does business, as well as by the relationship of the U.S. dollar to other currencies. Levels of capacity utilization and capital spending in certain markets and overall industrial activity are important factors that influence the demand for IDEX’s products. 
+2024 Highlights
+(All comparisons are against 2023 unless otherwise noted)
+•
+Net sales of $
+3,268.8
+ million, flat overall and down 2% organically*
+•
+Diluted earnings per common share (“EPS”) attributable to IDEX of $6.64, down 15%
+•
+Adjusted diluted EPS attributable to IDEX* of $7.89, down 4%
+•
+Operating cash flow of $668.1 million, down 7%, was 132% of net income, up from 120%
+•
+Free cash flow* of $603.0 million, down 4%, was 101% of adjusted net income*, flat with prior year
+•
+Completed acquisition of Mott Corporation and its subsidiaries (“Mott”) on September 5, 2024 for cash consideration of $
+986.2
+ million, net of cash acquired, using a combination of $
+211.9
+ million of cash on hand and $774.3 million of debt
+•
+Completed a public offering of $500 million principal amount of 4.950% Senior Notes, due September 2029, as part of the funding for the acquisition of Mott
+*These are non-GAAP measures. See the definitions of these non-GAAP measures and reconciliations to their most directly comparable U.S. GAAP financial measures under the headings “Non-GAAP Disclosures” and “Free Cash Flow.”
+During 2024, the Company delivered solid execution amid uncertain macro conditions and continued to deploy capital focused on growth initiatives, including completing the acquisition of Mott, which is the Company’s largest acquisition to date. Net sales reflects the benefit of acquisitions, net of divestitures, and growth in our FSDP segment, which together mostly offset the impact of lower volumes from continued market softness in our HST segment; FMT segment net sales were flat organically. Despite market choppiness, our businesses achieved strong productivity through both net price capture and operational excellence and delivered reported and adjusted diluted earnings per share of $6.64 and $7.89, respectively. We delivered operating cash flow of $668.1 million, which was 132% of net income, and achieved free cash flow conversion of 101% of adjusted net income. 
+2025 Outlook
+Moving into 2025, the majority of our end markets are stable. Our businesses are well-positioned to capitalize on secular growth trends that we expect will emerge following this current period of near-term uncertainty surrounding U.S. trade and economic policy and overall high levels of geopolitical tension.
+26
+Within HST, we expect growth driven by demand for new disease therapies and nutrition, global communication satellite network expansion, and energy consumption tied to datacenters. We expect modest growth from key end markets in life science fluidics and optical filters while semiconductor will remain delayed until the second half of the year. Separately, our FMT segment expects its largest area of growth to come from its water businesses while core industrial markets are expected to remain stable. Contributions from these spaces are expected to be tempered by pressured demand in energy and agriculture markets, which are experiencing the most exposure to market cyclicality. Finally, we expect FSDP segment growth will continue to be driven by our fire and safety businesses as North America original equipment manufacturers continue to recover and our integrated systems offerings have increased our content per firetruck. 
+Results of Operations
+The following is a discussion and analysis of the Company’s results of operations for the year ended December 31, 2024 compared with the year ended December 31, 2023. For the discussion related to the consolidated results of operations for the year ended December 31, 2023 compared with the year ended December 31, 2022, refer to the Company’s Annual Report on Form 10-K for the year ended December 31, 2023, which was filed with the SEC on February 22, 2024. 
+Year Ended December 31, 
+Change
+(In millions, except per share amounts)
+2024
+2023
+$
+% / bps
+Domestic sales
+$
+1,618.1
+$
+1,638.7
+$
+(20.6)
+(1 
+%)
+International sales
+1,650.7
+1,635.2
+15.5 
+1 
+%
+Net sales
+3,268.8
+3,273.9
+(5.1)
+—
+%
+Cost of sales
+1,823.6
+1,827.0
+(3.4)
+— 
+%
+Gross profit
+1,445.2
+1,446.9
+(1.7)
+—
+%
+Gross margin
+44.2
+%
+44.2
+%
+n/a
+0 bps
+Selling, general and administrative expenses
+758.7
+703.5
+55.2 
+8 
+%
+Restructuring expenses and asset impairments
+9.3
+10.9
+(1.6)
+(15 
+%)
+Operating income
+677.2
+732.5
+(55.3)
+(8
+%)
+Gain on sale of businesses - net
+(4.0)
+(84.7)
+80.7 
+(95 
+%)
+Other (income) expense – net
+(2.6)
+5.2
+(7.8)
+(150 
+%)
+Interest expense - net
+44.5
+51.7
+(7.2)
+(14 
+%)
+Income before income taxes
+639.3
+760.3
+(121.0)
+(16 
+%)
+Provision for income taxes
+134.7
+164.7
+(30.0)
+(18 
+%)
+Effective tax rate
+21.1 
+%
+21.7 
+%
+n/a
+(60) bps
+Net income attributable to IDEX
+$
+505.0
+$
+596.1
+$
+(91.1)
+(15
+%)
+Diluted earnings per common share attributable to IDEX
+$
+6.64
+$
+7.85
+$
+(1.21)
+(15
+%)
+Net Sales
+Net sales were relatively flat compared to the prior year, reflecting a 2% increase in acquisitions, net of divestitures, offset by a 2% decrease in organic net sales. The decrease in organic net sales was driven by lower volumes as a result of unfavorable market conditions, primarily in the Health & Science Technologies segment, partially offset by price capture across all segments. 
+Gross Profit and Gross Margin
+Gross profit and Gross margin were positively impacted by strong price/cost and were negatively impacted by higher employee-related costs and unfavorable mix. Additionally, Gross profit was positively impacted by the net accretive impact of acquisitions and divestitures, which was more than offset by lower volumes.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses increased primarily due to the $31.1 million impact from acquisitions, including amortization, net of divestitures, as well as higher employee-related costs and increased discretionary spending and transaction expenses.
+27
+Restructuring Expenses and Asset Impairments
+Restructuring
+ expenses and asset impairments
+ decreased primarily due to lower severance costs. Severance costs during both periods were incurred in conjunction with cost mitigation efforts as a result of market conditions.
+Gain on Sale of Businesses - Net 
+In 2024, the Company completed the sale of Alfa Valvole, Srl (“Alfa Valvole”) for proceeds of $45.1 million, net of cash remitted, resulting in a gain on the sale of $4.0 million, net of a release of cumulative foreign currency translation losses of $5.5 million. In 2023, the Company completed the sale of Micropump, Inc. (“Micropump”) for proceeds of $110.3 million, net of cash remitted, which resulted in a pre-tax gain of $93.8 million, and the sale of Novotema, SpA (“Novotema”) for proceeds of $8.3 million, net of cash remitted, which resulted in a loss of $9.1 million. For additional information, refer to 
+Note 2
+, “Acquisitions and Divestitures,” in the Notes to Consolidated Financial Statements.
+Other (Income) Expense – net
+Other (income) expense – net was $2.6 million of income in 2024 compared to $5.2 million of expense in 2023. The change was primarily due to the absence of a $7.7 million credit loss reserve on an investment with a collaborative partner (see 
+Note 3
+, “Collaborative Investments,” in the Notes to Consolidated Financial Statements for further detail) in 2023 that did not reoccur in 2024. 
+Interest Expense - Net
+Interest expense - net decreased primarily due to higher interest earned on cash balances in 2024, partially offset by incremental interest expense in 2024, including the impact of higher debt outstanding to finance the acquisition of Mott.
+Income Taxes
+The 2024 effective tax rate was 21.1% as compared with the 2023 effective tax rate of 21.7%. One-time discrete tax benefits lowered the effective tax rate in 2024 and 2023. For additional information, refer to 
+Note 1
+2
+, “Income Taxes,” in the Notes to Consolidated Financial Statements.
+In October 2021, members of the Organization for Economic Co-operation and Development (“OECD”) and G20 Inclusive Framework on Base Erosion and Profit Shifting agreed to a two-pillar solution to address the tax challenges associated with the digitalization of the economy. In December 2021, the OECD released the Pillar Two Model Rules (“Pillar Two”), which define the global minimum tax and call for the taxation of large corporations at a minimum rate of 15%. While it is uncertain whether the United States will enact legislation to adopt Pillar Two, certain countries in which we operate have enacted legislation, and other countries are in the process of introducing draft legislation to implement the minimum tax directive. Many aspects of Pillar Two became effective January 1, 2025; however, nearly all of the jurisdictions in which IDEX operates have an effective tax rate above the 15% threshold. The Company does not expect a material impact from the Pillar Two income tax rules. We are continuing to monitor legislative developments and evaluate financial results for changes in the expected impact.
+Results of Reportable Business Segments
+The Company has three reportable segments: FMT, HST and FSDP. For a detailed description of the operations within each segment, please refer to Part I, 
+Item 1
+, 
+“
+Business
+” 
+of this Annual Report on Form 10-K. 
+Management’s measurements of segment performance are Net sales, adjusted earnings before interest, income taxes, depreciation and amortization (“Adjusted EBITDA”) and Adjusted EBITDA margin. 
+28
+Fluid & Metering Technologies Segment
+Year Ended December 31, 
+Components of Change
+(In millions)
+2024
+2023
+Change
+Organic
+Acq/Div
+(1)
+Foreign Currency
+Total
+Domestic sales
+$
+693.1
+$
+695.7
+— 
+%
+International sales
+540.1
+551.4
+(2 
+%)
+Net sales
+$
+1,233.2
+$
+1,247.1
+(1 
+%)
+— 
+%
+(1 
+%)
+— 
+%
+(1 
+%)
+Adjusted EBITDA
+406.3
+416.1
+(2 
+%)
+(1 
+%)
+(1 
+%)
+— 
+%
+(2 
+%)
+Adjusted EBITDA margin
+32.9 
+%
+33.4 
+%
+(50) bps
+(40) bps
+— bps
+(10) bps
+(50) bps
+(1)
+Divestitures included Alfa Valvole, sold in June 2024. 
+•
+Organic net sales were positively impacted by price capture and targeted growth initiatives, which were offset by lower volumes, driven primarily by softness in agriculture and energy markets. Strength in municipal water markets was muted by softness in the semiconductor capital construction market within our water business.
+•
+Adjusted EBITDA margin decreased primarily due to higher employee-related costs, higher discretionary spending and unfavorable mix, partially offset by strong price/cost and favorable operational productivity, net of lower volume leverage. 
+Health & Science Technologies Segment
+Year Ended December 31,
+Components of Change
+(In millions)
+2024
+2023
+Change
+Organic
+Acq/Div
+(1)
+Foreign Currency
+Total
+Domestic sales
+$
+573.7
+$
+575.5
+— 
+%
+International sales
+724.4
+740.9
+(2 
+%)
+Net sales
+$
+1,298.1
+$
+1,316.4
+(1 
+%)
+(7 
+%)
+6 
+%
+— 
+%
+(1 
+%)
+Adjusted EBITDA
+346.8
+359.5
+(4 
+%)
+(10 
+%)
+6 
+%
+— 
+%
+(4 
+%)
+Adjusted EBITDA margin
+26.7 
+%
+27.3 
+%
+(60) bps
+(70) bps
+10 bps
+— bps
+(60) bps
+(1) 
+Acquisitions included Iridian Spectral Technologies acquired in May 2023, STC Material Solutions acquired in December 2023 and Mott acquired in September 2024. Divestitures included Micropump sold in August 2023 and Novotema sold in December 2023
+. 
+•
+Organic net sales were negatively impacted by cyclical market softness in the life sciences and semiconductor markets. This decrease was partially offset by price capture across the segment and targeted growth initiatives within the aerospace/defense market.
+•
+Excluding the net accretive impact of acquisitions and divestitures, Adjusted EBITDA margin decreased primarily due to higher employee-related costs and unfavorable mix, partially offset by price/cost, lower discretionary spending and favorable operational productivity, net of lower volume leverage. 
+Fire & Safety/Diversified Products Segment
+Year Ended December 31,
+Components of Change
+(In millions)
+2024
+2023
+Change
+Organic
+Acq/Div
+Foreign Currency
+Total
+Domestic sales
+$
+354.9
+$
+371.9
+(5 
+%)
+International sales
+389.4
+346.9
+12 
+%
+Net sales
+$
+744.3
+$
+718.8
+4 
+%
+4 
+%
+— 
+%
+— 
+%
+4 
+%
+Adjusted EBITDA
+214.2
+208.6
+3 
+%
+3 
+%
+— 
+%
+— 
+%
+3 
+%
+Adjusted EBITDA margin
+28.8 
+%
+29.0 
+%
+(20) bps
+(20) bps
+— bps
+— bps
+(20) bps
+•
+Organic net sales were positively impacted by strong targeted growth initiatives, continued recovery in fire original equipment manufacturer markets and price capture. These increases were partially offset by unfavorable mix due to the 
+29
+cyclical nature of project sales in our North American dispensing business and softer demand in automotive and industrial markets. 
+•
+The decrease in Adjusted EBITDA margin was primarily due to higher employee-related costs and unfavorable mix, partially offset by price/cost.
+Liquidity and Capital Resources
+Liquidity
+Based on management’s current expectations and currently available information, the Company believes current cash, cash from operations and cash available under the Revolving Facility will be sufficient to meet its operating
+ cash requirements, planned capital expenditures, interest and principal payments on all borrowings, pension and postretirement funding requirements, share repurchases and quarterly dividend payments to holders of the Company’s common stock for the foreseeable future
+. Additionally, in the event that suitable businesses are available for acquisition upon acceptable terms, the Company may obtain all or a portion of the financing for these acquisitions through the incurrence of additional borrowings. The Company believes that additional borrowings through various financing alternatives remain available, if required.
+Mott was acquired during the third quarter of 2024 for cash consideration of $986.2 million, net of cash acquired of $3.1 million. The acquisition was funded using a combination of cash on hand of $211.9 million, borrowings under the Company’s Revolving Facility of $279.3 million, and the net proceeds of $495.0 million from the issuance of the 4.950% Senior Notes. For additional information regarding the borrowings under the Company’s Revolving Facility and the 4.950% Senior Notes, refer to 
+Note 7
+, “Borrowings,” in the Notes to Consolidated Financial Statements.
+Select key liquidity metrics at December 31, 2024 are as follows:
+(In millions)
+December 31, 2024
+Working capital
+$
+963.0 
+Current ratio
+2.5 to 1
+Cash and cash equivalents
+$
+620.8 
+Cash held outside of the United States
+462.7 
+Revolving Facility capacity
+$
+800.0 
+Borrowings
+269.8 
+Letters of credit
+2.8 
+Revolving Facility availability
+$
+527.4 
+Operating Working Capital
+Operating working capital, calculated as Receivables – net plus Inventories – net minus Trade accounts payable, is used by management as a measurement of operational results as well as the short-term liquidity of the Company. The following table details Operating working capital as of December 31, 2024 and 2023:
+(In millions)
+December 31, 2024
+December 31, 2023
+Change
+Organic Change
+Receivables – net
+$
+465.9 
+$
+427.8 
+$
+38.1 
+$
+17.0 
+Inventories – net
+429.7 
+420.8
+8.9 
+(17.7)
+Less: Trade accounts payable
+197.8 
+179.7 
+18.1 
+8.4 
+Operating working capital
+$
+697.8 
+$
+668.9 
+$
+28.9 
+$
+(9.1)
+Operating working capital increased $28.9 million to $697.8 million at December 31, 2024. Acquisitions, divestitures and foreign currency translation increased Operating working capital by $38.0 million during 2024. Apart from these items, receivables increased due to strong price capture, which more than offset the impact of lower volumes; inventories decreased with lower volumes and targeted actions to lower inventory levels; and accounts payable increased as a result of timing of payments for inventory purchases.
+30
+Cash Flow Summary
+The following table is derived from the Consolidated Statements of Cash Flows:
+Year Ended December 31, 
+(In millions)
+2024
+2023
+Change
+Net cash flows provided by (used in): 
+Operating activities
+$
+668.1 
+$
+716.7 
+$
+(48.6)
+Investing activities
+(1,006.5)
+(283.8)
+(722.7)
+Financing activities
+465.9 
+(344.7)
+810.6 
+Operating Activities
+Cash flows provided by operating activities decreased $48.6 million to $668.1 million in 2024 primarily due to lower earnings and the timing of customer deposits and project deliveries as well as larger inventory reductions in the prior year period. Lower cash payments in 2024 compared to the prior year, including payments for taxes, variable compensation and interest, partially mitigated these items.
+Investing Activities
+Cash flows used in investing activities increased $722.7 million in 2024. The net impact of acquisitions and divestitures increased cash used in investing activities by $746.2 million during 2024 as compared to 2023, primarily related to the acquisition of Mott in 2024. This increase in cash outflows was partially offset by lower capital expenditures, which decreased cash used in investing activities by $24.8 million, as compared to 2023. For additional information on the Company’s acquisition and divestitures, refer to 
+Note 2
+, “Acquisitions and Divestitures,” in the Notes to Consolidated Financial Statements.
+Financing Activities
+Cash flows provided by financing activities increased $810.6 million in 2024 primarily due to $774.3 million of net proceeds in connection with the financing of the acquisition of Mott in 2024, as compared with $100.0 million of net proceeds from borrowings in 2023. Additionally, repayments of long-term borrowings and revolving credit facilities were $130.9 million lower in 2024, and share repurchases were lower by $24.2 million in 2024, which were partly offset by higher dividends paid to shareholders, which increased $14.6 million in 2024.
+Free Cash Flow
+The Company believes free cash flow, a non-GAAP measure, is an important measure of performance because it provides a measurement of cash generated from operations that is available for payment obligations such as operating cash requirements, 
+planned capital expenditures, interest and principal payments on all borrowings, pension and postretirement funding requirements and quarterly dividend payments to holders of the Company’s common stock as well as
+ for funding acquisitions and share repurchases. Free cash flow is calculated as cash flows provided by operating activities less capital expenditures. Free cash flow conversion is calculated as free cash flow divided by adjusted net income attributable to IDEX.
+The following table reconciles cash flows provided by operating activities to free cash flow:
+Year Ended December 31, 
+(In millions)
+2024
+2023
+Cash flows provided by operating activities
+$
+668.1
+$
+716.7
+Less: capital expenditures 
+65.1
+89.9
+Free cash flow
+$
+603.0
+$
+626.8
+Reported net income attributable to IDEX
+$
+505.0
+$
+596.1
+Adjusted net income attributable to IDEX
+598.5
+623.6
+Operating cash flow as a percent of net income
+132 
+%
+120 
+%
+Free cash flow conversion
+101 
+%
+101 
+%
+31
+Cash Requirements
+Contractu
+al Obligations
+The Company’s cash requirements under contractual obligations include: 
+•
+Borrowings and related interest - See 
+Note 7
+, “Borrowings,” in the Notes to Consolidated Financial Statements for further detail of the Company’s debt and timing of expected future principal payments.
+•
+Rental payments for leases - See 
+Note 9
+, “Leases,” in the Notes to Consolidated Financial Statements for further detail of our obligations and the timing of expected future payments. 
+•
+Purchase obligations - The Company enters into purchase orders with vendors and other parties in the ordinary course of business. As of December 31, 2024, the Company’s purchase obligations, consisting primarily of inventory commitments, totaled approximately $296.8 million, of which $271.1 million
+ is expected to be settled during 2025 and the remainder thereafter.
+•
+Pension and post-retirement medical benefit plans - See 
+Note 17
+, “Retirement Benefits,” in the Notes to Consolidated Financial Statements for further detail of our obligations and the timing of expected future payments. 
+Subsequent Borrowings Activity
+During January 2025, the Company repaid $30.2 million of the $269.8 million outstanding under the Revolving Facility at December 31, 2024.
+Capital Expenditures
+Capital expenditures generally include machinery and equipment that support growth and improved productivity, tooling, business system technology, replacement of equipment and investments in new facilities. The Company believes it has sufficient operating cash flows to continue to meet current obligations and invest in planned capital expenditures. C
+ash flows from operations were more than adequate to fund capital expenditures of $65.1 million and $89.9 million i
+n 2024 and 2023, 
+respectively. 
+Share Repurchases
+There were no share repurchases i
+n 2024. 
+The Company repurchased 124,600 shares at a cost of $24.2 million in 2023. As of December 31, 2024, the amount of share repurchase authorization remaining was $539.7 million. During February 2025, the Company repurchased a total of 256,159 shares at a cost of $50.0 million. For additional information regarding the Company’s share repurchase program, refer to 
+Note 11
+, “Share Repurchases,” in the Notes to Consolidated Financial Statements.
+Dividends 
+The Company increased its quarterly cash dividend by 8% from $0.64 per common share in 2023 to $0.69 per common share in 2024. Total dividend payments to common shareholders were $205.3 million in 2024 compared with $190.7 million in 2023.
+Covenants
+The key financial covenants that the Company is required to maintain in connection with the Revolving Facility, the 3.37% Senior Notes and the 5.13% Senior Notes, are a minimum interest coverage ratio of 3.0 to 1 and a maximum leverage ratio of 3.50 to 1. At December 31, 2024, the Company was in compliance with both of these financial covenants, as the Company’s interest coverage ratio was 16.09 to 1 for covenant calculation purposes and the leverage ratio was 2.20 to 1. There are no financial covenants relating to the 2.625% Senior Notes, the 3.00% Senior Notes and the 4.950% Senior Notes (each defined in 
+Note 7
+, “Borrowings”); however, all are subject to cross-acceleration provisions. For a discussion of the Company’s Revolving Facility, Term Facility and Senior Notes as well as the associated covenants, refer to 
+Note 7
+, “Borrowings,” in the Notes to Consolidated Financial Statements.
+Credit Ratings
+The Company’s credit ratings, which were independently developed by the following credit agencies, are detailed below:
+•
+S&P Global Ratings reaffirmed the Company’s corporate credit rating of BBB (stable outlook) in September 2024.
+•
+Moody’s Investors Service affirmed the Company’s corporate credit rating of Baa2 (stable outlook) in August 2024.
+32
+•
+Fitch Ratings reaffirmed the Company’s corporate credit rating of BBB+ (stable outlook) in June 2024.
+Off-Balance Sheet Arrangements
+The Company had $38.1 million of letters of credit as of December 31, 2024, primarily issued as security for insurance and other performance obligations. Of the $38.1 million of letters of credit, only $2.8 million reduced the Company’s borrowing capacity under the Revolving Facility as of December 31, 2024. The Company has restricted cash of $18.1 million as of December 31, 2024, which represents cash held as collateral for standby letters of credit issued by Mott and is required to keep the balance in a separate account for the duration of the letters of credit.
+Except as disclosed above, the Company has no off-balance sheet arrangements that currently have or are reasonably likely to have a material effect on the Company’s consolidated financial condition, changes in financial condition, results of operations, liquidity, capital expenditures or capital resources. 
+Critical Accounting Estimates
+The Company believes that the application of the following accounting policy, which is important to its financial position and results of operations, requires significant judgments and estimates on the part of management. For a summary of the Company’s accounting policies, including the accounting policy discussed below, see 
+Note 1
+, “Significant Accounting Policies,” in the Notes to Consolidated Financial Statements.
+Goodwill and indefinite-lived intangible assets
+ — Goodwill and other intangible assets with indefinite lives, which consists solely of trade names, are not amortized; rather they are tested for impairment at least annually, or more frequently if events or circumstances indicate that the asset may be impaired. The Company follows the guidance prescribed in Accounting Standards Codification (“ASC”) 350, 
+Goodwill and Other Intangible Assets
+, to test goodwill and indefinite-lived intangible assets for impairment. In assessing goodwill for impairment, the Company determines the fair value of each reporting unit utilizing an income approach (discounted cash flows) weighted 50% and a market approach (consisting of a comparable public company multiples methodology) weighted 50%. To determine the reasonableness of the calculated fair values, the Company reviews the assumptions to ensure that neither the income approach nor the market approach yielded significantly different valuations. Key assumptions and estimates used in the goodwill impairment assessment are described below. Based on the results of the Company’s annual impairment test at October 31, 2024, all reporting units had fair values substantially in excess of their carrying values. 
+The key assumptions are updated every year for each reporting unit for the income and market approaches used to determine the fair value. Various assumptions are utilized including forecasted operating results, annual operating plans, strategic plans, economic projections, anticipated future cash flows, the weighted average cost of capital, market data and market multiples. The assumptions that have the most significant effect on the fair value calculations are the weighted average cost of capital, market multiples, forecasted cash flows and terminal growth rates. The following assumption ranges were utilized by the Company in 2024 and 2023:
+Assumptions
+2024
+Range
+2023
+Range
+Weighted average cost of capital
+9.25% to 9.75%
+10.00% to 12.25%
+Market multiples
+12.0x to 19.0x
+10.0x to 20.0x
+Terminal growth rates
+3.0% to 3.5%
+3.0% to 3.5%
+In assessing trade names for impairment, the Company uses the relief-from-royalty method, a form of the income approach, to determine the fair value of its trade names. The relief-from-royalty method is dependent on a number of significant management assumptions, including estimates of revenues, royalty rates and discount rates. Based on the results of the Company’s annual impairment test at October 31, 2024, the trade names had fair values in excess of their carrying values.
+The Company’s acquisitions have generally included significant goodwill components and the Company expects to continue to make acquisitions. At December 31, 2024, goodwill and other indefinite-lived intangible assets totaled $3,342.6 million, or 50%, of the Company’s total assets. 
+See 
+Note 6
+, “Goodwill and Intangible Assets,” in the Notes to Consolidated Financial Statements for further discussion on goodwill and indefinite-lived intangible assets.
+33
+Non-GAAP Disclosures
+Set forth below are reconciliations of Organic net sales, Adjusted gross profit, Adjusted gross margin, Adjusted net income attributable to IDEX, Adjusted diluted EPS attributable to IDEX, Consolidated Adjusted earnings before interest, income taxes, depreciation and amortization (“Adjusted EBITDA”) and Consolidated Adjusted EBITDA margin to their respective most directly comparable U.S. GAAP measure. Management uses these metrics to measure performance of the Company since they exclude items that are not reflective of ongoing operations, as identified in the reconciliations below. Management also supplements its U.S. GAAP financial statements with adjusted information to provide investors with greater insight, transparency and a more comprehensive understanding of the information used by management in its financial and operational decision making. 
+Management uses Adjusted EBITDA as its measure of segment performance, and believes it is a useful indicator of the strength and performance of the Company and its segments’ ongoing business operations, as well as a way for investors to evaluate and compare operating performance and value companies within the Company’s industry. Management believes that Adjusted EBITDA margin is useful for the same reason as Adjusted EBITDA. The definition of Adjusted EBITDA used here may differ from that used by other companies.
+This report also references free cash flow and free cash flow conversion. These non-GAAP measures are discussed and reconciled to their most directly comparable U.S. GAAP measure in the section above titled “Free Cash Flow.”
+The non-GAAP financial measures disclosed by the Company should not be considered a substitute for, or superior to, financial measures prepared in accordance with U.S. GAAP. Due to rounding, numbers presented throughout this and other documents may not add up or recalculate precisely. The financial results prepared in accordance with U.S. GAAP and the reconciliations from these results should be carefully evaluated.
+All table footnotes can be found at the end of this Non-GAAP Disclosures section.
+1. Reconciliations of the Change in Net Sales to Organic Net Sales
+For the Years Ended December 31,
+2024
+2023
+FMT
+HST
+FSDP
+IDEX
+FMT
+HST
+FSDP
+IDEX
+Change in net sales
+(1 
+%)
+(1 
+%)
+4 
+%
+— 
+%
+7 
+%
+(2 
+%)
+6 
+%
+3 
+%
+Less:
+Net impact from acquisitions/divestitures
+(1)
+(1 
+%)
+6 
+%
+— 
+%
+2 
+%
+2 
+%
+9 
+%
+— 
+%
+5 
+%
+Impact from foreign currency
+(2)
+— 
+%
+— 
+%
+— 
+%
+— 
+%
+— 
+%
+— 
+%
+— 
+%
+— 
+%
+Impact from the exit of a COVID-19 testing application
+(3)
+— 
+%
+— 
+%
+— 
+%
+— 
+%
+— 
+%
+(1 
+%)
+— 
+%
+(1 
+%)
+Change in organic net sales
+— 
+%
+(7 
+%)
+4 
+%
+(2 
+%)
+5 
+%
+(10 
+%)
+6 
+%
+(1 
+%)
+2. Reconciliations of Reported-to-Adjusted Gross Profit and Gross Margin 
+(in millions)
+For the Years Ended December 31,
+2024
+2023
+Gross profit
+$
+1,445.2
+$
+1,446.9
+Fair value inventory step-up charges
+9.6
+1.6
+Adjusted gross profit
+$
+1,454.8
+$
+1,448.5
+Net sales
+$
+3,268.8
+$
+3,273.9
+Gross margin
+44.2 
+%
+44.2 
+%
+Adjusted gross margin
+44.5 
+%
+44.2 
+%
+3. Reconciliations of Reported-to-Adjusted Net Income Attributable to IDEX and Diluted EPS Attributable to IDEX 
+(in millions, except per share amounts)
+For the Years Ended December 31,
+2024
+2023
+Reported net income attributable to IDEX
+$
+505.0 
+$
+596.1 
+Fair value inventory step-up charges
+9.6 
+1.6 
+Tax impact on fair value inventory step-up charges
+(2.0)
+(0.4)
+Restructuring expenses and asset impairments
+9.3 
+10.9 
+Tax impact on restructuring expenses and asset impairments
+(2.2)
+(2.5)
+Gain on sale of businesses - net
+(4.0)
+(84.7)
+Tax impact on gain on sale of businesses - net
+— 
+22.7 
+Credit loss on note receivable from collaborative partner
+(4)
+— 
+7.7 
+Tax impact on credit loss on note receivable from collaborative partner
+— 
+(1.6)
+Acquisition-related intangible asset amortization
+107.1 
+94.9 
+Tax impact on acquisition-related intangible asset amortization
+(24.3)
+(21.1)
+Adjusted net income attributable to IDEX
+$
+598.5 
+$
+623.6 
+Reported diluted EPS attributable to IDEX
+$
+6.64 
+$
+7.85 
+Fair value inventory step-up charges
+0.13 
+0.02 
+Tax impact on fair value inventory step-up charges
+(0.02)
+— 
+Restructuring expenses and asset impairments
+0.12 
+0.15 
+Tax impact on restructuring expenses and asset impairments
+(0.03)
+(0.03)
+Gain on sale of businesses - net
+(0.05)
+(1.12)
+Tax impact on gain on sale of businesses - net
+— 
+0.30 
+Credit loss on note receivable from collaborative partner
+(4)
+— 
+0.10 
+Tax impact on credit loss on note receivable from collaborative partner
+— 
+(0.02)
+Acquisition-related intangible asset amortization
+1.41 
+1.25 
+Tax impact on acquisition-related intangible asset amortization
+(0.31)
+(0.28)
+Adjusted diluted EPS attributable to IDEX
+$
+7.89 
+$
+8.22 
+Diluted weighted average shares outstanding
+75.9 
+75.9 
+4. Reconciliations of Net Income to Adjusted EBITDA 
+(in millions)
+For the Years Ended December 31,
+2024
+2023
+Reported net income
+$
+504.6
+$
+595.6
+Provision for income taxes
+134.7
+164.7
+Interest expense – net
+44.5
+51.7
+Gain on sale of businesses - net
+(4.0)
+(84.7)
+Depreciation
+68.5
+57.2
+Amortization
+107.1
+94.9
+Fair value inventory step-up charges
+9.6
+1.6
+Restructuring expenses and asset impairments
+9.3
+10.9
+Credit loss on note receivable from collaborative partner
+(4)
+—
+7.7
+Adjusted EBITDA
+$
+874.3
+$
+899.6
+Adjusted EBITDA Components
+FMT
+$
+406.3
+$
+416.1
+HST
+346.8
+359.5
+FSDP
+214.2
+208.6
+Corporate and other
+(93.0)
+(84.6)
+Total Adjusted EBITDA
+$
+874.3
+$
+899.6
+Net sales
+$
+3,268.8
+$
+3,273.9
+Net income margin
+15.4 
+%
+18.2 
+%
+Adjusted EBITDA margin
+26.7 
+%
+27.5 
+%
+(1)
+ Represents the sales from acquired or divested businesses during the first 12 months of ownership or prior to divestiture.
+(2)
+ The portion of sales attributable to foreign currency translation is calculated as the difference between (a) the period-to-period change in organic net sales, and (b) the period-to-period change in organic net sales after applying prior period foreign exchange rates to the current year period.
+(3)
+The impact to Net sales represents the absence of the acceleration of previously deferred revenue of $17.9 million as a result of a customer’s decision to discontinue further investment in commercializing its COVID-19 testing application in 2022 that did not reoccur in 2023. See 
+Note 14
+, “Restructuring Expenses and Asset Impairments,” in the Notes to Consolidated Financial Statements for further detail.
+(4)
+Represents a reserve recorded on an investment with a collaborative partner. See 
+Note 3
+, “Collaborative Investments,” in the Notes to Consolidated Financial Statements for further detail.

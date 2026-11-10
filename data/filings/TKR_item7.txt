@@ -1,0 +1,1439 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Dollars in millions, except per share data)
+OVERVIEW
+Introduction:
+The Timken Company designs and manufactures a growing portfolio of engineered bearings and industrial motion products, and related services. With more than a century of knowledge and innovation, the Company continuously improves the reliability and efficiency of global machinery and equipment to move the world forward. The Company’s growing product and services portfolio features many strong industrial brands, such as Timken®, GGB®, Philadelphia Gear®, Cone Drive®, Rollon®, Nadella®, Diamond®, Drives®, Groeneveld®, BEKA®, Des-Case®, Lovejoy® and Lagersmit®. Timken posted $4.6 billion in sales in 2024 and employs approximately 19,000 people globally, operating in 45 countries. The Company operates under two reportable segments: (1) Engineered Bearings and (2) Industrial Motion. The following further describes these business segments:
+•
+Timken’s Engineered Bearings segment features a broad range of product designs serving original equipment manufacturers (OEMs) and end-users worldwide. Timken is a leading authority on tapered roller bearings and leverages its position by applying engineering know-how and technology across its entire bearing portfolio, which includes tapered, spherical and cylindrical roller bearings; plain bearings, metal-polymer bearings and rod end bearings; thrust and specialty ball bearings; and housed or mounted bearings. The Engineered Bearings portfolio features the Timken®, GGB® and Fafnir® brands and serves customers across global industries, including wind energy, agriculture, construction, food and beverage, metals and mining, automotive and truck, aerospace, rail and more. 
+•
+Timken’s Industrial Motion segment includes a diverse and growing portfolio of engineered products, including industrial drives, automatic lubrication systems, linear motion products and systems, chains, belts, couplings, filtration systems, seals, and industrial clutches and brakes that keep systems running efficiently. Industrial Motion also includes industrial drivetrain services, which return equipment to like-new condition. The Industrial Motion portfolio features many strong brands, including Philadelphia Gear®, Cone Drive®, Spinea®, Rollon®, Nadella®, Groeneveld®, BEKA®, Des-Case®, Diamond®, Drives®, Timken® Belts, Lovejoy®, PT Tech®, Lagersmit® and CGI. Industrial Motion products are used across a broad range of industries, including solar energy, automation, construction, agriculture and turf, passenger rail, marine, aerospace, packaging and logistics, medical and more.
+Timken creates value by understanding customer needs and applying its know-how to serve a broad range of customers in attractive markets and industries across the globe. The Company’s business strengths include its product technology, end-market diversity, geographic reach and aftermarket mix. Timken collaborates with OEMs to improve equipment efficiency with its engineered products and captures subsequent equipment replacement cycles by selling largely through independent channels in the aftermarket. Timken focuses its international efforts and footprint in regions of the world where strong macroeconomic factors such as urbanization, infrastructure development, industrialization and sustainability create demand for its products and services. 
+The Company's strategy has three primary elements:
+Profitable Growth. 
+The Company intends to expand into new and existing markets by leveraging its collective knowledge of materials science, friction management and power transmission to create value for Timken customers. Using a highly collaborative technical selling approach, the Company places particular emphasis on creating unique solutions for challenging and/or demanding applications. The Company intends to grow in attractive market sectors around the world, emphasizing those spaces that are highly fragmented, demand high service and value the reliability and efficiency offered by Timken products. The Company also targets applications that offer significant aftermarket demand, thereby providing product and services revenue throughout the equipment’s lifetime.
+Operational Excellence. 
+Timken operates with a relentless drive for exceptional results and a passion for superior execution. The Company embraces a continuous improvement culture that is charged with increasing efficiency, lowering costs, eliminating waste, increasing cash flow, driving organizational advancement and agility, and building greater brand equity to fuel growth. This requires the Company’s ongoing commitment to attract, retain and develop the best talent across the world.
+23
+Table of Contents
+Capital Deployment to Drive Shareholder Value. 
+The Company is focused on providing the highest returns for shareholders through its capital allocation framework, which includes: (1) investing in the core business through capital expenditures, research and development and initiatives to drive profitable organic growth; (2) pursuing strategic acquisitions to broaden its portfolio and capabilities across diverse markets, with a focus on engineered bearings, industrial motion products and related services; (3) returning capital to shareholders through dividends and share repurchases; and (4) maintaining a strong balance sheet and sufficient liquidity. As part of this framework, the Company may also restructure, reposition or divest underperforming product lines or assets.
+The following items highlight some of the Company's accomplishments in 2024:
+•
+In August, Timken issued its annual CSR report, highlighting the Company's progress towards its target to reduce aggregate Scope 1 and Scope 2 greenhouse gas (GHG) emissions intensity by 50 percent by 2030, as well as providing an update on the company's actions to improve the lives of individuals and communities, benefit the planet and strengthen its business.
+•
+On September 9, 2024, the Company acquired CGI, Inc. ("CGI"), a Nevada-based manufacturer of precision drive systems serving a broad range of automation markets with a concentration in medical robotics. CGI employs approximately 130 people and has its headquarters and manufacturing facilities in Carson City, Nevada. CGI will further Timken's strategy to expand and scale its leading industrial motion product portfolio.
+•
+Timken increased its quarterly dividend by 3% in the second quarter and paid its 410th consecutive quarterly dividend in the fourth quarter. The Company achieved eleven straight years of higher annual dividends in 2024. Timken also repurchased half a million common shares during the year.
+•
+Executed a CEO succession plan and welcomed Tarak Mehta to Timken as its new president and CEO in September.
+•
+Throughout 2024, Timken received third-party recognition for the role it plays as a global industrial leader, responsible corporate citizen, innovator and employer of choice. The Company was named one of the World's Most Ethical Companies® for the 13th time by Ethisphere, one of America's Most Responsible Companies for the 5th year in a row by Newsweek and Statista, one of the Best Companies to Work For by U.S. News & World Report, and one of the World's Most Innovative Companies by Fast Company.
+24
+Table of Contents
+RESULTS OF OPERATIONS
+2024 vs. 2023 
+Overview:
+2024
+2023
+$ Change
+% Change
+Net sales
+$
+4,573.0
+$
+4,769.0 
+$
+(196.0)
+(4.1 
+%)
+Net income
+375.3
+408.0 
+(32.7)
+(8.0 
+%)
+Net income attributable to noncontrolling interest
+22.6
+13.9 
+8.7 
+62.6 
+%
+Net income attributable to The Timken Company
+$
+352.7
+$
+394.1 
+$
+(41.4)
+(10.5 
+%)
+Diluted earnings per share
+$
+4.99
+$
+5.47 
+$
+(0.48)
+(8.8 
+%)
+Average number of diluted shares
+70,750,482
+72,081,884 
+— 
+(1.8 
+%)
+The decrease in net sales was primarily driven by lower demand in China and Europe, and the unfavorable impact of foreign currency exchange rate changes, partially offset by the benefit of acquisitions (net of divestitures) and favorable pricing. The decrease in net income was primarily due to the impact of lower volume, higher manufacturing costs, the unfavorable impact of foreign currency exchange rate changes, and an increase in net interest expense, partially offset by favorable price/mix, lower impairment and pension remeasurement charges and a gain on the sale of certain real estate.
+Outlook:
+The Company expects 2025 full-year revenue to range from down 4% to 1% in total compared to 2024, primarily driven by the unfavorable impact of foreign currency exchange rates and lower demand in Europe, partially offset by the benefit of acquisitions completed during 2024 and slightly favorable pricing. The Company's earnings are expected to be down in 2025 compared with 2024, primarily due to the impact of foreign currency exchange rate changes and lower organic sales volume, offset partially by lower operating costs and the favorable impact of acquisitions.
+The Company expects to generate a higher amount of cash from operating activities in 2025 compared to 2024, driven by improved working capital performance, a lower level of capital expenditures, and lower cash taxes. The Company expects capital expenditures in 2025 to be in the range of 3.5% of sales.
+25
+Table of Contents
+THE STATEMENTS OF INCOME
+Operating Income:
+Twelve Months Ended 
+December 31,
+2024
+2023
+$ Change
+Change
+Net sales
+$
+4,573.0
+$
+4,769.0 
+$
+(196.0)
+(4.1%)
+Cost of products sold
+3,132.3
+3,259.9 
+(127.6)
+(3.9%)
+Selling, general and administrative expenses
+752.0
+740.8 
+11.2 
+1.5%
+Amortization of intangible assets
+78.0
+65.7 
+12.3 
+18.7%
+Impairment and restructuring charges
+13.4
+45.5 
+(32.1)
+(70.5%)
+Gain on sale of real estate
+(13.8)
+— 
+(13.8)
+NM
+Operating income
+$
+611.1
+$
+657.1 
+(46.0)
+(7.0%)
+Operating income % to net sales
+13.4
+%
+13.8 
+%
+(40)
+ bps
+Net sales decreased in 2024 compared to 2023 primarily due to lower organic sales of $276 million (lower demand, favorable pricing) as well as the unfavorable impact of foreign currency exchange of $34 million, partially offset by the favorable impact of acquisitions (net of divestitures) of $114 million.
+Operating income decreased in 2024 compared to 2023 due to the impact of lower sales net of cost of products sold, higher selling, general and administrative ("SG&A") expenses, and increased amortization expense, partially offset by lower impairment and restructuring charges.
+•
+Cost of products sold decreased in 2024 compared to 2023 due to the impact of lower volume of $173 million and the impact of foreign currency exchange rate changes of $22 million, partially offset by the incremental cost of goods sold from acquisitions (net of divestitures) of $37 million, higher manufacturing costs of $28 million and unfavorable net material and logistics costs (net) of $5 million.
+•
+SG&A expenses increased in 2024 compared to 2023 primarily due to the incremental SG&A expense associated with recent acquisitions. Excluding acquisitions, SG&A expenses were lower in 2024 compared to 2023 primarily due to reduced discretionary spending to align with lower demand levels and the favorable impact of foreign currency, partially offset by increased accruals for potential uncollectible accounts
+•
+Amortization of intangible assets increased in 2024 compared to 2023 due to the addition of intangible assets from the acquisitions, which were completed in 2024 and 2023. Refer to Note 2 - Acquisitions and Divestitures in the Notes to the Consolidated Financial Statements for additional information.
+•
+Impairment and restructuring charges decreased significantly in 2024 compared to 2023 primarily due to lower impairment charges. During 2023, the Company recorded a pretax goodwill impairment loss for one of its reporting units in the Industrial Motion segment in the amount of $28.3 million. 
+•
+Gain on sale of real estate for 2024 was due to a gain of $13.8 million on the sale of a former bearing manufacturing plant in Gaffney, South Carolina during the quarter ended September 30, 2024. Refer to Note 8 - Property, Plant and Equipment in the Notes to the Consolidated Financial Statements for additional information.
+Interest Expense and Income:
+2024
+2023
+$ Change
+% Change
+Interest expense
+$
+(125.1)
+$
+(110.7)
+$
+(14.4)
+13.0 
+%
+Interest income
+14.9
+9.3 
+5.6 
+60.2 
+%
+Interest expense, net
+$
+(110.2)
+$
+(101.4)
+$
+(8.8)
+8.7 
+%
+Interest expense increased in 2024 compared to 2023, primarily due to higher average debt levels during the year and higher average interest rates. Interest income increased in 2024 compared to 2023, primarily due to higher average cash levels during the year and improved returns on invested cash.
+26
+Table of Contents
+Other Income (Expense):
+2024
+2023
+$ Change
+% Change
+Non-service pension and other postretirement 
+ expense
+$
+(2.6)
+$
+(24.0)
+$
+21.4 
+(89.2 
+%)
+Other expense, net
+(4.1)
+(1.2)
+(2.9)
+241.7 
+%
+Total other expense, net
+$
+(6.7)
+$
+(25.2)
+$
+18.5 
+(73.4)
+%
+The change in non-service pension and other postretirement expense and income was primarily due to net actuarial ("mark-to-market") gains recorded in 2024 compared to net actuarial losses in 2023. In 2024, the Company recognized $1.3 million of net mark-to-market gains, compared to $20.6 million of net mark-to-market charges in 2023. Refer to 
+Note 17 - Retirement Benefit Plans 
+and
+ Note 18 - Other Postretirement Benefit Plans 
+in the Notes to the Consolidated Financial Statements for more information
+.
+The change in other expense, net was primarily due to higher foreign currency exchange losses recognized in 2024 compared to 2023. In addition, 2023 includes a gain on the divestiture of S.E. Setco Service Company, LLC ("SE Setco"), a formerly 50%-owned joint venture, partially offset by the non-cash impact of deconsolidating the Company's 51%-owned joint venture in Russia ("Russian JV").
+Income Tax Expense:
+2024
+2023
+$ Change
+Change
+Income tax expense
+$
+118.9
+$
+122.5 
+$
+(3.6)
+(2.9 
+%)
+Effective tax rate
+24.1
+%
+23.1 
+%
+— 
+100 
+ bps
+The effective tax rate for 2024 was 24.1%, which was unfavorable compared to the U.S. federal statutory rate of 21%, primarily due to the unfavorable impact of earnings in foreign jurisdictions where the effective tax rate was higher than 21% and U.S. state and local income taxes. This was partially offset by the release of accruals for uncertain tax positions.
+The effective tax rate for 2023 was 23.1%, which was unfavorable compared to the U.S. federal statutory rate of 21%, primarily due to the unfavorable impact of earnings in foreign jurisdictions where the effective tax rate was higher than 21% and withholding taxes accrued on planned dividend distributions in 2024. This was partially offset by the favorable impact of U.S. foreign tax credit utilization from acquisition integration structuring.
+The change in the effective rate for 2024 compared with 2023 was an increase of 1.0%. The increase was partially due to the unfavorable impact of earnings in foreign jurisdictions where the effective tax rate was higher than 21%. The increase was also the result of the 2023 net discrete impact of the accrual of withholding taxes on dividend distributions and favorable U.S. foreign tax credit utilization that did not reoccur in 2024. 
+Refer to Note 5 - Income Taxes in the Notes to the Consolidated Financial Statements for more information on the computation of the income tax expense in interim periods.
+For a discussion of changes in consolidated results from 2023 to 2022, refer to Management's Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2023. 
+27
+Table of Contents
+BUSINESS SEGMENTS
+The Company's reportable segments are product-based business groups that serve customers in diverse industrial markets. The primary measurement used by management to measure the financial performance of each segment is adjusted EBITDA.
+Refer to 
+Note 4 - Segment Information 
+in the Notes to the Consolidated Financial Statements for the reconciliation of adjusted EBITDA by segment to consolidated income before income taxes.
+The presentation of segment results below includes a reconciliation of the changes in net sales for each segment reported in accordance with U.S. GAAP to net sales adjusted to remove the effects of acquisitions and divestitures completed in 2024 and 2023 and foreign currency exchange rate changes. The effects of acquisitions, divestitures and foreign currency exchange rate changes on net sales are removed to allow investors and the Company to meaningfully evaluate the percentage change in net sales on a comparable basis from period to period.
+The following items highlight the Company
+'
+s acquisitions and divestitures completed in 2024 and 2023:
+•
+The Company acquired CGI during the third quarter of 2024. Results for CGI are reported in the Industrial Motion segment. 
+•
+The Company a
+cquired Lagersmit Holding B.V. ("Lagersmit") during the fourth quarter of 2023. Results for Lagersmit are reported in the Industrial Motion segment.
+•
+The Company acquired Engineered Solutions Group ("iMECH") during the fourth quarter of 2023. Results for iMECH are reported in the Engineered Bearings segment.
+•
+The Company completed the sale of Jiangsu TWB Bearings Co., Ltd. ("TWB") during the fourth quarter of 2023. Results for TWB were reported in the Engineered Bearings segment. 
+•
+The Company acquired Rosa Sistemi S.p.A.("Rosa") and D-C Filtrations Holding Corp. ("Des-Case") during the third quarter of 2023. Results for Rosa and Des-Case are reported in the Industrial Motion segment. 
+•
+The Company acquired Leonardo Top S.a.r.l. ("Nadella") during the second quarter of 2023. Results for Nadella are reported in the Industrial Motion segment.
+•
+The Company acquired American Roller Bearing Company ("ARB") during the first quarter of 2023. Results for ARB are reported in the Engineered Bearings segment.
+28
+Table of Contents
+Engineered Bearings Segment:
+2024
+2023
+$ Change
+Change
+Net sales
+$
+3,034.3
+$
+3,257.7 
+$
+(223.4)
+(6.9 
+%)
+Cost of products sold
+(2,106.9)
+(2,246.0)
+139.1 
+(6.2 
+%)
+Selling, general and administrative expenses
+(419.3)
+(425.4)
+6.1 
+(1.4 
+%)
+Other segment items
+4.5
+4.2 
+0.3 
+7.1 
+%
+Depreciation and amortization
+95.6
+92.1 
+3.5 
+3.8 
+%
+Adjusted EBITDA
+$
+608.2
+$
+682.6 
+$
+(74.4)
+(10.9 
+%)
+Adjusted EBITDA margin
+20.0
+%
+21.0 
+%
+— 
+(100)
+ bps
+2024
+2023
+$ Change
+% Change
+Net sales
+$
+3,034.3
+$
+3,257.7 
+$
+(223.4)
+(6.9 
+%)
+Less: Acquisitions
+19.0
+— 
+19.0 
+NM
+Divestitures
+(22.7)
+— 
+(22.7)
+NM
+ Currency
+(30.7)
+— 
+(30.7)
+NM
+Net sales, excluding the impact of acquisitions, divestitures and currency
+$
+3,068.7
+$
+3,257.7 
+$
+(189.0)
+(5.8 
+%)
+The Engineered Bearings segment's net sales, excluding the effects of acquisitions, divestitures and foreign currency exchange rate changes, decreased $189.0 million or 5.8% in 2024 compared with 2023, primarily driven by lower demand in China and Europe, partially offset by higher demand in Latin America and India, and higher pricing. Among market sectors, the segment experienced a significant decline in the renewable energy sector and lower demand in the off-highway and general & heavy industrial market sectors, partially offset by higher demand in the industrial distribution, rail, and aerospace sectors. 
+Adjusted EBITDA for the Engineered Bearings segment decreased in 2024 by $74.4 million or 10.9% compared with 2023, primarily due to the impact of lower sales net of cost of products sold, partially offset by lower SG&A expenses.
+•
+Cost of products sold decreased in 2024 compared to 2023 due to the impact of lower volume of $116 million, the impact of foreign currency exchange rate changes of $21 million, and lower incremental cost of goods sold from acquisitions (net of divestitures) of $9 million, partially offset by unfavorable net material and logistics costs of $4 million and higher manufacturing costs of $2 million.
+•
+SG&A expenses decreased in 2024 compared to 2023 driven primarily by lower compensation expense, reduced discretionary spending and the favorable impact of foreign currency. 
+•
+Depreciation and amortization increased slightly in 2024 compared to 2023 primarily due to the addition of property, plant and equipment assets from capital projects in China and the Americas.
+29
+Table of Contents
+Industrial Motion Segment:
+2024
+2023
+$ Change
+Change
+Net sales
+$
+1,538.7
+$
+1,511.3 
+$
+27.4 
+1.8 
+%
+Cost of products sold
+(1,008.5)
+(979.7)
+(28.8)
+2.9 
+%
+Selling, general and administrative expenses
+(269.1)
+(253.0)
+(16.1)
+6.4 
+%
+Other segment items
+(0.1)
+(0.1)
+— 
+— 
+%
+Depreciation and amortization
+45.5
+41.3 
+4.2 
+10.2 
+%
+Adjusted EBITDA
+$
+306.5
+$
+319.8 
+$
+(13.3)
+(4.2 
+%)
+Adjusted EBITDA margin
+19.9
+%
+21.2 
+%
+— 
+(130)
+ bps
+2024
+2023
+$ Change
+% Change
+Net sales
+$
+1,538.7
+$
+1,511.3 
+$
+27.4 
+1.8 
+%
+Less: Acquisitions
+117.4
+— 
+117.4 
+NM
+ Currency
+(2.8)
+— 
+(2.8)
+NM
+Net sales, excluding the impact of acquisitions and currency
+$
+1,424.1
+$
+1,511.3 
+$
+(87.2)
+(5.8 
+%)
+The Industrial Motion segment's net sales, excluding the effects of acquisitions and foreign currency exchange rate changes, decreased $87.2 million or 5.8% in 2024 compared with 2023, driven primarily by lower end-market demand in Europe and North America, partially offset by higher pricing. Excluding acquisitions, sales were down across most segment platforms with the largest decreases in automatic lubrication systems, linear motion solutions, and belts and chain. 
+Adjusted EBITDA decreased $13.3 million or 4.2% in 2024 compared with 2023 primarily due to the impact of lower sales net of cost of products sold and higher SG&A expenses.
+•
+Cost of products sold increased in 2024 compared to 2023 due to the impact of the incremental cost of goods sold from acquisitions of $63 million and higher manufacturing costs of $26 million
+,
+ partially offset by the impact of lower volume of $58 million.
+•
+SG&A expenses increased in 2024 compared to 2023 due to the incremental SG&A expense associated with recent acquisitions. Excluding acquisitions, SG&A expenses were lower versus 2023 driven primarily by lower discretionary spending. 
+•
+Depreciation and amortization increased in 2024 compared to 2023 primarily due to the addition of property, plant and equipment assets from acquisitions completed during 2024 and 2023. Refer to Note 2 - Acquisitions and Divestitures in the Notes to the Consolidated Financial Statements for additional information.
+Unallocated Corporate:
+2024
+2023
+$ Change
+Change
+Unallocated corporate expense
+$
+(69.9)
+$
+(62.7)
+$
+(7.2)
+11.5 
+%
+Unallocated corporate expense % to net sales
+(1.5
+%)
+(1.3 
+%)
+— 
+(20)
+ bps
+Unallocated corporate expense increased in 2024 compared with 2023 primarily due to the unfavorable impact of foreign currency losses of $8.2 million in 2024 compared to $3.7 million in 2023.
+30
+Table of Contents
+CASH FLOWS
+2024
+2023
+$ Change
+Net cash provided by operating activities
+$
+475.7
+$
+545.2 
+$
+(69.5)
+Net cash used in investing activities
+(304.6)
+(806.5)
+501.9 
+Net cash (used in) provided by financing activities
+(194.8)
+347.1 
+(541.9)
+Effect of exchange rate changes on cash
+(22.0)
+(7.2)
+(14.8)
+ (Decrease) increase in cash, cash equivalents and restricted cash
+$
+(45.7)
+$
+78.6 
+$
+(124.3)
+Operating Activities:
+The decrease in net cash provided by operating activities in 2024 compared with 2023 was primarily due to the unfavorable impact of working capital items of $43.7 million, a decrease in net income of $32.7 million, a decrease in impairment charges of $29.7 million, partially offset by the favorable impact of income taxes on cash of $56.5 million due to lower tax payments. Refer to the table below for additional detail of the impact of each line on net cash provided by operating activities.
+The following chart displays the impact of working capital items on cash during 2024 and 2023:
+2024
+2023
+$ Change
+Cash (used in) provided by:
+Accounts receivable
+$
+(14.2)
+$
+71.6 
+$
+(85.8)
+Unbilled receivables
+3.3
+(40.4)
+43.7 
+Inventories
+9.6
+72.0 
+(62.4)
+Trade accounts payable
+(37.1)
+(57.4)
+20.3 
+Other accrued expenses
+(7.1)
+(47.6)
+40.5 
+Cash used in working capital items
+$
+(45.5)
+$
+(1.8)
+$
+(43.7)
+The following table displays the impact of income taxes on cash during 2024 and 2023:
+2024
+2023
+$ Change
+Accrued income tax expense
+$
+118.9
+$
+122.5 
+$
+(3.6)
+Income tax payments
+(183.5)
+(240.3)
+56.8 
+Other miscellaneous
+1.1
+(2.2)
+3.3 
+ Change in income taxes
+$
+(63.5)
+$
+(120.0)
+$
+56.5 
+Investing Activities:
+The decrease in net cash used in investing activities in 2024 compared with 2023 was primarily due to a decrease in cash used for acquisitions of $471.4 million, a decrease in capital expenditures of $17.8 million and an increase in cash from the net liquidation of short-term marketable securities of $9.5 million.
+Financing Activities:
+The change in net cash used in/provided by financing activities in 2024 compared with 2023 was primarily due to a decrease in net borrowings of $686.2 million and lower proceeds from the 2024 sale of shares of Timken India Limited ("TIL") as compared to the 2023 sale in the amount of $52.5 million, partially offset by a decrease in the purchase of treasury shares of $210.4 million.
+31
+Table of Contents
+LIQUIDITY AND CAPITAL RESOURCES
+Reconciliation of total debt to net debt and the ratio of net debt to capital:
+Net Debt:
+December 31,
+2024
+2023
+Short-term debt, including current portion of long-term debt
+$
+13.0
+$
+605.6 
+Long-term debt
+2,049.7
+1,790.3 
+Total debt
+$
+2,062.7
+$
+2,395.9 
+Less: Cash and cash equivalents
+373.2
+418.9 
+Net debt
+$
+1,689.5
+$
+1,977.0 
+Ratio of Net Debt to Capital:
+December 31,
+2024
+2023
+Net debt
+$
+1,689.5
+$
+1,977.0 
+Total equity
+2,984.1
+2,702.4 
+Net debt plus total equity (capital)
+$
+4,673.6
+$
+4,679.4 
+Ratio of net debt to capital
+36.1
+%
+42.2 
+%
+The Company presents net debt because it believes net debt is more representative of the Company's financial position than total debt due to the amount of cash and cash equivalents held by the Company and the ability to utilize such cash and cash equivalents to reduce debt if needed.
+At December 31, 2024, the Company had strong liquidity with $373.2 million of cash and cash equivalents on the Consolidated Balance Sheet, as well as $843.9 million available under committed credit lines.
+ Of the
+ $373.2 million of cash and cash equivalents, $338.6 million resided in jurisdictions outside the United States. Repatriation of non-U.S. cash could be subject to taxes and some portion may be subject to governmental restrictions. Part of the Company's strategy is to grow in attractive market sectors, many of which are outside the United States. This strategy includes making investments in facilities, equipment and potential new acquisitions. The Company plans to fund these investments, as well as meet working capital requirements, with cash and cash equivalents and unused lines of credit within the geographic location of these investments where feasible.
+On December 5, 2022 the Company entered into the Fifth Amended and Restated Credit Agreement ("Credit Agreement"), which is comprised of a $750.0 million unsecured revolving credit facility ("Senior Credit Facility") and a $400.0 million unsecured term loan facility ("2027 Term Loan") that each mature on December 5, 2027. Interest rates under the Credit Agreement are based on the Secured Overnight Financing Rate ("SOFR"). At December 31, 2024, the Senior Credit Facility had no outstanding borrowings. The Credit Agreement has two financial covenants: a consolidated net leverage ratio and a consolidated interest coverage ratio. The maximum consolidated net leverage ratio permitted under the Senior Credit Facility is 3.5 to 1.0. As of December 31, 2024, the Company's consolidated net leverage ratio was 2.01 to 1.0. The minimum consolidated interest coverage ratio permitted under the Senior Credit Facility is 3.0 to 1.0. As of December 31, 2024, the Company's consolidated interest coverage ratio was 7.69 to 1.0. 
+The interest rate under the Senior Credit Facility is variable with a spread based on the Company's debt rating. In addition, the Company pays a facility fee based on the applicable rate, which is variable with a spread based on the Company's debt rating, multiplied by the aggregate commitments of all of the lenders under the Senior Credit Facility. As of December 31, 2024, the Company carried investment-grade credit ratings with both Moody's (Baa2) and S&P Global (BBB-).
+32
+Table of Contents
+The Company renewed the Amended and Restated Asset Securitization Agreement (the "Accounts Receivable Facility") on December 6, 2023. The $100.0 million Accounts Receivable Facility matures on November 30, 2026. The Accounts Receivable Facility is subject to certain borrowing base limitations and is secured by certain domestic trade accounts receivable of the Company. These limitations reduced the availability of the Accounts Receivable Facility to $93.9 million at December 31, 2024. As of December 31, 2024, there were no outstanding borrowings under the Accounts Receivable Facility.
+Other sources of liquidity include uncommitted short-term lines of credit for certain of the Company's foreign subsidiaries, which currently allows for borrowings of up to $226.9 million. At December 31, 2024, the Company had borrowings outstanding of $8.7 million and bank guarantees of $1.6 million, which reduced the aggregate availability under these facilities to $216.6 million. 
+On May 23, 2024, the Company issued fixed-rate unsecured senior notes ("2034 Notes") in the aggregate principal amount of €600 million with an interest rate of 4.125%, maturing on May 23, 2034. Proceeds from the 2034 Notes were used for the redemption of the Company's outstanding fixed-rate unsecured senior notes ("2024 Notes") in the aggregate principal amount of $350 million that were due to mature on September 1, 2024, as well as the repayment of other debt outstanding at the time of the issuance.
+At December 31, 2024, the Company was in full compliance with all applicable covenants on its outstanding debt.
+The Company expects to generate a higher amount of cash from operating activities in 2025 compared to 2024, driven by improved working capital performance, a lower level of capital expenditures, and lower cash taxes. The Company expects capital expenditures in 2025 to be in the range of 3.5% of sales.
+33
+Table of Contents
+FUTURE CONTRACTUAL AND OTHER PAYMENTS
+The Company’s material cash requirements for contractual debt obligations and other contractual commitments outstanding as of December 31, 2024 were as follows:
+Payments due by period:
+Future Contractual and Other Payments
+Total
+Less than
+1 Year
+1-5 Years
+More than
+5 Years
+Interest payments
+$
+600.1
+$
+93.0
+$
+315.5
+$
+191.6
+Long-term debt, including current portion of long-term debt
+2,072.9
+4.3
+1,091.4
+977.2
+Short-term debt
+8.7
+8.7
+—
+—
+Purchase commitments
+114.7
+81.1
+33.6
+—
+Operating leases
+129.5
+36.2
+81.2
+12.1
+Retirement benefit plans
+274.3
+27.4
+117.4
+129.5
+Total
+$
+3,200.2
+$
+250.7
+$
+1,639.1
+$
+1,310.4
+The interest payments beyond five years primarily relate to long-term fixed-rate notes. Refer to 
+Note 12 - Financing Arrangements 
+in the Notes to the Consolidated Financial Statements for additional information. 
+In order to maintain minimum funding requirements, the Company is required to make contributions to the trusts established for its defined benefit pension plans and other postretirement benefit plans. The table above shows the expected future minimum cash contributions to the trusts for the funded plans as well as estimated future benefit payments to participants for the unfunded plans. Those minimum funding requirements and estimated benefit payments can vary significantly. The amounts in the table above are based on actuarial estimates using current assumptions for, among other things, discount rates, expected return on assets and health care cost trend rates. 
+During 2024, the Company made cash contributions and payments of
+ $24.6 million to its global defined benefit pension plans and $1.6 million to its other postretirement benefit plans. Refer to 
+Note 17 - Retirement Benefit Plans 
+and 
+Note 18 - Other Postretirement Benefit Plans 
+in the Notes to the Consolidated Financial Statements for additional information. 
+Refer to 
+Note 5 - Income Taxes 
+and 
+Note 14 - Contingencies 
+in the Notes to the Consolidated Financial Statements for additional information regarding the Company's exposure for certain tax and legal matters.
+In the ordinary course of business, the Company utilizes standby letters of credit issued by financial institutions to guarantee certain obligations, most of which relate to insurance contracts. At December 31, 2024, outstanding letters of credit totaled $55.7 million, primarily having expiration dates within 12 months.
+NEW ACCOUNTING GUIDANCE ISSUED AND NOT YET ADOPTED
+Information required for this Item is incorporated by reference to 
+Note 1 - Significant Accounting Policies
+ in the Notes to the Consolidated Financial Statements.
+34
+Table of Contents
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+The Company’s financial statements are prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the periods presented. The following paragraphs include a discussion of some critical areas that require a higher degree of judgment, estimates and complexity.
+Goodwill and Indefinite-lived Intangible Assets:
+The Company tests goodwill and indefinite-lived intangible assets for impairment at least annually, performing its annual impairment test as of October 1st. Furthermore, goodwill and indefinite-lived intangible assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable. Each interim period, the Company assesses whether or not an indicator of impairment is present that would necessitate a goodwill and indefinite-lived intangible assets impairment analysis be performed in an interim period other than during the fourth quarter.
+As of December 31, 2024, the Company had $1,383.3 million of goodwill on its Consolidated Balance Sheet, of which $692.0 million was attributable to the Engineered Bearings segment and $691.3 million was attributable to the Industrial Motion segment. See 
+Note 9 - Goodwill and Other Intangible Assets 
+in the Notes to the Consolidated Financial Statements for movements in the carrying amount of goodwill by segment.
+The Company reviews goodwill for impairment at the reporting unit level. The Engineered Bearings segment has one reporting unit and the Industrial Motion segment has six reporting units. 
+Accounting guidance permits an entity to first assess qualitative factors to determine whether additional indefinite-lived intangible asset impairment testing, including goodwill, is required. The Company chose to utilize this qualitative assessment in the annual goodwill impairment testing for all reporting units, except its Belts and Chain reporting unit, in the fourth quarter of 2024. Based on the qualitative assessment, the Company concluded that it was more likely than not that the fair value of these reporting units exceeded their respective carrying values. The Company chose to perform a quantitative impairment analysis in the fourth quarter of 2024 for its Belts and Chain reporting unit. The result of this impairment analysis was to recognize an impairment loss of $1.5 million, reducing goodwill for this reporting unit to zero.
+As of December 31, 2024, the Company had $96.0 million of indefinite-lived intangible assets on its Consolidated Balance Sheet. The Company’s indefinite-lived intangible assets primarily consist of acquired trade names. As mentioned above, accounting guidance permits an entity to first assess qualitative factors to determine whether additional indefinite-lived intangible asset impairment testing is required. The Company chose to utilize this qualitative assessment in the annual impairment testing for all of its indefinite-lived intangible assets in the fourth quarter of 2024. Based on the qualitative assessment, the Company concluded that it was more likely than not that the fair value of these indefinite-lived intangible assets would exceed their respective carrying values.
+35
+Table of Contents
+Income Taxes:
+Management judgment is required in determining the provision for income taxes, deferred tax assets and liabilities, valuation allowances against deferred tax assets, and accruals for uncertain tax positions.
+The Company, which is subject to income taxes in the U.S. and numerous non-U.S. jurisdictions, accounts for income taxes in accordance with Accounting Standards Codification ("ASC") Topic 740, “Income Taxes.” Deferred tax assets and liabilities are recorded for the future tax consequences attributable to differences between financial statement carrying amounts of existing assets and liabilities and their respective tax bases, as well as net operating losses and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which temporary differences are expected to be recovered or settled. Deferred tax assets relate primarily to tax loss carryforwards in foreign jurisdictions, as well as pension and postretirement benefit obligations in the U.S., which the Company believes are more likely than not to result in future tax benefits. In determining the need for a valuation allowance, the historical and projected financial performance of the entity recording the net deferred tax asset is considered along with any other pertinent information. The Company recorded $0.9 million in 2024 and $2.1 million in 2023 of tax benefits related to the reversal of valuation allowances. Refer to Note 5 - Income Taxes in the Notes to the Consolidated Financial Statements for further discussion on the valuation allowance reversals. 
+In the ordinary course of the Company’s business, there are many transactions and calculations where the ultimate income tax determination is uncertain. The Company is regularly under audit by tax authorities. Accruals for uncertain tax positions are provided for in accordance with the requirements of ASC Topic 740. The Company records interest and penalties related to uncertain tax positions as a component of income tax expense. In 2024, the Company recorded $2.4 million of net tax benefit for uncertain tax positions, which consisted primarily of $8.8 million related to increases to current and prior year uncertain tax positions and interest. This expense was partially offset by $11.2 million of the net reversal of accruals for prior year uncertain tax positions and settlements with tax authorities. During 2024, the Company recorded a $2.0 million decrease of uncertain tax positions related to foreign currency translation adjustments and deferred tax liabilities. The Company also recorded $5.9 million of uncertain tax positions related to prior years for acquisitions made during 2024.
+Purchase Accounting and Business Combinations:
+Assets acquired and liabilities assumed as part of a business combination are recognized at their acquisition date fair values. In determining these fair values, the Company utilized various forms of the income, cost and market approaches depending on the asset or liability being valued. For certain acquisitions, the Company used a benchmarking model to measure the trade names, customer relationship, and technology and know-how-related intangible assets. The estimation of fair value required judgment related to future net cash flows based on assumptions related to revenue and EBITDA growth rates, customer attrition rates and discount rates. Inputs were generally determined by taking into account competitive trends, market comparisons, independent appraisals, and historical data, among other factors, and were supplemented by current and anticipated market conditions.
+Refer to 
+Note 1 - Significant Accounting Policies
+ for further discussion regarding the fair value process.
+Revenue Recognition:
+A contract exists when it has approval and commitment from both parties, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectability of consideration is probable.
+Revenue is generally recognized as performance obligations under the terms of a contract with a customer of the Company are satisfied. Refer to 
+Note 1 - Significant Accounting Policies
+ in the Notes to the Consolidated Financial Statements for further discussion around the Company's revenue policy.
+36
+Table of Contents
+Benefit Plans:
+The Company sponsors a number of defined benefit pension plans that cover eligible employees. The Company also sponsors several funded and unfunded postretirement plans that provide health care and life insurance benefits for eligible retirees and their dependents. These plans are accounted for in accordance with ASC Topic 715-30, "Defined Benefit Plans – Pension," and ASC Topic 715-60, "Defined Benefit Plans – Other Postretirement."
+The measurement of liabilities related to these plans is based on management's assumptions related to future events, including discount rates and health care cost trend rates. Management regularly evaluates these assumptions and adjusts them as required and appropriate. Other plan assumptions also are reviewed on a regular basis to reflect recent experience and the Company's future expectations. Actual experience that differs from these assumptions may affect future liquidity, expense and the overall financial position of the Company. While the Company believes that current assumptions are appropriate, significant differences in actual experience or significant changes in these assumptions may affect materially the Company's pension and other postretirement employee benefit obligations and its future expense and cash flow.
+The discount rate is used to calculate the present value of expected future pension and postretirement cash flows as of the measurement date. The Company establishes the discount rate by constructing a notional portfolio of high-quality corporate bonds and matching the coupon payments and bond maturities to projected benefit payments under the Company's pension and postretirement welfare plans. The bonds included in the portfolio generally are non-callable. A lower discount rate will result in a higher benefit obligation; conversely, a higher discount rate will result in a lower benefit obligation. The discount rate also is used to calculate the annual interest cost, which is a component of net periodic benefit cost.
+The expected rate of return on plan assets is determined by analyzing the historical long-term performance of the Company's pension plan assets, as well as the mix of plan assets between equities, fixed-income securities and other investments, the expected long-term rate of return expected for those asset classes and long-term inflation rates. Short-term asset performance can differ significantly from the expected rate of return, especially in volatile markets. A lower-than-expected rate of return on pension plan assets will increase pension expense and future contributions. 
+The Company recognizes actuarial gains and losses immediately through net periodic benefit cost upon the annual remeasurement in the fourth quarter, or on an interim basis if specific events trigger a remeasurement. 
+37
+Table of Contents
+Defined Benefit Pension Plans:
+The Company recognized net periodic benefit cost of $12.2 million during 2024 for defined benefit pension plans, compared to net periodic benefit cost of $33.8 million during 2023. The Company recognized net mark-to-market gains of $0.7 million during 2024 compared to net mark-to-market charges of $21.6 million during 2023. Mark-to-market gains during 2024 were primarily due to the impact of a net increase in the discount rate used to measure the Company's defined benefit pension obligations of $28.7 million, partially offset by lower than expected returns on plans assets of $26.8 million and experience losses of $1.2 million. The impact of the net increase in the discount rate used to measure the Company's defined benefit pension obligations was primarily driven by a 95 basis point increase in the discount rate used to measure its plan obligations in the United Kingdom ("U.K."), which increased from 4.48% in 2023 to 5.43% in 2024, and a 43 basis point increase in the weighted-average discount rate used to measure its U.S. plan obligations, which increased from 5.40% in 2023 to 5.83% in 2024. Excluding mark-to-market gains and losses recognized in 2024 and 2023, including a curtailment gain, net period benefit cost was $13.0 million and $12.2 million, respectively. The increase in 2024 was due to a lower expected return on pension assets. 
+In 2025, the Company expects net periodic benefit cost to be approximately $14 million for defined benefit pension plans, compared with net periodic benefit cost of $12.2 million in 2024. Net periodic benefit cost for 2025 does not include mark-to-market charges that will be recognized immediately through earnings in the fourth quarter of 2025, or on an interim basis if specific events trigger a remeasurement. Excluding the mark-to-market gains of $0.7 million and the curtailment gain of $0.1 million, recognized in 2024, net periodic benefit cost was $13.0 million in 2024. The expected increase in net periodic benefit cost for 2025, excluding mark-to-market gains, primarily reflects higher expected interest cost.
+The Company expects to contribute to its defined benefit pension plans or pay directly to participants of defined benefit plans approximately $38 million in 2025 compared with $24.6 million of contributions and payments in 2024. The increase is primarily due to expected contributions of $8 million to the U.K. pension plan in 2025.
+For expense purposes in 2024, the Company applied a weighted-average discount rate of 5.40% to its U.S. defined benefit pension plans. For expense purposes in 2025, the Company will apply a weighted-average discount rate of 5.83% to its U.S. defined benefit pension plans. 
+For expense purposes in 2024, the Company applied an expected weighted-average rate of return of 3.94% for the Company’s U.S. pension plan assets. For expense purposes in 2025, the Company will apply an expected weighted-average rate of return on plan assets of 4.30%.
+The following table presents the sensitivity of the Company's global projected pension benefit obligation ("PBO") to the indicated increase/decrease in key assumptions:
+ + / - Change at December 31, 2024
+Change
+PBO
+Assumption:
+Discount rate
+.25%
+$
+13.0 
+In the table above, a 25 basis point decrease in the discount rate will increase the PBO by $13.0 million and decrease income before income taxes through the recognition of actuarial losses of $13.0 million. A 25 basis point increase in the discount rate will decrease the PBO by $13.0 million and increase income before income taxes through the recognition of actuarial gains of $13.0 million. In addition, a 25 basis point decrease in returns on pension assets will decrease income before income taxes by $0.9 million, and a 25 basis point increase in return on pension assets will increase income before income taxes by $0.9 million.
+38
+Table of Contents
+Other Postretirement Benefit Plans:
+The Company recognized net periodic benefit credit of $6.9 million during 2024 for other postretirement benefit plans, compared to net periodic benefit credit of $7.3 million during 2023. The Company recognized actuarial gains of $0.5 million during 2024 compared to $1.0 million in 2023. Actuarial gains of $0.5 million during 2024 were primarily due to lower than expected benefit payments of $2.0 million, the impact of experience gains of $1.2 million and $0.6 million due to the impact of a 28 basis point increase in the discount rate used to measure the Company's defined benefit postretirement obligations. The discount rate increased from 5.55% in 2023 to 5.83% in 2024. These actuarial gains were partially offset by actuarial losses of $3.1 million due to the impact of an increase in the rate of Medicare Advantage plans and $0.2 million due to changes in other actuarial assumptions.
+In 2025, the Company expects net periodic benefit credit of approximately $6 million for other postretirement benefit plans, compared to net periodic benefit credit of $6.9 million in 2024. Net periodic benefit credit for 2025 does not include actuarial gains or losses that will be recognized immediately through earnings in the fourth quarter of 2025, or on an interim basis if specific events trigger a remeasurement. Excluding the mark-to-market gains of $0.5 million recognized in 2024, the net periodic benefit credit was $6.3 million in 2024.
+For expense purposes in 2024, the Company applied a discount rate of 5.55% to its other postretirement benefit plans. For expense purposes in 2025, the Company will apply a discount rate of 5.83% to its other postretirement benefit plans. 
+The following table presents the sensitivity of the Company's accumulated other postretirement benefit obligation ("APBO") to the indicated increase/decrease in key assumptions:
++ / - Change at December 31, 2024
+Change
+APBO
+Assumption:
+Discount rate
+.25%
+$
+0.6 
+In the table above, a 25 basis point decrease in the discount rate will increase the APBO by $0.6 million and decrease income before income taxes through the recognition of actuarial losses of $0.6 million. A 25 basis point increase in the discount rate will decrease the APBO by $0.6 million and increase income before income taxes through the recognition of actuarial gains of $0.6 million.
+For measurement purposes, the Company assumed a weighted-average annual rate of increase in the per capita cost (health care cost trend rate) for medical benefits of 7.00% for 2025, declining gradually to 5.0% in 2033 and thereafter for medical and prescription drug benefits. For Medicare Advantage benefits, actual contract rates have been set for 2025 through 2026, and are assumed to increase by $10 per year for 2027 through 2029 and then 6.0% for 2029, declining gradually to 5.0% in 2033 and thereafter. The assumed health care cost trend rate may have a significant effect on the amounts reported. A one percentage point increase in the assumed health care cost trend rate would have increased the 2024 total service and interest cost components by $0.1 million and would have increased the postretirement benefit obligation by $0.7 million. A one percentage point decrease would provide corresponding reductions of $0.1 million and $0.7 million, respectively.
+39
+Table of Contents
+NON-GAAP MEASURES
+Supplemental Non-GAAP Measures:
+In addition to results reported in accordance with U.S. GAAP, the Company provides information on non-GAAP financial measures. These non-GAAP financial measures include adjusted net income, adjusted earnings per share, adjusted EBITDA and adjusted EBITDA margins, ratio of net debt to adjusted EBITDA (for the trailing 12 months), net debt, ratio of net debt to capital, free cash flow and return on invested capital. This information is intended to supplement GAAP financial measures and is not intended to replace GAAP financial measures. Net debt and the ratio of net debt to capital is disclosed in the "Liquidity and Capital Resources" section of Management's Discussion and Analysis of Financial Condition and Results of Operations.
+Adjusted Net Income and Adjusted EBITDA:
+Adjusted net income and adjusted earnings per share represent net income attributable to The Timken Company and diluted earnings per share, respectively, adjusted for the amortization of intangible assets related to acquisitions, impairment, restructuring and reorganization charges, acquisition costs, including transaction costs and the amortization of the inventory step-up, property losses and recoveries, actuarial gains and losses associated with the remeasurement of the Company's defined benefit pension and other postretirement benefit plans, gains and losses on the sale of real estate, gains and losses on divestitures, the income tax impact of these adjustments, as well as other income tax discrete items, and other items from time to time that are not part of the Company's core operations. Management believes adjusted net income and adjusted earnings per share are useful to investors as they are representative of the Company's core operations and are used in the management of the business.
+Adjusted EBITDA represents earnings before interest, taxes, depreciation and amortization, adjusted for items that are not part of the Company's core operations. These items include impairment, restructuring and reorganization charges, acquisition costs, including transaction costs and the amortization of the inventory step-up, property losses and recoveries, actuarial gains and losses associated with the remeasurement of the Company's defined benefit pension and other postretirement benefit plans, gains and losses on the sale of real estate, gains and losses on divestitures, and other items from time to time that are not part of the Company's core operations. Management believes adjusted EBITDA is useful to investors as it is representative of the Company's core operations and is used in the management of the business, including decisions concerning the allocation of resources and assessment of performance.
+40
+Table of Contents
+Reconciliation of net income attributable to The Timken Company to adjusted net income, adjusted EBITDA and adjusted EBITDA Margin:
+Twelve Months Ended December 31,
+2024
+2023
+2022
+2021
+2020
+Net sales
+$
+4,573.0
+$
+4,769.0
+$
+4,496.7
+$
+4,132.9
+$
+3,513.2
+Net Income Attributable to The Timken Company
+352.7
+394.1
+407.4
+369.1
+284.5
+Net Income Attributable to The Timken Company as a Percentage of Sales
+7.7%
+8.3%
+9.1%
+8.9%
+8.1%
+Adjustments:
+Acquisition intangible amortization
+78.0
+65.7
+43.9
+46.8
+47.3
+Impairment, restructuring and reorganization
+ charges 
+(1)
+19.1
+60.1
+55.1
+15.1
+29.0
+Corporate pension and other postretirement
+ benefit related (income) expense 
+(2)
+(1.3)
+20.6
+2.9
+0.3
+18.5
+Acquisition-related charges
+ (3)
+13.0
+31.8
+14.8
+3.2
+3.7
+Acquisition-related gain 
+(4)
+—
+—
+—
+(0.9)
+(11.1)
+Gain on divestitures and sale of certain assets 
+(5)
+(14.7)
+(5.2)
+(2.9)
+—
+(0.4)
+Property losses (recoveries) and related
+ expenses 
+(6)
+1.2
+—
+—
+—
+(5.5)
+Tax indemnification and related items
+(1.1)
+—
+0.3
+0.2
+0.5
+CEO succession expenses 
+(7)
+3.7
+—
+—
+—
+—
+Noncontrolling interest of above adjustments
+(0.2)
+(2.1)
+(5.3)
+—
+(0.1)
+Provision for income taxes 
+(8)
+(41.0)
+(56.9)
+(35.9)
+(35.0)
+(18.2)
+Adjusted Net Income
+$
+409.4
+$
+508.1
+$
+480.3
+$
+398.8
+$
+348.2
+Net income attributable to noncontrolling
+ interest
+22.6
+13.9
+9.6
+12.4
+7.9
+Provision for income taxes (as reported)
+118.9
+122.5
+133.9
+95.1
+103.9
+Interest expense
+125.1
+110.7
+74.6
+58.8
+67.6
+Interest income
+(14.9)
+(9.3)
+(3.8)
+(2.3)
+(3.7)
+Depreciation and amortization expense 
+(9)
+220.5
+200.5
+164.0
+167.0
+164.0
+Less: Acquisition intangible amortization
+78.0
+65.7
+43.9
+46.8
+47.3
+Less: Noncontrolling interest
+(0.2)
+(2.1)
+(5.3)
+—
+(0.1)
+Less: Provision for income taxes 
+(8)
+(41.0)
+(56.9)
+(35.9)
+(35.0)
+(18.2)
+Adjusted EBITDA
+$
+844.8
+$
+939.7
+$
+855.9
+$
+718.0
+$
+658.9
+Adjusted EBITDA Margin (% of net sales)
+18.5
+%
+19.7 
+%
+19.0 
+%
+17.4 
+%
+18.8 
+%
+41
+Table of Contents
+Diluted earnings and adjusted earnings per share in the table below are based on net income attributable to The Timken Company and adjusted net income, respectively, in the table above.
+Twelve Months Ended December 31,
+2024
+2023
+2022
+2021
+2020
+Diluted earnings per share (EPS)
+$
+4.99
+$
+5.47 
+$
+5.48 
+$
+4.79 
+$
+3.72 
+Adjusted EPS
+$
+5.79
+$
+7.05 
+$
+6.46 
+$
+5.18 
+$
+4.56 
+Diluted shares
+70,750,482
+72,081,884 
+74,323,839 
+77,006,589 
+76,401,366 
+(1) 
+Impairment, restructuring and reorganization charges (including items recorded in cost of products sold) relate to: (i) plant closures; (ii) the rationalization of certain plants; (iii) severance related to cost reduction initiatives; (iv) impairment of assets; and (v) related depreciation and amortization. Impairment, restructuring and reorganization charges for 2023 included $28.3 million related to the impairment of goodwill. Impairment, restructuring and reorganization charges for 2022 included $29.3 million related to the sale of ADS. The Company re-assesses its operating footprint and cost structure periodically, and makes adjustments as needed that result in restructuring charges. However, management believes these actions are not representative of the Company’s core operations.
+(2) 
+Corporate pension and other postretirement benefit related (income) expense represents actuarial (gains) and losses that resulted from the remeasurement of plan assets and obligations as a result of changes in assumptions or experience. The Company recognizes actuarial (gains) and losses in connection with the annual remeasurement in the fourth quarter, or if specific events trigger a remeasurement. Refer to 
+Note 17 - Retirement Benefit Plans
+ and 
+Note 18 - Other Postretirement Benefit Plans 
+for additional discussion.
+(3)
+ Acquisition-related charges represent deal-related expenses associated with completed transactions and certain unsuccessful transactions, as well as any resulting inventory step-up impact. 
+(4) 
+The acquisition-related gain represents a bargain purchase gain on the acquisition of the assets of Aurora Bearing Company ("Aurora") that closed on November 30, 2020.
+(5) 
+Represents the net gain resulting from divestitures and sale of certain assets.
+(6) 
+Represents property loss and related expenses incurred during the periods presented resulting from a fire that occurred during the second quarter of 2024 at one of the Company's plants in Slovakia, as well as insurance recoveries received in 2020 resulting from property loss that occurred during the first quarter of 2019 at one of the Company's warehouses in Knoxville, Tennessee and during the third quarter of 2019 at one of the Company's warehouses in Yantai, China.
+(7)
+ On March 26, 2024, the Company announced that Richard G. Kyle, President and Chief Executive Officer (“CEO”) of the Company would be retiring from his position as CEO and that Tarak Mehta would be appointed CEO on September 5, 2024. CEO succession expenses include the acceleration of certain stock compensation awards for Mr. Kyle and other one-time costs associated with the transition.
+(8)
+ Provision for income taxes includes the net tax impact on pre-tax adjustments (listed above), the impact of discrete tax items recorded during the respective periods as well as other adjustments to reflect the use of one overall effective tax rate on adjusted pre-tax income.
+(9)
+ Depreciation and amortization shown excludes depreciation recognized in reorganization charges, if any. 
+Free Cash Flow:
+Free cash flow represents net cash provided by operating activities less capital expenditures. Management believes free cash flow is useful to investors because it is a meaningful indicator of cash generated from operating activities available for the execution of its business strategy.
+Reconciliation of net cash provided by operating activities to free cash flow:
+Twelve Months Ended December 31,
+2024
+2023
+2022
+2021
+2020
+Net cash provided by operating activities
+$
+475.6
+$
+545.2 
+$
+463.8 
+$
+387.3 
+$
+577.6 
+Capital expenditures
+(170.0)
+(187.8)
+(178.4)
+(148.3)
+(121.6)
+Free cash flow
+$
+305.6
+$
+357.4 
+$
+285.4 
+$
+239.0 
+$
+456.0 
+42
+Table of Contents
+Ratio of Net Debt to Adjusted EBITDA:
+The ratio of net debt to adjusted EBITDA for the trailing twelve months represents total debt less cash and cash equivalents divided by adjusted EBITDA for the trailing twelve months. T
+he Company presents net debt to adjusted EBITDA because it believes it is more representative of the Company's financial position as it is reflective of the Company's ability to cover its net debt obligations with results from its core operations. Net income for the trailing twelve months ended December 31, 2024 and December 31, 2023 was $375.3 million and $408.0 million, respectively. 
+Net debt to adjusted EBITDA for the trailing twelve months was 2.0 at 
+December 31, 2024
+, compared with 2.1 at 
+December 31, 2023
+. 
+Reconciliation of Net income to Adjusted EBITDA for the twelve months:
+Twelve Months Ended December 31,
+2024
+2023
+Net income
+$
+375.3
+$
+408.0 
+Provision for income taxes
+118.9
+122.5 
+Interest expense
+125.1
+110.7 
+Interest income
+(14.9)
+(9.3)
+Depreciation and amortization
+221.8
+201.3 
+Consolidated EBITDA
+826.2
+833.2 
+Adjustments:
+Impairment, restructuring and reorganization charges 
+(1)
+$
+17.8
+$
+59.3 
+Corporate pension and other postretirement related (income) expense 
+(2)
+(1.3)
+20.6 
+Acquisition-related charges 
+(3)
+13.0
+31.8 
+Property losses and related expenses 
+(4)
+1.2
+— 
+Gain on divestitures and sale of certain assets 
+(5)
+(14.7)
+(2.9)
+CEO succession expenses 
+(6)
+3.7
+— 
+Tax indemnification and related items
+(1.1)
+— 
+ Total Adjustments
+18.6
+108.8 
+Adjusted EBITDA
+$
+844.8
+$
+942.0 
+Net Debt
+$
+1,689.5
+$
+1,977.0 
+Ratio of Net Debt to Adjusted EBITDA
+2.0
+2.1 
+(1) 
+Impairment, restructuring and reorganization charges (including items recorded in cost of products sold) relate to: (i) plant closures; (ii) the rationalization of certain plants; (iii) severance related to cost reduction initiatives; and (iv) impairment of assets. Impairment, restructuring and reorganization charges for the twelve months ended December 31, 2023 included $28.3 million related to the impairment of goodwill. The Company re-assesses its operating footprint and cost structure periodically, and makes adjustments as needed that result in restructuring charges. However, management believes these actions are not representative of the Company’s core operations.
+(2) 
+Corporate pension and other postretirement benefit related (income) expense represents actuarial (gains) and losses that resulted from the remeasurement of plan assets and obligations as a result of changes in assumptions or experience. The Company recognizes actuarial (gains) and losses in connection with the annual remeasurement in the fourth quarter, or if specific events trigger a remeasurement.
+(3)
+ Acquisition-related charges represent deal-related expenses associated with completed transactions and any resulting inventory step-up impact. 
+(4) 
+ Represents property loss and related expenses incurred during the periods presented resulting from property loss that occurred during the second quarter of 2024 at one of the Company's plants in Slovakia.
+(5)
+ Represents the net gain resulting from divestitures and sale of certain assets.
+(6) 
+ On March 26, 2024, the Company announced that Richard G. Kyle, President and CEO of the Company would be retiring from his position as CEO and that Tarak Mehta would be appointed CEO on September 5, 2024. CEO Succession expenses include the acceleration of certain stock compensation awards for Mr. Kyle and other one-time costs associated with the transition.
+43
+Table of Contents
+Return on Invested Capital:
+Return on Invested Capital is defined as adjusted net operating profit after taxes divided by average invested capital. The Company uses Average Invested Capital as a type of non-GAAP ratio that indicates return on invested capital, which management believes is useful to investors as a measure of return on their investment.
+Reconciliation of adjusted net operating profit after taxes, adjusted invested capital and return on adjusted inv
+ested capital:
+Adjusted Net Operating Profit after Taxes (ANOPAT):
+Twelve Months Ended December 31,
+2024
+2023
+2022
+2021
+2020
+Adjusted EBITDA 
+(1)
+$
+844.8
+$
+939.7 
+$
+855.9 
+$
+718.0 
+$
+658.9 
+Acquisition intangible amortization
+78.0
+65.7 
+43.9 
+46.8 
+47.3 
+Less: depreciation and amortization expense 
+(2)
+220.5
+200.5 
+164.0 
+167.0 
+164.0 
+Adjusted EBIT
+702.3
+804.9 
+735.8 
+597.8 
+542.2 
+Adjusted tax rate
+27.0
+%
+25.5 
+%
+25.5 
+%
+24.0 
+%
+25.5 
+%
+Calculated income taxes
+189.6
+205.2 
+187.6 
+143.5 
+138.3 
+ANOPAT
+$
+512.7
+$
+599.7 
+$
+548.2 
+$
+454.3 
+$
+403.9 
+Adjusted Invested Capital:
+Twelve Months Ended December 31,
+2024
+2023
+2022
+2021
+2020
+2019
+Total debt
+$
+2,062.7
+$
+2,395.9 
+$
+1,963.2 
+$
+1,464.9 
+$
+1,564.6 
+$
+1,730.1 
+Less: cash and cash equivalents
+373.2
+418.9 
+331.6 
+257.1 
+320.3 
+209.5 
+Net debt
+1,689.5
+1,977.0 
+1,631.6 
+1,207.8 
+1,244.3 
+1,520.6 
+Total equity
+2,984.1
+2,702.4 
+2,352.9 
+2,377.7 
+2,225.2 
+1,954.8 
+Invested capital (total debt + total 
+ equity)
+4,673.6
+4,679.4 
+3,984.5 
+3,585.5 
+3,469.5 
+3,475.4 
+Invested capital (two-point average)
+$
+4,676.5
+$
+4,332.0 
+$
+3,785.0 
+$
+3,527.5 
+$
+3,472.5 
+Return on Invested Capital:
+Twelve Months Ended December 31,
+2024
+2023
+2022
+2021
+2020
+ANOPAT
+$
+512.7
+$
+599.7 
+$
+548.2 
+$
+454.3 
+$
+403.9 
+Invested capital (two-point average)
+4,676.5
+4,332.0 
+3,785.0 
+3,527.5 
+3,472.5 
+Return on invested capital
+11.0
+%
+13.8 
+%
+14.5 
+%
+12.9 
+%
+11.6 
+%
+(1)
+ Refer to page 
+43
+ for reconciliations to the most directly comparable GAAP financial measures.
+(2)
+ Depreciation and amortization shown excludes depreciation recognized in reorganization charges, if any. 
+44
+Table of Contents
+OTHER DISCLOSURES:
+Foreign Currency:
+Assets and liabilities of subsidiaries are translated at the rate of exchange in effect on the balance sheet date; income and expenses are translated at the average rates of exchange prevailing during the reporting period. Related translation adjustments are reflected as a separate component of accumulated other comprehensive loss. Foreign currency gains and losses resulting from transactions are included in the Consolidated Statements of Income.
+Net of related derivative activity, the Company 
+recognized a foreign currency exchange loss resulting from transactions of $9.3 million for the year ended December 31, 2024, a loss of $14.8 million and a gain of $15.4 million for the years ended December 31, 2023 and 2022, respectively. 
+For the year ended December 31, 2024, the Company recorded a 
+negative
+ non-cash foreign currency translation adjustment of 
+$156.4 million
+ that 
+decreased shareholders’ equity, compared with a positive non-cash foreign currency translation adjustment of $35.3 million that increased shareholders’ equity for the year ended December 31, 2023. The foreign currency translation adjustments for the year ended December 31, 2024 were negatively impacted by the strengthening of the U.S. dollar relative to other currencies as of December 31, 2024 compared to December 31, 2023.
+CEO Succession:
+On September 5, 2024, the Board of Directors (the "Board") of the Company appointed Tarak Mehta President and CEO of the Company and appointed Richard G. Kyle Advisor to the CEO. Mr. Mehta is an accomplished industry veteran who most recently served as President of the Motion business and a member of the Group Executive Committee at ABB Ltd. He succeeds Richard G. Kyle, who has served as Timken’s President and CEO since 2014. 
+Trade Law Enforcement:
+The U.S. government has an antidumping duty order in effect covering tapered roller bearings from China. The Company is a producer of these bearings, as well as ball bearings and other bearing types, in the U.S.
+Quarterly Dividend:
+On February 14, 2025, the Company’s Board of Directors declared a quarterly cash dividend of $0.34 per common share. The quarterly dividend will be paid on March 7, 2025 to shareholders of record as of February 25, 2025. This will be the 411
+th
+consecutive quarterly dividend paid on the common shares of the Company.
+45
+Table of Contents
+Forward-Looking Statements
+Certain statements set forth in this Annual Report on Form 10-K and in the Company’s 2024 Annual Report to Shareholders that are not historical in nature (including the Company’s forecasts, beliefs and expectations) are “forward-looking” statements within the meaning of the Private Securities Litigation Reform Act of 1995. In particular, Management’s Discussion and Analysis contains numerous forward-looking statements. Forward-looking statements generally will be accompanied by words such as “anticipate,” “believe,” “could,” “estimate,” “expect,” “forecast,” “outlook,” “intend,” “may,” “possible,” “potential,” “predict,” “project” or other similar words, phrases or expressions. You are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date of this Annual Report on Form 10-K. The Company cautions readers that actual results may differ materially from those expressed or implied in forward-looking statements made by or on behalf of the Company due to a variety of factors, such as:
+(a)
+deterioration in world economic conditions, or in economic conditions in any of the geographic regions in which the Company or its customers or suppliers conduct business, including adverse effects from a global economic slowdown or recession, pandemics, epidemics or other public health concerns, terrorism, or hostilities. This includes: political risks associated with the potential instability of governments and legal systems in countries in which the Company or its customers or suppliers conduct business, changes in currency valuations, additional costs, taxes and restrictions related to repatriation of cash in international jurisdictions, strained geopolitical relations between countries in which we have significant operations, and recent world events that have increased the risks posed by international trade disputes, tariffs and sanctions;
+(b)
+negative impacts to the Company's business, results of operations, financial position or liquidity, disruption to the Company's supply chains, and negative impacts to operations;
+(c)
+the effects of fluctuations in customer demand on sales, product mix and prices in the industries in which the Company operates. This includes: the ability of the Company to respond to rapid changes in customer demand, disruptions to the Company's supply chain, the effects of customer or supplier bankruptcies or liquidations, the impact of changes in industrial business cycles, the ability of the Company to effectively adjust the prices for its products in response to changing dynamics, the effects of distributor inventory corrections reflecting de-stocking of the supply chain and whether conditions of fair trade continue in the Company's markets;
+(d)
+competitive factors, including changes in market penetration, increasing price competition by existing or new foreign and domestic competitors, the introduction of new products or services by existing and new competitors, competition for skilled labor and new technology that may impact the way the Company’s products are produced, sold or distributed;
+(e)
+changes in operating costs. This includes: the effect of changes in the Company’s manufacturing processes; changes in costs associated with varying levels of operations and manufacturing capacity; availability and cost of raw materials, energy and fuel; changes in costs associated with the effects of tariffs; disruptions to the Company's supply chain and logistical issues associated with port closures or delays or increased costs; changes in the expected costs associated with product warranty claims especially in industry segments with potential high claim values; changes in the global regulatory landscape (including with respect to climate change or other environmental regulations); changes resulting from inventory management and cost reduction initiatives; the effects of unplanned plant shutdowns; the effects of government-imposed restrictions, commercial requirements and Company goals associated with climate change and emissions or other sustainability initiatives; and changes in the cost of labor and benefits;
+(f)
+the success of the Company’s operating plans, announced programs, initiatives and capital investments; the ability to integrate acquired companies and to address material issues both identified and not uncovered during the Company's due diligence review; and the ability of acquired companies to achieve satisfactory operating results, including results being accretive to earnings, realization of synergies and expected cash flow generation; 
+(g)
+the Company’s ability to maintain appropriate relations with unions or works councils that represent Company employees in certain locations in order to avoid disruptions of business; 
+(h)
+the continued attraction, retention and development of management, other key employees, and other skilled personnel, the successful development and execution of succession plans and management of other human capital matters;
+46
+Table of Contents
+(i)
+unanticipated litigation, claims, investigations, remediation or assessments. This includes: claims, investigations or problems related to intellectual property, product liability or warranty, foreign export, sanctions and trade laws, government procurement regulations, competition and anti-bribery laws, climate change, PTFE, PFAS, other environmental or health and safety issues, data privacy and taxes;
+(j)
+the rapidly evolving global regulatory landscape and the corresponding heightened operational complexity and compliance risks;
+(k)
+changes in worldwide financial and capital markets, including fluctuations in interest rates, impacting the availability of financing on satisfactory terms as a result of financial stress affecting the banking system or otherwise, which affect the Company’s cost of funds and/or ability to raise capital, as well as customer demand and the ability of customers to obtain financing to purchase the Company’s products or equipment that contain the Company’s products;
+(l)
+the Company's ability to satisfy its obligations and comply with covenants under its debt agreements, maintain favorable credit ratings and its ability to renew or refinance borrowings on favorable terms; 
+(m)
+the impact on the Company's pension obligations and assets due to changes in interest rates, investment performance and other tactics designed to reduce risk; and
+(n)
+those items identified under Item 1A. Risk Factors on pages 
+9
+ through 
+18
+.
+Additional risks relating to the Company’s business, the industries in which the Company operates or the Company’s common shares may be described from time to time in the Company’s filings with the SEC. All of these risk factors are difficult to predict, are subject to material uncertainties that may affect actual results and may be beyond the Company’s control.
+Readers are cautioned that it is not possible to predict or identify all of the risks, uncertainties and other factors that may affect future results and that the above list should not be considered to be a complete list. Except as required by the federal securities laws, the Company undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise.
+47
+Table of Contents

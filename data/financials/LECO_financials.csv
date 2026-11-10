@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+LECO,2022,3761211000.0,612336000.0,0.16280288449650923,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+LECO,2023,4191636000.0,717849000.0,0.17125747560141197,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+LECO,2024,4008670000.0,636462000.0,0.1587713630705446,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+LECO,2025,4233003000.0,718059000.0,0.16963347297415096,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

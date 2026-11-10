@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+LII,2022,4718400000.0,656200000.0,0.13907256697185486,Revenues,OperatingIncomeLoss
+LII,2023,4981900000.0,791500000.0,0.1588751279632269,Revenues,OperatingIncomeLoss
+LII,2024,5341300000.0,1040400000.0,0.19478404133825097,Revenues,OperatingIncomeLoss
+LII,2025,5195300000.0,1041500000.0,0.20046965526533597,Revenues,OperatingIncomeLoss

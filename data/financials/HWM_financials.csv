@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+HWM,2022,5663000000.0,919000000.0,0.1622814762493378,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+HWM,2023,6640000000.0,1203000000.0,0.18117469879518072,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+HWM,2024,7430000000.0,1633000000.0,0.21978465679676984,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+HWM,2025,8252000000.0,2046000000.0,0.24793989335918565,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

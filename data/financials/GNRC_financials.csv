@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+GNRC,2022,4564737000.0,566330000.0,0.12406629341405649,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+GNRC,2023,4022667000.0,386199000.0,0.09600570964486993,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+GNRC,2024,4295834000.0,536742000.0,0.12494477207452616,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+GNRC,2025,4209147000.0,289191000.0,0.06870536952023772,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

@@ -1,0 +1,1573 @@
+PART I
+ITEM 1. BUSINESS
+OVERVIEW
+ We discover, develop and commercialize therapeutics, therapeutic devices and
+therapeutic regimens designed to suppress undesired immune responses and enhance
+the body's ability to accept donor cells, tissues and organs. We believe that
+our patented products and product candidates, either alone, in combination or
+with modified conventional therapies, will address significant unmet medical
+needs in autoimmune diseases, cancer and transplantation.
+ MEDI-507. We have developed a novel and proprietary humanized monoclonal
+antibody, MEDI-507, that we believe will be effective in the treatment of a
+number of T cell-mediated diseases. We have exclusively licensed MEDI-507 for
+use as a stand-alone agent to MedImmune, Inc., which is developing it under the
+name Siplizumab. MedImmune has announced completion of enrollment of multiple
+Phase II clinical trials of Siplizumab for the treatment of moderate to severe
+psoriasis. We are also independently developing MEDI-507 as a component of
+transplantation systems.
+ ELIGIX-TM- HDM CELL SEPARATION SYSTEMS. Our Eligix HDM Cell Separation
+Systems use monoclonal antibodies to remove unwanted cells from bone marrow,
+peripheral blood stem cell and donor leukocyte grafts used in transplantation
+procedures. Our BCell Separation System, BCell-SC, and our initial TCell
+Separation System, CD8-DLI, have received CE Mark approval and are sold in
+Europe by Gambro BCT, our European sales and distribution partner. We expect to
+receive CE Mark approval for our CD8-SC Cell Separation System in late 2002.
+ ALLOMUNE SYSTEMS. We are currently developing our AlloMune Systems as
+multiple-component proprietary therapeutic regimens intended to re-educate a
+patient's immune system to prevent the rejection of transplanted cells, tissues
+and organs. MEDI-507 is an important component of our AlloMune Systems, and we
+are developing the next generation of AlloMune Systems to incorporate our Eligix
+HDM Cell Separation Systems. We are currently conducting a multi-center Phase
+I/II clinical trial of our AlloMune System for Cancer for the treatment of
+refractory lymphoma. A physician-sponsored investigational new drug pilot
+clinical study using our AlloMune System for Transplantation for human kidney
+transplantation has also been started.
+ XENOTRANSPLANTATION. Our joint venture with Novartis Pharma AG, Immerge
+BioTherapeutics, is researching the use of MEDI-507 and other proprietary
+technologies as part of a xenotransplantation system. Xenotransplantation is the
+transplantation of cells, tissues or organs from one species to another. Immerge
+BioTherapeutics is currently conducting animal studies to test the use of
+miniature swine organs in swine-to-primate transplantation.
+ 1
+PRODUCTS AND PRODUCTS UNDER DEVELOPMENT
+ The following table summarizes the status of our products and products under
+development:
+ PRODUCTS AND PRODUCTS COLLABORATOR/
+ UNDER DEVELOPMENT APPLICATION STATUS* DISTRIBUTOR
+------------------------ ------------------------ ------------------------ ------------------------
+MEDI-507 (Siplizumab) Psoriasis Phase II completed MedImmune
+ enrollment
+Eligix HDM Cell
+ Separation Systems
+ BCell Separation
+ System
+ PURGING OF MALIGNANT
+ B CELLS
+ BCell-SC Autologous bone marrow EUROPE: CE Mark approval Gambro
+ transplantation received in 2001;
+ launched in the fourth
+ quarter of 2001
+ U.S.: Phase III** None
+ TCell Separation
+ Systems
+ DEPLETION OF CD8+ T
+ CELLS
+ CD8-DLI Donor leukocyte EUROPE: CE Mark approval Gambro
+ infusions, or DLIs received in 2001;
+ launched in the fourth
+ quarter of 2001
+ U.S.: Phase III planned None
+ for late 2002**
+ CD8-SC Allogeneic bone marrow EUROPE: CE Mark approval Gambro
+ transplantation expected in late 2002
+ U.S.: Preclinical None
+ Investigator sponsored
+ Phase I/II
+AlloMune Systems
+ AlloMune System for Refractory Lymphoma Phase I/II None
+ Cancer
+ Refractory Hematological Physician IND Massachusetts General
+ Malignancies Hospital
+AlloMune System for Kidney Transplantation Physician IND Massachusetts General
+ Transplantation Hospital
+Xenotransplantation Animal to human Preclinical Joint Venture with
+ transplantation Novartis (Immerge)
+--------------------------
+* Preclinical means that the product is being evaluated or optimized in
+ laboratory and/or animal models. Phase I means an investigational new drug
+ application, or IND, or an investigational device exemption, or IDE, has
+ been filed with the United States Food and Drug Administration and that the
+ product candidate is in clinical trials to evaluate safety in healthy
+ volunteers. An investigator sponsored clinical trial is a trial that is
+ being sponsored by the investigator or institution where the trial is being
+ conducted. Physician IND means that a physician has filed with the FDA to
+ conduct a study under his or her own protocol. Phase I/II means the product
+ candidate is in clinical trials for safety and initial indications of
+ efficacy in patients. Phase II means that the product candidate is in
+ clinical trials for safety and potential efficacy in patients. Phase III
+ typically means the product candidate is in additional clinical trials for
+ safety and efficacy in an expanded population.
+** We do not anticipate commercialization of the product candidate in the U.S.
+ for a number of years.
+ 2
+MEDI-507
+ OVERVIEW
+ MEDI-507 is a novel and proprietary humanized monoclonal antibody that may
+be effective in treating T cell-mediated diseases. A monoclonal antibody is a
+single antibody that reacts to a specific antigen, or cell marker, and can
+trigger or block an immune response. T cells are white blood cells that are
+responsible for part of the body's primary immune response to foreign antigens.
+When T cells come in contact with foreign tissue, they become activated and
+proliferate. The T cells then attack and destroy the targeted foreign tissue,
+or, in the case of autoimmune disease, mistakenly attack the body's own tissue.
+This is noticeable in psoriasis, an autoimmune disease characterized by
+inflammation of, and dry, scaling, red lesions on, the skin. It is now well
+established that auto-reactive T cells drive this process. Similarly, in
+multiple sclerosis, rheumatoid arthritis and Crohn's disease, the T cells target
+the individual's own tissue and the resulting destruction of the tissue causes
+debilitating autoimmune symptoms. MEDI-507 strongly inhibits the immune response
+triggered by T cells by binding to CD2, which is a receptor found on T cells. By
+binding to CD2, MEDI-507 can either turn off the T cell responses or, through
+alternative dosing, selectively remove T cell populations from the body, while
+allowing other immune cells to respond normally to other antigens. We have
+exclusively licensed MEDI-507 for use as a stand-alone agent to MedImmune, which
+is developing the monoclonal antibody under the name Siplizumab primarily for
+the treatment of autoimmune diseases. We are entitled to royalties from
+MedImmune on sales of Siplizumab and future generations of stand-alone products.
+ Sources estimate that new therapeutic approaches will cause the market for
+autoimmune disorder treatments to grow to a value of over $21 billion by 2006.
+Autoimmune disease is currently the third target category of illness in the
+industrialized world, behind heart disease and cancer, and is now the focus of
+intense research.
+ PSORIASIS
+ MedImmune is focusing its initial development efforts with Siplizumab on the
+treatment of moderate to severe psoriasis. Psoriasis is an autoimmune disease
+that leads to chronic inflammation of, and dry, scaling, red lesions on, the
+skin as well as other more serious consequences. More than seven million
+Americans suffer from psoriasis, and an estimated 150,000 to 260,000 new cases
+are diagnosed annually. Of these, an estimated 20% to 25% have moderate to
+severe psoriasis. Psoriasis can be a debilitating disease for which there is no
+known cure. The aggregate annual cost of outpatient treatment is estimated to be
+between $1.6 billion and $3.2 billion.
+ MedImmune has announced completion of Phase I and Phase I/II clinical trials
+to evaluate Siplizumab for moderate to severe psoriasis. Reported results from a
+pooled analysis of 79 patients in these clinical trials indicate that over 70%
+of patients achieved at least a 25% improvement in their Psoriasis Area and
+Severity Index, or PASI, score. Moreover, approximately 56% and 39% of patients
+receiving the highest doses achieved at least a 50% and at least a 75%
+improvement in PASI score, respectively. MedImmune is presently conducting a
+comprehensive Phase II program for the treatment of psoriasis that includes 44
+sites and has a completed enrollment of more than 400 patients.
+ OTHER INDICATIONS
+ MedImmune has indicated its intention to initiate Siplizumab clinical trials
+in psoriatic arthritis and rheumatoid arthritis and is also exploring other
+potential indications.
+ 3
+ELIGIX HDM CELL SEPARATION SYSTEMS
+ OVERVIEW
+ We developed our proprietary Eligix HDM Cell Separation Systems to remove
+unwanted populations of cells in bone marrow, peripheral blood stem cell, or
+PBSC, and donor leukocyte grafts used in transplantation procedures. Bone marrow
+contains cells, referred to as stem cells, that have the ability to develop into
+the different kinds of blood cells in the human body. When bone marrow
+containing these stem cells is collected from one individual and transplanted
+into a recipient who has been conditioned with irradiation or chemotherapy, the
+stem cells from the donor bone marrow take root, or engraft, into the bone
+marrow of the recipient and replace some or all of the recipient's blood cells.
+Alternatively, because it is often easier to collect the stem cells from
+peripheral blood rather than bone marrow, a donor can be treated with agents
+that induce the stem cells to migrate from the bone marrow into the blood and
+then the blood stem cells can be removed from the donor's blood. A preparation
+containing these blood stem cells can then be transplanted into the recipient in
+a procedure referred to as a peripheral blood stem cell transplant, with similar
+results as a bone marrow transplant. Bone marrow registry sources estimate that
+there were approximately 47,000 bone marrow and stem cell transplant procedures
+performed worldwide in 1998, the last year for which data were available to the
+registry.
+ There are two types of bone marrow transplantation that are currently
+performed: autologous bone marrow transplantation and allogeneic bone marrow
+transplantation. In autologous transplantation, doctors use the patient's own
+bone marrow cells, which are harvested prior to administration of high-dose
+chemotherapy and/or radiation, to reconstitute the patient's bone marrow cells
+following high-dose chemotherapy treatment and/or radiation. However, the
+patient is at risk for cancer relapse, with one cause of relapse being potential
+cancer cell contamination of the autologous bone marrow being returned to the
+patient. In allogeneic transplantation, the patient receives transplanted bone
+marrow cells or peripheral blood stem cells harvested from a healthy donor.
+However, differences in the antigens of donor and recipient significantly limit
+donor availability for allogeneic bone marrow transplantation. Even when the
+donor and the recipient are tissue-matched siblings, complications such as
+graft-versus-host disease, poor immune function, and graft failure can occur as
+a result of immune responses to minor antigen differences between donor and
+recipient, as well as from the side effects caused by the treatments used to
+overcome these differences.
+ Antigen differences between the donor and the recipient may complicate
+treatment of tumors which relapse following allogeneic bone marrow or PBSC
+transplants. Until recently, a second transplant was the primary treatment
+option for patients who had cancer relapses following allogeneic bone marrow or
+PBSC transplantations. The intention is to introduce an anti-tumor response with
+the immune cells contained in the second transplant. Unfortunately, this second
+treatment often results in a high incidence of treatment-related complications,
+including graft-versus-host disease. Graft-versus-host disease occurs when the
+donor's immune cells recognize the patient's cells as foreign and begin to
+attack the patient's normal cells, tissues and organs, even in the presence of
+therapeutic agents, with possible fatal consequences. A published study suggests
+that it is possible to infuse donor immune cells following an allogeneic
+transplant, and this treatment may induce remissions in patients who have
+relapsed after donor transplantations. Known as a donor leukocyte infusion, or
+DLI, this procedure has emerged as an effective treatment for patients receiving
+allogeneic bone marrow transplants for blood cancers.
+ The Eligix HDM Cell Separation Systems consist of high density
+microparticles, referred to as HDM, to which monoclonal antibodies specific for
+targeted cell surface antigens are coupled. Mixing HDM-conjugated-antibodies
+with blood or bone marrow EX VIVO, or outside the body, allows the binding of
+specific cells in the blood or bone marrow to the HDM. Once the specific cells
+are bound to the HDM, they are then removed from the blood or bone marrow by
+allowing the HDM to settle out from
+ 4
+the blood or bone marrow by gravity. Removing cancerous cells from autologous
+bone marrow transplants may reduce the risk of relapse in blood cell cancers.
+Alternatively, removing the donor T cells that react with the recipient reduces
+the risk of graft-versus-host disease in allogeneic transplants. In addition to
+removing unwanted cells from blood or bone marrow such as cancerous cells or T
+cells reactive with the recipient's tissues, the Eligix HDM Cell Separation
+Systems can be used to isolate cells useful for activation of the immune system
+against specific targets. These cells include specific T cells or antigen
+presenting cells which can be increased in number in the laboratory and then
+reinfused into the patient for anti-viral or anti-tumor adoptive immunotherapy.
+ BCELL SEPARATION SYSTEM
+ Our BCell Separation System is designed to effectively purge B cells from
+autologous bone marrow and stem cell transplantation procedures in patients
+undergoing high dose chemotherapy and/or radiation for B cell malignancies. A
+significant portion of blood cancers and lymphomas are of B cell origin, or
+consist of the cancerous counterparts to normal cells of B cell lineage. B cells
+are immune cells that are responsible for the production of antibodies in
+defense of viral and bacterial infections. In healthy individuals, B cells are
+only a minor fraction of the blood cells. However, in patients with B cell
+malignancies, B cells start to multiply uncontrollably and increase to numbers
+that are eventually detrimental to immune functions. Non-Hodgkins lymphoma, or
+NHL, is the most prevalent of these B cell cancers treated with high dose
+chemotherapy and/or radiation followed by an autologous bone marrow transplant.
+Currently, two thirds of patients diagnosed with intermediate or high grade NHL
+are not cured with conventional treatments. Of these patients, approximately one
+half are cured by autologous bone marrow transplantation following high dose
+chemotherapy and/or radiation. The remaining one half will likely relapse. A
+published study has demonstrated a reduced rate of relapse in NHL patients when
+the patients received autologous bone marrow that was effectively purged of
+malignant B cells.
+ Our BCell-SC Cell Separation System has received CE Mark approval,
+permitting its sale in the European Union. Pursuant to a distribution agreement
+with Gambro AB, this system is currently being marketed in Europe through
+Gambro. We are currently conducting a multi-center Phase III trial in the U.S.
+but do not anticipate commercialization of the product candidate in the U.S. for
+a number of years.
+ TCELL SEPARATION SYSTEMS
+ DONOR LEUKOCYTE INFUSION. Our CD8-DLI Cell Separation System is a TCell
+Separation System developed to remove the CD8+ T cells from DLIs. By depleting
+the CD8+ T cells in the DLI, we believe the incidence of graft-versus-host
+disease in patients receiving DLIs will be reduced. The clinical utility of
+conventional DLI has been reduced by the incidence of graft-versus-host disease
+associated with the procedure. However, a published study suggests that when
+patients receive DLIs that have been depleted of CD8+ T cells, rates of acute
+graft-versus-host disease were reduced as compared to patients given
+conventional DLIs, without the CD8+ T cells depleted. In the same study, the
+anti-tumor efficacy of the DLI was retained in the patients receiving DLIs with
+the CD8+ T cells depleted.
+ Investigators who wish to perform such manipulation of DLI currently rely
+upon developing their own antibodies to deplete CD8+ T cells. We believe that
+our TCell Separation Systems will provide institutions with instruments and
+reagents produced by current good manufacturing practice that will ensure
+treatment consistency across institutions.
+ Our CD8-DLI Cell Separation System has received CE Mark approval, and,
+pursuant to our distribution agreement with Gambro, this system is being
+marketed in Europe through Gambro. We believe that our CD8-DLI Cell Separation
+System is currently the only product of its type which has
+ 5
+received CE Mark approval and is commercially available in Europe. Pending FDA
+concurrence with our trial plan, we plan to begin a Phase III trial in late
+2002, but we do not anticipate commercialization of the product candidate in the
+U.S. for a number of years.
+ PERIPHERAL BLOOD STEM CELL TRANSPLANTATION. We are developing our CD8-SC
+Cell Separation System to deplete CD8+ T cells from PBSC transplantation
+procedures in which patients receive PBSCs from a human leukocyte antigen, or
+HLA, matched donor for the treatment of blood cancers or tumors. HLA proteins
+are the major cell surface proteins used by the body's immune system for
+recognition and differentiation of "self" from "non-self." An individual
+possesses only a small, relatively unique set of HLA proteins. Each individual,
+other than identical twins, has unique HLA proteins. Following PBSC
+transplantations, many complications, such as graft-versus-host disease, poor
+immune function and transplant failure, often occur. The more different the HLA
+proteins of the donor and the recipient, the more frequent the occurrence of
+graft-versus-host disease. Reducing the incidence and/or severity of
+graft-versus-host disease will increase the pool of possible transplant
+recipients. We expect that by depleting the CD8+ T cells, which are the cells
+thought to be responsible for causing graft-versus-host disease, from the donor
+PBSC, our CD8-SC Cell Separation System will reduce the incidence and severity
+of graft-versus-host disease.
+ We expect to receive CE Mark approval for our CD8-SC Cell Separation System
+in late 2002. We are conducting pilot clinical studies in the U.S. under an
+investigator sponsored IDE and expect to file an IDE application, which we will
+sponsor, to begin Phase I clinical trials by the end of 2002.
+ OTHER APPLICATIONS
+ We are pursuing research and development of additional Eligix HDM Cell
+Separation System candidates that expand the utility of this technology. We are
+developing these product candidates to separate additional specific subsets of
+cells from bone marrow or blood stem cell preparations. Particular indications
+currently in research and development are:
+ - the selection and activation of disease-specific immune cells to enhance a
+ patient's immune response to disease;
+ - the selective activation of immune response against cancers and infectious
+ diseases; and
+ - the removal of cells that interfere with the ability to achieve immune
+ system tolerance for the prevention of rejection and resultant organ
+ failure in solid organ and tissue transplants.
+ALLOMUNE SYSTEMS
+ OVERVIEW
+ We are currently developing our AlloMune Systems as multiple-component
+proprietary therapeutic regimens intended to re-educate a patient's immune
+system to accept transplanted cells, tissues and organs. This re-education is
+expected to be accomplished by establishing a state of mixed bone marrow
+chimerism between the patient and the donor in which the patient's immune system
+recognizes the donor's cells, tissues and organs as "self." Mixed bone marrow
+chimerism refers to bone marrow of a transplant recipient in which the cells of
+both the donor and the patient co-exist. We expect our AlloMune Systems to be
+less debilitating procedures for donor bone marrow transplantations in the
+treatment of blood cell cancers and to reduce the need for lifelong
+immunosuppressive therapy in connection with human organ transplants. We believe
+our AlloMune Systems are suitable for elderly and relatively infirm patients, as
+well as patients without tissue-matched donors, and, therefore, will enable a
+significant expansion of the pool of patients to be considered for
+transplantation.
+ The immune system is one of the major biological defense mechanisms
+protecting an individual against disease and invasion by disease-causing agents,
+referred to as pathogens. In the context of
+ 6
+transplantation, the immune system can distinguish self from foreign, non-self,
+cells by recognizing specific markers on cells called antigens. The immune
+system is capable of producing a biological response to destroy and eliminate
+the cells carrying the foreign antigens.
+ When an individual receives a cell, tissue or organ transplant, the
+recipient's immune system generally recognizes the transplanted tissue as
+foreign and initiates an immune response, resulting in rejection of the foreign
+cell, tissue or organ. This immune response results from the recognition by the
+immune system of foreign antigens on the surface of the cells of the donor that
+are different from those of the recipient.
+ The current approach to preventing rejection in transplant patients is to
+administer a combination of immunosuppressive medications, which suppress the
+ability of T cells to recognize and respond to antigens. These medications,
+however, not only inhibit T cells from recognizing antigens of donor cells,
+tissues or organs, but also block the patient's T cells from recognizing other
+foreign antigens. As a result, the transplant recipient is vulnerable to viral,
+bacterial and fungal infections. In addition, long-term use of these
+immunosuppressive drugs can lead to cardiovascular disease, kidney and liver
+damage, as well as an increased incidence of some types of cancer such as skin
+and lip cancer and lymphomas.
+ To achieve mixed bone marrow chimerism, the doctor first blocks the
+patient's immune response to the new foreign antigens from the donor by giving
+the patient injections of an anti-T cell antibody, such as MEDI-507, which
+depletes the patient's mature T cells. The doctor performs this process prior to
+the transplantation of the donor bone marrow into the patient. Concurrent with
+the administration of the anti-T cell antibody, the patient receives doses of
+radiation or drugs to make space in the patient's bone marrow and allow the
+transplanted bone marrow to "seed" the newly created space. The doctor then
+injects bone marrow cells from the donor into the patient.
+ We believe that the creation of mixed bone marrow chimerism will cause the
+patient to tolerate the donor antigens and regard them as antigens of the
+patient. By regarding the donor's antigens as self, the patient's immune system
+retains its ability to respond to foreign pathogens without rejecting cells,
+tissues or organs transplanted from the bone marrow donor. In addition, in the
+case of blood cell cancers, the creation of mixed bone marrow chimerism allows
+the immune cells from the donor to preferentially attack only the cancer cells
+rather than all of the patient's own cells.
+ We also intend to incorporate our Eligix HDM Cell Separation Systems
+technology into our AlloMune Systems. We plan to use the Eligix HDM Cell
+Separation Systems technology to deplete T cells from allogeneic transplants.
+This procedure is expected to eliminate the specific T cells that are primarily
+responsible for graft-versus-host disease from the donor bone marrow or stem
+cells.
+ ALLOMUNE SYSTEM FOR CANCER
+ We are developing our AlloMune System for Cancer as a treatment regimen for
+several types of blood cancers, such as lymphomas, leukemias and myelomas, as
+well as other malignancies. Our AlloMune System for Cancer is intended to
+re-program a patient's immune system so that a greater number of patients can
+benefit from potentially life-saving bone marrow transplantation with a lower
+risk of debilitating side effects. Our AlloMune System for Cancer will employ a
+less-intensive therapeutic regimen that does not destroy the patient's own bone
+marrow, thereby enabling more patients to tolerate the treatment. We believe
+that our AlloMune System for Cancer will make bone marrow transplants more
+successful by allowing the transplanted bone marrow to aggressively attack
+cancer cells but not the patient's own normal tissues.
+ In 2001, our clinical collaborators at Massachusetts General Hospital, or
+MGH, presented data at the annual meeting of the American Society for Hematology
+demonstrating that a prototype of our AlloMune System for Cancer, including a
+mild course of chemotherapy and antibody mediated T cell
+ 7
+depletion, in some cases by the use of MEDI-507, followed by bone marrow
+transplantation, was found to positively effect the treatment of large B-cell
+lymphoma, referred to as L-BCL, in patients. Patients with advanced chemotherapy
+refractory L-BCL normally have a poor prognosis with only a remote possibility
+of survival following conventional, harsh chemotherapeutic regimens. In this
+pilot trial, 20 patients with advanced L-BCL were treated. Eight of nineteen
+evaluable patients achieved a response, with five achieving a complete response
+and three achieving a partial response, including three of ten that received
+transplants from donors with HLA that matched that of the recipient and five of
+ten patients receiving transplants from partial HLA mismatched donors. Of these
+20, five patients were alive and progression-free 13 to 52 months after
+transplant at the time of the presentation.
+ In further studies by our clinical collaborators at MGH presented at the
+same conference, 69 patients with a variety of refractory blood disorders had
+transplants using a similar mild regimen including T cell depletion of the
+recipient. Forty-six of these patients received a bone marrow transplant from an
+HLA-matched donor and 23 received a transplant from an HLA-mismatched donor.
+Thirty five percent of patients who maintained long-term full or partial donor
+chimerism achieved a complete anti-tumor response or complete remission. Even
+among 20 patients who subsequently lost chimerism, four patients, all with
+refractory non-Hodgkins lymphoma developed complete anti-tumor responses. Two of
+these patients relapsed at six to eight months post-transplant while the other
+two remain in complete remission more than two years after the transplant.
+ In early 2000, we initiated a Phase I/II clinical trial of our AlloMune
+System for Cancer to treat patients with therapy-resistant lymphoma under an
+investigational new drug application. We have completed enrollment of patients
+in this study and are in the process of analyzing the data. We expect to perform
+additional Phase I/II studies by the end of 2002.
+ ALLOMUNE SYSTEM FOR TRANSPLANTATION
+ We are developing our AlloMune System for Transplantation to re-program a
+patient's immune system to accept a transplanted donor organ without the need
+for life-long immunosuppressive therapy. We expect our AlloMune System for
+Transplantation to establish a state of mixed bone marrow chimerism in which the
+patient and donor T cells will recognize the other's cells, tissues and organs
+as self.
+ In 2000, over 30,000 organ transplants were performed in patients suffering
+from end-stage kidney, liver, heart, pancreas, intestine and lung disease in the
+United States and Western Europe. We estimate that patients in the United States
+spend over $5.0 billion annually on the transplantation of organs and tissues.
+Care subsequent to the transplant accounts for over half of the costs of organ
+transplantation. These post-transplant healthcare costs include costs associated
+with lifelong immunosuppressive therapy and hospitalizations due to
+complications resulting from the chronic use of immunosuppressive drugs,
+infections and transplant rejections. We expect that improvements in
+transplantation technology that reduce the wait for suitable organs and minimize
+infections and other complications will lower the overall cost, and improve the
+outcome of treating, end-stage organ disease.
+ Our clinical collaborators at MGH have initiated an investigator sponsored,
+institutional hospital review board-approved Phase I/II proof-of-principle
+evaluation of a prototype AlloMune System for Transplantation in humans.
+Physicians at MGH have treated two patients with end-stage kidney disease that
+developed as a result of refractory multiple myeloma, a blood cell cancer. The
+patients each received a simultaneous bone marrow and kidney transplant. As of
+February 2002, both patients had good kidney function with remission of the
+myeloma and without having received immunosuppressive drug therapy for more than
+three years in the case of the first patient, and more than 14 months in the
+case of the second patient.
+ 8
+XENOTRANSPLANTATION
+ Xenotransplantation is intended to address the problems arising from the
+limited supply of available human cells, tissues and organs for transplantation
+by developing technologies to permit the transplantation of cells, tissues and
+organs from other species, such as swine, into humans.
+ There is a critical shortage of organs for transplantation worldwide. United
+Network of Organ Sharing reports that over 79,000 patients in the United States
+suffering from end-stage organ disease are currently on waiting lists for a
+lifesaving organ transplant. If an adequate supply of transplant organs were
+available and the complications of transplantation minimized, we estimate that
+an additional 100,000 critically ill patients annually could benefit from organ
+transplantation.
+ Since 1993, we have collaborated with Novartis to research and develop
+xenotransplantation products. In September 2000, we entered into a joint venture
+with Novartis, Immerge BioTherapeutics, to continue research on
+xenotransplantation products using the technology and intellectual property that
+we and Novartis had previously developed, both independently and in
+collaboration with one another. Immerge BioTherapeutics began operations in
+January 2001. The goal of the joint venture is to demonstrate the feasibility
+and safety of swine-to-primate transplantation leading to clinical trials by
+Novartis of xenotransplantation for the treatment of end-stage organ failure in
+humans. We expect that the joint venture will conduct this research in three
+general areas:
+ - First, the joint venture will seek to demonstrate proof of concept for
+ organ survival in primate model systems in collaboration with researchers
+ at MGH. These experiments will employ several technologies and procedures,
+ including:
+ - swine that carry human genes that inhibit hyperacute rejection,
+ referred to as transgenic swine;
+ - proprietary inbred miniature swine;
+ - proprietary technology licensed from the Alberta Research Council,
+ which removes natural antibodies from the recipient's blood prior to
+ the transplant to reduce or eliminate hyperacute rejection;
+ - immunosuppressive compounds; and
+ - the transplantation of pig thymus tissue to re-program the recipient's
+ immune system to recognize the donor tissue as self.
+ - Second, the joint venture will continue studies begun by us to examine the
+ safety of swine-to-human xenotransplantation. Others have demonstrated
+ that a type of porcine, or swine, virus, referred to as porcine endogenous
+ retrovirus, has the potential to infect human cells. Studies conducted by
+ us have documented that, on a consistent basis, some miniature swine do
+ not infect human cells in culture with porcine endogenous retrovirus.
+ - Third, the joint venture will focus on adapting recent successes in
+ porcine nuclear transfer technology in which a genetically modified
+ miniature swine has been cloned with modifications that are believed to
+ enhance the survival rates of swine organs in primates. In February 2002,
+ the joint venture and a collaborative partner announced the birth of the
+ first piglets genetically modified to lack the gene thought to be
+ responsible for causing hyperacute rejection in swine-to-human
+ transplantation. This was accomplished by knocking out, or eliminating,
+ one of the two genes from this same strain of miniature swine that produce
+ a key sugar molecule that is responsible for triggering the hyperacute
+ rejection process that historically occurs following xenotransplantation.
+ The hyperacute rejection response happens when human antibodies attach to
+ these sugar molecules on the surface of the transplanted pig organ's
+ cells. Once they attach, the antibodies kill the cells. If both genes that
+ produce the sugar molecule can be successfully
+ 9
+ eliminated, it is believed that the hyperacute rejection process can not
+ begin because there is no sugar for the antibodies to attach to.
+COLLABORATIONS AND AGREEMENTS
+ As part of our strategy, we have established alliances with pharmaceutical
+and other life science companies, academic institutions, scientists and
+government laboratories. Since inception, substantially all of our revenues have
+been derived from our strategic alliances. Currently, our principal strategic
+alliances are the following:
+ MEDIMMUNE
+ In October 1995, we formed a collaborative arrangement with MedImmune for
+the development and commercialization of products to treat and prevent
+transplant rejection and autoimmune diseases. The collaboration is based upon
+the development of products derived from the BTI-322 monoclonal antibody,
+MEDI-507 and future generations of products derived from these molecules. In
+connection with the collaboration, we granted MedImmune an exclusive worldwide
+license to develop and commercialize the BTI-322 monoclonal antibody and
+MEDI-507 and any products based on the BTI-322 monoclonal antibody or MEDI-507,
+other than the use of the BTI-322 monoclonal antibody or MEDI-507 in kits or
+systems for xenotransplantation or allogeneic transplantation. MedImmune paid us
+a $2.0 million license fee at the time of formation of the collaboration and
+agreed to fund and assume responsibility for clinical testing and
+commercialization of any resulting products. MedImmune also provided
+$2.0 million in non-refundable research support through December 31, 1997 and
+has agreed to make milestone payments which could total an additional
+$11.0 million, all of which is repayable from royalties on the BTI-322
+monoclonal antibody or MEDI-507. MedImmune has also agreed to pay royalties on
+any sales of the BTI-322 monoclonal antibody or MEDI-507 and future generations
+of products, if any. Royalties will largely depend upon the efforts of MedImmune
+to perform clinical testing, obtain regulatory approvals and market and sell the
+BTI-322 monoclonal antibody and MEDI-507. MedImmune controls the amount and
+timing of the resources devoted to these activities. MedImmune is currently
+developing MEDI-507 under the name Siplizumab.
+ DR. DAVID H. SACHS/MGH
+ In January 1991, we entered into a ten-year agreement with MGH, which was
+extended for an additional five-year term in December 2000, under which we fund
+a portion of the research of Dr. Sachs and other MGH personnel in the area of
+transplantation of cells, tissues and organs. In exchange for our research
+funding, MGH has granted us exclusive worldwide royalty-bearing rights to
+technology and inventions developed in the course of research funded by us,
+subject to a royalty to be paid to MGH and subject to customary retention rights
+of the United States government. We also have a right of first refusal in
+connection with any additional research proposals in the field of tissue and
+organ transplantation to be submitted by Dr. Sachs and his colleagues, who are
+funded by us, to other commercial sponsors.
+ NOVARTIS/BIOTRANSPLANT JOINT VENTURE
+ From 1993 through October 2000, we were party to two collaboration
+agreements with Novartis to research, develop and commercialize
+xenotransplantation products. During the collaboration, we received an aggregate
+of $33.5 million in research funding and $16.5 million in license fees and
+milestone payments from Novartis. In September 2000, we entered into an
+arrangement with Novartis to combine our respective expertise in the field of
+xenotransplantation into a newly formed, independently run Swiss company,
+Immerge BioTherapeutics AG, and terminated our prior collaborations in
+xenotransplantation.
+ 10
+ Novartis has committed to provide an aggregate of $30.0 million in research
+funding over three years to the joint venture, $20 million of which has been
+received to date by the joint venture to cover Novartis's funding obligations
+through 2002. Both we and Novartis have exclusively licensed to the joint
+venture patent rights and technology in the field of xenotransplantation. The
+joint venture has granted to Novartis an exclusive, worldwide, royalty-bearing
+license to develop and commercialize any xenotransplantation products resulting
+from its research. We will receive royalties from the sale of
+xenotransplantation products by Novartis, if any.
+ In December 2000, Immerge BioTherapeutics AG formed a wholly owned Delaware
+subsidiary, Immerge BioTherapeutics, Inc. The Delaware subsidiary entered into a
+contract research agreement with us, under which we have committed approximately
+20 full-time employees to perform research for the joint venture and we have
+also agreed to provide administrative services for the joint venture, at a
+negotiated rate.
+ Novartis holds 67% of the shares of the joint venture and we hold the
+remaining 33%. All income, gain, profit or loss of the joint venture will be
+allocated to us and Novartis pro rata based on our respective equity ownership
+of the joint venture in effect in the period in which these items accrue. The
+board of directors of Immerge BioTherapeutics, Inc. consists of four directors:
+one selected by us, one selected by Novartis and two additional directors, one
+each designated by us and Novartis, who are experts in the field of
+xenotransplantation. Immerge BioTherapeutics AG has agreed not to undertake, or
+permit its subsidiaries to undertake, specified fundamental corporate actions
+without the consent of both shareholders. The joint venture began operations in
+January 2001.
+ CHARLES RIVER LABORATORIES
+ According to the terms of a miniature swine transfer and maintenance
+agreement with Charles River Laboratories, we and Immerge BioTherapeutics will
+have exclusive rights to use miniature swine that Charles River Laboratories is
+developing for use in the allogeneic transplantation and xenotransplantation
+programs, respectively. We and Immerge BioTherapeutics will bear our
+proportionate costs of maintaining the miniature swine herd. The agreement
+expires in 2003, but the parties may agree to renew the agreement for an
+additional period.
+ STEM CELL SCIENCES LTD.
+ We have made equity investments in Stem Cell Sciences Ltd. that currently
+represent approximately 25% of the outstanding shares of that company. Stem Cell
+Sciences has used substantially all of the consideration from our equity
+investment to fund the research and development of nuclear transfer technology
+and, in particular, the development of technology, products and processes useful
+for xenotransplantation in humans. According to the terms of a strategic
+alliance with Stem Cell Sciences, Immerge BioTherapeutics will have worldwide,
+exclusive rights, subject to the payment of a royalty, to technology, products
+and processes for the derivation and manipulation of porcine embryonic stem
+cells and nuclear transfer technology developed during the research term and
+useful in xenotransplantation in humans.
+ ALBERTA RESEARCH COUNCIL
+ The Alberta Research Council has granted us a worldwide royalty-bearing
+license for specified patents and patent applications covering technology
+potentially useful for removal of natural antibodies against xenografts. We
+exclusively sublicense our rights under this agreement to Immerge
+BioTherapeutics. The license is exclusive except for one patent application
+directed to the removal of natural antibodies against xenografts, which is
+co-owned by one of the inventors and was assigned to a competitor. The Alberta
+Research Council has also granted us a non-exclusive, worldwide, royalty bearing
+license to use any of its information, data, formulas or processing information
+that pertain to
+ 11
+the manufacture, development or use of any products resulting from the licensed
+patents in the field of xenotransplantation. We sublicense our rights under this
+agreement to Immerge BioTherapeutics.
+ The agreement imposes on us an obligation to indemnify Alberta Research
+Council against claims arising from our, or our sublicensee's, development,
+manufacture or sale of any products that are developed through the use of the
+patented technology licensed from Alberta Research Council. In addition, during
+any time when we or our sublicensees are selling products based upon the
+licensed technology, we are required to maintain general liability insurance.
+Finally, the agreement imposes on us an obligation to use reasonable efforts and
+diligence to research, develop and commercialize products based upon the
+licensed technology. If we fail to meet these obligations, Alberta Research
+Council may reduce the exclusive license to a non-exclusive one or terminate the
+agreement. Moreover, if we materially breach the agreement and fail to remedy
+our breach within 30 days, Alberta Research Council may terminate the agreement
+at any time on written notice to us. The license agreement expires when the last
+patent within the patent rights licensed to us by Alberta Research Council has
+expired.
+ CATHOLIC UNIVERSITY OF LOUVAIN (BELGIUM)
+ We are funding research by Drs. Herve Bazin and Dominique Latinne at the
+Experimental Immunology Unit of the Catholic University of Louvain, Belgium, for
+the development of monoclonal antibodies. We have exclusive, worldwide
+royalty-bearing commercialization rights to discoveries, including the BTI-322
+monoclonal antibody, made in laboratories under our sponsorship, subject to a
+royalty.
+ The agreement imposes on us an obligation to indemnify Catholic University
+of Louvain against claims arising from our, or our sublicensee's, development,
+manufacture or sale of any products that are developed through the use of the
+patented technology licensed from Catholic University of Louvain. The agreement
+also imposes on us an obligation to use reasonable efforts and diligence to
+research, develop and commercialize products based upon the licensed technology.
+If we fail to meet these obligations, Catholic University of Louvain may reduce
+the license to a non-exclusive one. Moreover, if we fail to meet our payment
+obligations and fail to remedy our breach within 30 days, Catholic University of
+Louvain may terminate the agreement at any time on written notice to us. The
+license agreement expires when the last patent within the patent rights licensed
+to us by Catholic University has expired.
+MANUFACTURING AND SUPPLY
+ We currently have a manufacturing facility in Medford, Massachusetts, and
+manufacturing staff only for clinical and commercial production of the Eligix
+HDM Cell Separation Systems. We have no manufacturing facilities or staff for
+clinical or commercial production of any other products or systems under
+development. We plan to rely initially on third parties to manufacture our other
+product candidates for research, preclinical testing, clinical trials and
+commercialization, if any, with a long-term objective to develop internal
+manufacturing capability where appropriate.
+ MedImmune is manufacturing supplies of MEDI-507 required for our preclinical
+studies and clinical trials. We have the option to continue to use MedImmune as
+a supplier or to use an alternative manufacturer or supplier.
+ 12
+ Novartis has exclusive worldwide rights to manufacture any
+xenotransplantation products arising from the research program conducted by
+Immerge BioTherapeutics.
+SALES AND MARKETING
+ MEDI-507
+ MedImmune has exclusive worldwide marketing rights to the BTI-322 monoclonal
+antibody, MEDI-507 and future generations of these products, if any, other than
+the use of the BTI-322 monoclonal antibody and MEDI-507 for kits or systems for
+xenotransplantation and allogeneic transplantation.
+ ELIGIX HDM CELL SEPARATION SYSTEMS
+ In August 2001, we entered into an exclusive distribution agreement with
+Gambro BCT, a wholly owned subsidiary of Gambro AB, for the distribution of our
+Eligix HDM Cell Separation Systems. Under the agreement, as amended, we granted
+Gambro the exclusive right to distribute these products worldwide, with the
+exception of the United States and Japan, and the non-exclusive right to
+distribute these products in Canada. Gambro also has the option to negotiate the
+terms of an exclusive arrangement for Canada. If we are unable to negotiate an
+exclusive arrangement in Canada and subsequently reach an agreement with a third
+party, then Gambro's non-exclusive rights in Canada will terminate. Gambro has
+the exclusive option for a limited period of time to negotiate for the exclusive
+right to distribute products in the United States by making a one-time payment
+to us. Thereafter, Gambro has the option, without payment of a fee, to negotiate
+on a non-exclusive basis for United States distribution rights. Gambro also has
+a right of prior notice and first negotiation with respect to any third-party
+discussions we may seek to engage in with respect to distribution in Japan. The
+two companies will also share revenues based upon a specific formula. Under the
+terms of the agreement, we will be responsible for developing, manufacturing and
+seeking to obtain CE Mark approval for our Eligix HDM Cell Separation Systems.
+The first two of these products, the BCell-SC and CD8-DLI Cell Separation
+Systems, have received CE Mark approval, permitting their sale in the European
+Union. Gambro will be responsible for continued clinical market development and
+all other aspects of marketing, sales and distribution. In August and
+September 2001, we received an upfront licensing fee of $4.0 million, plus
+milestone payments of $2.0 million for obtaining CE Mark approval for our
+BCell-SC and CD8-DLI Cell Separation Systems. We will receive future milestone
+payments for other new products, if any, receiving CE Mark approval. We expect
+to receive CE Mark approval for our CD8-SC Cell Separation System by the end of
+2002.
+ We hired a vice president of marketing through the Eligix acquisition. This
+person will oversee our European commercialization initiatives and our market
+development efforts in other regions of the world. Additional marketing
+resources have been employed in Europe and in the U.S. to further support the
+market development of the Eligix HDM Cell Separation Systems platform.
+ ALLOMUNE SYSTEMS
+ We currently hold all marketing rights to our AlloMune Systems, although we
+may seek a corporate partner to support the further development and
+commercialization of the AlloMune Systems. Pending regulatory approval in the
+United States, we intend to market our AlloMune System for Cancer and our
+AlloMune System for Transplantation to the approximately 250 transplant centers,
+which we believe will allow significant market coverage with relatively few
+sales personnel. To implement this marketing strategy, we expect to hire a
+limited number of sales and marketing personnel, although we may rely upon third
+parties that have established distribution systems and direct sales forces. In
+foreign markets, we expect to use local pharmaceutical companies to market our
+products and systems due to the complexities of foreign regulations and medical
+practices.
+ 13
+ XENOTRANSPLANTATION
+ Novartis has exclusive worldwide rights to market and sell
+xenotransplantation products, if any, arising from the research program
+conducted by Immerge BioTherapeutics.
+RESEARCH AND DEVELOPMENT
+ Our total research and development expenses were approximately
+$15.7 million, $15.0 million and $10.9 million for 1999, 2000 and 2001,
+respectively.
+PATENTS AND PROPRIETARY RIGHTS
+ As of February 15, 2002, we owned or had been licensed 56 issued United
+States patents and 31 allowed or pending United States patent applications, as
+well as applications for foreign patents. These patents, which expire at various
+times between 2005 and 2017, and patent applications are directed to, among
+other things, MEDI-507, our AlloMune Systems and our xenotransplantation
+technologies.
+ Our policy is to aggressively prosecute and enforce our patents and
+proprietary technology. We intend to continue to file United States and foreign
+patent applications to protect technology, inventions and improvements that are
+considered important to the development of our business. We also rely upon trade
+secrets, know how, continuing technological innovation and licensing
+opportunities to develop and maintain our competitive position.
+ A patent recently issued to a major pharmaceutical company directed towards
+recombinant production of monoclonal antibodies. We may require a license under
+this patent with respect to MEDI-507. There can be no assurance that such a
+license will be granted to us or that we can obtain a license on terms favorable
+to us. If a required license is not available, our ability to generate revenue
+would be adversely affected.
+ We have reviewed issued patents that include claims relating to humanized
+monoclonal antibodies. These patents are held by biotechnology companies and an
+academic institution. We, together with MedImmune, have obtained a license for
+MEDI-507 from Protein Design Laboratories Inc. under its humanized antibody
+patents.
+ We are also aware of a granted United States patent directed to the
+production of transgenic animals by the use of a microinjection technique that
+is licensed to a competitor. This patent could have an adverse impact on our, or
+our licensees' and collaborators' ability to produce transgenic animals by
+microinjection. In addition, we are aware of a United States patent that is
+directed to embryonic stem cells. This patent may have an adverse impact on our,
+or our licensees' or collaborators', programs for producing transgenic swine by
+the use of embryonic stem cells.
+ Some of our know-how and technology is not patentable. To protect our
+rights, we require all of our employees, consultants, advisors and collaborators
+to enter into confidentiality agreements with us.
+COMPETITION
+ We face intense competition from a wide range of pharmaceutical,
+biopharmaceutical and medical device companies, as well as academic and research
+institutions and government agencies. Our competitors include organizations that
+are pursuing the same or similar technologies as those that constitute our
+technology platform and organizations that are pursuing products that are
+competitive with our potential products. To the extent that these technologies
+or products address the problems associated with autoimmune disease, cancer or
+transplantation on which we have focused, they may represent significant
+competition.
+ Many of the organizations competing against us have financial and other
+resources substantially greater than our own. In addition, many of our
+competitors have significantly greater experience in
+ 14
+testing pharmaceutical and other therapeutic products, obtaining FDA and other
+regulatory approvals, and commercializing and selling products for use in health
+care. Accordingly, our competitors may succeed more rapidly than we will in
+obtaining FDA approval or achieving market penetration for products. If we
+commence significant commercial sales of our products, we will also be competing
+with respect to manufacturing efficiency and marketing capabilities, areas in
+which we have limited or no experience.
+ Principal competitive factors for our products and product candidates
+include:
+ - efficacy;
+ - safety;
+ - reliability;
+ - price;
+ - availability of reimbursement; and
+ - intellectual property position.
+ We believe that the quality and breadth of our technology platform, the
+skill of our employees, our intellectual property platform and our capabilities
+for research and development are competitive strengths. However, many of our
+competitors have significantly larger technology and intellectual property
+platforms than we do and greater capabilities in research and development.
+ MEDI-507. We are aware of several companies that are pursuing treatments
+for psoriasis, including Biogen, Inc., Immunex Corporation, Centocor, Inc. and
+Genentech, Inc.
+ ELIGIX HDM CELL SEPARATION SYSTEMS. There are two key device competitors to
+the Eligix HDM Cell Separation Systems platform: Baxter's Isolex 300I and
+Miltenyi Biotec's CliniMacs. Both of these technologies primarily focus on CD34+
+selection to remove unwanted cell populations, either tumor cells or T cells.
+Several papers have recently been published which conclude that patients have an
+increased risk of infection and/or relapse when a stem cell product containing
+only CD34+ cells is given to the patient.
+ There are various pharmaceutical companies that compete for the treatment of
+patients suffering from B cell malignacies. IDEC Pharmaceuticals and
+Genentech Inc. co-market an antibody directed against CD20, a B cell surface
+antigen, and Corixa Incorporated has a similar product in late-stage clinical
+development. These products are indicated for use in patients suffering from
+relapse or refractory, low-grade NHL. Another monoclonal antibody, Campath-1H
+(alemtuzumab), was recently approved for the treatment of refractory chronic
+lymphocytic leukemia.
+ ALLOMUNE SYSTEMS. Various service providers are attempting to commercialize
+customized stem cell products for allogeneic transplantation, including Xcyte
+Pharmaceuticals and Chimeric Therapies, Inc. Chimeric has announced plans to
+develop mixed bone marrow chimerism to induce tolerance for allogeneic bone
+marrow transplants.
+GOVERNMENT REGULATION
+ OVERVIEW
+ The development and commercialization of our products will be subject to
+extensive regulation in the United States by a number of regulatory authorities,
+including the United States Food and Drug Administration, and by comparable
+regulatory authorities in foreign countries. These regulatory authorities and
+other federal, state and local entities will regulate, among other things, the
+preclinical
+ 15
+and clinical testing, safety, effectiveness, approval, manufacturing, labeling,
+packaging, export, storage, recordkeeping, adverse event reporting, and
+promotion and advertising of our products.
+ We will require FDA approval of our products, including a review of the
+manufacturing processes and facilities used to produce our products, before we
+may market the products in the United States. Based upon initial discussions
+with the FDA, we believe that the BTI-322 monoclonal antibody and MEDI-507 will
+be classified as biological products by the FDA. Biological products are subject
+to dual regulation. Their approval for marketing, among other things, is
+regulated under the Public Health Service Act through a biologics license
+application, or BLA. However, biological products are also drugs and must meet
+drug standards under the Federal Food, Drug and Cosmetic Act, including good
+manufacturing practices regulations and regulations governing clinical trials.
+Our Eligix HDM Cell Separation Systems are currently undergoing clinical trials
+to gather safety and effectiveness data to support FDA approval for marketing in
+the United States. We believe that our Eligix HDM Cell Separation Systems will
+require approval of a premarket approval application, or PMA, before we can
+market them in the United States. Our AlloMune System may be treated as a
+combination product to the extent it combines devices, drugs, or biologics,
+E.G., use of our Eligix HDM Cell Separation Systems, a device, in combination
+with MEDI-507, a biologic. Combination products are regulated on the basis of
+product's primary mode of action, and can require approval and/or review by more
+than one regulatory center of FDA.
+ Xenotransplantation products are generally regulated as biologics, however,
+they also can be part of a combination product, I.E., a xenotransplantation
+product in combination with a drug or device. The Public Health Service and the
+FDA have published a number of draft and final guidances on xenotransplantation
+products. We cannot predict the content of future policy or regulations relating
+to xenotransplantation products, or the effect any future policy or regulation
+may have on our, or our licensees' or collaborators' ability to research,
+develop, manufacture and market xenotransplantation products.
+ CLINICAL TRIAL PROCESS
+ Development of a therapeutic product for human use under applicable laws and
+regulations is a multi-step process. First, in vitro and/or animal testing must
+be conducted in a manner consistent with good laboratory practices to establish
+the potential safety and effectiveness of the experimental product in a given
+disease. Before human clinical trials may begin for new drugs and biologics, an
+investigational new drug application containing, among other things, the
+preclinical data, chemistry, manufacturing and control information, and an
+investigative plan, must be submitted to the FDA. Clinical trials of medical
+devices generally require the same sort of submission in the form of an
+application for an investigational device exemption. In addition, approval and
+oversight by an Institutional Review Board and adherence to requirements for
+proper informed consent from study subjects are required, unless a device
+sponsor is exempted from these requirements. Once a trial begins, changes to the
+investigational product or study protocol may require prior approval before they
+can be implemented. There can be no assurance that submission of an
+investigational new drug application or an investigational device exemption will
+result in the ability to commence clinical trials. In addition, the FDA may
+place a clinical trial on hold or terminate it at any phase if, among other
+reasons, it concludes that clinical subjects are being exposed to an
+unacceptable health risk.
+ Clinical trials of pharmaceuticals or biologics typically involve three
+phases, although those phases can overlap.
+ - Phase I is conducted to evaluate the safety and pharmacokinetics of the
+ experimental product in humans, and if possible, to gain early indications
+ of effectiveness and begin to evaluate various routes, dosages and
+ schedules of product administration.
+ 16
+ - Phase I/II clinical trials are conducted to evaluate safety and initial
+ efficacy indications in the patient population afflicted with a specific
+ disease or condition for which the product is intended for use.
+ - Phase II clinical trials are conducted in groups of patients afflicted
+ with a specific disease or condition for which the product is intended for
+ use in order to further test safety, begin evaluating effectiveness,
+ optimize dosage amounts and determine dose schedules and routes of
+ administration.
+ - Phase III studies are usually randomized, double blind studies testing for
+ product safety and effectiveness in an expanded patient population in
+ order to evaluate the overall risk/benefit relationship of the product and
+ to provide an adequate basis for product labeling. These studies also may
+ compare the safety and effectiveness of the product with currently
+ available products.
+ BIOLOGICS APPROVAL PROCESS
+ For products that are regulated through a BLA application, following
+completion of clinical investigations, the preclinical and clinical data that
+have been accumulated, together with chemistry and manufacturing and controls
+specifications and information, are submitted to the FDA in a BLA. The FDA may
+refuse to accept a BLA for filing if certain content criteria are not met and
+may require additional information, including clinical data, before approval. To
+approve a BLA, the agency must determine, among other things, that the product
+is safe, pure, and potent, and that any facility in which it is manufactured,
+processed, packed or held, meets standards designed to assure the product's
+continued safety, purity, and potency.
+ If the FDA approves a BLA, we will need to continue to be compliant with
+strict FDA requirements concerning good manufacturing practices, enforced by
+periodic inspections, and adverse event reporting, as well as with any special
+requirements imposed as a part of the biologics license application approval.
+With certain exceptions, changes to the labeling of approved biological products
+require approved supplemental applications. Also, changes in the product or
+manufacturing that have a substantial potential to adversely affect product
+safety or effectiveness likewise require supplemental applications. These
+supplemental applications may require the submission of clinical or
+comparability data and must be approved before the product may be marketed as
+modified. The approval process is lengthy, expensive and uncertain.
+ The Orphan Drug Act of 1983 generally provides incentives to manufacturers
+to undertake development and marketing of products to treat relatively rare
+diseases, those where fewer than 200,000 persons in the United States at the
+time of application for orphan drug designation would be likely to receive the
+treatment. A product that receives orphan drug designation by the FDA and is the
+first product to receive FDA marketing approval for its indication is entitled
+to a seven-year exclusive marketing period in the United States for that
+indication. We intend to pursue this designation with respect to any of our
+products intended for patient populations in the United States of less than
+200,000. MEDI-507 has received orphan drug designation, both as a stand-alone
+product, and as a component of our AlloMune Systems. Orphan drug exclusivity can
+be terminated for a number of reasons, including that the manufacturer cannot
+provide an adequate supply of the drug.
+ MEDICAL DEVICE APPROVAL PROCESS
+ Medical devices are regulated by FDA according to their classification. FDA
+classifies a medical device into one of three categories based on the device's
+risk and what is known about the device. The three categories are as follows:
+ Class I devices are generally lower risk products for which sufficient
+information exists establishing that general regulatory controls provide
+reasonable assurance of safety and effectiveness. Most class I
+ 17
+devices are exempt from the requirement for premarket notification under
+section 510(k) of the Federal Food, Drug, and Cosmetic Act. FDA clearance of a
+premarket notification is necessary prior to marketing a non-exempt class I
+device in the United States.
+ Class II devices are devices for which general regulatory controls are
+insufficient to provide a reasonable assurance of safety and effectiveness and
+for which there is sufficient information to establish special controls, such as
+guidance documents or performance standards, to provide a reasonable assurance
+of safety and effectiveness. A 510(k) clearance is necessary prior to marketing
+a non-exempt class II device in the United States.
+ Class III devices are devices for which there is insufficient information
+demonstrating that general and special controls will provide a reasonable
+assurance of safety and effectiveness and which are life-sustaining,
+life-supporting or implantable devices, or devices posing substantial risk.
+Unless a device is a preamendments device that is not subject to a regulation
+requiring a PMA, FDA generally must approve a PMA prior to the marketing of a
+class III device in the United States.
+ The PMA process is expensive and uncertain. A PMA must be supported by valid
+scientific evidence, which typically includes extensive data, including
+pre-clinical data and clinical data from well-controlled or partially controlled
+clinical trials, to demonstrate the safety and effectiveness of the device.
+Product and manufacturing and controls specifications and information must also
+be provided. As with BLAs, FDA may refuse to accept a PMA for filing and often
+will require additional clinical trial data or other information before
+approval. Obtaining approval can take several years and approval may be
+conditioned on, among other things, the conduct of postmarket clinical studies.
+Any subsequent change to an approved PMA that affects the safety or
+effectiveness of the device will require approval of a supplemental PMA. We
+cannot be sure that approval of a PMA or PMA supplement will be granted on a
+timely basis, if at all, or that FDA's approval process will not involve costs
+and delays that will adversely affect our ability to commercialize our products.
+ Whether or not a product is required to be approved before marketing, we
+must comply with strict FDA requirements applicable to devices, including
+quality system requirements pertaining to all aspects of our product design and
+manufacturing process, such as requirements for packaging, labeling, record
+keeping, including complaint files, and corrective and preventive action related
+to product or process deficiencies. The FDA enforces its quality system
+requirements through periodic inspections of medical device manufacturing
+facilities. In addition, Medical Device Reports must be submitted to FDA to
+report device-related deaths or serious injuries, and malfunctions the
+recurrence of which would likely cause serious injury or death. Medical device
+reports can result in agency action such as inspection, recalls, and
+patient/physician notifications, and are often the basis for agency enforcement
+actions. Because the reports are publicly available, they can also become the
+basis for private tort suits, including class actions.
+ LABELING AND ADVERTISING
+ The nature of marketing claims that the FDA will permit us to make in the
+labeling and advertising of our biologics and medical devices will be limited to
+those specified in an FDA approval, and claims exceeding those that are approved
+will constitute a violation of the Federal Food, Drug, and Cosmetics Act.
+Violations of the Federal Food, Drug, and Cosmetics Act, Public Health Service
+Act, or regulatory requirements at any time during the product development
+process, approval process, or after approval may result in agency enforcement
+actions, including voluntary or mandatory recall, license suspension or
+revocation, premarket approval withdrawal, seizure of products, fines,
+injunctions and/or civil or criminal penalties. Any agency enforcement action
+could have a material adverse effect on us.
+ The advertising of our products will also be subject to regulation by the
+Federal Trade Commission, under the FTC Act. The FTC Act prohibits unfair
+methods of competition and unfair or deceptive acts in or affecting commerce.
+Violations of the FTC Act, such as failure to have
+ 18
+substantiation for product claims, would subject us to a variety of enforcement
+actions, including compulsory process, cease and desist orders, and injunctions.
+FTC enforcement can result in orders requiring, among other things, limits on
+advertising, corrective advertising, consumer redress, and restitution.
+Violations of FTC enforcement orders can result in substantial fines or other
+penalties.
+ EUROPEAN REGULATION
+ Our BCell-SC and CD8-DLI Eligix Cell Separation Systems received CE Mark
+approval in 2001. The CE Mark denotes conformity with European standards for
+safety and allows certified devices to be placed on the market in all European
+Union countries. As of June 1998, medical devices may not be sold in European
+Union countries unless they display the CE Mark. We are subject to surveillance
+audits to ensure we remain in compliance with applicable European standards for
+quality assurance and manufacturing process control.
+ We also face several regulatory obstacles in the European Union for our
+biologic products. Although there are minor orphan drug provisions in some
+European countries, there is, as yet, no overall process equivalent to that
+followed in the United States. The results of all preclinical,
+development/manufacturing and Phase I, II and III clinical study data generated
+in Europe or the United States may also be submitted to the European Medicines
+Evaluation Agency, the counterpart of the FDA, for approval as a Marketing
+Approval Application, or MAA, which is the equivalent of a biologics license
+application. Approval of the MAA permits product marketing within all countries
+of the European Union. This MAA procedure can take a year or more to complete.
+Approval procedures for marketing of products in countries that are not European
+Union member states vary from country to country and the time required for
+approval may be longer or shorter than that required for FDA approval. In
+addition, for products exported from the United States to any foreign country or
+territory, applicable FDA export requirements must be met.
+ Federal, state and foreign laws and regulations regarding the manufacture
+and sale of medical devices and biologics are subject to change. We cannot
+predict what effect, if any, these changes may have on our business, and we
+cannot assure you that these changes will not have a material adverse effect.
+EMPLOYEES
+ As of December 31, 2001, we had 105 full-time employees, 89 of whom were
+engaged in research, development, manufacturing, clinical, regulatory affairs
+and quality assurance/quality control activities. Of our full time employees, 20
+devote substantially all of their time to research for the joint venture with
+Novartis under a research agreement with Immerge BioTherapeutics, Inc. None of
+our employees are represented by a labor union or covered by a collective
+bargaining agreement. We believe our relationship with our employees is good.
+ We were incorporated in the State of Delaware in 1990. Our corporate
+headquarters are located at Building 75, 3rd Avenue, Charlestown Navy Yard,
+Charlestown, MA 02129 and our telephone number is (617) 241-5200.
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS
+ This Annual Report on Form 10-K contains forward-looking statements. For
+this purpose, any statements contained in this Report that are not statements of
+historical fact may be deemed to be forward-looking statements. We use words
+such as "believes," "anticipates," "plans," "expects," "intends," and similar
+expressions to identify forward-looking statements. There are a number of
+important factors that could cause our actual results to differ materially from
+those indicated by such forward-looking statements. These factors include,
+without limitation, those set forth below and
+ 19
+elsewhere in this Annual Report on Form 10-K. We caution investors that we may
+not update any or all of the forward-looking statements we have provided in this
+Annual Report on Form 10-K.
+FACTORS THAT MAY AFFECT RESULTS
+WE HAVE A HISTORY OF OPERATING LOSSES AND OUR FUTURE PROFITABILITY IS UNCERTAIN.
+ We were incorporated in 1990 and have experienced significant operating
+losses in each year since that date. As of December 31, 2001, our accumulated
+deficit was $111.5 million. Our net loss for the fiscal years ended
+December 31, 2001, 2000 and 1999 was $42.6 million, $11.7 million and
+$8.7 million, respectively. We expect to continue to incur significant losses
+for the foreseeable future. We only began selling our BCell-SC and CD8-DLI Cell
+Separation Systems in Europe in late 2001. To date, our revenue has been
+generated principally from license fee and milestone payments from our
+collaborative partners. We may never achieve significant revenues from product
+sales, and we may not achieve profitable operations.
+WE WILL REQUIRE SUBSTANTIAL ADDITIONAL FINANCING, WHICH MAY BE DIFFICULT TO
+OBTAIN AND MAY DILUTE YOUR OWNERSHIP INTEREST IN US.
+ We anticipate that our existing funds will be sufficient to fund our
+operating and capital requirements as currently planned into the first quarter
+of 2003. We expect to use rather than generate funds from operations for the
+foreseeable future. The actual amount of funds we will require will be
+determined by a number of factors, many of which are beyond our control. In
+particular, we will require substantial funds to conduct research and
+development, including preclinical testing and clinical trials of our AlloMune
+Systems and Eligix HDM Cell Separation Systems and to manufacture products that
+are approved for commercial sale, such as our BCell-SC and CD8-DLI Cell
+Separation Systems, which we began selling through a distributor in Europe in
+late 2001. If we cannot raise more funds, we could be required to reduce our
+capital expenditures, scale back or abandon our research and product development
+activities, reduce our workforce and license to others products or technologies
+we would otherwise seek to commercialize ourselves.
+ We will seek additional funding through collaborative arrangements, by
+borrowing money or by selling additional equity securities. Any sales of
+additional equity securities are likely to result in further dilution to our
+then existing stockholders. Further, if we issue additional equity securities,
+the new equity securities may have rights, preferences or privileges senior to
+those of existing holders of our common stock. We may also borrow money from
+conventional lenders, possibly at high interest rates and on other terms that
+are unfavorable to us, which will increase the risk of your holdings. Despite
+our efforts, additional funding may not be available to us at all or only on
+terms that are unacceptable to us. We also could be required to seek funds
+through arrangements with collaborative partners or others that may require us
+to relinquish rights to our technologies, product candidates or products which
+we would otherwise pursue on our own.
+WE WILL DEPEND ON OUR BCELL-SC AND CD8-DLI CELL SEPARATION SYSTEMS FOR
+SUBSTANTIALLY ALL OF OUR NEAR-TERM PRODUCT REVENUE, AND IF THESE PRODUCTS DO NOT
+GAIN WIDESPREAD MARKET ACCEPTANCE, THEN OUR NEAR-TERM PRODUCT REVENUE WILL NOT
+GROW.
+ Our future growth depends upon our ability to successfully commercialize and
+sell our products. We expect to derive most of our near-term product revenues
+from sales of our BCell-SC and CD8-DLI Cell Separation Systems. We began
+distributing these products through a distribution agreement with Gambro in late
+2001 and, to date, we have sold relatively few devices. Because we currently
+depend on our BCell-SC and CD8-DLI Cell Separation Systems to generate
+substantially all of our near-term product revenue, if we fail to achieve
+widespread market acceptance of these products or if Gambro
+ 20
+BCT fails to effectively market these products, we will not be able to grow our
+near-term product revenue.
+IF WE DO NOT DEVELOP AND MARKET NEW PRODUCTS, OUR ABILITY TO ACHIEVE
+PROFITABILITY WILL BE HARMED.
+ Our ability to achieve profitability depends on our ability to develop,
+obtain regulatory approval for, manufacture, introduce and successfully market
+new products and product candidates, either directly or with our partners. Our
+product candidates will require extensive development and testing, as well as
+regulatory approval, before they can be successfully marketed and sold to the
+public. The MEDI-507 antibody product under development, the Eligix HDM Cell
+Separation Systems technology and the prototype AlloMune Systems have been
+tested in relatively few patients and we may not be able to demonstrate the
+clinical benefits of these products in a larger patient population. Furthermore,
+the technology that we have exclusively licensed to our joint venture with
+Novartis Pharma AG is based upon the transplantation of organs from swine into
+humans. To our knowledge, transplantation of swine organs has never been tested
+in humans. As a consequence, we are not sure whether any of our products under
+development or the products under development by our collaborators will be
+effective in treating any of the disorders we have targeted. In addition, any
+products under development may prove to have undesirable or unintended side
+effects, toxicities or other characteristics that may prevent or limit their
+commercial use. If our technological approach is not successful or the medical
+community and/or third-party payors do not accept our products as clinically
+useful, cost-effective and safe, then neither we nor our collaborators will be
+able to develop or commercialize these products, which will substantially impair
+our ability to achieve profitable operations.
+IF CLINICAL TRIALS OF OUR PRODUCTS UNDER DEVELOPMENT ARE NOT SUCCESSFUL OR ARE
+NOT COMPLETED ON A TIMELY BASIS, WE WILL NOT BE ABLE TO DEVELOP AND
+COMMERCIALIZE THESE PRODUCTS AND, THEREFORE, WE MAY NOT ACHIEVE PROFITABILITY.
+ To obtain regulatory approvals for the commercial sale of our products under
+development, we and our collaborative partners will need to complete extensive
+clinical trials in humans to demonstrate the safety and efficacy of these
+products. We have had limited experience in conducting clinical trials.
+ Prior to commencing new clinical trials, we must submit investigational new
+drug and/or investigational device exemption applications to the Food and Drug
+Administration. Even if we receive authorization from the FDA to commence
+clinical trials, we or our collaborative partners may not be able to
+successfully complete these trials within an acceptable timeframe, if at all.
+How quickly we and our collaborative partners complete clinical trials is
+dependent in part upon the rate of enrollment of patients. Patient enrollment is
+a function of many factors, including the size of the patient population, the
+proximity of patients to clinical sites, the eligibility criteria for the study
+and the existence of competitive clinical trials. In particular, the patient
+population for a number of our potential products is small. If we experience
+delays in patient enrollment, we may incur additional costs and delay our
+research and development programs.
+ Furthermore, we, our collaborative partners or the FDA may suspend our
+clinical trials at any time on various grounds, including a finding that the
+patients in the trials are being exposed to unacceptable health risks. Finally,
+our clinical trials, if completed, may not show the potential product to be safe
+or effective, thereby preventing regulatory approval.
+WE ARE DEPENDENT ON OUR COLLABORATIVE PARTNERS TO CONDUCT CLINICAL TRIALS ON OUR
+MEDI-507 AND XENOTRANSPLANTATION PRODUCTS AND, THEREFORE, WE ARE NOT IN CONTROL
+OF THE TIMING OF THESE CLINICAL TRIALS.
+ We are dependent upon MedImmune to conduct clinical trials with respect to
+MEDI-507 and will be dependent upon Novartis to conduct clinical trials for the
+development of xenotransplantation products, if any, that arise out of our joint
+venture's research program. We may become dependent
+ 21
+upon other third parties to conduct future clinical trials of our AlloMune
+Systems and Eligix HDM Cell Separation Systems. As a result, we will have less
+control over these clinical trials than if we were conducting the trials
+directly. Consequently, these trials may not begin or be completed on a schedule
+that is acceptable to us, which could lead to delays or uncertainties in the
+regulatory approval process or in the commercial introduction of these products,
+either of which could substantially harm our business and ability to achieve
+profitability.
+THE APPROVAL PROCESS IS COSTLY AND LENGTHY AND WE MAY NOT OBTAIN AND MAINTAIN
+THE REGULATORY APPROVALS REQUIRED TO SUCCESSFULLY MARKET AND SELL OUR PRODUCTS.
+ We must obtain regulatory approval for our ongoing research and development
+activities and before marketing or selling any of our products. For example,
+although our BCell-SC and CD8-DLI Cell Separation Systems have received CE Mark
+approval in Europe, we will need to conduct extensive clinical trials and
+receive FDA approval before we can market these products in the U.S. We may not
+receive regulatory approvals to conduct clinical trials of our products or to
+manufacture or market our products. In addition, regulatory agencies may not
+grant such approvals on a timely basis or may revoke previously granted
+approvals or impose fines, suspensions, product recalls and other sanctions if
+we fail to comply with applicable regulatory requirements. If our products do
+not receive regulatory approvals, or if we do not otherwise comply with
+government regulations, our business would be harmed.
+ The process of obtaining FDA and other required regulatory approvals is
+expensive and typically takes a number of years, depending on the complexity and
+novelty of the product. Moreover, for our approved products, the marketing,
+distribution and manufacture of these products remain subject to extensive
+regulatory requirements. For example, any regulatory approval for a product may
+limit the indications or markets in which the product can be used or require
+additional post-approval studies. Any regulatory body can have a product removed
+from the market if a previously unknown problem with the product is discovered.
+Any delay in obtaining or failure to obtain or maintain required clearance or
+approval of a product by the appropriate regulatory authorities, would
+materially adversely affect our ability to generate revenues from the affected
+product. We have limited experience in filing and prosecuting the applications
+required to gain and maintain regulatory approval.
+ There is limited regulatory precedent for the approval of products based
+upon the technologies that we are employing to develop products. MEDI-507, our
+AlloMune Systems and our Eligix HDM Cell Separation Systems are based on new
+technologies and/or new therapeutic approaches that have not been extensively
+tested in humans. Accordingly, the regulatory requirements governing these
+products under development may be more rigorous than for conventional products.
+In addition, the FDA has not yet established final or comprehensive guidelines
+for xenotransplantation. As a result, we may experience a longer regulatory
+process in connection with any products that we or our collaborators seek to
+develop based on these new technologies and/or new therapeutic approaches.
+ We also are subject to numerous foreign regulatory requirements governing
+the design and conduct of the clinical trials and the manufacturing and
+marketing of our future products. The approval procedure varies among countries.
+The time required to obtain foreign approvals often differs from that required
+to obtain FDA approvals. Moreover, even if we receive FDA approval, we may not
+receive necessary approvals by regulatory authorities in other countries.
+ 22
+ All of these regulatory risks also are applicable to development,
+manufacturing and marketing undertaken by our key collaborators and any other
+future collaborators who may seek to develop, market and sell products based
+upon our technologies.
+WE ARE DEPENDENT ON COLLABORATIVE RELATIONSHIPS TO DEVELOP, MANUFACTURE AND SELL
+SOME PRODUCTS, AND IF THESE PARTIES ARE NOT SUCCESSFUL, THEN WE WILL NOT ACHIEVE
+SIGNIFICANT REVENUES.
+ We have several strategic relationships for the development, manufacture and
+distribution of our products and products based upon our technologies. We have a
+collaborative agreement with MedImmune under which we have provided MedImmune
+with the exclusive worldwide right to develop and commercialize products derived
+from the BTI-322 and MEDI-507 antibodies. We have also entered into a multi-year
+exclusive distribution agreement with Gambro for the distribution of our Eligix
+HDM Cell Separation Systems, and other cell separation systems we may in the
+future develop. Gambro has been granted the exclusive right to distribute these
+products worldwide, with the exception of the United States, Canada and Japan.
+In addition, our joint venture with Novartis, Immerge BioTherapeutics, has
+exclusively licensed to Novartis the right to develop and commercialize any
+products derived from Immerge's research program in xenotransplantation, which
+refers to the transplantation of cells, tissues and organs from one species to
+another.
+ Under each of these collaborative agreements, we have the right to receive
+royalties or a share of revenue on product sales, if any. Our ability to achieve
+revenue under these arrangements will be heavily dependent on a number of
+factors, including the efforts and activities of our collaborative partners. Our
+arrangements with our collaborative partners allow them significant discretion
+in determining the efforts and resources that they will apply to the
+development, commercialization and sale of products based upon our technologies.
+If any of these collaborative partners do not perform successfully, such failure
+may delay or prevent regulatory approval, product launch, impair our ability to
+deliver products on a timely basis, impair our competitive position or otherwise
+reduce or eliminate any sales revenues that we may receive.
+WE HAVE ONLY LIMITED SALES AND MARKETING EXPERIENCE AND MAY DEPEND SIGNIFICANTLY
+ON THIRD PARTIES WHO MAY NOT SUCCESSFULLY COMMERCIALIZE OUR PRODUCTS.
+ We have only limited sales, marketing and product distribution experience,
+and our current sales and marketing operations, which we only recently began to
+develop, is not sufficient to achieve the market presence and sales we need to
+expand our business. We plan to rely significantly on sales, marketing and
+distribution arrangements with third parties, including our collaborative
+partners. For example, we have granted Gambro exclusive worldwide distribution
+rights, exclusive of the United States, Canada and Japan, for our Eligix HDM
+Cell Separation Systems, and other cell separation products which we may in the
+future develop. Either we or Gambro may terminate the agreement if the other
+party breaches a material covenant, agreement or obligation under the agreement.
+If Gambro terminates the distribution agreement, we currently do not have the
+sales and marketing operations to commence selling these products independently.
+We have also granted MedImmune exclusive worldwide marketing rights to the
+MEDI-507 product under development, and our joint venture with Novartis, Immerge
+BioTherapeutics, has granted to Novartis the exclusive worldwide rights to
+develop and market products based upon our xenotransplantation technologies. We
+may have to enter into additional marketing arrangements in the future and we
+may not be able to enter into these additional arrangements on terms which are
+favorable to us, if at all. In addition, we may have limited or no control over
+the sales, marketing and distribution activities of these third parties and
+sales through these third parties could be less profitable to us than direct
+sales. These third parties could sell competing products and may devote
+insufficient sales efforts to our products. Our future revenues will be
+materially dependent upon the success of the efforts of these third parties.
+ 23
+ We may seek to independently market products that are not already subject to
+marketing agreements with other parties. If we determine to perform sales,
+marketing and distribution functions ourselves, we could face a number of
+additional risks, including:
+ - we may not be able to attract and build a significant and skilled
+ marketing staff or sales force;
+ - the cost of establishing a marketing staff or sales force may not be
+ justifiable in light of the revenues generated by any particular product;
+ and
+ - our direct sales and marketing efforts may not be successful.
+IF WE EXPERIENCE DELAYS OR INTERRUPTIONS IN MANUFACTURING OF OUR ELIGIX HDM CELL
+SEPARATION SYSTEMS, WE MAY EXPERIENCE CUSTOMER DISSATISFACTION AND OUR
+REPUTATION COULD SUFFER.
+ If we fail to produce enough products at our own manufacturing facility or
+at a third-party manufacturing facility, we may be unable to deliver products to
+our customers on a timely basis, which could lead to customer dissatisfaction
+and could harm our reputation and ability to compete. We currently produce key
+components of our BCell-SC and CD8-DLI Cell Separation Systems in one
+manufacturing facility. We would likely experience significant delays or
+cessation in producing our BCell-SC and CD8-DLI Cell Separation Systems at this
+facility if a labor strike, natural disaster or other supply disruption were to
+occur. If we are unable to manufacture our Eligix HDM Cell Separation Systems at
+our own facility, we may be required to enter into arrangements with one or more
+contract manufacturing companies. We could encounter delays or difficulties
+establishing relationships with contract manufacturers or in establishing
+agreements on terms that are favorable to us. In addition, if we are required to
+depend on third-party manufacturers, our profit margins may be lower, which will
+make it more difficult for us to achieve profitability.
+WE WILL DEPEND ON THIRD-PARTY MANUFACTURERS TO PRODUCE SOME OF OUR PRODUCTS
+UNDER DEVELOPMENT, AND IF THESE THIRD PARTIES DO NOT SUCCESSFULLY MANUFACTURE
+OUR PRODUCTS OUR BUSINESS WILL BE HARMED.
+ We currently rely upon MedImmune to produce material for preclinical and
+clinical testing of MEDI-507 and expect to continue to do so in the future. In
+addition, if we receive the necessary regulatory approvals for other products
+under development, we also expect to rely upon third parties, including our
+collaborative partners, to produce materials required for commercial production.
+We may not be able to enter into commercial-scale manufacturing contracts on a
+timely or commercially reasonable basis, if at all. To the extent that we enter
+into manufacturing arrangements with third parties, we will be dependent upon
+these third parties to perform their obligations in a timely and effective
+manner. If third-party manufacturers with whom we contract fail to perform their
+obligations, our competitive position and ability to generate revenue may be
+adversely affected in a number of ways, including:
+ - we may not be able to initiate or continue clinical trials of products
+ that are under development;
+ - we may be delayed in submitting applications for regulatory approvals for
+ our products; and
+ - we may not be able to meet commercial demands for any approved products.
+IF WE OR OUR THIRD-PARTY MANUFACTURERS FAIL TO COMPLY WITH REGULATORY
+REQUIREMENTS, WE COULD EXPERIENCE DISRUPTIONS IN THE MANUFACTURE AND SALE OF OUR
+PRODUCTS.
+ Manufacturers, including us, must adhere to the FDA's current good
+manufacturing practices regulations, which are enforced by the FDA through its
+facilities inspection program. We and any of our third-party manufacturers may
+not be able to comply or maintain compliance with good manufacturing practices
+regulations. If we or our manufacturers fail to comply with these regulations,
+our receipt of premarket approval and/or our ability to continue manufacturing
+our products could be
+ 24
+significantly delayed, or we or the third-party manufacturer could be subject to
+FDA enforcement action. For a premarket approval device, if we change our
+manufacturing facility or switch to a third-party manufacturer we will be
+required to submit a premarket approval application supplement before the change
+is implemented. If we experience any regulatory-related manufacturing delays or
+difficulties, our ability to deliver products to our distributors or customers
+would be impaired, which could reduce our revenues and harm our business.
+BECAUSE WE RELY ON A LIMITED NUMBER OF SUPPLIERS, WE MAY EXPERIENCE DIFFICULTY
+IN MEETING OUR CUSTOMERS' DEMANDS FOR OUR ELIGIX HDM CELL SEPARATION SYSTEMS IN
+A TIMELY MANNER OR WITHIN BUDGET.
+ We currently purchase key components of our Eligix HDM Cell Separation
+Systems from a variety of outside sources. Some of these components may only be
+available to us through a few sources. We generally do not have long-term
+agreements with any of our suppliers.
+ Our reliance on our suppliers exposes us to risks, including:
+ - the possibility that one or more of our suppliers could terminate their
+ services at any time without penalty;
+ - the potential inability of our suppliers to obtain required components;
+ - the potential delays and expenses of seeking alternative sources of
+ supply;
+ - reduced control over pricing, quality and timely delivery due to the
+ difficulties in switching to alternative suppliers; and
+ - the possibility that one or more of our suppliers could fail to satisfy
+ any of the FDA's required current good manufacturing practices
+ regulations.
+ Consequently, in the event that our suppliers delay or interrupt the supply
+of components for any reason, our ability to produce and supply our products to
+our distributor could be impaired, which could lead to customer dissatisfaction.
+IF WE ARE NOT ABLE TO OBTAIN PATENT PROTECTION FOR OUR DISCOVERIES OR WE
+INFRINGE PATENT RIGHTS OF THIRD PARTIES, THEN OUR ABILITY TO MARKET OUR PRODUCTS
+WILL BE SUBSTANTIALLY HARMED.
+ Our success depends in significant part on our ability to:
+ - obtain patents;
+ - protect trade secrets;
+ - operate without infringing upon the proprietary rights of others; and
+ - prevent others from infringing on our proprietary rights.
+ The validity and permissible scope of claims covered in patents relating to
+our technology involve important unresolved legal principles. Furthermore, there
+is substantial uncertainty as to whether human clinical data will be required
+for issuance of patents for human therapeutics. If human clinical data are
+required, our ability to obtain patent protection could be delayed or otherwise
+adversely affected.
+ Patents may not issue from any patent applications that we own or license.
+If patents do issue, the claims allowed may not be sufficiently broad to protect
+our technology. In addition, issued patents that we own or license may be
+challenged, invalidated or circumvented. Our patents also may not afford us
+protection against competitors with similar technology. Because patent
+applications in the United States are maintained in secrecy until patents issue,
+third parties may have filed or maintained patent
+ 25
+applications for technology used by us or covered by our pending patent
+applications without our being aware of these applications.
+ A patent recently issued to a major pharmaceutical company directed towards
+recombinant production of monoclonal antibodies. We may require a license under
+this patent with respect to MEDI-507. There can be no assurance that such a
+license will be granted to us or that we can obtain a license on terms favorable
+to us. If a required license is not available, our ability to generate revenue
+would be adversely affected.
+ We may not hold proprietary rights to all of the patents related to our
+proposed products or services. These patents may be owned or controlled by third
+parties. As a result, we or our collaborative partners may be required to obtain
+licenses under third-party patents to market our proposed products or services.
+If licenses are not available on acceptable terms, we or our collaborative
+partners will not be able to market these products or services.
+ We also rely on trade secrets and proprietary know-how that we seek to
+protect, in part, by confidentiality agreements with our employees and
+consultants. We cannot guarantee these agreements will not be breached, that we
+would have adequate remedies for any such breach or that our trade secrets will
+not otherwise become known or independently developed by competitors.
+IF WE LOSE IMPORTANT LICENSE RIGHTS, WE MAY BE UNABLE TO SUCCESSFULLY DEVELOP
+AND COMMERCIALIZE OUR PRODUCTS AND ACHIEVE PROFITABILITY.
+ We are a party to technology in-licenses with the Catholic University of
+Louvain, the Alberta Research Council and the Coulter Corporation. We expect to
+enter into additional licenses in the future. These in-licenses relate to
+important technologies that may be necessary for the development and
+commercialization of our products. These licenses impose various
+commercialization, indemnification, royalty, insurance and other obligations on
+us. Although we currently meet the requirements imposed by the licenses, if we
+fail to comply with these requirements in the future, the licensors will have
+the right to terminate these licenses or make the licenses non-exclusive, which
+could affect our ability to exploit important technologies that are required for
+successful development of our products.
+WE FACE SUBSTANTIAL COMPETITION, WHICH COULD ADVERSELY AFFECT OUR REVENUES AND
+RESULTS OF OPERATIONS.
+ The products we develop and market compete with existing and new products
+being created by pharmaceutical, biopharmaceutical, biotechnology and medical
+device companies and universities. Many of these entities have significantly
+greater research and development capabilities, as well as substantial marketing,
+manufacturing, financial and managerial resources and represent significant
+competition. With respect to our currently marketed BCell-SC and CD8-DLI Cell
+Separation Systems, we are competing against large companies that have
+significantly greater financial resources and established marketing and
+distribution channels for competing products.
+ The pharmaceutical industry is intensely price competitive and we expect we
+will face this and other forms of competition. Development by others may render
+our products or technologies obsolete or noncompetitive, and we may not be able
+to keep pace with technological developments to maintain a competitive position
+in the market. Many of our competitors have developed or are in the process of
+developing technologies that are, or in the future may be, the basis for
+products that compete with our own. Some of these products may have an entirely
+different approach or means of accomplishing the desired therapeutic effect than
+our products and may be more effective and less costly. In addition, many of
+these competitors have significantly greater experience than we do in
+undertaking preclinical testing and human clinical trials and obtaining
+regulatory approvals of such products. Accordingly, our competitors may succeed
+in commercializing products more rapidly than we can.
+ 26
+IF WE ARE UNABLE TO MEET THE OPERATIONAL, LEGAL AND FINANCIAL CHALLENGES THAT WE
+WILL ENCOUNTER IN OUR INTERNATIONAL OPERATIONS, WE MAY NOT BE ABLE TO GROW OUR
+BUSINESS.
+ We currently expect to derive substantially all of our near-term product
+revenue from the sale through a third-party distributor of our BCell-SC and
+CD8-DLI Cell Separation Systems in the European Union. We are subject to a
+number of challenges which specifically relate to our international business
+activities. Our international operations may not be successful if we are unable
+to meet and overcome these challenges, which would limit the growth of our
+business. These challenges include:
+ - failure of local laws to provide the same degree of protection against
+ infringement of our intellectual property;
+ - protectionist laws and business practices that favor local competitors,
+ which could slow our growth in international markets; and
+ - potentially longer sales cycles to sell products, which could slow product
+ orders and, accordingly, our revenue growth from international sales.
+OUR BUSINESS EXPOSES US TO THE RISK OF PRODUCT LIABILITY CLAIMS FOR WHICH WE MAY
+NOT BE ADEQUATELY INSURED.
+ We face an inherent business risk of exposure to product liability claims in
+the event that the use of our products results in adverse effects during
+research, clinical development or commercial use. We cannot guarantee we will
+avoid significant product liability exposure. Our product liability insurance
+coverage is currently limited to $10.0 million, which may not be adequate to
+cover potential liability exposures. Moreover, adequate insurance coverage may
+not be available at an acceptable cost, if at all. Any product liability claim
+would distract management's attention, impair market acceptance of our products
+and our reputation and harm our ability to achieve revenue from sales of the
+product.
+OUR INABILITY TO ATTRACT OR RETAIN KEY PERSONNEL COULD HARM OUR BUSINESS.
+ Our ability to develop our business depends in part upon our attracting and
+retaining qualified management and scientific personnel. The number of qualified
+personnel is limited and competition for such personnel is intense. We may not
+be able to continue to attract or retain qualified people. The loss of our key
+personnel or the failure to recruit additional key personnel could significantly
+impede attainment of our objectives and harm our financial condition and results
+of operations.
+THE UNCERTAINTY OF PHARMACEUTICAL PRICING AND REIMBURSEMENT MAY NEGATIVELY
+IMPACT OUR RESULTS OF OPERATIONS.
+ Our ability to successfully commercialize our products may depend in part on
+the extent to which reimbursement for the cost of such products and related
+treatment will be available from government health administration authorities,
+private health coverage insurers and other organizations. The pricing,
+availability of distribution channels and reimbursement status of newly approved
+healthcare products is highly uncertain and we cannot assure you that adequate
+third-party coverage will be available for us to maintain price levels
+sufficient for realization of an appropriate return on our investment in product
+development. In certain foreign markets, pricing or profitability of healthcare
+products is subject to government control. In the U.S., there have been, and we
+expect that there will continue to be, a number of federal and state proposals
+to implement similar governmental control. In addition, an increasing emphasis
+on managed care in the U.S. has and will continue to increase the pressure on
+pharmaceutical pricing. While we cannot predict whether any such legislative or
+regulatory proposals will be adopted or the effect such proposals or managed
+care efforts may have on our business, the announcement of such proposals or
+efforts could harm our ability to raise capital, and the adoption of
+ 27
+such proposals or efforts could harm our results of operations. Further, to the
+extent that such proposals or efforts harm other pharmaceutical companies that
+are prospective corporate partners, our ability to establish corporate
+collaborations may be adversely affected. In addition, third-party payors are
+increasingly challenging the prices charged for medical products and services.
+We do not know whether our products and product candidates, if approved, will be
+considered cost effective or that reimbursement to the consumer will be
+available or will be sufficient to allow us to sell our products on a
+competitive basis.
+OUR STOCK PRICE IS HIGHLY VOLATILE, AND THE MARKET PRICE OF OUR COMMON STOCK MAY
+DROP BELOW THE PRICE YOU PAID.
+ The market price of our common stock is highly volatile. For example, during
+the past three years, our stock price fluctuated from a low sale price of $1.87
+in the quarter ended March 31, 1999 to a high sale price of $23.00 in the
+quarter ended March 31, 2000. Prices for our common stock will be determined in
+the market place and may be influenced by many factors, including fluctuations
+in our financial results and investors' perceptions of us, as well as their
+perceptions of general economic, industry and market conditions, and the daily
+trading volumes of our common stock. Market fluctuations may adversely affect
+the market price of our common stock and may cause a rapid and substantial
+decline in the value of your investment in our common stock. In particular,
+factors that may cause such volatility include our ability to complete clinical
+trials of our product candidates, the results of such trials, our ability to
+expand sales of our products and our ability to meet the expectations of
+investors and securities analysts.
+ In the past, companies that have experienced volatility in the market price
+of their stock have been subject to class action litigation. If we were to
+become involved in this type of litigation, even if it was found that the claim
+had no merit, we could incur substantial costs and diversion of management's
+attention, which could harm our business, financial condition and operating
+results.
+THE GENERAL BUSINESS CLIMATE IS UNCERTAIN AND WE DO NOT KNOW HOW THIS WILL
+IMPACT OUR BUSINESS OR OUR STOCK PRICE.
+ Over the past 18 months, there have been dramatic changes in economic
+conditions and the general business climate has been negatively impacted.
+Indices of the U.S. stock markets have fallen significantly and consumer
+confidence has waned. Accordingly, it is generally accepted that the United
+States is in a recession. Compounding the general unease about the current
+business climate are the still unknown economic and political impacts of the
+September 11, 2001 terrorist attacks and hostilities in Afghanistan and
+elsewhere. We are unable to predict how any of these factors may affect our
+business or stock price.
+PROVISIONS OF DELAWARE LAW AND OUR CHARTER AND BY-LAWS MAY MAKE A TAKEOVER MORE
+DIFFICULT.
+ Provisions in our certificate of incorporation and by-laws and in the
+Delaware corporate law may make it difficult and expensive for a third party to
+pursue a tender offer, change in control or takeover attempt which is opposed by
+our management and board of directors. Public stockholders who might desire to
+participate in such a transaction may not have an opportunity to do so. These
+anti-takeover provisions could substantially impede the ability of public
+stockholders to change our management and board of directors, which may reduce
+the market price of our common stock.

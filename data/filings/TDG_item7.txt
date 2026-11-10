@@ -1,0 +1,1006 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion of our financial condition and results of operations should be read together with TD Group’s consolidated financial statements and the related notes included elsewhere in this report. The following discussion may contain predictions, estimates and other forward-looking statements that involve a number of risks and uncertainties, including those discussed under the heading entitled “Risk Factors” included elsewhere in this report. These risks could cause our actual results to differ materially from any future performance suggested below.
+Overview
+We believe we are a leading global designer, producer and supplier of highly engineered proprietary aerospace components with significant aftermarket content. We seek to develop highly customized products to solve specific needs for aircraft operators and manufacturers. We attempt to differentiate ourselves based on engineering, service and manufacturing capabilities. We believe that our products have strong brand names within the industry and that we have a reputation for high quality, reliability and strong customer support. We believe we have achieved steady, long-term growth in sales and improvements in operating performance we believe that due to our competitive strengths and through execution of our value-driven operating strategy. More specifically, focusing our businesses on our value-driven operating strategy of obtaining profitable new business, carefully controlling the cost structure via productivity and cost improvements and pricing our highly engineered value-added products to fairly reflect the value we provide and the resources required to do so has historically resulted in improvements in gross profit and income from operations over the long-term.
+Our selective acquisition strategy has also been an important contribution to the growth of our business. We maintain a selective acquisition strategy, concentrating on proprietary commercial aerospace component businesses with significant aftermarket content where we see a clear path to value creation through the application of our three core value drivers. The integration of acquisitions into our existing businesses combined with implementing our proven operating strategy has historically resulted in improvements in the financial performance of the acquired businesses.
+For fiscal year 2025, we generated net sales of $8,831 million, gross profit of $5,311 million or 60.1% of net sales, and net income attributable to TD Group of $2,074 million. 
+In fiscal 2025, demand for air travel remained strong both domestically and internationally. Commercial aftermarket sales increased in fiscal 2025 compared to fiscal 2024 primarily due to the overall demand for air travel resulting in higher flight hours and utilization of passenger and freight aircraft as global air traffic continues to surpass pre-pandemic levels. In recent months, international air traffic growth has been outpacing domestic growth. Passenger load factors remain strong and have reached record levels in recent months in certain markets.
+Our commercial transport OEM shipments and revenues generally run ahead of aircraft delivery schedules. Consistent with prior years, our fiscal 2025 shipments were a function of, among other things, the estimated 2025 and 2026 commercial aircraft production rates for Boeing and Airbus. Airline demand for new aircraft remains high and the OEMs are working to increase aircraft production. However, aircraft production rates remain well below pre-pandemic levels as the struggles in the OEM supply chain and labor challenges persist, along with geopolitical challenges, though progress continues to be made in the build rates. Airbus has also encountered difficulties in ramping up production. For fiscal 2025, the impact across TransDigm's operating units was uneven and varied, resulting in consolidated commercial OEM sales decreasing compared to fiscal 2024. 
+Our defense business fluctuates from year-to-year, and is dependent, to a degree, on government budget constraints, the timing of orders, macro and micro dynamics with respect to the DOD procurement policy and the extent of global conflicts, such as the ongoing geopolitical conflicts. Likewise, delays in government spending outlays and government funding reprioritization can impact demand. For a variety of reasons, the military spending outlook is very uncertain, though recent DOD budgets have trended upwards due to recent geopolitical challenge and conflicts, and current military modernization efforts. Defense sales in fiscal 2025 increased compared to fiscal 2024 primarily due to continued U.S. Government defense spend outlays.
+At various points in 2025, the U.S. Government announced new or higher tariffs on goods imported into the U.S. from numerous countries resulting in multiple countries countering with reciprocal tariffs and other actions in response. Negotiations between the U.S. and other countries regarding the tariffs are ongoing and their status continues to evolve. TransDigm is primarily a domestic manufacturer. Because of this, tariffs did not have a significant impact on our fiscal 2025 operating results and we do not expect the tariffs to have a significant impact on our fiscal 2026 operating results. However, we continue to monitor the developments on tariffs and other changes in trade policy for its potential impact on the economic environment and on our business and operating results.
+18
+Table of Contents
+Results of Operations
+The following table sets forth, for the periods indicated, certain operating data of the Company, including presentation of the amounts as a percentage of net sales (amounts in millions, except per share data): 
+Fiscal Years Ended September 30,
+2025
+% of Net Sales
+2024
+% of Net Sales
+Net sales
+$
+8,831 
+100.0 
+%
+$
+7,940 
+100.0 
+%
+Cost of sales
+3,520 
+39.9 
+%
+3,268 
+41.2 
+%
+Selling and administrative expenses
+945 
+10.7 
+%
+980 
+12.3 
+%
+Amortization of intangible assets
+201 
+2.3 
+%
+161 
+2.0 
+%
+Income from operations
+4,165 
+47.2 
+%
+3,531 
+44.5 
+%
+Interest expense-net
+1,572 
+17.8 
+%
+1,286 
+16.2 
+%
+Refinancing costs
+11 
+0.1 
+%
+58 
+0.7 
+%
+Other income
+(47)
+(0.5)
+%
+(28)
+(0.4)
+%
+Income tax provision
+555 
+6.3 
+%
+500 
+6.3 
+%
+Income from continuing operations
+2,074 
+23.5 
+%
+1,715 
+21.6 
+%
+Less: Net income attributable to noncontrolling interests
+— 
+— 
+%
+(1)
+— 
+%
+Net income attributable to TD Group
+$
+2,074 
+23.5 
+%
+$
+1,714 
+21.6 
+%
+Net income applicable to TD Group common stockholders
+$
+1,866 
+(1)
+21.1 
+%
+$
+1,481 
+(1)
+18.7 
+%
+Earnings per share attributable to TD Group common stockholders:
+Basic and diluted
+$
+32.08
+(2)
+$
+25.62
+(2)
+Cash dividends declared per common share
+$
+90.00
+$
+110.00
+Weighted-average shares outstanding—basic and diluted
+58.2 
+57.8 
+Other Data:
+EBITDA
+$
+4,568 
+(3)
+$
+3,813 
+(3)
+EBITDA As Defined
+$
+4,760 
+(3)
+53.9 
+%
+$
+4,173 
+(3)
+52.6 
+%
+(1)
+Net income applicable to TD Group common stockholders represents net income attributable to TD Group less special dividends declared or paid on participating securities, including dividend equivalents of $208 million and $233 million for the fiscal years ended September 30, 2025 and 2024, respectively.
+(2)
+Earnings per share is calculated by dividing net income applicable to TD Group common stockholders by the basic and diluted weighted average common shares outstanding. Figures in the table may not recalculate exactly due to rounding. Earnings per share is calculated using unrounded numbers.
+(3)
+Refer to “Non-GAAP Financial Measures” in this discussion and analysis for additional information and limitations regarding these non-GAAP financial measures, including a reconciliation to the comparable U.S. GAAP financial measure.
+19
+Table of Contents
+Changes in Results of Operations
+Fiscal year ended September 30, 2025 compared with fiscal year ended September 30, 2024 
+Total Company
+•
+Net Sales
+.
+ Net organic sales and acquisition sales and the related dollar and percentage changes for the fiscal years ended September 30, 2025 and 2024 were as follows (amounts in millions):
+Fiscal Years Ended
+% Change
+Net Sales
+September 30, 2025
+September 30, 2024
+Change
+Organic sales
+$
+8,510 
+$
+7,895 
+$
+615 
+7.7 
+%
+Acquisition sales
+321 
+45 
+276 
+3.5 
+%
+Net sales
+$
+8,831 
+$
+7,940 
+$
+891 
+11.2 
+%
+Organic sales represent net sales from existing businesses owned by the Company, excluding sales from acquisitions. Acquisition sales represent net sales from acquired businesses for the period up to one year from the respective acquisition date. We believe this measure provides investors with a supplemental understanding of underlying sales trends by providing sales growth on a consistent basis. Refer to Note 2, “Acquisitions,” in the notes to the consolidated financial statements included herein for information on the Company's recent acquisitions. 
+The increase in organic sales of $615 million for the fiscal year ended September 30, 2025 compared to the fiscal year ended September 30, 2024 is primarily related to increases in defense and commercial aftermarket. 
+•
+Cost of Sales and Gross Profit
+.
+ Cost of sales increased by $252 million or 7.7%, to $3,520 million for the fiscal year ended September 30, 2025 compared to $3,268 million for the fiscal year ended September 30, 2024. Cost of sales and the related percentage of net sales for the fiscal years ended September 30, 2025 and 2024 were as follows (amounts in millions): 
+Fiscal Years Ended
+September 30, 2025
+September 30, 2024
+Change
+% Change
+Cost of sales - excluding costs below
+$
+3,536 
+$
+3,241 
+$
+295 
+9.1 
+%
+% of net sales
+40.0 
+%
+40.8 
+%
+Non-cash stock and deferred compensation expense
+15 
+21 
+(6)
+(28.6)
+%
+% of net sales
+0.2 
+%
+0.3 
+%
+Inventory step-up amortization
+10 
+21 
+(11)
+(52.4)
+%
+% of net sales
+0.1 
+%
+0.3 
+%
+Foreign currency losses
+10 
+20 
+(10)
+(50.0)
+%
+% of net sales
+0.1 
+%
+0.3 
+%
+Loss contract amortization
+(51)
+(35)
+(16)
+(45.7)
+%
+% of net sales
+(0.6)
+%
+(0.4)
+%
+Total cost of sales
+$
+3,520 
+$
+3,268 
+$
+252 
+7.7 
+%
+% of net sales
+39.9 
+%
+41.2 
+%
+Gross profit (Net sales less Total cost of sales)
+$
+5,311 
+$
+4,672 
+$
+639 
+13.7 
+%
+Gross profit percentage (Gross profit / Net sales)
+60.1 
+%
+58.8 
+%
+Cost of sales during the fiscal year ended September 30, 2025 decreased as a percentage of net sales. This was primarily driven by the application of our three core value-driven operating strategy (obtaining profitable new business, continually improving our cost structure and providing highly engineered value-added products to customers) coupled with fixed overhead costs spread over higher production volume.
+Foreign exchange rates continue to fluctuate; the loss is primarily attributable to the continued weakening of the U.S. dollar. Loss contract amortization fluctuates primarily based on the rate of actual to forecasted shipments of the products covered under the onerous contract.
+20
+Table of Contents
+•
+Selling and Administrative Expenses.
+ Selling and administrative expenses decreased by $35 million to $945 million for the fiscal year ended September 30, 2025. The related percentage of net sales for the fiscal years ended September 30, 2025 and 2024 were as follows (amounts in millions):
+Fiscal Years Ended
+September 30, 2025
+September 30, 2024
+Change
+% Change
+Selling and administrative expenses - excluding costs below
+$
+779 
+$
+738 
+$
+41 
+5.6 
+%
+% of net sales
+8.8 
+%
+9.3 
+%
+Non-cash stock and deferred compensation expense
+142 
+196 
+(54)
+(27.6)
+%
+% of net sales
+1.6 
+%
+2.5 
+%
+Acquisition transaction and integration-related expenses
+24 
+46 
+(22)
+(47.8)
+%
+% of net sales
+0.3 
+%
+0.6 
+%
+Total selling and administrative expenses
+$
+945 
+$
+980 
+$
+(35)
+(3.6)
+%
+% of net sales
+10.7 
+%
+12.3 
+%
+The decrease in non-cash stock and deferred compensation expense is primarily attributable to the appreciation of the stock price at a higher rate in fiscal 2024 compared to fiscal 2025, as the stock price is a key input used to determine the Black-Scholes fair value for the non-cash stock compensation expense, and lower deferred compensation expense. 
+•
+Interest Expense-net.
+ Interest expense-net includes interest on borrowings outstanding, amortization of debt issuance costs, original issue discount, revolving credit facility fees, finance leases, interest income and the impact of interest rate swaps, caps and collars designated and qualifying as cash flow hedges. Interest expense-net increased $286 million, or 22.2%, to $1,572 million for the fiscal year ended September 30, 2025 from $1,286 million for the fiscal year ended September 30, 2024. The increase in interest expense-net was primarily due to an increase in outstanding borrowings (refer to Note 10, “Debt” in the notes to the consolidated financial statements for information on our debt) and a decrease in interest income. The weighted average interest rate for cash interest payments on total borrowings outstanding was 6.3% for the fiscal years ended September 30, 2025 and September 30, 2024. 
+•
+Income Tax Provision.
+ Income tax expense as a percentage of income before income taxes was approximately 21.1% for the fiscal year ended September 30, 2025 compared to 22.6% for the fiscal year ended September 30, 2024. Refer to Note 12, “Income Taxes”, in the notes to the consolidated financial statements included herein for additional information.
+•
+Earnings per Share
+.
+ Basic and diluted earnings per share was $32.08 for the fiscal year ended September 30, 2025 and $25.62 for the fiscal year ended September 30, 2024. Net income attributable to TD Group for the fiscal year ended September 30, 2025 of $2,074 million was decreased by dividend equivalents of $208 million, or $3.58 per share, resulting in net income applicable to TD Group common stockholders of $1,866 million. Net income attributable to TD Group for the fiscal year ended September 30, 2024 of $1,714 million was decreased by dividend equivalents of $233 million, or $4.02 per share, resulting in net income applicable to TD Group common stockholders of $1,481 million. 
+Business Segments
+•
+Segment Net Sales
+.
+ Net sales by segment for the fiscal years ended September 30, 2025 and 2024 were as follows (amounts in millions):
+Fiscal Years Ended September 30,
+2025
+% of Net Sales
+2024
+% of Net Sales
+Change
+% Change
+Power & Control
+$
+4,559 
+51.6 
+%
+$
+3,966 
+49.9 
+%
+$
+593 
+15.0 
+%
+Airframe
+4,112 
+46.6 
+%
+3,809 
+48.0 
+%
+303 
+8.0 
+%
+Non-aviation
+160 
+1.8 
+%
+165 
+2.1 
+%
+(5)
+(3.0)
+%
+Net sales
+$
+8,831 
+100.0 
+%
+$
+7,940 
+100.0 
+%
+$
+891 
+11.2 
+%
+Net sales for the Power & Control segment increased $593 million primarily from increases in organic sales in defense, commercial aftermarket and commercial OEM. 
+Net sales for the Airframe segment increased $303 million primarily from increases in organic sales in defense and commercial aftermarket. 
+21
+Table of Contents
+•
+EBITDA As Defined
+.
+ Refer to “Non-GAAP Financial Measures” in this discussion and analysis for additional information and limitations regarding these non-GAAP financial measures, including a reconciliation to the comparable U.S. GAAP financial measure. EBITDA As Defined by segment for the fiscal years ended September 30, 2025 and 2024 were as follows (amounts in millions):
+Fiscal Years Ended September 30,
+2025
+% of Segment
+Net Sales
+2024
+% of Segment
+Net Sales
+Change
+% Change
+Power & Control
+$
+2,595 
+56.9 
+%
+$
+2,251 
+56.8 
+%
+$
+344 
+15.3 
+%
+Airframe
+2,210 
+53.7 
+%
+1,962 
+51.5 
+%
+248 
+12.6 
+%
+Non-aviation
+67 
+41.9 
+%
+66 
+40.0 
+%
+1 
+1.5 
+%
+Total segment EBITDA As Defined
+4,872 
+55.2 
+%
+4,279 
+53.9 
+%
+593 
+13.9 
+%
+Less: Unallocated corporate EBITDA As Defined
+112 
+1.3 
+%
+(1)
+106 
+1.3 
+%
+(1)
+6 
+5.7 
+%
+Total Company EBITDA As Defined
+$
+4,760 
+53.9 
+%
+(1)
+$
+4,173 
+52.6 
+%
+(1)
+$
+587 
+14.1 
+%
+(1)
+Calculated as a percentage of consolidated net sales.
+EBITDA As Defined for the Power & Control and Airframe segments increased $344 million and $248 million, respectively, due to the increase in net sales described above, along with our application of our three core value-driven operating strategy.
+Unallocated corporate EBITDA As Defined consists primarily of corporate expenses which includes compensation, benefits, professional services and other administrative costs incurred by our corporate offices. 
+Fiscal year ended September 30, 2024 compared with fiscal year ended September 30, 2023 
+For our results of operations for fiscal 2024 compared with fiscal 2023, refer to the discussion in Item 7. “Management’s Discussion and Analysis of Financial Conditions and Results of Operations” of Form 10-K for the fiscal year ended September 30, 2024, as filed with the Securities and Exchange Commission on November 7, 2024. 
+Liquidity and Capital Resources 
+We have historically maintained a capital structure comprising a mix of equity and debt financing. We vary our leverage both to optimize our equity return and to pursue acquisitions. We expect to meet our current debt obligations as they come due through internally generated funds from current levels of operations and/or through refinancing in the debt markets prior to the maturity dates of our debt.
+The following tables present selected balance sheet, cash flow and other financial data relevant to the liquidity or capital resources of the Company for the periods specified below (amounts in millions):
+September 30, 2025
+September 30, 2024
+Selected Balance Sheet Data:
+Cash and cash equivalents
+$
+2,808 
+$
+6,261 
+Working capital (Total current assets less total current liabilities)
+4,830 
+3,690 
+Total assets
+22,909 
+25,586 
+Total debt 
+(1)
+30,015 
+24,880 
+TD Group stockholders’ deficit
+(9,686)
+(6,290)
+(1)
+Includes debt issuance costs and original issue discount. Refer to Note 10, “Debt,” in the notes to the consolidated financial statements included herein for additional information.
+22
+Table of Contents
+Fiscal Years Ended September 30,
+2025
+2024
+Selected Cash Flow and Other Financial Data:
+Cash flows provided by (used in):
+Operating activities
+$
+2,038 
+$
+2,045 
+Investing activities
+(595)
+(2,441)
+Financing activities
+(4,900)
+3,171 
+Capital expenditures
+222 
+165 
+Ratio of earnings to fixed charges 
+(1)
+2.7x
+2.7x
+(1)
+For purposes of computing the ratio of earnings to fixed charges, earnings consist of income from continuing operations before income taxes plus fixed charges. Fixed charges consist of interest expense, amortization of debt issuance costs and original issue discount and the “interest component” of rental expense.
+Significant Transactions
+of Fiscal 2025 and Subsequent Events
+Debt Financing
+During fiscal 2025, the Company completed approximately $11,000 million in debt financing transactions, inclusive of new issuances and refinancing of existing debt. Below is further information on the significant debt financing transactions occurring in fiscal 2025: 
+•
+On May 20, 2025, the Company completed the issuance of $2,650 million in 6.375% senior subordinated notes due 2033 (the “6.375% 2033 Notes”), which the net proceeds of approximately $2,615 million, along with existing cash on hand, were used to redeem all of its outstanding $2,650 million in 5.500% senior subordinated notes due 2027 (the “5.500% 2027 Notes”). The redemption occurred on June 20, 2025. 
+•
+On July 11, 2025, the Company amended its Securitization Facility to, among other things, (i) increase the borrowing capacity from $650 million to $725 million; and (ii) extend the maturity date to July 10, 2026 at an interest rate of Term SOFR plus 1.35% compared to an interest rate of Term SOFR plus 1.45% that applied prior to the amendment. Prior to the amendment, the Securitization Facility was fully drawn. As of September 30, 2025, the Securitization Facility was fully drawn as the remaining $75 million available was drawn in the fourth quarter of fiscal 2025.
+•
+On August 19, 2025, the Company completed $5,000 million in new debt issuances. The new debt was comprised of the following: (i) $500 million in aggregate principal amount of senior secured notes due 2034 in a private offering at an issue price of 100% that bear interest at a rate of 6.250% (the “2034 Secured Notes”); (ii) $2,000 million in aggregate principal amount of senior subordinated notes due 2034 at an issue price of 100% that bear interest at a rate of 6.750% (the “6.750% 2034 Notes”); and (iii) $2,500 million of Tranche M term loans that bear interest at a rate of Term SOFR plus 2.50%. Original issue discount of 0.25%, or approximately $6 million, was paid to the lenders of the Tranche M term loans. The proceeds from the August 19, 2025 new debt issuances were used, along with existing cash on hand, to fund a $90.00 special dividend declaration on each outstanding share of common stock and cash dividend equivalent payments on eligible vested options outstanding under its stock option plans further described below.
+•
+On September 17, 2025, the Company (i) repriced all of its $1,686 million in existing Tranche K term loans to bear interest at Term SOFR plus 2.25% compared to Term SOFR plus 2.75% applicable prior to the transaction; and (ii) amended and extended $1,857 million in existing Tranche I term loans maturing August 24, 2028 and converted such loans into new Tranche K term loans maturing March 22, 2030 (collectively, the “Tranche K term loans” referred to herein are comprised of the existing Tranche K term loans and new Tranche K term loans as described above). 
+Acquisitions
+During fiscal 2025, the Company completed approximately $413 million in acquisitions of businesses, net of cash acquired, including the acquisition of Servotronics, Inc. (“Servotronics”) completed on July 1, 2025 via a tender offer for approximately $133 million in cash. All fiscal 2025 acquisitions were financed using existing cash on hand. 
+On October 6, 2025, the Company completed the acquisition of all the outstanding stock of the Simmonds Precision Products, Inc. Business (“Simmonds”) of Goodrich Corporation from RTX Corporation for approximately $757 million in cash. The acquisition was financed using existing cash on hand. The definitive agreement to acquire Simmonds was previously signed on June 30, 2025. 
+23
+Table of Contents
+Special Dividends
+On October 18, 2024, the Company paid a special cash dividend of $75.00 per outstanding share of common stock and cash dividend equivalent payments on eligible vested options outstanding under its stock option plans, which was authorized and declared in September 2024 (fiscal 2024). The total cash payment in October 2024 (fiscal 2025) of special dividend and dividend equivalents from this declaration, which was funded by a combination of (i) $3,000 million in new senior secured debt issued on September 19, 2024; and (ii) existing cash on hand, was approximately $4,216 million in special dividends and $132 million in cash dividend equivalent payments. 
+On August 20, 2025, 
+the Company's Board of Directors authorized and declared a special cash dividend of $90.00 per outstanding share of common stock and cash dividend equivalent payments on eligible vested options outstanding under its stock option plans. The total cash payment in September 2025 of special dividend and dividend equivalents from this declaration, which was funded by a combination of (i) $5,000 million in new senior secured and unsecured debt issued on August 19, 2025 (as noted above); and (ii) existing cash on hand, was approximately $5,073 million in special dividends and $159 million in cash dividend equivalent payments.
+Common Stock Repurchases
+At various points in fiscal 2025, the Company repurchased, in aggregate, 401,036 shares of common stock at an average price of $1,246.71 per share for a total amount of $500 million. 
+In October 2025, the Company repurchased
+79,959 shares of common stock at an average price of $1,249.90 per share for a total amount of $100 million. Whether the Company undertakes additional share repurchases or other aforementioned activities will depend on prevailing market conditions, the Company's liquidity requirements, contractual restrictions and other factors.
+In November 2025, the Board of Directors authorized an additional $5,000 million in share repurchases of common stock permissible under the Company’s existing stock repurchase program, subject to any restrictions specified in the Credit Agreement and indentures governing the existing Subordinated and Secured Notes.
+* * * * * 
+If the Company has excess cash, it generally prioritizes allocating the excess cash in the following manner: (1) capital spending at existing businesses, (2) acquisitions of businesses, (3) payment of a special dividend and/or repurchases of our common stock and (4) prepayment of indebtedness or repurchase of debt.
+The Company’s ability to make scheduled interest payments on, or to refinance, the Company’s indebtedness, or to fund non-acquisition related capital expenditures and research and development efforts, will depend on the Company’s ability to generate cash in the future. This is subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond its control.
+The Company's objective is to maintain an allocation of at least 75% fixed rate and 25% variable rate debt thereby limiting its exposure to changes in near-term interest rates. Interest rate swaps, caps and collars used to hedge and offset, respectively, the variable interest rates on our term loans are further described in Note 18, “Derivatives and Hedging Activities,” in the notes to the consolidated financial statements included herein. 
+As of September 30, 2025, approximately 75% of our gross debt was fixed rate.
+As of September 30, 2025, the Company has significant cash liquidity as illustrated in the table presented below (in millions): 
+As of September 30, 2025
+Cash and cash equivalents
+$
+2,808 
+Availability on revolving credit facility
+857 
+Cash liquidity
+$
+3,665 
+We believe our significant cash liquidity will allow us to meet our anticipated funding requirements. We expect to meet our short-term cash liquidity requirements (including interest obligations and capital expenditures) through net cash from operating activities, cash on hand and, if needed, draws on the revolving credit facility. Long-term cash liquidity requirements consist primarily of obligations under our long-term debt agreements. There is no maturity on any tranche of term loans or notes until August 2028 (fiscal 2028).
+The Company estimates its capital expenditures in fiscal year 2026 to be approximately 2.50% to 3.25% of net sales. The Company’s capital expenditures incurred from year-to-year are funded using existing cash on hand and are primarily for projects that are consistent with our three core value-driven operating strategy (obtaining profitable new business, continually improving our cost structure and providing highly engineered value-added products to customers) such as automation projects.
+24
+Table of Contents
+In connection with the continued application of our three core value-driven operating strategy, we expect our efforts will continue to generate strong margins and provide sufficient cash provided by operating activities to meet our interest obligations and liquidity needs. We believe our cash provided by operating activities and available borrowing capacity will enable us to make strategic business acquisitions, pay dividends to our shareholders and make opportunistic investments in our own stock, subject to any restrictions in our existing Credit Agreement and market conditions. 
+The Company may issue additional debt if prevailing market conditions are favorable to doing so. In addition, the Company may increase its borrowings in connection with acquisitions, if cash flow from operating activities becomes insufficient to fund current operations or for other short-term cash needs or for common stock repurchases or dividends. Our future leverage will also be impacted by the then current conditions of the credit markets. 
+Operating Activities
+. The Company generated $2,038 million of net cash from operating activities during fiscal 2025 compared to $2,045 million during fiscal 2024.
+The change in trade accounts receivable during fiscal 2025 was a use of cash of $212 million compared to a use of cash of $84 million in fiscal 2024. The increase is primarily attributable to increased revenue. The Company actively manages its accounts receivable, the related agings and collection efforts.
+The change in inventories during fiscal 2025 was a use of cash of $156 million compared to a use of cash of $104 million in fiscal 2024. The increase is due to an increase in raw materials to support the fiscal 2026 sales demand. The Company manages inventory levels in support of customer needs.
+The change in accounts payable during fiscal 2025 was a source of cash of $38 million compared to a use of cash of $11 million in fiscal 2024. The change is due to the timing of payments to suppliers.
+Investing Activities.
+ Net cash used in investing activities was $595 million during fiscal 2025, consisting of $419 million from the acquisition of Servotronics and other acquisitions of businesses completed during fiscal 2025 and capital expenditures of $222 million; partially offset by other investing transactions, net, of $46 million.
+Net cash used in investing activities was $2,441 million during fiscal 2024, consisting of $2,347 million from the acquisitions of Raptor Scientific, the Electron Device Business of Communications & Power Industries (“CPI's Electron Device Business”) and other acquisitions of businesses completed during fiscal 2024 and capital expenditures of $165 million; partially offset by other investing transactions, net, of $71 million. 
+Financing Activities
+. Net cash used in financing activities was $4,900 million during fiscal 2025. The use of cash was primarily attributable to special dividend and dividend equivalent payments of $9,629 million plus repurchases of common stock of $500 million; partially offset by the net proceeds of short-term and long-term debt, including fees, of $5,063 million plus proceeds from stock option exercises of $166 million.
+Net cash provided by financing activities was $3,171 million during fiscal 2024. The source of cash was primarily attributable to the net proceeds of short-term and long-term debt, including fees, of $4,965 million plus proceeds from stock option exercises of $245 million; partially offset by special dividend and dividend equivalent payments of $2,038 million.
+Description of Senior Secured Term Loans and Indentures
+Senior Secured Term Loans Facility
+TransDigm has $11,124 million in fully drawn term loans under the Term Loans Facility as of September 30, 2025 and a $910 million revolving credit facility. The Term Loans Facility consists of four tranches of term loans (refer to Note 10, “Debt” in the notes to the consolidated financial statements for information on our term loans). 
+The Term Loans Facility requires quarterly aggregate principal payments of approximately $28 million. The revolving commitments consist of two tranches which include up to $139 million of multicurrency revolving commitments. At September 30, 2025, the Company had $53 million in letters of credit outstanding and $857 million in borrowings available under the revolving commitments. Draws on the revolving commitments are subject to an interest rate of 2.25%. The unused portion of the revolving commitments is subject to a fee of 0.50% per annum. The maturity date of the revolving credit facility is February 27, 2029.
+The interest rates per annum applicable to the Term Loans Facility under the Credit Agreement are, at TransDigm’s option, equal to either an alternate base rate or an adjusted Term SOFR for one, three or six-month interest periods chosen by TransDigm, in each case plus an applicable margin percentage. The adjusted Term SOFR related to the Term Loans Facility are not subject to a floor. Refer to Note 18, “Derivatives and Hedging Activities,” in the notes to the consolidated financial statements included herein for information about how our interest rate swaps, cap and collar agreements are used to hedge and offset, respectively, the variable interest rate portion of our debt. 
+25
+Table of Contents
+Indentures
+The following table represents the senior subordinated and secured notes outstanding as of September 30, 2025:
+Description
+Aggregate Principal
+Maturity Date
+Interest Rate
+2028 Secured Notes 
+(2)
+$2,100 million
+August 15, 2028
+6.750%
+4.625% 2029 Notes 
+(1)
+$1,200 million
+January 15, 2029
+4.625%
+2029 Secured Notes 
+(2)
+$2,750 million
+March 1, 2029
+6.375%
+4.875% 2029 Notes 
+(1)
+$750 million
+May 1, 2029
+4.875%
+2030 Secured Notes 
+(2)
+$1,450 million
+December 15, 2030
+6.875%
+2031 Secured Notes 
+(2)
+$1,000 million
+December 1, 2031
+7.125%
+2032 Secured Notes 
+(2)
+$2,200 million
+March 1, 2032
+6.625%
+2033 Secured Notes 
+(2)
+$1,500 million
+January 15, 2033
+6.000%
+6.375% 2033 Notes 
+(1)
+$2,650 million
+May 31, 2033
+6.375%
+2034 Secured Notes 
+(2)
+$500 million
+January 31, 2034
+6.250%
+6.750% 2034 Notes 
+(1)
+$2,000 million
+January 31, 2034
+6.750%
+(1)
+Collectively, referred to as the “Subordinated Notes” herein.
+(2)
+Collectively, referred to as the “Secured Notes” herein.
+The Subordinated Notes and Secured Notes do not require principal payments prior to their maturity. Interest under the Subordinated Notes and Secured Notes is payable semi-annually. The Subordinated Notes represent our unsecured obligations ranking subordinate to our senior debt, as defined in the applicable indentures. The Secured Notes represent our secured obligations ranking equally to all existing and future senior debt, as defined in the applicable indentures. The Subordinated Notes and Secured Notes contain many of the restrictive covenants included in the Credit Agreement. TransDigm is in compliance with all of the covenants contained in the Subordinated Notes and Secured Notes. 
+Guarantor Information
+The Subordinated Notes are subordinated to all of our existing and future senior secured debt, including indebtedness under TransDigm’s existing senior secured credit facilities, rank equally with all of our existing and future senior subordinated debt and rank senior to all of our future debt that is expressly subordinated to the Subordinated Notes. The 4.625% 2029 Notes and the 4.875% 2029 Notes are fully and unconditionally guaranteed on a senior subordinated unsecured basis by TransDigm Group, TransDigm UK and TransDigm Inc.’s Domestic Restricted Subsidiaries (as defined in the applicable indentures). The 6.375% 2033 Notes and the 6.750% 2034 Notes are guaranteed, on a senior subordinated basis, by TransDigm Group and each of TransDigm Inc.’s direct and indirect restricted subsidiaries that is a borrower or guarantor under TransDigm’s senior secured credit facilities or that issues or guarantees any capital markets indebtedness of TransDigm or any of the guarantors in an aggregate principal amount of at least $200 million. The table set forth in Exhibit 22.1 filed with this Form 10-K details the primary obligors and guarantors. The guarantees of the Subordinated Notes are subordinated to all of the guarantors’ existing and future senior debt, rank equally with all of their existing and future senior subordinated debt and rank senior to all of their future debt that is expressly subordinated to the guarantees of the Subordinated Notes. The Subordinated Notes are structurally subordinated to all of the liabilities of TransDigm Group’s non-guarantor subsidiaries. 
+The Secured Notes are senior secured debt of TransDigm and rank equally in right of payment with all of TransDigm’s existing and future senior secured debt, including indebtedness under TransDigm’s existing senior secured credit facilities, and are senior in right of payment to all of TransDigm’s existing and future senior subordinated debt, including the Subordinated Notes. The 2028 Secured Notes are guaranteed on a senior secured basis by TransDigm Group, TransDigm UK and TransDigm Inc.’s Domestic Restricted Subsidiaries (as defined in the applicable indentures). The 2029 Secured Notes, 2030 Secured Notes, 2031 Secured Notes, 2032 Secured Notes, 2033 Secured Notes and 2034 Secured Notes are guaranteed on a senior secured basis by TransDigm Group and each of TransDigm Inc.’s direct and indirect Restricted Subsidiaries (as defined in the applicable indenture) that is a borrower or guarantor under TransDigm’s senior secured credit facilities or that issues or guarantees any capital markets indebtedness of TransDigm Inc. or any of the guarantors in an aggregate principal amount of at least $200 million. As of the date of this Form 10-K, the guarantors of the 2029 Secured Notes, 2030 Secured Notes, 2031 Secured Notes, 2032 Secured Notes, 2033 Secured Notes and 2034 Secured Notes are the same as the guarantors of the 2028 Secured Notes. The table set forth in Exhibit 22.1 filed with this Form 10-K details the primary obligors and guarantors. The guarantees of the Secured Notes rank equally in right of payment with all of the guarantors’ existing and future senior secured debt and are senior in right of payment to all of their existing and future senior subordinated debt. The Secured Notes are structurally subordinated to all of the liabilities of TransDigm’s non-guarantor subsidiaries. 
+26
+Table of Contents
+Separate financial statements of TransDigm Inc. are not presented because the Subordinated Notes and Secured Notes are fully and unconditionally guaranteed on a senior subordinated unsecured basis (if Subordinated Notes) and senior secured basis (if Secured Notes) by TransDigm Group, TransDigm UK and all of TransDigm Inc.'s Domestic Restricted Subsidiaries. TransDigm Group has no significant operations or assets separate from its investment in TransDigm Inc.
+The financial information presented is that of TransDigm Group, TransDigm Inc. and the other Guarantors, which includes TransDigm UK, on a combined basis and the financial information of non-issuer and non-guarantor subsidiaries has been excluded. Intercompany balances and transactions between TransDigm Group, TransDigm Inc. and the other Guarantors have been eliminated, and amounts due from, amounts due to, and transactions with non-issuer and non-guarantor subsidiaries have been presented separately. 
+(in millions)
+September 30, 2025
+Current assets
+$
+4,494 
+Goodwill
+8,340 
+Other non-current assets
+4,003 
+Current liabilities
+1,048 
+Non-current liabilities
+30,014 
+Amounts due (from) to subsidiaries that are non-issuers and non-guarantors-net
+(2,316)
+Fiscal Year Ended
+(in millions)
+September 30, 2025
+Net sales
+$
+6,994 
+Sales to subsidiaries that are non-issuers and non-guarantors
+32 
+Cost of sales
+2,720 
+Expense from subsidiaries that are non-issuers and non-guarantors-net
+84 
+Income from operations
+1,446 
+Net income attributable to TD Group
+1,446 
+Certain Restrictive Covenants in Our Debt Documents
+The Credit Agreement and the indentures governing the Subordinated Notes and Secured Notes contain restrictive covenants that, among other things, limit the incurrence of additional indebtedness, the payment of special dividends, transactions with affiliates, asset sales, acquisitions, mergers and consolidations, liens and encumbrances, and prepayments of certain other indebtedness.
+The restrictive covenants included in the Credit Agreement are subject to amendments executed periodically. The most recent amendment that impacted the restrictive covenants contained in the Credit Agreement is Amendment No. 15, executed on March 22, 2024.
+Under the terms of the Credit Agreement, TransDigm is entitled, on one or more occasions, to request additional term loans or additional revolving commitments to the extent that the existing or new lenders agree to provide such incremental term loans or additional revolving commitments provided that, among other conditions, our consolidated net leverage ratio would be no greater than 7.25x and the consolidated secured net debt ratio would be no greater than 5.00x, in each case, after giving effect to such incremental term loans or additional revolving commitments.
+If any such default occurs, the lenders under the Credit Agreement and the holders of the Subordinated Notes and Secured Notes may elect to declare all outstanding borrowings, together with accrued interest and other amounts payable thereunder, to be immediately due and payable. The lenders under the Credit Agreement also have the right in these circumstances to terminate any commitments they have to provide further borrowings. In addition, following an event of default under the Credit Agreement, the lenders thereunder and the holders of the Secured Notes will have the right to proceed against the collateral granted to them to secure the debt, which includes our available cash, and they will also have the right to prevent us from making debt service payments on the Notes.
+With the exception of the revolving credit facility, the Company has no maintenance covenants in its existing term loan and indenture agreements. Under the Credit Agreement, if the usage of the revolving credit facility exceeds 40% (or, currently, $364 million) of the total revolving commitments, the Company is required to maintain a maximum consolidated net leverage ratio of net debt to trailing four-quarter EBITDA As Defined of 7.50x (or, solely with respect to the first four fiscal quarters ending after the consummation of any material acquisition, 8.00x) as of the last day of the fiscal quarter.
+As of September 30, 2025, the Company was in compliance with all of its debt covenants and expects to remain in compliance with its debt covenants in subsequent periods. 
+27
+Table of Contents
+Trade Receivable Securitization Facility
+The Company’s Securitization Facility effectively increases the Company’s borrowing capacity depending on the amount of the domestic operations’ trade accounts receivable. The Securitization Facility includes the right for the Company to exercise annual one year extensions as long as there have been no termination events as defined by the agreement. The Company uses the proceeds from the Securitization Facility as an alternative to other forms of debt, effectively reducing borrowing costs. 
+On July 11, 2025, the Company amended the Securitization Facility to, among other things, (i) increase the borrowing capacity from $650 million to $725 million; and (ii) extend the maturity date to July 10, 2026 at an interest rate of Term SOFR plus 1.35% compared to an interest rate of Term SOFR plus 1.45% that applied prior to the amendment. Prior to the amendment, the Securitization Facility was fully drawn.
+As of September 30, 2025, the Securitization Facility was fully drawn as the remaining $75 million available was drawn in the fourth quarter of fiscal 2025. At September 30, 2025, the applicable interest rate was 5.67%. The Securitization Facility is collateralized by substantially all of the Company’s domestic operations’ trade accounts receivable. 
+Contractual Obligations and Commitments
+The following table summarizes the Company’s cash requirements from all significant contractual obligations as of September 30, 2025 (in millions):
+Total
+Payment Due by Period
+Contractual
+Less than
+Between
+Between
+Over
+Obligations
+1 Year
+1-3 Years
+3-5 Years
+5 Years
+Senior Subordinated and Secured Notes 
+(1)
+$
+18,100 
+$
+— 
+$
+2,100 
+$
+4,700 
+$
+11,300 
+Term Loans Facility 
+(2)
+11,124 
+112 
+224 
+3,590 
+7,198 
+Scheduled interest payments 
+(3)
+10,144 
+1,865 
+3,531 
+2,761 
+1,987 
+Securitization Facility
+725 
+725 
+— 
+— 
+— 
+Finance leases
+562 
+22
+51
+52
+437
+Operating leases
+81 
+19
+28
+14
+20
+Total contractual cash obligations
+$
+40,736 
+$
+2,743 
+$
+5,934 
+$
+11,117 
+$
+20,942 
+(1)
+Represents principal maturities which excludes interest, debt issuance costs and original issue discount.
+(2)
+Refer to Note 10, “Debt,” in the notes to the consolidated financial statements included herein for information on the maturity date of each tranche of term loans. The Term Loans Facility requires quarterly aggregate principal payments of approximately $28 million.
+(3)
+Assumes that the variable interest rate on our existing term loans under our Term Loans Facility ranges from approximately 5.50% to 6.75% based on anticipated movements in Term SOFR, which given the ongoing volatility in rates, are highly uncertain. In addition, interest payments include the impact of the existing interest rate swap and collar agreements described in Note 18, “Derivatives and Hedging Activities,” in the notes to the consolidated financial statements included herein. 
+Off-Balance Sheet Arrangements
+The Company utilizes letters of credit to back certain payment and performance obligations. Letters of credit are subject to limits based on amounts outstanding under the Company’s revolving credit facility. As of September 30, 2025, the Company had $53 million in letters of credit outstanding.
+Critical Accounting Policies and Estimates
+Our consolidated financial statements have been prepared in conformity with generally accepted accounting principles in the United States (“U.S. GAAP”), which often requires the judgment of management in the selection and application of certain accounting principles and methods. Management believes that the quality and reasonableness of our most critical policies enable the fair presentation of our financial position and results of operations. However, investors are cautioned that the sensitivity of financial statements to these methods, assumptions and estimates could create materially different results under different conditions or using different assumptions.
+Below are those policies applied in preparing our financial statements that management believes are the most dependent on the application of estimates and assumptions. For additional significant accounting policies, see Note 1, “Summary of Significant Accounting Policies,” in the notes to the consolidated financial statements included herein.
+28
+Table of Contents
+Revenue Recognition 
+– The Company recognizes revenue from contracts with customers using the five step model prescribed in ASC 606. A substantial portion of the Company's revenue is recorded at a point in time. Revenue is recognized from the sale of products or services when obligations under the terms of the contract are satisfied and control of promised goods or services have transferred to the customer. Control is transferred when the customer has the ability to direct the use of and obtain benefits from the goods or services. Revenue is measured at the amount of consideration the Company expects to be paid in exchange for goods or services. In a limited number of contracts, control transfers to the customer over time, primarily in contracts where the customer is required to pay for the cost of both the finished and unfinished goods at the time of cancellation plus a reasonable profit relative to the work performed for products that were customized for the customer. Therefore, we recognize revenue over time for those agreements that have a right to margin and where the products being produced have no alternative use. For agreements with multiple performance obligations, judgment is required to determine whether performance obligations specified in these agreements are distinct and should be accounted for as separate revenue transactions for recognition purposes based on the standalone selling price of each performance obligation. The primary method used to estimate a standalone selling price is the price observed in standalone sales to customers for the same product or service. We consider the contractual consideration payable by the customer and assesses variable consideration that may affect the total transaction price. Variable consideration is included in the estimated transaction price when there is a basis to reasonably estimate the amount, including whether the estimate should be constrained in order to avoid a significant reversal of revenue in a future period. These estimates are based on historical experience, anticipated performance under the terms of the contract and our best judgment at the time. 
+Goodwill and Other Intangible Assets 
+– In accordance with ASC 805, “Business Combinations,” the Company uses the acquisition method of accounting to allocate costs of acquired businesses to the assets acquired and liabilities assumed based on their estimated fair values at the dates of acquisition. The excess costs of acquired businesses over the fair values of the assets acquired and liabilities assumed are recognized as goodwill. The valuations of the acquired assets and liabilities will impact the determination of future operating results. Determining the fair value of assets acquired and liabilities assumed requires management’s judgment and often involves the use of significant estimates and assumptions, including assumptions with respect to future cash inflows and outflows, revenue growth rates and earnings before interest, taxes, depreciation and amortization (“EBITDA”) margins, discount rates, customer attrition rates, royalty rates, asset lives and market multiples, among other items. We determine the fair values of intangible assets acquired generally in consultation with third-party valuation advisors. Fair value adjustments to the Company’s assets and liabilities are recognized and the results of operations of the acquired business are included in our consolidated financial statements from the effective date of the merger or acquisition.
+Intangible assets other than goodwill are recognized if the benefit of the intangible asset is obtained through contractual or other legal rights, or if the intangible asset can be sold, transferred, licensed or exchanged, regardless of the Company’s intent to do so. Goodwill and identifiable intangible assets are recorded at their estimated fair value on the date of acquisition and are reviewed at least annually for impairment based on cash flow projections and fair value estimates.
+U.S. GAAP requires that the annual, and any interim, goodwill impairment assessment be performed at the reporting unit level. Our reporting units have been identified at the operating unit level, which is one level below our operating segments. Substantially all goodwill was determined and recognized for each reporting unit pursuant to the accounting for the merger or acquisition as of the date of each transaction. With respect to acquisitions integrated into an existing reporting unit, any acquired goodwill is combined with the goodwill of the reporting unit.
+Companies may perform a qualitative assessment as the initial step in the annual goodwill impairment testing process for all or selected reporting units. Companies are also allowed to bypass the qualitative analysis and perform a quantitative analysis if desired. Economic uncertainties and the length of time from the calculation of a baseline fair value are factors that we consider in determining whether to perform a quantitative test.
+When we evaluate the potential for goodwill impairment using a qualitative assessment, we consider factors including, but not limited to, macroeconomic conditions, industry conditions, the competitive environment, changes in the market for our products and services, regulatory and political developments, entity specific factors such as strategy and changes in key personnel and overall financial performance. If, after completing this assessment, it is determined that it is more-likely-than-not that the fair value of a reporting unit is less than its carrying value, we proceed to a quantitative impairment test. For the quantitative test, management determines the estimated fair value through the use of a discounted cash flow valuation model incorporating discount rates commensurate with the risks involved for each reporting unit. If the estimated fair value of the reporting unit is less than the current carrying value, impairment of goodwill of the reporting unit is recognized. The key assumptions used in the discounted cash flow valuation model for impairment testing includes discount rates, revenue growth rates and EBITDA margins, cash flow projections and terminal value rates. Discount rates are set by using the weighted average cost of capital (“WACC”) methodology. The WACC methodology considers market and industry data in determining the appropriate discount rates to be used, inclusive of company-specific risk factors. The Company utilizes a third party valuation firm to assist in the determination of the WACC. The discount rate utilized for each reporting unit is indicative of the return an investor would expect to receive for investing in such a business.
+29
+Table of Contents
+Management, considering industry and company-specific historical and projected data, develops growth rates, sales projections and cash flow projections for each reporting unit. Terminal value rate determination follows a common methodology of capturing the present value of perpetual cash flow estimates beyond the last projected period assuming a constant WACC and low long-term growth rates. 
+The impairment test for indefinite-lived intangible assets consists of a comparison between the estimated fair values and carrying values. If the carrying amounts of intangible assets that have indefinite useful lives exceed their estimated fair values, an impairment loss will be recognized in an amount equal to the difference. Management utilizes the royalty savings valuation method to determine the estimated fair value for each indefinite-lived intangible asset. In this method, management estimates the royalty savings arising from the ownership of the intangible asset. The key assumptions used in estimating the royalty savings for impairment testing include discount rates, royalty rates, growth rates, sales projections and terminal value rates. Discount rates used are similar to the rates developed by the WACC methodology, inclusive of considering any differences in company-specific risk factors between reporting units and the indefinite-lived intangible assets. Royalty rates are established by management with the advice of valuation experts. Management, considering industry and company-specific historical and projected data, develops growth rates and sales projections for each significant intangible asset. Terminal value rate determination follows common methodology of capturing the present value of perpetual sales estimates beyond the last projected period assuming a constant WACC and low long-term growth rates.
+The discounted cash flow and royalty savings valuation methodologies require management to make certain assumptions based upon information available at the time the valuations are performed. Actual results could differ from these assumptions. Management believes the assumptions used are reflective of what a market participant would have used in calculating fair value considering the current economic conditions.
+As of the first day of the fourth quarter of fiscal 2025, the date of the annual impairment test, no indefinite-lived intangible assets or goodwill was determined to be impaired. As economic and market conditions have not changed significantly since the first day of the fourth quarter, this conclusion remains appropriate as of September 30, 2025.
+Income Taxes 
+– The Company estimates income taxes in each jurisdiction in which it operates. This involves estimating taxable earnings, specific taxable and deductible items, the likelihood of generating sufficient future taxable income to utilize deferred tax assets and possible exposures related to future tax audits. To the extent these estimates change, adjustments to deferred and accrued income taxes are made in the period in which the changes occur. Historically, such adjustments have not been significant.
+New Accounting Pronouncements
+For information about new accounting pronouncements, see Note 1, “Summary of Significant Accounting Policies,” in the notes to the consolidated financial statements included herein.
+30
+Table of Contents
+Non-GAAP Financial Measures
+We present below certain financial information based on our EBITDA and EBITDA As Defined. References to “EBITDA” mean earnings before interest, taxes, depreciation and amortization, and references to “EBITDA As Defined” mean EBITDA plus, as applicable for each relevant period, certain adjustments as set forth in the reconciliations of net income to EBITDA and EBITDA As Defined and the reconciliations of net cash provided by operating activities to EBITDA and EBITDA As Defined presented below.
+Neither EBITDA nor EBITDA As Defined is a measurement of financial performance under U.S. GAAP. We present EBITDA and EBITDA As Defined because we believe they are useful indicators for evaluating operating performance and liquidity.
+Our management believes that EBITDA and EBITDA As Defined are useful as indicators of liquidity because securities analysts, investors, rating agencies and others use EBITDA to evaluate a company’s ability to incur and service debt. In addition, EBITDA As Defined is useful to investors because the revolving credit facility under our senior secured credit facility requires compliance under certain circumstances, on a pro forma basis, with a financial covenant that measures the ratio of the amount of our secured indebtedness to the amount of our Consolidated EBITDA defined in the same manner as we define EBITDA As Defined herein.
+In addition to the above, our management uses EBITDA As Defined to review and assess the performance of the management team in connection with employee incentive programs and to prepare its annual budget and financial projections. Moreover, our management uses EBITDA As Defined to evaluate acquisitions.
+Although we use EBITDA and EBITDA As Defined as measures to assess the performance of our business and for the other purposes set forth above, the use of these non-GAAP financial measures as analytical tools has limitations, and you should not consider any of them in isolation, or as a substitute for analysis of our results of operations as reported in accordance with U.S. GAAP. Some of these limitations are:
+•
+neither EBITDA nor EBITDA As Defined reflects the significant interest expense, or the cash requirements, necessary to service interest payments on our indebtedness;
+•
+although depreciation and amortization are non-cash charges, the assets being depreciated and amortized will often have to be replaced in the future, and neither EBITDA nor EBITDA As Defined reflects any cash requirements for such replacements;
+•
+the omission of the substantial amortization expense associated with our intangible assets further limits the usefulness of EBITDA and EBITDA As Defined;
+•
+neither EBITDA nor EBITDA As Defined includes the payment of taxes, which is a necessary element of our operations; and
+•
+EBITDA As Defined excludes the cash expense we have incurred to integrate acquired businesses into our operations, which is a necessary element of certain of our acquisitions.
+Because of these limitations, EBITDA and EBITDA As Defined should not be considered as measures of discretionary cash available to us to invest in the growth of our business. Management compensates for these limitations by not viewing EBITDA or EBITDA As Defined in isolation and specifically by using other U.S. GAAP measures, such as net income, net sales and operating profit, to measure our operating performance. Neither EBITDA nor EBITDA As Defined is a measurement of financial performance under U.S. GAAP, and neither should be considered as an alternative to net income or cash flow from operations determined in accordance with U.S. GAAP. Our calculation of EBITDA and EBITDA As Defined may not be comparable to the calculation of similarly titled measures reported by other companies.
+31
+Table of Contents
+The following table sets forth a reconciliation of net income to EBITDA and EBITDA As Defined (in millions):
+Fiscal Years Ended September 30,
+2025
+2024
+Net Income
+$
+2,074 
+$
+1,715 
+Adjustments:
+Depreciation and amortization expense
+367 
+312 
+Interest expense-net
+1,572 
+1,286 
+Income tax provision
+555 
+500 
+EBITDA
+4,568 
+3,813 
+Adjustments:
+Acquisition transaction and integration-related expenses 
+(1)
+42 
+70 
+Non-cash stock and deferred compensation expense 
+(2)
+157 
+217 
+Refinancing costs 
+(3)
+11 
+58 
+Other, net 
+(4)
+(18)
+15 
+EBITDA As Defined
+$
+4,760 
+$
+4,173 
+(1)
+Represents costs incurred to integrate acquired businesses into our operations; facility relocation costs and other acquisition-related costs; transaction and valuation-related costs for acquisitions comprising deal fees, legal, financial and tax due diligence expenses; and amortization expense of inventory step-up recorded in connection with the purchase accounting of acquired businesses.
+(2)
+Represents the compensation expense recognized under our stock option plans and deferred compensation plans.
+(3)
+Represents costs expensed related to debt financing activities, including new issuances, extinguishments, refinancings and amendments to existing agreements.
+(4)
+Primarily represents foreign currency transaction gains or losses, payroll withholding taxes related to dividend equivalent payments and stock option exercises, non-service related pension costs, deferred compensation payments and other miscellaneous income or expense, such as gain on sale of business.
+32
+Table of Contents
+The following table sets forth a reconciliation of net cash provided by operating activities to EBITDA and EBITDA As Defined (in millions):
+Fiscal Years Ended September 30,
+2025
+2024
+Net cash provided by operating activities
+$
+2,038 
+$
+2,045 
+Adjustments:
+Changes in assets and liabilities, net of effects from acquisitions and sales of businesses
+558 
+302 
+Interest expense-net 
+(1)
+1,534 
+1,246 
+Income tax provision-current
+565 
+490 
+Amortization of inventory step-up
+(10)
+(21)
+Loss contract amortization
+51 
+35 
+Refinancing costs 
+(2)
+(11)
+(58)
+Gain on sale of businesses, net
+10 
+11 
+Non-cash stock and deferred compensation expense 
+(3)
+(157)
+(217)
+Foreign currency exchange losses
+(10)
+(20)
+EBITDA
+4,568 
+3,813 
+Adjustments:
+Acquisition transaction and integration-related expenses 
+(4)
+42 
+70 
+Non-cash stock and deferred compensation expense 
+(3)
+157 
+217 
+Refinancing costs 
+(2)
+11 
+58 
+Other, net 
+(5)
+(18)
+15 
+EBITDA As Defined
+$
+4,760 
+$
+4,173 
+(1)
+Represents interest expense, net of interest income, excluding the amortization of debt issuance costs and discount on debt.
+(2)
+Represents costs expensed related to debt financing activities, including new issuances, extinguishments, refinancings and amendments to existing agreements.
+(3)
+Represents the compensation expense recognized under our stock option plans and deferred compensation plans.
+(4)
+Represents costs incurred to integrate acquired businesses into our operations; facility relocation costs and other acquisition-related costs; transaction and valuation-related costs for acquisitions comprising deal fees, legal, financial and tax due diligence expenses; and amortization expense of inventory step-up recorded in connection with the purchase accounting of acquired businesses.
+(5)
+Primarily represents foreign currency transaction gains or losses, payroll withholding taxes related to dividend equivalent payments and stock option exercises, non-service related pension costs, deferred compensation payments and other miscellaneous income or expense, such as gain on sale of business.
+33
+Table of Contents

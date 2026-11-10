@@ -1,0 +1,1154 @@
+Item 7. 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+23
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+40
+Item 8. 
+Financial Statements and Supplementary Data
+42
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+77
+Item 9A.
+Controls and Procedures
+77
+Item 9B.
+Other Information
+77
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+77
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+78
+Item 11.
+Executive Compensation
+78
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+78
+Item 13.
+Certain Relationships, Related Transactions and Director Independence
+78
+Item 14. 
+Principal Accounting Fees and Services
+78
+PART IV
+Item 15.
+Exhibits and Financial Statement Schedules
+79
+Item 16.
+Form 10-K Summary
+81
+Signatures
+2
+Table of Contents
+Cautionary Note Concerning Forward-Looking Statements
+This Annual Report on Form 10-K, including any documents that may be incorporated by reference, may contain forward-looking statements. Forward looking statements can be identified with words such as “believe,” “expect,” “anticipate,” “estimate,” “intend,” “project,” “forecast,” “target,” “outlook,” “may,” “should,” “could,” and similar expressions, as well as statements written in the future tense. These statements, as well as any other written or oral forward-looking statements we may make from time to time in other SEC filings or other public communications are intended to qualify for the “safe harbor” from liability established by the Private Securities Litigation Reform Act of 1995. You should not consider forward-looking statements as guarantees of future performance or results. When made, forward-looking statements are based on information known to management at such time and/or management’s good faith belief with respect to future events. Such statements are subject to risks and uncertainties that could cause actual performance or results to differ materially from those expressed in our forward-looking statements. Important factors, assumptions, uncertainties, and risks that could cause such differences include, but are not limited to:
+•
+projections of revenues, income or loss, or capital expenditures;
+•
+future economic conditions and trends in the industries we serve;
+•
+changes in government policies and laws affecting our business, including related to funding for infrastructure projects and tariff policies;
+•
+customer capital budgets and spending priorities;
+•
+our plans for future operations, growth and services, including contract backlog; 
+•
+our plans for future acquisitions, dispositions, or financial needs;
+•
+expected benefits and synergies of businesses acquired and future opportunities for the combined businesses;
+•
+anticipated outcomes of contingent events, including litigation;
+•
+availability of capital;
+•
+restrictions imposed by our senior notes and credit agreement;
+•
+use of our cash flow to service our debt;
+•
+the effect of changes in tax law;
+•
+potential liabilities and other adverse effects arising from occupational health, safety, and other regulatory matters; 
+•
+potential exposure to environmental liabilities;
+•
+determinations as to whether the carrying value of our assets is impaired;
+•
+assumptions relating to any of the foregoing;
+•
+duration and severity of widespread pandemics and public health emergencies and their ultimate impact across our business;
+•
+other risks outlined in our periodic filings with the SEC; and
+•
+other factors that are discussed within Item 1. 
+Business
+, Item 1A. 
+Risk Factors
+ and Item 7. 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ of this Annual Report on Form 10-K.
+Our forward-looking statements are expressly qualified in their entirety by this cautionary statement. We do not undertake to update or revise forward-looking statements to reflect events or circumstances arising after the date of those statements or to reflect the occurrence of anticipated or unanticipated events.
+3
+Table of Contents
+Available Information
+Copies of our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and any amendments to those reports are available, free of charge, on our website, www.dycomind.com, as soon as reasonably practicable after we file these reports with, or furnish these reports to, the SEC. All references to www.dycomind.com in this report are inactive textual references only and information contained at that website is not incorporated herein and does not constitute a part of this Annual Report on Form 10-K. In addition, the SEC maintains a website that contains reports, proxy and information statements, and other information regarding issuers, where you may obtain a copy of all of the materials we file publicly with the SEC. The SEC website address is www.sec.gov.
+PART I
+Item 1. 
+Business. 
+Dycom Industries, Inc. (“Dycom,” the “Company,” “we,” or “us”) is a leading provider of specialty contracting services to the telecommunications infrastructure and utility industries throughout the United States. Since our incorporation in the State of Florida in 1969, we have expanded our scope and service offerings organically and through acquisitions. Today, Dycom is made up of 40 operating companies that serve a diverse customer base across all 50 states from hundreds of field offices. Our deep industry knowledge, strong customer relationships, broad geographic presence and skilled workforce provide the scale needed to quickly execute on opportunities to service existing and new customers throughout urban and rural America.
+Dycom’s operating companies supply telecommunications providers with a comprehensive portfolio of specialty services, including program management, planning, engineering and design; aerial, underground, and wireless construction; maintenance; and fulfillment services. Additionally, we provide underground facility locating services for various utilities, including telecommunications providers, as well as other construction and maintenance services for electric and gas utilities. Dycom supplies the expertise, labor, equipment, and tools necessary to provide services to our customers.
+Engineering Services. 
+We provide engineering services to telecommunications providers, including the planning and design of aerial, underground, and buried fiber optic, copper, and coaxial cable systems that extend from the telephone company hub location, or cable operator headend, to a consumer’s home or business. We also plan and design wireless networks in connection with the deployment of new and enhanced macro cell and new small cell sites. Additionally, we obtain rights of way and permits in support of our engineering activities and those of our customers and provide program and project management and inspection personnel in conjunction with engineering services or on a stand-alone basis.
+Construction, Maintenance, and Installation Services. 
+We provide a range of construction, maintenance, and installation services, including the placement and splicing of fiber, copper, and coaxial cables. We excavate trenches to place these cables; place related structures, such as poles, anchors, conduits, manholes, cabinets, and closures; place drop lines from main distribution lines to a consumer’s home or business; and maintain and remove these facilities. We provide these services for both telephone companies and cable multiple system operators in connection with the deployment, expansion, or maintenance of new and existing networks. We also provide tower construction, lines and antenna installation, foundation and equipment pad construction, small cell site placement for wireless carriers, and equipment installation and material fabrication and site testing services. In addition, we provide underground facility locating services for various utility companies, including telecommunications providers. Our underground facility locating services include locating telephone, cable television, power, water, sewer, and gas lines. In addition, we install and maintain customer premise equipment, such as digital video recorders, set top boxes and modems, for cable multiple system operators and others. We also perform construction and maintenance services for electric and gas utilities and other customers. 
+Business Strategy 
+Capitalize on Long-Term Growth Drivers. 
+We are well-positioned to benefit from the increased demand for network telecommunications bandwidth that is necessary to ensure reliable video, voice, and data services. In addition, the advent of AI data centers has created expanding opportunities as hyperscalers look to connect data centers with long-haul, private, redundant fiber networks. Developments in consumer and business applications within the telecommunications industry, including advanced digital and video service offerings, continue to increase demand for greater wireline and wireless network capacity and reliability. Telecommunications network operators are increasingly deploying fiber optic cable technology deeper into their networks and closer to consumers and businesses in order to respond to consumer demand, competitive realities, and public policy support. Additionally, wireless carriers are upgrading their networks and contemplating next generation mobile solutions 
+4
+Table of Contents
+in response to the significant demand for wireless broadband, driven by the proliferation of smart phones, mobile data devices and other advances in technology. Increasing wireless data traffic and emerging wireless technologies are driving wireline deployments in many regions of the United States. Furthermore, significant consolidation and merger activity among telecommunications providers could also provide increased demand for our services as networks are integrated.
+Selectively Increase Market Share. 
+We believe our expertise, breadth of service offerings and reputation for providing high quality services and the ability to provide those services nationally creates opportunities to expand market share. Our operating structure and multiple points of contact within customer organizations positions us favorably to win new opportunities and maintain strong relationships with our customers. We are able to address larger customer opportunities due to our significant financial resources that some of our comparatively more capital-constrained competitors may be unable to take on. 
+Pursue Disciplined Financial and Operating Strategies. 
+We manage the financial aspects of our business by centralizing certain activities that allow us to leverage our scope and scale and reduce costs. We have centralized functions, such as information technology, legal, risk management, treasury, tax, the approval of capital equipment procurements, and the design and administration of employee benefit plans. In contrast, we decentralize the recording of transactions and the financial reporting necessary for timely operational decisions. This operating structure promotes greater accountability for business outcomes by our local managers. Our local managers are responsible for marketing, field operations, and ongoing customer service, and are empowered to capture new business and execute contracts on a timely and cost-effective basis. Executive management supports the local marketing efforts while also marketing at a national level. This operating structure enables us to benefit from our scale while retaining the organizational agility necessary to compete with smaller, regional and privately owned competitors. 
+Pursue Selective Acquisitions. 
+We pursue acquisitions that are operationally and financially beneficial for the Company as they provide incremental revenue, geographic diversification, and complement existing operations. We generally target companies for acquisition that have defensible leadership positions in their market niches, the opportunity to generate profitability that meets or exceeds industry averages, proven operating histories, sound management and certain clearly identifiable cost synergies.
+Fiscal Year
+Our fiscal year ends on the last Saturday in January. As a result, each fiscal year consists of either 52 weeks or 53 weeks of operations (with the additional week of operations occurring in the fourth quarter). Fiscal 2025, fiscal 2024, and fiscal 2023 each consisted of 52 weeks of operations. The next 53 week fiscal period will occur next fiscal year, which is the fiscal year ending January 31, 2026.
+Customer Relationships
+We have established relationships with many leading telecommunications providers, including telephone companies, cable multiple system operators, wireless carriers, telecommunication equipment and infrastructure providers, as well as electric and gas utilities. Our customer base is highly concentrated, with our top five customers during fiscal 2025, fiscal 2024, and fiscal 2023, accounting for approximately 55.4%, 57.7%, and 66.7%, of our total contract revenues, respectively. During fiscal 2025, we derived approximately 20.1% of our total contract revenues from AT&T Inc., 12.1% from Lumen Technologies Inc., 8.5% from Comcast Corporation, 7.3% from Charter Communications, Inc., and 7.4% from another customer. We believe that a substantial portion of our total contract revenues and operating income will continue to be generated from a concentrated group of customers and that the identity and proportion of our contract revenues arising from our work for our top five customers will fluctuate.
+We serve our markets locally through dedicated and experienced personnel. Our sales and marketing efforts are the responsibility of the management teams of our operating companies. These teams possess intimate knowledge of their particular markets, allowing us to be responsive to customer needs. Executive management supports these efforts, both at the local and national levels, focusing on contacts with the appropriate personnel within our customers’ organizations.
+We perform a significant amount of our services under master service agreements and other contracts that contain customer-specified service requirements. These agreements include discrete pricing for individual tasks. We generally possess multiple agreements with each of our significant customers. To the extent that such agreements specify exclusivity, there are often exceptions, including the ability of the customer to issue work orders valued above a specified dollar amount to other service providers, the performance of work with the customer’s own employees, and the use of other service providers when jointly placing facilities with another utility. In most cases, a customer may terminate an agreement for convenience. Historically, multi-year master service agreements have been awarded primarily through a competitive bidding process; 
+5
+Table of Contents
+however, occasionally we are able to negotiate extensions to these agreements. We provide the remainder of our services pursuant to contracts for specific projects. These contracts may be long-term (with terms greater than one year) or short-term (with terms less than one year) and often include customary retainage provisions under which the customer may withhold 5% to 10% of the invoiced amounts pending project completion and closeout.
+Cyclicality and Seasonality
+The cyclical nature of the industry we serve affects demand for our services. The capital expenditure and maintenance budgets of our customers, and the related timing of approvals and seasonal spending patterns, influence our contract revenues and results of operations. Factors affecting our customers and their capital expenditure budgets include, but are not limited to, overall economic conditions, including the cost of capital, the introduction of new technologies, our customers’ debt levels and capital structures, our customers’ financial performance, and our customers’ positioning and strategic plans. Other factors that may affect our customers and their capital expenditure budgets include new regulations or regulatory actions impacting our customers’ businesses, merger or acquisition activity involving our customers, and the physical maintenance needs of our customers’ infrastructure.
+Our contract revenues and results of operations exhibit seasonality and are impacted by adverse weather changes as we perform a significant portion of our work outdoors. Consequently, adverse weather, which is more likely to occur with greater frequency, severity, and duration during the winter, as well as reduced daylight hours, impact our operations during the fiscal quarters ending in January and April. Additionally, extreme weather conditions such as major or extended winter storms, droughts and tornados, wildfires, and natural disasters, such as floods, hurricanes, tropical storms, whether as a result of climate change or otherwise, could also impact the demand for our services, or impact our ability to perform our services. Also, several holidays fall within the fiscal quarter ending in January, which decreases the number of available workdays in this fiscal quarter. Because of these factors, we are most likely to experience reduced revenue and profitability or losses during the fiscal quarters ending in January and April compared to the fiscal quarters ending in July and October.
+Backlog
+Our backlog is an estimate of the uncompleted portion of services to be performed under contractual agreements with our customers and totaled
+ $7.760 billion 
+and $6.917 billion at January 25, 2025 and January 27, 2024, respectively. We expect to complete 59.8% of the January 25, 2025 total backlog during the next 12 months. Our backlog represents an estimate of services to be performed pursuant to master service agreements and other contractual agreements over their terms. These estimates are based on contract terms and evaluations regarding the timing of the services to be provided. In the case of master service agreements, backlog is estimated based on the work performed in the preceding 12 month period, when applicable. When estimating backlog for newly initiated master service agreements and other long and short-term contracts, we also consider the anticipated scope of the contract and information received from the customer during the procurement process and, where applicable, other ancillary information. The majority of our backlog comprises services under master service agreements and other long-term contracts.
+ Generally, our customers are not contractually committed to procure specific volumes of services. Contract revenue estimates reflected in our backlog can be subject to change due to a number of factors, including contract cancellations or changes in the amount of work we expect to be performed under a contract. In addition, contract revenues reflected in our backlog may be realized in different periods from those previously anticipated due to these factors as well as project accelerations or delays due to various reasons, including, but not limited to, changes in customer spending priorities, project cancellations, regulatory interruptions, scheduling changes, commercial issues, such as permitting, engineering revisions, job site conditions and adverse weather. The amount or timing of our backlog can also be impacted by the merger or acquisition activity of our customers. All of our contracts may be cancelled by our customers, and work previously awarded to us pursuant to these contracts may be cancelled, regardless of whether or not we are in default. Historically, the amount of backlog related to uncompleted projects in which a provision for estimated losses was recorded has not been material.
+Backlog is not a measure defined by United States generally accepted accounting principles (“GAAP”) and should be considered in addition to, but not as a substitute for information provided in accordance with GAAP. Participants in our industry also disclose a calculation of their backlog; however, our methodology for determining backlog may not be comparable to the methodologies used by others. We utilize our calculation of backlog to assist in measuring aggregate awards under existing contractual relationships with our customers. We believe our backlog disclosures will assist investors in better understanding this estimate of the services to be performed pursuant to awards by our customers under existing contractual relationships.
+6
+Table of Contents
+Competition
+The specialty contracting services industry in which we operate is highly fragmented and includes a large number of participants. We compete with several large multinational corporations and numerous regional and privately owned companies. In addition, a portion of our customers directly perform many of the same services that we provide. Relatively few barriers to entry exist in the markets in which we operate. As a result, any organization that has adequate financial resources, access to technical expertise, and the necessary equipment may become a competitor and the degree to which an existing competitor participates in the markets that we operate may increase rapidly. The principal competitive factors for our services include geographic presence, quality of service, worker and general public safety, price, breadth of service offerings, and industry reputation. We believe that we compare favorably to our competitors when evaluated against these factors.
+Human Capital Resources
+We believe that our employees are our most important resources and are critical to our continued success. We employed approximately 15,623 persons as of January 25, 2025. We focus significant attention on attracting and retaining talented and experienced individuals to manage and support our operations. We offer our employees a broad range of company-paid benefits, and we believe our compensation package and benefits are competitive with others in our industry. We are committed to hiring, developing and supporting a workforce that consists of well-trained and highly motivated employees. 
+Each employee, officer and director of the Company must adhere to the highest standards of business ethics when dealing with each other and with customers, suppliers and all other persons as outlined in our Code of Business Conduct and Ethics and our Code of Ethics for Senior Financial Officers (collectively, the “Code of Conduct”). The Code of Conduct requires all employees to conduct all business dealings with honesty and candor and with respect for the law and the highest standard of ethical behavior. Personal integrity, good faith and fair dealing, the respectful treatment of others, and all other attributes of good behavior are essential for our employees, but special responsibility to uphold these values rests on our officers, managers and supervisors as they establish the climate for all other employees. Officers, managers and supervisors are required to create a work environment that encourages employees to discuss concerns without fear of retaliation. S
+hould potential violations of the 
+Code of Conduct 
+or the law occur, employees are encouraged to voice concerns promptly and are reminded that retaliation against anyone who reports a potential violation in good faith will not be tolerated. All employees are required to complete the training on the 
+Code of Conduct and Ethics
+, and we report material matters related to the 
+Code of Conduct 
+to the Audit Committee of our Board.
+The success of our business is fundamentally connected to the safety and well-being of our people. We are committed to instilling safe work habits through proper training and supervision of our employees and expect adherence to safety practices that ensure a safe work environment. Our safety programs require employees to participate both in safety training required by law and training that is specifically relevant to the work they perform. Safety directors review incidents, examine trends, and implement changes in procedures to address safety issues. 
+Our Board of Directors, through our Compensation Committee and our Corporate Governance Committee, provides oversight on employee matters. The Compensation Committee receives updates on activities, strategies and initiatives related to the compensation and retention of our employees, and our Corporate Governance Committee oversees environmental, social and human capital matters, as well as the development and succession planning of senior management.
+Subcontractors and Materials
+We contract with subcontractors to perform a significant amount of our work and to manage fluctuations in work volumes and to reduce the amount we expend on fixed assets and working capital. These subcontractors are typically small, privately owned companies that provide their own employees, vehicles, tools and insurance coverage. No individual subcontractor is financially significant to the Company.
+For a majority of the contract services we perform, we are provided most of the required materials by our customers. Because our customers retain the financial and performance risk associated with materials they provide, we do not include the costs associated with those materials in our contract revenues or costs of earned revenues. Under contracts that require us to supply part or all of the required materials, we typically do not depend upon any one source for those materials.
+Risk Management and Insurance
+Claims arising in our business generally include workers’ compensation claims, various general liability and damage claims, and claims related to motor vehicle collisions, including personal injury and property damage. For claims within our 
+7
+Table of Contents
+insurance program, we retain the risk of loss, up to certain limits, for matters related to automobile liability, general liability (including damages associated with underground facility locating services), workers’ compensation, and employee group health. Additionally, within our aggregate coverage limits and above our base layer of third-party insurance coverage, we have retained the risk of loss at certain levels of exposure. We carefully monitor claims and actively participate with our insurers and our third-party claims administrator in determining claims estimates and adjustments. We accrue the estimated costs of claims as liabilities, and include estimates for claims incurred but not reported. Due to fluctuations in our loss experience from year to year, insurance accruals have varied and can affect our operating margins. Our business could be materially and adversely affected if we experience an increase of insurance claims at certain amounts, or in excess of our coverage limits. See Item 7.
+ Management’s Discussion and Analysis of Financial Condition and Results of Operations
+, and Note 11, 
+Accrued Insurance Claims
+, in the Notes to the Consolidated Financial Statements in this Annual Report on Form 10‑K.
+Regulation
+We are subject to various federal, state, and local government regulations, including laws and regulations relating to environmental protection, work-place safety, and other business requirements.
+Environmental.
+ A significant portion of the work we perform is associated with the underground networks of our customers and we often operate in close proximity to pipelines or underground storage tanks that may contain hazardous substances. We could be subject to potential material liabilities in the event we fail to comply with environmental laws or regulations or if we cause or are responsible for the release of hazardous substances or cause other environmental damages. In addition, failure to comply with environmental laws and regulations could result in significant costs including remediation costs, fines, third-party claims for property damage, loss of use, or personal injury, and, in extreme cases, criminal sanctions.
+Workplace Safety.
+ We are subject to the requirements of the federal Occupational Safety and Health Act (“OSHA”) and comparable state statutes that regulate the protection of the health and safety of workers. Our failure to comply with OSHA or other workplace safety requirements could result in significant liabilities, fines, penalties, or other enforcement actions and affect our ability to perform the services that we have been contracted to provide to our customers.
+Business. 
+We are subject to a number of state and federal laws and regulations, including those related to utility oversight contractor licensing and the operation of our fleet. If we are not in compliance with these laws and regulations, we may be unable to perform services for our customers and may also be subject to fines, penalties, and the suspension or revocation of our licenses. 
+Information About Our Executive Officers
+The following table sets forth certain information concerning the Company’s executive officers as of January 25, 2025, all of whom serve at the pleasure of the Board of Directors. 
+Name
+Age
+Office
+Executive Officer Since
+Daniel S. Peyovich
+49
+President and Chief Executive Officer
+January 6, 2021
+Kevin M. Wetherington
+56
+Executive Vice President and Chief Operating Officer
+October 7, 2024
+H. Andrew DeFerrari
+56
+Senior Vice President and Chief Financial Officer
+November 22, 2005
+Ryan F. Urness
+52
+Vice President, General Counsel and Corporate Secretary
+May 21, 2019
+There are no arrangements or understandings between any executive officer of the Company and any other person pursuant to which any executive officer was selected as an officer of the Company. There are no family relationships among the Company’s executive officers.
+Daniel S. Peyovich 
+has been the Company’s President and Chief Executive Officer since November 2024. Prior to that, Mr. Peyovich was the Company’s President since October 2024, its President and Chief Operating Officer from June 2024 to October 2024, and the Company’s Executive Vice President and Chief Operating Officer from May 2021 to June 2024. Upon joining the Company in January 2021 until May 2021, he was the Company’s Executive Vice President of Operations. Before joining the Company in January 2021, Mr. Peyovich spent 21 years in various leadership and management roles at Balfour Beatty Construction, including serving as President of its Northwest Division from 2014 to 2021. 
+Kevin M. Wetherington
+ has been the Company’s Executive Vice President and Chief Operating Officer since October 2024. Before joining the Company, Mr. Wetherington was Chief Health, Safety, Environment and Security and Quality Officer for Baker Hughes Company, a global energy technology company. Mr. Wetherington held various other senior positions with 
+8
+Table of Contents
+Baker Hughes Company starting in 2010. Prior to that, Mr. Wetherington served in senior positions with Weatherford International plc, a multinational oil services company from 2005 to 2010. 
+H. Andrew DeFerrari 
+has been the Company’s Senior Vice President and Chief Financial Officer since April 2008. Prior to that, Mr. DeFerrari was the Company’s Vice President and Chief Accounting Officer since November 2005 and was the Company’s Financial Controller from July 2004 through November 2005. Mr. DeFerrari was previously a senior audit manager with Ernst & Young Americas, LLC.
+Ryan F. Urness 
+has been our Vice President and General Counsel since October 2018, and our Corporate Secretary since May 2019. Prior to that, from May 2016 through October 2018, Mr. Urness was General Counsel and Corporate Secretary of USI Building Solutions, a provider of installation and distribution services to commercial and residential construction markets. From 2003 until May 2016, Mr. Urness was General Counsel and Corporate Secretary of Speed Commerce, Inc., a provider of e-commerce technology and fulfillment services.
+9
+Table of Contents
+Item 1A
+.
+Risk Factors.
+Our business is subject to a variety of risks and uncertainties, including, but not limited to, the risks and uncertainties described below. You should read the following risk factors carefully in connection with evaluating our business and the forward-looking information contained in this Annual Report on Form 10-K. If any of the risks described below, or elsewhere in this Annual Report on Form 10-K were to occur, our financial condition and results of operations could suffer and the trading price of our common stock could decline. Additionally, if other risks not presently known to us, or that we do not currently believe to be significant, occur or become significant, our financial condition and results of operations could suffer and the trading price of our common stock could decline.
+Risks Related to Financial Performance or General Economic Conditions
+Economic downturns, uncertain economic conditions, and capital market fluctuations may affect our customers’ spending on the services we provide
+. Macroeconomic conditions, including inflation, slower growth or recessionary conditions, changes to fiscal and monetary policy, availability of credit, and interest rates could materially adversely affect demand for our services and the availability and cost of the materials and equipment we need to deliver our services. During periods of elevated and prolonged economic uncertainty our customers may delay, reduce or eliminate their spending on the services we provide. In addition, volatility in the debt or equity markets may impact our customers’ access to capital and result in the reduction or elimination of spending on the services we provide. Our vendors, suppliers and subcontractors may also be adversely affected by these conditions. These conditions, which can develop rapidly, could adversely affect our revenues, results of operations, and liquidity.
+Trade restrictions could be imposed on goods, materials or component parts used in our business that we import from other countries, which could have a material adverse effect on our results of operations. 
+Our industry could be impacted by the imposition, or the threat of the imposition of, tariffs placed on products imported from foreign countries that we use in our business, including steel, aluminum, fuel and motor vehicles or their component parts, fiber cable and other components that we utilize to build networks, or any resulting impacts from escalating trade hostilities with the countries from where we import products. There is an ongoing risk of new or additional tariffs being placed on goods, materials or components used in our business that could dramatically increase our costs, require us to increase prices to our customers or, if we are unable to do so, result in lower gross margins. Any escalation of trade tensions, including new or increased tariffs or a “trade war,” could have a significant adverse effect on U.S. or world trade, as well as on our results of operations.
+We derive a significant portion of our revenues from a small number of customers, and the loss of one or more of these customers could adversely affect our revenues, results of operations, and liquidity. 
+Our customer base is highly concentrated, with our top five customers during fiscal 2025, fiscal 2024, and fiscal 2023 accounting for approximately 55.4%, 57.7%, and 66.7%, of our total contract revenues, respectively. Our industry is highly competitive and the revenue we expect from an existing customer in any market could fail to be realized if competitors who offer comparable services to our customers do so on more favorable terms or have a better relationship with a customer. Additionally, the continued consolidation of the telecommunications industry could result in the loss of a customer if, as a result of a merger or acquisition involving one or more of our customers, the surviving entity chooses to use one of our competitors for the services we currently provide.
+The capital and operating expenditure budgets and seasonal spending patterns of our customers affect demand for our services and the addition of new customers with differing behaviors may adversely impact our business. 
+Generally, our customers have no obligation to assign specific amounts of work to us. Customers decide to engage us to provide services based on, among other things, the amount of capital they have available and their spending priorities. Our customers’ capital budgets may change for reasons over which we have no control. These changes may occur quickly and without advance notice. Any fluctuation in the capital or operating expenditure budgets and priorities of our customers could adversely affect our revenues, results of operations, and liquidity. Further, if we continue to broaden our customer base, we may become subject to different customer requirements or characteristics, including less advantageous contractual requirements, customers with financial or operational instability or increased contract terminations or project cancellations. Our failure or inability to anticipate or adapt to a changing customer base and shifting business models could have an adverse effect on our competitive position business or results of operations. 
+Pandemics and public health emergencies could materially disrupt our business and negatively impact our operating results, cash flows and financial condition.
+ Pandemics and public health emergencies, like the COVID-19 pandemic, may impact our operating results, cash flows and financial condition in ways that are uncertain, unpredictable and outside of our control. The extent of the impact of such an event depends on the severity and duration of the public health emergency or 
+10
+Table of Contents
+pandemic, as well as the nature and duration of federal, state and local laws, orders, rules, emergency temporary standards, regulations and mandates, together with protocols and contractual requirements implemented by our customers, that may be enacted or newly enforced in response. Additionally, our ability to perform our work during such an event may be dependent on the governmental or societal responses to these circumstances in the markets in which we operate. A pandemic or public health emergency is likely to heighten and exacerbate the risks described herein. 
+Seasonality and adverse weather conditions affect demand for our services.
+ Our contract revenues and results of operations exhibit seasonality and are impacted by adverse weather changes as we perform a significant portion of our work outdoors. Consequently, adverse weather, which is more likely to occur with greater frequency, severity, and duration during the winter, as well as reduced daylight hours, impact our operations during the fiscal quarters ending in January and April. Additionally, extreme weather conditions such as major or extended winter storms, droughts and tornados, wildfires, and natural disasters, such as floods, hurricanes, tropical storms, whether as a result of climate change or otherwise, could also impact the demand for our services, or impact our ability to perform our services. Also, several holidays fall within the fiscal quarter ending in January, which decreases the number of available workdays in this fiscal quarter. Because of these factors, we are most likely to experience reduced revenue and profitability or losses during the fiscal quarters ending in January and April compared to the fiscal quarters ending in July and October.
+We derive a significant portion of our revenues from multi-year master service agreements and other long-term contracts which our customers may cancel at any time or may reschedule or modify previously assigned work. 
+The majority of our long-term contracts are cancellable by our customers with little or no advance notice and for any, or no, reason. Our customers may also have the right to cancel or remove assigned work without canceling the contract or to reschedule or modify previously assigned work. We may also experience difficulty in managing and timely executing on long-term contracts due to the complex nature of the projects and changes in customer needs and priorities may adversely impact of the profitability of these contracts. In addition, these contracts typically include a fixed term that is subject to renewal or rebid on a periodic basis. We may be unsuccessful in securing contracts when their fixed terms expire. Our projected revenues assume that definitive work orders have been, or will be, issued by our customer, and that the work will be completed. The potential loss of work under master service agreements and other long-term contracts, or the rescheduling or modification of previously assigned work by a customer, could adversely affect our results of operations, cash flows, and liquidity, as well as any projections we provide.
+Our contracts contain provisions that may require us to pay damages or incur costs if we fail to meet our contractual obligations. 
+If we do not meet our contractual obligations our customers may look to us to pay damages or pursue other remedies, including, in some instances, the payment of liquidated damages. Additionally, if we fail to meet our contractual obligations, or if our customer anticipates that we cannot meet our contractual obligations, our customers may, in certain circumstances, seek reimbursement from us to cover the incremental cost of having a third party complete or remediate our work. Our results of operations could be adversely affected if we are required to pay damages or incur costs as a result of a failure to meet our contractual obligations. 
+Our backlog is subject to reduction or cancellation, and revenues may be realized in different periods than initially reflected in our backlog. 
+Our backlog includes the estimated uncompleted portion of services to be performed under master services agreements and other contractual agreements with our customers. These estimates are based on, among other things, contract terms and projections regarding the timing of the services to be provided. In the case of master service agreements, backlog is calculated using as an input the amount of work performed in the preceding 12 month period, when applicable. Backlog for newly initiated master service agreements and other long and short-term contracts is estimated using the anticipated scope of the contract and information received from the customer in the procurement process. 
+Generally, our customers are not contractually committed to procure specific volumes of services. Contract revenue estimates reflected in our backlog can be subject to change due to a number of factors, including contract cancellations or changes in the amount of work we expect to be performed under a contract. In addition, contract revenues reflected in our backlog may be realized in different periods from those previously anticipated due to these factors as well as project accelerations or delays due to various reasons, including, but not limited to, changes in customer spending priorities, project cancellations, regulatory interruptions, scheduling changes, commercial issues, such as permitting, engineering revisions, job site conditions and adverse weather. The amount or timing of our backlog can also be impacted by the merger or acquisition activity of our customers. Our estimates of our customers’ requirements during a future period may prove to be inaccurate. As a result, our backlog as of any particular date is an uncertain estimate of the amount of, and timing of, future revenues and earnings.
+11
+Table of Contents
+We have a significant amount of accounts receivable and contract assets, which could become uncollectible. 
+We extend credit to our customers because we perform work under contracts prior to being able to bill for that work. Deteriorating conditions in the industries we serve, bankruptcies, or financial difficulties of a customer or within the telecommunications sector generally may impair the financial condition of one or more of our customers and hinder their ability to pay us on a timely basis or at all. In addition, although in some instances we may have the right to file liens for certain projects, we may not be successful in enforcing those liens. The failure or delay in payment by one or more of our customers could reduce our cash flows and adversely affect our liquidity and results of operations. 
+Our profitability is based on delivering services within the estimated costs established when we price our contracts. 
+A significant portion of our services are provided under contracts that have discrete pricing for individual tasks. Due to the fixed price nature of the tasks, our profitability could decline if our actual cost to complete each task exceeds our original estimates, as pricing under these contracts is determined based on estimated costs established when we enter into the contracts. A variety of factors could negatively impact the actual cost we incur in performing our work, such as changes made by our customers to the scope and extent of the services that we are to provide under a contract, delays resulting from weather and any pandemic or public health emergency, conditions at work sites differing materially from those anticipated at the time we bid on the contract, higher than expected costs of materials, including as a result of increased tariffs, and labor, delays in obtaining necessary permits, under absorbed costs, and lower than anticipated productivity. An increase in costs due to any of these factors, or for other reasons, could adversely affect our results of operations.
+Regulatory changes and requirements associated with government funding that is associated with certain capital spending initiatives of our customers may affect their spending on the services we provide. 
+Our customers operate in regulated industries and are subject to laws and regulations that can change frequently. Additionally, where our customers utilize governmental funding sources in connection with the work they contract us to perform, such work may be subject to new or enhanced regulatory requirements and compliance obligations. The application of new or enhanced regulatory requirements or obligations, or changes to the enforcement or interpretation of existing laws or regulations, may delay or constrain our ability to perform our work, increase our costs to perform our work without a corresponding increase in payment from our customers, and could cause our customers to reduce or delay spending on the services we provide, which could adversely affect our revenues, results of operations, and liquidity.
+Considerable uncertainty exists regarding how future budget and program decisions will unfold and future funding for certain government programs in which we or our customers participate may be reduced, delayed or cancelled. 
+The incoming administration announced a planned advisory commission to reform federal government processes and reduce expenditures. Pressures on and uncertainty surrounding the U.S. federal government’s budget, and potential changes in budgetary priorities, could adversely affect the funding for infrastructure programs upon which we rely. Additionally, changes related to taxation, trade, economic and monetary policies, heightened diplomatic tensions or political and civil unrest, among other potential impacts, could adversely impact the global economy and our operating results.
+Technological change may affect our customers’ spending on the services we provide. 
+We generate a significant majority of our revenues from customers in the telecommunications industry. This industry has been and continues to be impacted by rapid technological change. These changes may affect our customers’ spending on the services we provide. Further, technological change in the telecommunications industry not directly related to the services we provide may affect the ability of one or more of our customers to compete effectively, which could result in a reduction or elimination of their use of our services. Any reduction, elimination or delay of spending by one of our customers on the services we provide could adversely affect our revenues, results of operations, and liquidity. 
+Our business is dependent on keeping pace with technological developments impacting our services and those of our customers.
+ Our success is dependent on our and our customers’ ability to acquire, develop, adopt and leverage new and existing technologies, including artificial intelligence (“AI”). New technologies can materially impact our business in a number of ways, including affecting the costs, speed and efficiency with which we can provide our services to our customers and our ability to differentiate ourselves from our competitor’s offerings. Our customers may also experience decreased demand for their products or services if they fail to develop new products and technologies to meet consumer demand. Our failure to effectively anticipate or adapt to new technologies and changes in our customer’s expectations and behavior could materially impact our competitive position with our customers and, as a result, our future success and growth.
+Our business is labor-intensive, and we may be unable to attract, retain and ensure the productivity of qualified employees or to pass increased labor and training costs to our customers. 
+We are highly dependent upon our ability to employ, train, retain, and ensure the productivity of the skilled personnel needed to operate our business. Given the highly specialized work we perform, many of our employees receive training in, and possess, specialized technical skills that are 
+12
+Table of Contents
+necessary to operate our business and maintain productivity and profitability. We cannot be certain that we will be able to maintain and ensure the productivity of the skilled labor force necessary to operate our business. Our ability to do so depends on a number of factors, such as the general rate of employment, fluctuations in economic and industry conditions, changes in U.S. immigration policies, regulatory changes, competition for employees possessing the skills we need and the general health and welfare of our employees. Additionally, factors such as corporate culture, organizational changes, remote working opportunities and our compensation programs may impact our ability to effectively attract, retain and manage our workforce. In addition, the uncertainty of contract awards and project delays can also present difficulties in appropriately sizing our skilled labor force. Furthermore, due to the fixed price nature of the tasks in our contracts, we may be unable to pass increases in labor and training costs on to our customers. If we are unable to attract or retain qualified employees or incur additional labor and training costs, we may be unable to maintain or improve our competitive position and our results of operations could be adversely affected. 
+We may be unable to secure or retain qualified subcontractors to fulfill our obligations, or our subcontractors may fail to satisfy their obligations to us, either of which may adversely affect our relationships with our customers or cause us to incur additional costs. 
+We contract with subcontractors to manage fluctuations in work volumes and reduce the amounts that we would otherwise expend on fixed assets and working capital. If we are unable to secure qualified subcontractors who can provide adequate labor resources at a reasonable cost, we may be delayed or unable to complete our work under a contract on a timely basis. In addition, subcontractors may not meet performance expectations, fail to meet regulatory or contractual requirements, or experience financial instability that could result in disputes or litigation and adversely impact, among other things, the quality and timeliness of the work they have performed. We may incur additional costs to correct such shortfalls in the work performed by subcontractors. Any of these factors could negatively impact the quality of our service, our ability to perform under certain customer contracts, and our relationships with our customers, which could adversely affect our results of operations.
+Changes in fuel prices may increase our costs, and we may not be able to pass along increased fuel costs to our customers.
+ Fuel prices fluctuate based on events outside of our control, including as the result of global economic conditions, market volatility, import and export restrictions, sanctions or trade regulations and the imposition of tariffs. Most of our services are provided under contracts that have discrete pricing for individual tasks and do not allow us to adjust our pricing for higher fuel costs during a contract term. In addition, we may be unable to secure prices that reflect rising costs when renewing or bidding contracts. To the extent we enter into hedge transactions in conjunction with our anticipated fuel purchases, declines in fuel prices below the levels established in the hedges we have in place may require us to make payments to our hedge counterparties. As a result, changes in fuel prices may adversely affect our results of operations.
+Increases in healthcare costs could adversely affect our financial results. 
+The costs of providing employee medical benefits have steadily increased over a number of years due to, among other things, rising healthcare costs and legislative requirements. Because of the complex nature of healthcare laws, as well as periodic healthcare reform legislation adopted by Congress, state legislatures, and municipalities, we cannot predict with certainty the future effect of these laws on our healthcare costs. Continued increases in healthcare costs or additional costs created by future health care reform laws adopted by Congress, state legislatures, or municipalities could adversely affect our results of operations and financial position.
+Fluctuations in our effective tax rate and tax liabilities may cause volatility in our financial results. 
+We determine and provide for income taxes based on the tax laws of each of the jurisdictions in which we operate. Changes in the mix and level of earnings among jurisdictions could materially impact our effective tax rate in any given financial statement period. Our effective tax rate may also be affected by changes in tax laws and regulations at the federal, state, and local level, or by new interpretations of existing tax laws and regulations. We are also subject to audits by various taxing authorities. An adverse outcome from an audit could unfavorably impact our effective tax rate and increase our tax liabilities. 
+We may incur impairment charges on goodwill or other intangible assets. 
+We assess goodwill and other indefinite-lived intangible assets for impairment annually in order to determine whether their carrying value exceeds their fair value. Reporting units are tested more frequently if an event occurs or circumstances change between annual tests that indicate their fair value may be below their carrying value. If we determine the fair value of the goodwill or other indefinite-lived intangible assets is less than their carrying value as a result of an annual or interim test, an impairment loss is recognized.
+Our goodwill resides in multiple reporting units. The profitability of individual reporting units may suffer periodically due to downturns in customer demand, increased costs of providing our services, and the level of overall economic activity. Our customers may reduce capital expenditures and defer or cancel pending projects due to changes in technology, a slowing or uncertain economy, merger or acquisition activity, a decision to allocate resources to other areas of their 
+13
+Table of Contents
+business, or other reasons. The profitability of reporting units may also suffer if actual costs of providing our services exceed our estimated costs established when we enter into contracts. Additionally, adverse conditions in the economy and future volatility in the equity and credit markets could impact the valuation of our reporting units. The cyclical nature of our business, the high level of competition existing within our industry, and the concentration of our revenues from a small number of customers may also cause results to vary. The factors identified above may affect individual reporting units disproportionately, relative to the Company as a whole. As a result, the performance of one or more of the reporting units could decline, resulting in an impairment of goodwill or intangible assets. In addition, adverse changes to the key valuation assumptions contributing to the fair value of our reporting units could result in an impairment of goodwill or intangible assets. A write-down of goodwill or intangible assets as a result of an impairment could adversely affect our results of operations.
+The market price of our common stock has been, and may continue to be, highly volatile. 
+During fiscal 2025, our common stock fluctuated from a low of $111.70 per share to a high of $202.82 per share. We may continue to experience significant volatility in the market price of our common stock due to numerous factors, including, but not limited to: 
+•
+events impacting us, or our competitors, with respect to significant contracts, acquisitions or dispositions, fluctuations in operating results, or change to capital structure;
+•
+announcements by our customers regarding their capital spending and start-up, deferral or cancellation of projects, or their mergers and acquisitions activities;
+•
+the commercialization of new technologies impacting the services that we provide to our customers; 
+•
+regulatory and compliance obligations associated with government funding provided to our customers in connection with the work we perform, other regulatory actions, and changes in tax laws;
+•
+changes in recommendations or earnings estimates by securities analysts; and 
+•
+the impact of economic conditions on the credit and stock markets and on our customers’ demand for our services.
+In addition, other factors, such as market disruptions, industry outlook, general economic conditions, widespread public health epidemics and political events, could decrease the market price of our common stock and, as a result, investors could lose some or all of their investments. 
+Risks Related to the Operation of Our Business 
+Our operations involve activities that are inherently dangerous. If our activities result in, or if it is alleged that our activities have resulted in, damage or destruction to the property of others, or in injury or death to others, we could be exposed to significant financial losses, reputational harm and civil and criminal liabilities.
+ Our operations involve dangerous activities such as underground drilling and the use of mechanized equipment. These activities and their effects could result in, or be alleged to have resulted in, damage to the real and personal property of others, and cause personal injury or death to third parties or our employees. In many instances, our activities are performed in close proximity to other utilities which, if damaged, may result in the occurrence of catastrophic events. Additionally, we may perform our activities in environmentally sensitive locations or in locations that may be susceptible to catastrophic events, including wildfires. If our activities cause or contribute to, or are alleged to have caused or contributed to, a catastrophic event, we could be exposed to severe financial losses and reputational harm. We procure insurance coverage to cover many of these risks; however, there can be no assurance that coverage will continue to be available to us on commercially reasonable terms, or at all, or that our coverage will be adequate in scope or amount to address financial losses from these risks. As a result, we could incur significant costs to defend any such allegations, defend and indemnify our customers, repair and replace assets, or to compensate third parties; reputational harm could result in the loss of future revenue-generating opportunities; or we may be subject to civil and, in certain situations, criminal liabilities.
+Changes in the cost or availability of materials may adversely affect our revenues and results of operations. 
+For a majority of the contract services we perform, customers provide the necessary materials. Under other contracts, we supply part, or all, of the necessary materials. If we, or our customers, are unable to procure the materials necessary to the contract services we perform, or if those materials are only available at prices that make our work unprofitable, our revenues and results of operations could be adversely affected. 
+14
+Table of Contents
+A failure, outage, or cybersecurity breach of our technology systems or those of third-party providers may adversely affect our operations and financial results
+. We are dependent on technology to operate our business, to engage with our customers and other third parties, and to increase the efficiency and effectiveness of the services we offer our customers. We use both our own information technology systems and the information technology systems and expertise of third-party service providers to manage our operations, process data for our financial reporting, and perform other business processes. We also use information technology systems to record, transmit, store, and protect sensitive data, including the sensitive data of our employees and customers. A cybersecurity or ransomware attack, computer viruses, security breaches, or vandalism on these information technology systems, which we have experienced in the past, may result in our inability to access and utilize these systems, create or contribute to significant financial losses, and may negatively impact our reputation. The systems of our customers that we utilize to transmit and receive information could also fail or be subject to a cybersecurity attack. Any of these occurrences could disrupt our business or the delivery of services to our customers, result in potential liabilities, the termination of contracts, divert the attention of management from effectively operating our business, cause significant reputational damage, or otherwise have an adverse effect on our financial results. We may also need to expend significant additional resources to protect against cybersecurity threats or to address actual breaches or to redress problems caused by cybersecurity breaches.
+A failure in our information technology systems could negatively impact our business. 
+We rely on information technology systems to record and process transactions, manage our business, and maintain the financial accuracy of our records. Our information technology systems may be adversely impacted by various factors, including power outages, software and hardware failures, connectivity outages, catastrophic events, and human error. Interruptions to our information systems could disrupt our business, delay our financial reporting, and could result in the loss of revenue, and cause us to incur additional expense. We are in the process of implementing an Enterprise Resource Planning (ERP) system to upgrade and standardize our information technology systems. This implementation is expected to occur in phases over the next several years. Any delays or failures to achieve our implementation goals may adversely impact our financial results. In addition, the failure to complete the implementation on a timely basis, or to adequately address the necessary readiness and training needs of our personnel, could lead to business disruption, negatively affect our customer relationships, and restrict our ability to execute our business strategy, which could adversely affect our business.
+The loss or long-term incapacitation of one or more of our executive officers or other key employees could adversely affect our business. 
+We depend on the continued and ongoing services of our executive officers and other key employees, including the senior management of our subsidiaries. In many instances, these employees have significant experience and expertise in our industry. These key employees often possess and maintain key relationships with our customers and subcontractors that would be difficult to replace. Competition for senior management personnel is intense and we cannot be certain that any of our executive officers or other key management personnel will remain employed by us or that they will otherwise be able to provide service to us for any length of time. Additionally, we may not have adequate succession planning in place or the hiring, promotion or transition of an executive or key employee into a new role may not be successful and we may be unable to ensure that our key employees can be replaced if they are no longer employed by us. We do not carry “key-person” life or disability insurance on any of our employees. The loss or long-term incapacitation of any one of our executive officers or other key employees could negatively affect our customer relationships or the ability to execute our business strategy, which could adversely affect our business.
+The preparation of our financial statements requires management to make certain estimates and assumptions that may differ from actual results. 
+In preparing our consolidated financial statements in conformity with accounting principles generally accepted in the United States of America, a number of estimates and assumptions are made by management that affect the amounts reported in the financial statements. These estimates and assumptions must be made because certain information that is used in the preparation of our financial statements is either dependent on future events or cannot be calculated precisely from available data at the time that these estimates are made and, accordingly, requires the use of management’s judgment. Estimates and assumptions are primarily used in our assessment of the recognition of revenue under the cost-to-cost method of progress, job-specific costs, accrued insurance claims, the allowance for credit losses, accruals for contingencies, stock-based compensation expense for performance-based stock awards, the fair value of reporting units for the goodwill impairment analysis, the assessment of impairment of intangibles and other long-lived assets, the purchase price allocations of businesses acquired, and income taxes. When made, we believe such estimates and assumptions are fair when considered in conjunction with our consolidated financial position and results of operations taken as a whole. However, actual results could differ from those estimates and assumptions, and such differences may be material to our financial statements.
+15
+Table of Contents
+Risks Related to Laws and Regulations 
+Our failure to comply with occupational health and workplace safety requirements could result in significant liabilities or enforcement actions and adversely impact our ability to perform services for our customers. 
+Our operations are subject to strict laws and regulations governing workplace safety. Our workers frequently operate heavy machinery, work on and in the vicinity of electrical and gas lines, perform their work at heights, and engage in other potentially dangerous activities which could subject them and others to injury or death. If, in the course of our operations, it is determined we have violated safety regulations, our operations may be disrupted and we may be subject to penalties, fines or, in extreme cases, criminal sanctions. In addition, if our safety performance were to deteriorate, customers could decide to cancel our contracts or not award us future business. These factors could adversely affect our results of operations and financial position. 
+Our failure to comply with worker eligibility and immigration laws or changes to such laws could result in significant liabilities and harm our reputation with our customers, as well as cause disruption to our operations. 
+If we fail to comply with these laws, which continue to evolve and are subject to additional executive and legislative actions or legal enforcement, our operations may be disrupted, and we may be subject to fines or, in extreme cases, criminal sanctions. In addition, many of our customer contracts specifically require compliance with worker eligibility and immigration laws and in some cases our customers audit compliance with these laws. Further, several of our customers require that we ensure our subcontractors comply with these laws with respect to the workers that perform services for them. A failure to comply with these laws or to quickly adapt to regulatory changes could damage our reputation and may result in the cancellation of our contracts by our customers, or a decision by our customers not to award us future business. These factors could adversely affect our results of operations and financial position.
+Our failure to comply with various laws and regulations related to the construction and operation of utilities, contractor licensing and the operation of our fleet of commercial motor vehicles could result in significant liabilities. 
+We are subject to a number of state and federal laws and regulations, including those related to the construction and operation of utilities, contractor licensing and the operation of our fleet of commercial motor vehicles. If we are not in compliance with these laws and regulations, we may be unable to perform services for our customers and may also be subject to fines, penalties, and the suspension or revocation of our licenses. Our failure to comply with these laws and regulations may affect our ability to operate and could require us to incur significant costs that adversely affect our results of operations.
+Our failure to comply with environmental laws could result in significant liabilities. 
+A significant portion of the work we perform is associated with the underground networks of our customers and we often operate in close proximity to pipelines, sewer lines, or underground storage tanks that may contain hazardous substances. We could be subject to liabilities in the event that we fail to comply with environmental laws or regulations or if we cause or are responsible for the release of hazardous substances or other environmental damages. These liabilities could result in significant costs including remediation costs, fines, third-party claims for property damage, or personal injury, and, in extreme cases, criminal sanctions. These costs, as well as any direct impact to ongoing operations, could adversely affect our results of operations and cash flows. In addition, new laws and regulations, altered enforcement of existing laws and regulations, the discovery of previously unknown contamination or leaks, or the imposition of new remediation requirements could require us to incur significant costs or create new or increased liabilities that could adversely affect our results of operations and financial position. 
+We retain the risk of loss for the occurrence of certain liabilities. 
+We retain the risk of loss, up to certain limits in our insurance program, for matters related to automobile liability, general liability (including damages associated with underground facility locating services), environmental liability, workers’ compensation, and employee group health. We are effectively self-insured for the majority of claims because most claims against us fall below the deductibles or retention levels of our insurance policies. Additionally, within our aggregate coverage limits and above our base layer of third-party insurance coverage, we have retained the risk of loss at certain levels of exposure and any claims that reach these retained levels of exposure are self-insured. We estimate and develop our reserve accruals for these claims, including losses incurred but not reported, based on facts, circumstances, and historical evidence. However, the estimate for accrued insurance claims remains subject to uncertainty as our ultimate losses may depend on factors not known at the time such estimates are made. These factors include the estimated development of claims, the payment pattern of claims incurred, changes in the medical condition of claimants, and other factors such as inflation, tort reform or other legislative changes, unfavorable jury decisions, and court interpretations. Should the cost of actual claims exceed what we have anticipated, our recorded reserves may not be sufficient, and we could incur additional charges that could adversely affect our results of operations and financial position. See Item 7, 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations – Critical Accounting Policies – Accrued Insurance Claims
+, and Note 11, 
+Accrued Insurance Claims
+, in the Notes to the Consolidated Financial Statements in this Annual Report on Form 10-K. 
+16
+Table of Contents
+We may be subject to litigation, indemnity claims, and other disputes, which could result in significant liabilities and adversely impact our financial results.
+ From time to time, we are subject to lawsuits, arbitration proceedings, and other claims brought or threatened against us by various parties, including our customers. These actions and proceedings may involve claims for, among other things, compensation for personal injury, workers’ compensation, wage and hour violations, employment discrimination, harassment, retaliation, and other employment-related damages, breach of contract, property damage, multiemployer pension plan withdrawal liabilities, liquidated damages, consequential damages, punitive damages, statutory damages, and civil penalties, other losses, or injunctive or declaratory relief. In addition, we may also be subject to class action lawsuits, including those alleging violations of the Fair Labor Standards Act, state and municipal wage and hour laws, and misclassification of independent contractors. We also indemnify our customers for claims arising out of or related to the services we provide and our actions or omissions under our contracts. In some instances, we may be allocated risk through our contract terms for the actions or omissions of our customers, subcontractors, or other third parties.
+Due to the inherent uncertainties of litigation and other dispute resolution proceedings, we cannot accurately predict the ultimate outcome of these matters. The outcome of litigation, particularly class action lawsuits, is difficult to assess or quantify. Class action lawsuits may seek recovery of very large or indeterminate amounts. Accordingly, the magnitude of the potential loss may remain unknown for substantial periods of time. These proceedings could result in substantial costs and may require us to devote substantial resources to our defense. The ultimate resolution of any litigation or proceeding through settlement, mediation, or a judgment could have a material impact on our reputation and adversely affect our results of operations and financial position. See Item 3. 
+Legal Proceedings
+, and Note 22, 
+Commitments and Contingencies
+, in the Notes to the Consolidated Financial Statements in this Annual Report on Form 10-K.
+We may be subject to warranty claims, which could result in significant liabilities and adversely impact our financial results.
+ We typically warrant the services we provide by guaranteeing the work performed against defects in workmanship and materials or where our services are not provided in a manner consistent with applicable requirements. When these claims occur, we may be required to repair or replace our work without receiving any additional compensation and we may be liable to our customers for significant monetary claims. Our performance of warranty services requires us to allocate resources that otherwise might be engaged in the provision of services that generate revenue. In addition, our customers often have the right to repair or replace warrantied items using the services of another provider and to charge the cost of the repair or replacement to us. Costs incurred for warranty claims, or reductions to revenue-generating activities arising from the allocation of resources to resolve warranty claims, could adversely affect our results of operations and financial position.
+Our subsidiaries may participate in multiemployer pension plans from time to time under which we could incur significant liabilities
+. Pursuant to collective bargaining agreements, our subsidiaries may participate in various multiemployer pension plans from time to time that provide defined pension benefits to covered employees. Where applicable, we make periodic contributions to these plans to allow them to meet their pension benefit obligations to participants. Assets contributed by an employer to a multiemployer plan are not segregated into a separate account and are not restricted to providing benefits only to employees of that contributing employer. Under the Employee Retirement Income Security Act (“ERISA”), absent an applicable exemption, a contributing employer to an underfunded multiemployer plan is liable upon withdrawal from the plan for its proportionate share of the plan’s unfunded vested liability. Such underfunding may increase in the event other employers become insolvent or withdraw from the applicable plan or upon the inability or failure of withdrawing employers to pay their withdrawal liability. In addition, if any of the plans in which we participate become significantly underfunded, as defined by the Pension Protection Act of 2006, we may be required to make additional cash contributions in the form of higher contribution rates or surcharges. This has occurred and could occur again in the future because of a shrinking contribution base as a result of insolvency or withdrawal of other companies that currently contribute to these plans, inability or failure of withdrawing companies to pay their withdrawal liability, lower than expected returns on plan assets, or other funding deficiencies. Requirements to pay increased contributions or a withdrawal liability could adversely affect our results of operations, financial position, and cash flows. 
+Anti-takeover provisions of Florida law and provisions in our articles of incorporation and by-laws could make it more difficult to effect an acquisition of our Company or a change in our control. 
+We are subject to certain anti-takeover provisions of the Florida Business Corporation Act. These anti-takeover provisions could discourage or prevent a change in control. In addition, certain provisions of our articles of incorporation and by-laws could delay or prevent an acquisition or change in control and the replacement of our incumbent directors and management. For example, our board of directors is divided into three classes. At any annual meeting of our shareholders, our shareholders have the right to elect only approximately one-third of the directors on our board of directors. In addition, our articles of incorporation authorize our board of directors, without further shareholder approval, to issue up to 1,000,000 shares of preferred stock on such terms and with such rights as our board of directors may determine. The issuance of preferred stock could dilute the voting power 
+17
+Table of Contents
+of the holders of common stock, including by the grant of voting control to others. Our by-laws also restrict the right of shareholders to call a special meeting of shareholders. As a result, our shareholders may be unable to take advantage of opportunities to dispose of their stock in the Company at higher prices that may otherwise be available in connection with takeover attempts or under a merger or other proposal.
+We may face challenges related to our corporate social responsibility and sustainability policies
+. Our customers, shareholders, and other constituents may not be satisfied with the corporate social responsibility and sustainability policies that we may set or the practices and programs we choose to implement. A failure to set appropriate corporate social responsibility and sustainability goals for our company, or our failure to meet these goals could adversely affect public perception of our business or customer or shareholder support.
+Risks Related to Our Ability to Grow Our Business
+We may not have access in the future to sufficient capital on favorable terms or at all.
+We may require additional capital to pursue acquisitions, fund capital expenditures, for working capital needs, or to respond to changing business conditions.
+ Our existing debt agreements include restrictions on our ability to incur additional debt at certain levels. In addition, if we seek to incur more debt, we may be required to agree to additional covenants that further limit our operational and financial flexibility. If we pursue additional debt or equity financings, we cannot be certain that such funding will be available on terms acceptable to us, or at all. Our inability to access additional capital could adversely affect our liquidity and may limit our growth and ability to execute our business strategy.
+Our debt obligations impose restrictions that may limit our operating and financial flexibility, and a failure to comply with these obligations could result in the acceleration of our debt.
+ The Company and certain of its subsidiaries are party to an amended and restated credit agreement, that includes a revolving facility with a maximum revolver commitment of $650.0 million and a term loan facility in the principal amount of $450.0 million, which matures on January 15, 2029 (the “Credit Agreement”). The Credit Agreement includes a $200.0 million sublimit for the issuance of letters of credit and a $50.0 million sublimit for swingline loans. As of January 25, 2025, we had $450.0 million outstanding under the term loan facility and $47.5 million of outstanding letters of credit issued under our Credit Agreement. We had no outstanding borrowings under our revolving facility as of January 25, 2025. The Credit Agreement contains covenants that restrict or limit our ability to, among other things: make certain payments, including the payment of dividends, redeem or repurchase our capital stock, incur additional indebtedness and issue preferred stock, make investments or create liens, enter into sale and leaseback transactions, merge or consolidate with another entity, sell certain assets, and enter into transactions with affiliates. Our Credit Agreement also requires us to comply with certain financial covenants, including a consolidated net leverage ratio and a consolidated interest coverage ratio. These covenants in our Credit Agreement may prevent us from engaging in transactions that benefit us and may limit our flexibility in the execution of our business strategy. 
+Additionally, on April 1, 2021, we issued $500.0 million aggregate principal amount of 4.50% senior notes due 2029 (the “2029 Notes”). The 2029 Notes are guaranteed on a senior unsecured basis, jointly and severally, by all of our domestic subsidiaries that guarantee the Credit Agreement. The indenture governing the 2029 Notes includes cross-acceleration and cross-default provisions with our Credit Agreement. If our financial results fall below anticipated levels, we may be unable to comply with these covenants and a default under our Credit Agreement could result in the acceleration of our obligations under both our Credit Agreement and the indenture governing the 2029 Notes, which could adversely affect our liquidity and our ability to execute our business strategy.
+The specialty contracting services industry in which we operate is highly competitive. 
+We compete with other specialty contractors, including numerous local and regional providers, as well as several large corporations that may have financial, technical, and marketing resources exceeding ours. Relatively few barriers to entry exist in the markets in which we operate, which means that any organization could become a competitor if it has adequate financial resources and access to technical expertise, the ability to engage subcontractors, and the necessary equipment and materials. Additionally, our competitors may develop expertise obtain resources or adopt new technologies that allow them to provide services that are equal or superior to our services in price, quality, or availability, and we may be unable to effectively compete against them. Furthermore, if competitors underbid us to procure business, we could be required to lower the prices we charge in order to retain contracts when they come up for competitive bidding at the end of their terms. Our revenues and results of operations could be adversely affected if our customers shift a significant portion of our work to a competitor, if we are unsuccessful in bidding or retaining projects, or if our ability to win projects requires us to provide our services at reduced margins.
+We face competition from the in-house service organizations of our customers. 
+We face competition from the in-house service organizations of our customers whose personnel perform many of the services that we provide. We can offer no 
+18
+Table of Contents
+assurance that our existing or prospective customers will continue to outsource the specialty contracting services we provide in the future. Our revenues and results of operations could be adversely affected if our existing or prospective customers reduce the specialty contracting services that are outsourced to us. 
+Our failure to perform sufficient due diligence prior to completing acquisitions could result in significant liabilities. 
+The growth of our business through acquisitions may expose us to risks, including the failure to identify significant issues and risks of an acquired business. A failure to identify or appropriately quantify a liability or possible risk in our due diligence process could result in the assumption of unanticipated liabilities arising from the prior operations of an acquired business, some of which may not be adequately reserved and may not be covered by indemnification obligations. The assumption of unknown liabilities due to a failure of our due diligence could adversely affect our results of operations and financial position.
+Our failure to successfully integrate acquisitions could adversely affect our financial results. 
+As part of our growth strategy, we may acquire companies that we expect to expand, complement, or diversify our business. The success of this strategy depends on our ability to realize the anticipated benefits from the acquired businesses, such as the expansion of our existing operations and the elimination of redundant costs. To realize these benefits, we must successfully integrate the operations of the acquired businesses with our existing operations. Integrating acquired businesses involves a number of operational challenges and risks, including diversion of management’s attention from our existing business; unanticipated issues in integrating information, communications, and other systems and consolidating corporate and administrative infrastructures; failure to manage successfully and coordinate the growth of the combined company; and failure to retain management and other key employees. These factors could result in increased costs, decreases in the amount of expected revenues and diversion of management’s time and energy, which could adversely affect our results of operations and financial position. Additionally, any impairment of goodwill or other intangible assets as a result of our failure to successfully integrate acquisitions could adversely affect our results of operations and financial position.
+19
+Table of Contents
+Item 1B. 
+Unresolved Staff Comments.
+None.
+Item 1C. 
+Cybersecurity
+.
+Cybersecurity Risk Management and Strategy
+We are committed to protecting the confidentiality, integrity, and availability of our information assets and managing cybersecurity risks effectively. Our cybersecurity strategy focuses on proactive risk management, continuous improvement, collaboration and partnerships, and investment in security technologies.
+We face various cybersecurity risks, including unauthorized access, information leakage, malware and viruses, technical disruption, and insider threats. 
+Identifying, assessing, and managing these risks is the foundation of our comprehensive cybersecurity framework and is integrated into our overall risk management systems and processes
+. We have implemented strong access controls, regular security assessments, vulnerability management, user education and awareness, monitoring, threat intelligence (including user behavior analytics), and managed detection and response to mitigate cybersecurity risks.
+Our implementation of strong access controls includes multi-factor authentication, least privilege access, role-based access control, and network segmentation to ensure information assets are protected from unauthorized access and/or exposure.
+We conduct regular security assessments to identify vulnerabilities, test compliance, proactively address security risks that would impact the organization, and prioritize those risks based on their likelihood and potential impact. The associated activities include performing risk, vulnerability, penetration, and compliance assessments to assist in identifying potential internal and external threats and weaknesses in our systems, networks, and applications and performing simulations to test and improve our incident response plans while building resiliency.
+In addition to the controls and assessments noted above, 
+we regularly engage with our internal and external auditors and third-party cybersecurity consultants
+ to assess our cybersecurity program, ensuring adherence to applicable industry standards, practices, and laws.
+Our cybersecurity program also includes third-party risk management evaluation and monitoring of our suppliers, vendors, and other business partners to help identify and mitigate risks that may impact our company. We evaluate existing risks, threats, and prior cybersecurity incidents of new vendors, suppliers, and business partners using various risk assessments.
+Cybersecurity Governance
+Cybersecurity governance is a critical component of our organization’s overall risk management framework and an area of focus for our Board and management. 
+Our Board has delegated primary responsibility for overseeing risks from cybersecurity threats to the 
+Audit Committee
+. The Audit Committee oversees information technology and cybersecurity, including strategies, risk identification and mitigation, and data privacy protection (“Information Security”).
+The Company’s 
+Chief Information Officer
+ has been serving in this role for the company for 18 years and has over 30 years of experience in various information security and related technology roles.
+The Chief Information Officer oversees an internal information security team, which works in partnership with the Company’s internal audit department to review information technology-related controls with our external auditors as part of the overall internal controls process. 
+The Chief Information Officer, who is in regular communication with the information security team, reports regularly to the Chief Executive Officer regarding vulnerabilities, new and developing threats, and compliance matters and also reports to the Audit Committee.
+The Audit Committee receives reports from the Chief Information Officer on a periodic basis, and more frequently, as needed, regarding cybersecurity-related matters. Such reports include updates with respect to existing and new cybersecurity risks, cybersecurity risk management and mitigation, cybersecurity incidents, as applicable, and key information security initiatives and recent developments.
+Item 2. 
+Properties. 
+We lease our executive office located in Palm Beach Gardens, Florida. Our subsidiaries operate from administrative offices, district field offices, equipment yards, shop facilities, and temporary storage locations throughout the United States. Those facilities are primarily leased but certain facilities are owned. Our leased properties operate under both non-cancelable 
+20
+Table of Contents
+and cancelable leases. We believe that our facilities are suitable and adequate for our current operations and, if necessary, additional or replacement facilities would generally be available on commercially reasonable terms.
+Item 3. 
+Legal Proceedings.
+Refer to Note 22, 
+Commitments and Contingencies
+, in the Notes to the Consolidated Financial Statements in this Annual Report on Form 10‑K. 
+Item 4.
+ Mine Safety Disclosures.
+Not applicable.
+PART II
+Item 5. 
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Market Information for Our Common Stock
+Our common stock is traded on the New York Stock Exchange (“NYSE”) under the symbol “DY.”
+Holders
+As of February 25, 2025, there were approximately 546 holders of record of our $0.33 1/3 par value per share common stock.
+Dividend Policy
+We have not paid cash dividends since 1982. Our Board of Directors occasionally evaluates the payment of a dividend based on our financial condition, profitability, cash flow, capital requirements, and the outlook of our business. We currently intend to retain any earnings for use in the business and other capital allocation strategies which may include investment in acquisitions and share repurchases. Consequently, we do not anticipate paying any cash dividends on our common stock in the foreseeable future.
+Securities Authorized for Issuance Under Equity Compensation Plans
+The information required by this item is hereby incorporated by reference from the section entitled “Equity Compensation Plan Information” found in our definitive proxy statement to be filed with the Securities and Exchange Commission pursuant to Regulation 14A.
+Issuer Purchases of Equity Securities
+The following table summarizes the Company’s purchases of its common stock during the three months ended January 25, 2025:
+Period
+Total Number of Shares Purchased 
+(1)
+Average Price Paid Per Share 
+(2)
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Maximum Number of Shares that May Yet Be Purchased Under the Plans or Programs
+October 27, 2024 - November 23, 2024
+— 
+$
+— 
+—
+(3)
+November 24, 2024 - December 21, 2024
+— 
+$
+— 
+—
+(3)
+December 22, 2024 - January 25, 2025
+200,000 
+$
+179.27 
+—
+(3)
+(1) 
+All shares repurchased have been subsequently canceled.
+(2)
+ Average price paid per share excludes 1% excise tax on share repurchases. 
+(3)
+ On August 23, 2023, the Company announced that its Board of Directors authorized a new $150.0 million program to repurchase shares of the Company’s outstanding common stock through February 2025 in open market or private transactions. During the fourth quarter of fiscal 2025 we repurchased 200,000 shares of common stock, at an average price of $179.27, for $35.9 million. As of January 25, 2025, $55.0 million of the authorization remained available for repurchases. On February 26, 
+21
+Table of Contents
+2025, the Company announced that its Board of Directors had authorized a new $150.0 million program to repurchase shares of the Company’s outstanding common stock through August 2026 in open market or private transactions. The new authorization replaces the remaining $55.0 million that was available under the prior authorization. As of February 28, 2025, the full $150.0 million of the new authorization was available for repurchases.
+Performance Graph
+The performance graph below compares the cumulative total return for our common stock with the cumulative total return (including reinvestment of dividends) of the Standard & Poor’s (S&P) 500 Composite Stock Index and that of a selected peer group for fiscal 2021 through fiscal 2025. The selected peer group consists of MasTec, Inc., Quanta Services, Inc., MYR Group, Inc., and Primoris Services Corporation. The graph assumes an investment of $100 in our common stock and in each of the respective indices noted on January 31, 2020. The comparisons in the graph are required by the Securities and Exchange Commission and are not intended to forecast or be indicative of the possible future performance of our common stock. 
+22
+Table of Contents
+Item 6.
+ Selected Financial Data.
+Our fiscal year ends on the last Saturday in January. As a result, each fiscal year consists of either 52 weeks or 53 weeks of operations (with the additional week of operations occurring in the fourth quarter). Fiscal 2025, fiscal 2024, and fiscal 2023 each consisted of 52 weeks of operations. The next 53 week fiscal period will occur in the fiscal year ending January 31, 2026. The following selected financial data is derived from the audited consolidated financial statements for the applicable fiscal year.
+The selected financial data below should be read in conjunction with our consolidated financial statements and accompanying notes, and with Item 7, 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+, in this Annual Report on Form 10-K. The results of operations of businesses acquired are included in the following selected financial data from their dates of acquisition (dollars in thousands, except per share amounts):
+Fiscal Year Ended
+January 25, 2025
+January 27, 2024
+January 28, 2023
+January 29, 2022
+(1)
+January 30, 2021
+(2)
+Operating Data
+:
+Revenues
+$
+4,702,014 
+$
+4,175,574 
+$
+3,808,462 
+$
+3,130,519 
+$
+3,199,165 
+Net income
+$
+233,413 
+$
+218,923 
+$
+142,213 
+$
+48,574 
+$
+34,337 
+Earnings Per Common Share
+:
+Basic
+$
+8.02 
+$
+7.46 
+$
+4.81 
+$
+1.60 
+$
+1.08 
+Diluted
+$
+7.92 
+$
+7.37 
+$
+4.74 
+$
+1.57 
+$
+1.07 
+Balance Sheet Data (at end of period)
+:
+Total assets
+$
+2,945,367 
+$
+2,516,885 
+$
+2,313,254 
+$
+2,118,224 
+$
+1,944,165 
+Long-term liabilities
+$
+1,119,117 
+$
+955,925 
+$
+974,948 
+$
+977,884 
+$
+684,367 
+Stockholders’ equity
+(3)
+$
+1,239,097 
+$
+1,054,656 
+$
+868,755 
+$
+758,544 
+$
+811,308 
+(1) 
+During fiscal 2022, we issued $500 million aggregate principal amount of 4.50% senior notes due 2029 (the “2029 Notes”). The 2029 Notes are guaranteed on a senior unsecured basis, jointly and severally, by all of our domestic subsidiaries that guarantee the Credit Agreement. The balance of $58.3 million under the 2021 Convertible Notes was repaid in full on September 15, 2021.
+(2) 
+During the first quarter of fiscal 2021, we recognized a goodwill impairment charge of $53.3 million as the result of an interim impairment analysis.
+(3) 
+The following table summarizes our share repurchases during fiscal 2025, 2024, 2023, 2022, and 2021:
+Fiscal Year Ended
+January 25, 2025
+January 27, 2024
+January 28, 2023
+January 29, 2022
+January 30, 2021
+Shares
+410,000 
+485,000 
+514,030 
+1,231,638 
+1,324,381 
+Amount paid (dollars in millions)
+$
+65.6 
+$
+49.7 
+$
+48.7 
+$
+106.1 
+$
+100.0 
+Average price per share
+$
+160.10 
+$
+102.39 
+$
+94.80 
+$
+86.17 
+$
+75.51 
+Item 7. 
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion and analysis should be read in conjunction with our consolidated financial statements and the accompanying notes, as well as Part I, Item 1. 
+Business
+, and Part I, Item 1A. 
+Risk Factors
+, of this Annual Report on Form 10-K.
+23
+Table of Contents
+Introduction
+We are a leading provider of specialty contracting services throughout the United States. These services include program management, planning, engineering and design; aerial, underground, and wireless construction; maintenance; and fulfillment services for telecommunications providers. Additionally, we provide underground facility locating services for various utilities, including telecommunications providers, as well as other construction and maintenance services for electric and gas utilities. We supply the labor, tools, and equipment necessary to provide these services to our customers.
+Significant demand for broadband services is driven by applications that require high speed connections as well as the everyday use of mobile data devices. To respond to this demand and other advances in technology, an increasing number of diverse industry participants are constructing or upgrading wireline networks throughout the country. These wireline networks enable the delivery of gigabit network speeds to consumers and businesses. Dramatically increased speeds for consumers are being provisioned and consumer data usage is growing, particularly upstream.
+In addition, the advent of AI data centers has created expanding opportunities as hyperscalers look to connect data centers with long-haul, private, redundant fiber networks. Finally, wireless networks are deploying additional spectrum bands and equipment to more broadly and efficiently provision higher broadband services for both fixed and mobile access. 
+Industry participants have stated their belief that a single high-capacity fiber network can most cost effectively deliver services to both consumers and businesses, enabling multiple revenue streams from a single investment. Some of these same industry participants who also provide wireless services, strongly believe that the ability to provision converged wireline fiber and wireless services creates significant competitive advantages. This belief is evident as some wireless providers have recently invested in new fiber providers while another wireline/wireless provider is deploying fiber networks outside its traditional geographic footprint. As a result, we continue to see a meaningfully broader set of opportunities for our industry. 
+We are pleased that a number of our customers have entered into strategic transactions (including refinancings) intended to provide the capital necessary for the incremental deployment of fiber over the next several years. In addition to the incremental private capital associated with these transactions, we continue to see unprecedented levels of federal and state support for rural broadband deployment programs. We believe the magnitude and importance of these programs should not be under appreciated as they address some of the more difficult locations to deploy in America and represent a generational deployment opportunity. 
+We believe that the long-term value of our maintenance and operations business will continue to increase relative to our deployment of wireline and converged networks, as those deployments dramatically increase the amount of outside plant that must be extended and maintained. As customer projects increase in scope and complexity, our industry focus, scale and financial strength position us well to deliver valuable services and anticipate and meet the demands for our customers.
+The cyclical nature of the industry we serve affects demand for our services. The capital expenditure and maintenance budgets of our customers, and the related timing of approvals and seasonal spending patterns, influence our contract revenues and results of operations. Factors affecting our customers and their capital expenditure budgets include, but are not limited to, overall economic conditions, the introduction of new technologies, our customers’ debt levels and capital structures, our customers’ financial performance, our customers’ positioning and strategic plans, and any potential effects from public health emergencies or pandemics. Other factors that may affect our customers and their capital expenditure budgets include new regulations or regulatory actions impacting our customers’ businesses, merger or acquisition activity involving our customers, and the physical maintenance needs of our customers’ infrastructure. 
+Customer Relationships and Contractual Arrangements
+We have established relationships with many leading telecommunications providers, including telephone companies, cable multiple system operators, wireless carriers, telecommunications equipment and infrastructure providers, as well as electric and gas utilities. Our customer base is highly concentrated, with our top five customers accounting for approximately 55.4%, 57.7%, and 66.7% of our total contract revenues during fiscal 2025, fiscal 2024, and fiscal 2023, respectively.
+24
+Table of Contents
+The following reflects the percentage of total contract revenues from customers who contributed at least 2.5% to our total contract revenues during fiscal 2025, fiscal 2024, or fiscal 2023:
+Fiscal Year Ended
+January 25, 2025
+January 27, 2024
+January 28, 2023
+AT&T, Inc.
+20.1%
+16.9%
+25.2%
+Lumen Technologies, Inc.
+12.1%
+15.6%
+12.7%
+Comcast Corporation
+8.5%
+10.7%
+11.3%
+Charter Communications, Inc.
+7.3%
+4.4%
+1.8%
+Brightspeed
+6.6%
+4.7%
+1.0%
+Verizon Communications, Inc.
+6.1%
+9.0%
+9.1%
+Frontier Communications Corporation
+6.0%
+5.1%
+8.5%
+In addition, another customer contributed 7.4%, 5.5% and 3.7% to our total contract revenues during fiscal 2025, fiscal 2024, and fiscal 2023, respectively.
+We perform a majority of our services under master service agreements and other contracts that contain customer-specified service requirements. These agreements include discrete pricing for individual tasks. We generally possess multiple agreements with each of our significant customers. To the extent that such agreements specify exclusivity, there are often exceptions, including the ability of the customer to issue work orders valued above a specified dollar amount to other service providers, the performance of work with the customer’s own employees, and the use of other service providers when jointly placing facilities with another utility. In many cases, a customer may terminate an agreement for convenience. Historically, multi-year master service agreements have been awarded primarily through a competitive bidding process; however, occasionally we are able to negotiate extensions to these agreements. We provide the remainder of our services pursuant to contracts for specific projects. These contracts may be long-term (with terms greater than one year) or short-term (with terms less than one year) and at times include retainage provisions under which the customer may withhold 5% to 10% of the invoiced amounts pending project completion and closeout.
+The following table summarizes our contract revenues from multi-year master service agreements and other long-term contracts, as a percentage of contract revenues: 
+Fiscal Year Ended
+January 25, 2025
+January 27, 2024
+January 28, 2023
+Multi-year master service agreements
+79.3 
+%
+77.7 
+%
+79.5 
+%
+Other long-term contracts
+10.0 
+%
+11.9 
+%
+10.5 
+%
+Total long-term contracts
+89.3 
+%
+89.6 
+%
+90.0 
+%
+Acquisitions
+As part of our growth strategy, we may acquire companies that expand, complement, or diversify our business. We regularly review opportunities and periodically engage in discussions regarding possible acquisitions. Our ability to sustain our growth and maintain our competitive position may be affected by our ability to identify, acquire, and successfully integrate companies. 
+Fiscal 2025. 
+During the third quarter of fiscal 2025, we acquired certain assets and assumed certain liabilities of a telecommunications construction contractor for a cash purchase price of $150.7 million. The acquired business provides wireless construction services for telecommunications providers in various states. This acquisition expands our geographic presence within our existing customer base.
+During the second quarter of fiscal 2025, we acquired a telecommunications construction contractor for a total purchase price of $24.5 million ($20.4 million purchase price plus cash acquired of $4.1 million). The acquired company is located in the northwestern United States and provides construction and maintenance services to telecommunications providers, with the majority of its revenues generated in Alaska. This acquisition expands our geographic presence and our customer base.
+25
+Table of Contents
+During the first quarter of fiscal 2025, we acquired a telecommunications construction contractor for $16.0 million ($12.8 million purchase price, plus cash acquired of $3.2 million). The acquired company provides construction and maintenance services for telecommunications providers in the midwestern United States. This acquisition expands our geographic presence within our existing customer base.
+Fiscal 2024. 
+During August 2023, we acquired Bigham Cable Construction, Inc. (“Bigham”), for $131.2 million ($127.0 million fixed purchase price, plus cash acquired of $8.3 million, less indebtedness of $4.1 million). Bigham provides construction and maintenance services for telecommunications providers in the southeastern United States. This acquisition expands our geographic presence within our existing customer base
+Fiscal 2023. 
+During the fourth quarter of fiscal 2023, we acquired the assets of a telecommunications construction company for $0.4 million. 
+Results of the businesses acquired are included in our consolidated financial statements from their respective dates of acquisition. The purchase price allocations of the companies acquired in fiscal 2025 are preliminary and will be completed when valuations for intangible assets and other amounts are finalized within the 12-month measurement period from the date of acquisition.
+Understanding Our Results of Operations
+The following information is presented so that the reader may better understand certain factors impacting our results of operations, and should be read in conjunction with 
+Critical Accounting Policies and Estimates
+ below, as well as Note 2,
+ Significant Accounting Policies & Estimates
+, in the Notes to the Consolidated Financial Statements in this Annual Report on Form 10-K.
+Contract Revenues.
+ We perform a significant amount of our services under master service agreements and other contracts that contain customer-specified service requirements. These agreements include discrete pricing for individual tasks including, for example, the placement of underground or aerial fiber, directional boring, and fiber splicing, each based on a specific unit of measure. Contract revenue is recognized over time as services are performed and customers simultaneously receive and consume the benefits we provide. Output measures, such as units delivered, are utilized to assess progress against specific contractual performance obligations for the majority of our services. For certain contracts, we use the cost-to-cost measure of progress as more fully described within 
+Critical Accounting Policies and Estimates
+ below.
+Costs of Earned Revenues.
+ Costs of earned revenues includes all direct costs of providing services under our contracts, including costs for direct labor provided by employees, services by subcontractors, operation of capital equipment (excluding depreciation), direct materials, costs of insuring our risks, and other direct costs. Under our insurance program, we retain the risk of loss, up to certain limits, for matters related to automobile liability, general liability (including damages associated with underground facility locating services), workers’ compensation, and employee group health.
+General and Administrative Expenses.
+ General and administrative expenses primarily consist of employee compensation and related expenses, including performance-based compensation and stock-based compensation, legal, consulting and professional fees, information technology and development costs, amortization of implementation costs associated with cloud computing arrangements, provision for or recoveries of bad debt expense, acquisition and integration costs of businesses acquired, and other costs not directly related to the provision of our services under customer contracts. Our provision for bad debt expense is determined by evaluating specific accounts receivable and contract asset balances based on historical collection trends, the age of outstanding receivables, and the creditworthiness of our customers. We incur information technology and development costs primarily to support and enhance our operating efficiency. Our executive management team and the senior management of our subsidiaries perform substantially all of our sales and marketing functions as part of their management responsibilities.
+Depreciation and Amortization.
+ Our property and equipment primarily consist of vehicles, equipment and machinery, and computer hardware and software. We depreciate property and equipment on a straight-line basis over the estimated useful lives of the assets. In addition, we have intangible assets, including customer relationships, trade names, and non-compete intangibles, which we amortize over their estimated useful lives. We recognize amortization of customer relationship intangibles on an accelerated basis as a function of the expected economic benefit and amortization of other finite-lived intangibles on a straight-line basis over their estimated useful lives.
+26
+Table of Contents
+Interest Expense, Net.
+ Interest expense, net, consists of interest incurred on outstanding variable rate and fixed rate debt and certain other obligations and the amortization of debt issuance costs. See Note 14, 
+Debt
+, in the notes to the consolidated financial statements in this Annual Report on Form 10-K for information on debt issuance costs.
+Loss on Debt Extinguishment.
+ Loss on debt extinguishment for fiscal 2025 of $1.0 million includes the write-off of deferred debt issuance costs in connection with the Credit Agreement amendment.
+Other Income, Net.
+ Other income, net, primarily consists of gains or losses from sales of fixed assets. Other income, net also includes discount fee expense associated with the collection of accounts receivable under a customer-sponsored vendor payment program. 
+Seasonality and Fluctuations in Operating Results.
+ Our contract revenues and results of operations exhibit seasonality and are impacted by adverse weather changes as we perform a significant portion of our work outdoors. Consequently, adverse weather, which is more likely to occur with greater frequency, severity, and duration during the winter, as well as reduced daylight hours, impact our operations during the fiscal quarters ending in January and April. Additionally, extreme weather conditions such as major or extended winter storms, droughts and tornados, wildfires, and natural disasters, such as floods, hurricanes, tropical storms, whether as a result of climate change or otherwise, could also impact the demand for our services, or impact our ability to perform our services. Also, several holidays fall within the fiscal quarter ending in January, which decreases the number of available workdays in this fiscal quarter. Because of these factors, we are most likely to experience reduced revenue and profitability or losses during the fiscal quarters ending in January and April compared to the fiscal quarters ending in July and October.
+We may also experience variations in our profitability driven by a number of factors. These factors include variations and fluctuations in contract revenues, job specific costs, insurance claims, the allowance for credit losses, accruals for contingencies, stock-based compensation expense for performance-based stock awards, the fair value of reporting units for the goodwill impairment analysis, the valuation of intangibles and other long-lived assets, gains or losses on the sale of fixed assets from the timing and levels of capital assets sold, the employer portion of payroll taxes as a result of reaching statutory limits, and our effective tax rate.
+Accordingly, operating results for any fiscal period are not necessarily indicative of results we may achieve for any subsequent fiscal period.
+Critical Accounting Policies and Estimates
+The discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements. These statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”). In conformity with GAAP, the preparation of financial statements requires management to make estimates and assumptions that affect the amounts reported in these consolidated financial statements and accompanying notes. These estimates and assumptions require the use of judgment as to the likelihood of various future outcomes and, as a result, actual results could differ materially from these estimates. 
+Below, we have identified those accounting policies that are critical to the accounting of our business operations and the understanding of our results of operations. These accounting policies require making significant judgments and estimates that are used in the preparation of our consolidated financial statements. The impact of these policies affects our reported and expected financial results. We have discussed the development, selection and application of our critical accounting policies with the Audit Committee of our Board of Directors, and the Audit Committee has reviewed the disclosure relating to our critical accounting policies herein. 
+Other significant accounting policies, primarily those with lower levels of uncertainty than those discussed below, are also important to understanding our consolidated financial statements. The notes to the consolidated financial statements in this Annual Report on Form 10-K contain additional information related to our accounting policies and should be read in conjunction with this discussion. 
+Revenue Recognition. 
+We perform a significant amount of our services under master service agreements and other contracts that contain customer-specified service requirements. These agreements include discrete pricing for individual tasks including, for example, the placement of underground or aerial fiber, directional boring, and fiber splicing, each based on a specific unit of measure. A contractual agreement exists when each party involved approves and commits to the agreement, the rights of the parties and payment terms are identified, the agreement has commercial substance, and collectability of consideration is probable. Our services are performed for the sole benefit of our customers, whereby the assets being created or 
+27
+Table of Contents
+maintained are controlled by the customer and the services we perform do not have alternative benefits for us. Contract revenue is recognized over time as services are performed and customers simultaneously receive and consume the benefits we provide. Output measures, such as units, delivered are utilized to assess progress against specific contractual performance obligations for the majority of our services. The selection of the method to measure progress towards completion requires judgment and is based on the nature of the services to be provided. For us, the output method using units delivered best represents the measure of progress against the performance obligations incorporated within the contractual agreements. This method captures the amount of units delivered pursuant to contracts and is used only when our performance does not produce significant amounts of work in process prior to complete satisfaction of the performance obligation. For a portion of contract items, units to be completed consist of multiple tasks. For these items, the transaction price is allocated to each task based on relative standalone measurements, such as selling prices for similar tasks, or in the alternative, the cost to perform the tasks. Contract revenue is recognized as the tasks are completed as a measurement of progress in the satisfaction of the corresponding performance obligation.
+For certain contracts, representing less than 5% of contract revenues during fiscal 2025, fiscal 2024, and fiscal 2023, we use the cost-to-cost measure of progress. These contracts are generally projects that are completed over a period of less than 12 months and for which payment is received in a lump sum at the end of the project. Under the cost-to-cost measure of progress, the extent of progress toward completion is measured based on the ratio of costs incurred to date to the total estimated costs. Contract costs include direct labor, direct materials, and subcontractor costs, as well as an allocation of indirect costs. Contract revenues are recorded as costs are incurred. We accrue the entire amount of a contract loss, if any, at the time the loss is determined to be probable and can be reasonably estimated.
+There were no material amounts of unapproved change orders or claims recognized during fiscal 2025, fiscal 2024, and fiscal 2023.
+Accounts Receivable, net. 
+We grant credit to our customers, generally without collateral, under normal payment terms (typically 30 to 90 days after invoicing). Generally, invoicing occurs within 45 days after the related services are performed. Accounts receivable represents an unconditional right to consideration arising from our performance under contracts with customers. Accounts receivable include billed accounts receivable, unbilled accounts receivable, and retainage. The carrying value of such receivables, net of the allowance for credit losses, represents their estimated realizable value. Unbilled accounts receivable represent amounts we have an unconditional right to receive payment for that will be billed at a later date due to administrative requirements in the billing processes specified by our customers. Certain of our contracts contain retainage provisions whereby a portion of the revenue earned is withheld from payment as a form of security until contractual provisions are satisfied. The collectability of retainage is included in our overall assessment of the collectability of accounts receivable. We expect to collect the outstanding balance of current accounts receivable, net (including trade accounts receivable, unbilled accounts receivable, and retainage) within the next 12 months. We estimate our allowance for credit losses by evaluating specific accounts receivable balances based on historical collection trends, the age of outstanding receivables, and the credit worthiness of our customers. 
+We participate in a customer-sponsored vendor payment program for one of our customers. All eligible accounts receivable from this customer are included in the program and payment is received pursuant to a non-recourse sale to a bank partner of the customer. This program effectively reduces the time to collect these receivables as compared to that customer’s standard payment terms. We incur a discount fee to the bank on the payments received that is reflected as an expense component in other income, net, in the consolidated statements of operations.
+Contract assets.
+ Contract assets include unbilled amounts typically resulting from arrangements whereby complete satisfaction of a performance obligation and the right to payment are conditioned on completing additional tasks or services. 
+Contract liabilities.
+ Contract liabilities consist of amounts invoiced to customers in excess of revenue recognized. Our contract assets and liabilities are reported in a net position on a contract by contract basis at the end of each reporting period. As of January 25, 2025 and January 27, 2024, the contract liabilities balance is classified as current based on the timing of when we expect to complete the tasks required for the recognition of revenue.
+Leases.
+ Our leases are accounted for as operating leases, with lease expense recognized on a straight-line basis over the lease term. The lease term may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. For leases with initial terms greater than 12 months, we record operating lease right-of-use assets and corresponding operating lease liabilities. Operating lease right-of-use assets represent our right to use the underlying asset for the lease term and operating lease liabilities represent our obligation to make the related lease payments. These assets and liabilities are recognized at the commencement date based on the present value of lease payments over the lease term. As our leases do not provide an implicit rate, we use our incremental borrowing rate based on the information available at the 
+28
+Table of Contents
+commencement date in determining the present value of lease payments. Leases with an initial term of 12 months or less are not recorded on our consolidated balance sheet.
+Goodwill and Intangible Assets. 
+Goodwill and other indefinite-lived intangible assets are assessed for impairment annually, or more frequently, if events occur that would indicate a potential reduction in the fair value of a reporting unit below its carrying value. We perform our annual impairment review of goodwill at the reporting unit level. Each of our operating segments with goodwill represents a reporting unit for the purpose of assessing impairment. If we determine the fair value of the reporting unit’s goodwill or other indefinite-lived intangible assets is less than their carrying value as a result of an annual or interim test, an impairment loss is recognized and reflected in operating income or loss in the consolidated statements of operations during the period incurred.
+We review finite-lived intangible assets for impairment whenever an event occurs or circumstances change that indicate that the carrying amount of such assets may not be fully recoverable. Recoverability is determined based on an estimate of undiscounted future cash flows resulting from the use of an asset and its eventual disposition. Should an asset not be recoverable, an impairment loss is measured by comparing the fair value of the asset to its carrying value. If we determine the fair value of an asset is less than the carrying value, an impairment loss is recognized in operating income or loss in the consolidated statements of operations during the period incurred.
+We use judgment in assessing whether goodwill and intangible assets are impaired. Estimates of fair value are based on our projection of revenues, operating costs, and cash flows taking into consideration historical and anticipated future results, general economic and market conditions, as well as the impact of planned business or operational strategies. We determine the fair value of our reporting units using an equal weighting of fair values derived from the income approach and market approach valuation methodologies. The income approach uses the discounted cash flow method and the market approach uses the guideline company method. Changes in our judgments and projections could result in significantly different estimates of fair value, potentially resulting in impairments of goodwill and other intangible assets. The inputs used for fair value measurements of the reporting units and other related indefinite-lived intangible assets are the lowest level (Level 3) inputs.
+The Company’s goodwill arising from acquisitions resides in multiple reporting units and primarily relates to the value of expected synergies, anticipated expansion of its geographic presence, and the strengthening of the customer base. Goodwill and other indefinite-lived intangible assets are assessed for impairment annually, or more frequently if events occur that would indicate a potential reduction in the fair value of a reporting unit below its carrying value. The profitability of individual reporting units may suffer periodically due to downturns in customer demand, reduced revenues from the termination of contracts or the termination or delay of services under a contract or the loss of a customer, increased costs of providing services, and the level of overall economic activity. The individual reporting unit’s customers may also reduce capital expenditures and defer or cancel pending projects due to changes in technology, a slowing or uncertain economy, merger or acquisition activity, a decision to allocate resources to other areas of their business, or other reasons. The profitability of reporting units may also suffer if actual costs of providing services exceed the costs anticipated when the reporting unit enters into contracts. Additionally, adverse economic conditions and future volatility in the equity and credit markets could impact the valuation of the Company’s reporting units. The cyclical nature of the reporting unit’s business, the high level of competition existing within its industry, and the concentration of its revenues from a limited number of customers may also cause results to vary. These factors may affect individual reporting units disproportionately, relative to the Company as a whole. As a result, the performance of one or more of the reporting units could decline, resulting in an impairment of goodwill or intangible assets.
+ The Company performs its annual goodwill assessment as of the first day of the fourth fiscal quarter of each fiscal year. Goodwill and indefinite lived intangible assets are required to be tested for impairment between annual tests if events occur that would indicate a potential reduction in the fair value of a reporting unit below its carrying value.
+We performed our annual impairment assessment for fiscal 2025, fiscal 2024, and fiscal 2023, and concluded that no impairment of goodwill or the indefinite-lived intangible asset was indicated at any reporting unit for any of the periods. In each of these periods, qualitative assessments were performed on reporting units that comprise a significant portion of our consolidated goodwill balance. For the Company’s indefinite-lived intangible asset we performed a qualitative assessment for fiscal 2025 and 2024 and a quantitative analysis for fiscal 2023. A qualitative assessment includes evaluating all identified events and circumstances that could affect the significant inputs used to determine the fair value of a reporting unit or indefinite-lived intangible asset for the purpose of determining whether it is more likely than not that these assets are impaired. We consider various factors while performing qualitative assessments, including macroeconomic conditions, industry and market conditions, financial performance of the reporting units, changes in market capitalization, and any other specific reporting unit considerations. These qualitative assessments indicated that it was more likely than not that the fair value exceeded carrying value for those reporting units. For the remaining reporting units, we performed the quantitative analysis described in ASC Topic 350 in each of these periods. When performing the quantitative analysis, we determine the fair value of 
+29
+Table of Contents
+our reporting units using an equal weighting of fair values derived from the income approach and market approach valuation methodologies. Under the income approach, the key valuation assumptions used in determining the fair value estimates of our reporting units for each annual test were: (a) expected cash flow for a period of seven years based on our best estimate of revenue growth rates and projected operating margins; (b) terminal value based upon terminal growth rates; and (c) a discount rate based on the Company’s best estimate of the weighted average cost of capital adjusted for certain risks for the reporting units.
+The table below outlines certain assumptions used in our annual quantitative impairment analyses for fiscal 2025, fiscal 2024, and fiscal 2023;
+Fiscal Year Ended
+January 25, 2025
+January 27, 2024
+January 28, 2023
+Terminal Growth Rate
+2% - 3%
+2.5%
+2% - 3%
+Discount Rate
+10.5%
+10.5%
+11.5%
+The discount rate reflects risks inherent within each reporting unit operating individually. These risks are greater than the risks inherent in the Company as a whole. Determination of discount rates included consideration of market inputs such as the risk-free rate, equity risk premium, industry premium, and cost of debt, among other assumptions. The discount rate for fiscal 2025 is consistent with the rate used in fiscal 2024. While the cost of debt decreased, there was a decrease in the market participant debt-to-capital ratios which resulted in the same weighted average cost of capital as prior year. The decrease in the discount rate for fiscal 2024 from fiscal 2023 was largely due to lower cost of equity capital and an increase in the market participant debt-to-capital ratios which results in more allocation to the cost of debt, which is lower than the cost of equity. We believe the assumptions used in the impairment analysis each year are reflective of the risks inherent in the business models of our reporting units and our industry. Under the market approach, the guideline company method develops valuation multiples by comparing our reporting units to similar publicly traded companies. Key valuation assumptions used in determining the fair value estimates of our reporting units rely on: (a) the selection of similar companies and (b) the selection of valuation multiples as they apply to the reporting unit characteristics.
+We determined that the fair values of each of the reporting units were in excess of their carrying values in the fiscal 2025 assessment. Management determined that significant changes were not likely in the factors considered to estimate fair value, and analyzed the impact of such changes were they to occur. Specifically, if the discount rate applied in the fiscal 2025 impairment analysis had been 100 basis points higher than estimated for each of the reporting units, and all other assumptions were held constant, the conclusion of the assessment would remain unchanged and there would be no impairment of goodwill. Additionally, if there was a 25% decrease in the fair value of any of the reporting units due to a decline in their discounted cash flows resulting from lower operating performance, the conclusion of the assessment would remain unchanged for all reporting units. Recent operating performance, along with assumptions for specific customer and industry opportunities, were considered in the key assumptions used during the fiscal 2025 impairment analysis. Management has determined the goodwill of the Company may have an increased likelihood of impairment if a prolonged downturn in customer demand were to occur, or if the reporting units were not able to execute against customer opportunities, and the long-term outlook for their cash flows were adversely impacted. Furthermore, changes in the long-term outlook may result in a change to other valuation assumptions. Factors monitored by management which could result in a change to the reporting units’ estimates include the outcome of customer requests for proposals and subsequent awards, strategies of competitors, labor market conditions and levels of overall economic activity. 
+The Company determined that there were no events or changes in circumstances for the other reporting units or indefinite lived intangible assets during fiscal 2025 that would indicate a potential reduction in their fair value below their carrying amounts. As of January 25, 2025, the Company continues to believe the remaining goodwill and the indefinite-lived intangible asset are recoverable for all of its reporting units
+. 
+However, if adverse events were to occur or circumstances were to change indicating that the carrying amount of such assets may not be fully recoverable, the assets would be reviewed for impairment and could be impaired. There can be no assurances that goodwill or the indefinite-lived intangible asset may not be impaired in future periods. 
+Implementation Costs – Cloud Computing Arrangements.
+ In accordance with ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, which amends ASC 350-40, Internal-Use Software, to the extent costs incurred in a cloud computing arrangement are capitalizable, the corresponding costs are recorded in other assets and the related amortization is included in general and administrative expense in the consolidated statements of operations. The amount of capitalized cloud computing implementation costs included in other non-current assets 
+30
+Table of Contents
+was $29.8 million and $7.2 million as of January 25, 2025 and January 27, 2024, respectively. The amortization of capitalized implementation costs related to cloud computing arrangements was not material during fiscal 2025, fiscal 2024, or fiscal 2023.
+Accrued Insurance Claims. 
+For claims within our insurance program, we retain the risk of loss, up to certain annual stop-loss limits, for matters related to automobile liability, general liability (including damages associated with underground facility locating services), workers’ compensation, and employee group health. Losses for claims beyond our retained risk of loss are covered by insurance up to our coverage limits.
+For workers’ compensation losses during fiscal 2025, 2024, and 2023, we retained the risk of loss up to $1.0 million on a per occurrence basis. This retention amount is applicable to all of the states in which we operate, except with respect to workers’ compensation insurance in two states in which we participate in state-sponsored insurance funds. 
+For automobile liability and general liability losses during fiscal 2025 and 2024, we retained the risk of loss up to $1.0 million on a per-occurrence basis for the first $5.0 million of insurance coverage. We also retained the risk of loss for the next $10.0 million on a per-occurrence basis for losses between $5.0 million and $15.0 million, if any. Additionally, during fiscal 2024 we retained $10.0 million risk of loss on a per occurrence basis for losses between $30.0 million and $40.0 million, if any.
+For automobile liability and general liability losses during fiscal 2023, we retained the risk of loss up to $1.0 million on a per-occurrence basis for the first $5.0 million of insurance coverage. We also retained the risk of loss for the next $5.0 million on a per-occurrence basis with aggregate stop loss limits of $11.5 million within this layer of retention for the period of fiscal 2023. Additionally, we retained $5.0 million risk of loss on a per occurrence basis for losses between $5.0 million and $15.0 million, if any, and we retained $10.0 million risk of loss on a per occurrence basis for losses between $30.0 million and $40.0 million, if any.
+We are party to a stop-loss agreement for losses under our employee group health plan. For calendar year 2025, we retain the risk of loss on an annual basis, up to the first $750,000 of claims per participant. In calendar years 2024 and 2023, we retained the risk of loss on an annual basis, up to the first $700,000 and $600,000, respectively, of claims per particip
+ant. 
+We have established reserves that we believe to be adequate based on current evaluations and our experience with these types of claims. A liability for unpaid claims and the associated claim expenses, including incurred but not reported losses, is determined with the assistance of an actuary and reflected in the consolidated financial statements as accrued insurance claims. The effect on our financial statements is generally limited to the amount needed to satisfy our insurance deductibles or retentions. Amounts for total accrued insurance claims and insurance recoveries/receivables are as follows (dollars in millions):
+January 25, 2025
+January 27, 2024
+Accrued insurance claims - current
+$
+46,686 
+$
+44,466 
+Accrued insurance claims - non-current
+49,836 
+49,447 
+Accrued insurance claims
+$
+96,522 
+$
+93,913 
+Insurance recoveries/receivables:
+Non-current (included in Other assets)
+3,343 
+4,760 
+Insurance recoveries/receivables
+$
+3,343 
+$
+4,760 
+The liability for total accrued insurance claims included incurred but not reported losses of approximately $47.9 million and $47.2 million as of January 25, 2025 and January 27, 2024, respectively.
+We estimate the liability for claims based on facts, circumstances, and historical experience. Recorded loss reserves are settled over time and are not discounted. Factors affecting the determination of the expected cost for existing and incurred but not reported claims include, but are not limited to, the magnitude and quantity of future claims, the payment pattern of claims which have been incurred, changes in the medical condition of claimants, and other factors such as inflation, tort reform or other legislative changes, unfavorable jury decisions, and court interpretations. 
+Income Taxes. 
+We account for income taxes under the asset and liability method. This approach requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the carrying amounts and the tax bases of assets and liabilities. 
+31
+Table of Contents
+Measurement of our tax position is based on the applicable statutes, federal and state case law, and our interpretations of tax regulations. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in income during the period that includes the enactment date. We record net deferred tax assets to the extent we believe these assets will more likely than not be realized. In making such determination, we consider all relevant factors, including future reversals of existing taxable temporary differences, projected future taxable income, tax planning strategies, and recent financial operations. In the event we determine that we would be able to realize deferred income tax assets in excess of their net recorded amount, we would adjust the valuation allowance, which would reduce the provision for income taxes.
+We recognize tax benefits in the amount that we deem more likely than not will be realized upon ultimate settlement of any tax uncertainty. Tax positions that fail to qualify for recognition are recognized during the period in which the more-likely-than-not standard has been reached, when the tax positions are resolved with the respective taxing authority, or when the statute of limitations for tax examination has expired. We recognize applicable interest related to tax amounts in interest expense and penalties within general and administrative expenses.
+Fluctuations in our effective income tax rate were attributable to the difference in income tax rates from state to state where work was performed, non-deductible and non-taxable items, tax credits recognized, the tax effects of the vesting and exercise of share-based awards, impacts of tax filings for prior years, and changes in unrecognized tax benefits. 
+Stock-Based Compensation. 
+We have stock-based compensation plans under which we grant stock-based awards, including stock options, time-based restricted share units (“RSUs”), and performance-based restricted share units (“Performance RSUs”) to attract, retain, and reward talented employees, officers, and directors, and to align stockholder and employee interests. The resulting compensation expense is recognized on a straight-line basis over the vesting period, net of actual forfeitures, and is included in general and administrative expenses in the consolidated statements of operations. This expense fluctuates over time as a function of the duration of vesting periods of the stock-based awards and the Company’s performance, as measured by criteria set forth in performance-based awards. 
+Compensation expense for stock-based awards is based on fair value at the measurement date. The fair value of RSUs and Performance RSUs is estimated on the date of grant and is equal to the closing market price per share of our common stock on that date. RSUs generally vest ratably over a four-year period. Performance RSUs vest ratably over a three-year period, if certain performance measures are achieved. Each RSU and Performance RSU is settled in one share of our common stock upon vesting. The fair value of stock options is estimated on the date of grant using the Black-Scholes option pricing model. This valuation is affected by the Company’s stock price as well as other inputs, including the expected common stock price volatility over the expected life of the options, the expected term of the stock option, risk-free interest rates, and expected dividends, if any. Our outstanding stock options generally vest ratably over a four-year period and are generally exercisable over a period of up to ten years.
+For Performance RSUs, we evaluate compensation expense quarterly and recognize expense only if we determine it is probable that the performance measures for the awards will be met. The performance measures for target awards are based on our operating earnings (adjusted for certain amounts) as a percentage of contract revenues and our operating cash flow level (adjusted for certain amounts) for the applicable four-quarter performance period. Additionally, certain awards include three-year performance measures that are more difficult to achieve than those required to earn target awards and, if met, result in supplemental shares awarded. The performance measures for supplemental awards are based on three-year cumulative operating earnings (adjusted for certain amounts) as a percentage of contract revenues and three-year cumulative operating cash flow level (adjusted for certain amounts). If we determine it is no longer probable that we will achieve certain performance measures for the awards, we reverse the stock-based compensation expense that we had previously recognized associated with the portion of Performance RSUs that are no longer expected to vest. The amount of the expense ultimately recognized depends on the number of awards that actually vest. Accordingly, stock-based compensation expense may vary from period to period. For additional information on our stock-based compensation plans, stock options, RSUs, and Performance RSUs, see Note 19, 
+Stock-Based Awards
+, in the notes to the consolidated financial statements in this Annual Report on Form 10-K.
+Contingencies and Litigation. 
+In the ordinary course of our business, we are involved in certain legal proceedings and other claims, including claims for indemnification by our customers. In determining whether a loss should be accrued, we evaluate, among other factors, the probability of an unfavorable outcome and the ability to make a reasonable estimate of the amount of loss. If only a range of probable loss can be determined, we accrue for our best estimate within the range for the contingency. In those cases where none of the estimates within the range is better than another, we accrue for the amount representing the low end of the range. As additional information becomes available, we reassess the potential liability related to our pending litigation and other contingencies and revise our estimates as applicable. Revisions of our estimates of the potential liability 
+32
+Table of Contents
+could materially impact our results of operations. Additionally, if the final outcome of such litigation and contingencies differs adversely from that currently expected, it would result in a charge to operating results when determined.
+Business Combinations
+. We account for business combinations under the acquisition method of accounting. The purchase price of each business acquired is allocated to the tangible and intangible assets acquired and the liabilities assumed based on information regarding their respective fair values on the date of acquisition. Any excess of the purchase price over the fair value of the separately identifiable assets acquired and liabilities assumed is allocated to goodwill. We determine the fair values used in purchase price allocations for intangible assets based on historical data, estimated discounted future cash flows, expected royalty rates for trademarks and trade names, as well as other information. The valuation of assets acquired and liabilities assumed requires a number of judgments and is subject to revision as additional information about the fair value of assets and liabilities becomes available. Additional information, which existed as of the acquisition date but unknown to us at that time, may become known during the remainder of the measurement period. This measurement period may not exceed 12 months from the acquisition date. The Company will recognize any adjustments to provisional amounts that are identified during the measurement period in the reporting period in which the adjustments are determined. Additionally, in the same period in which adjustments are recognized, the Company will record the effect on earnings of changes in depreciation, amortization, or other income effects, if any, as a result of any change to the provisional amounts, calculated as if the accounting adjustment had been completed at the acquisition date. Acquisition costs are expensed as incurred. The results of operations of businesses acquired are included in the consolidated financial statements from their dates of acquisition.
+Results of Operations
+The following table sets forth our consolidated statements of operations for the periods indicated and the amounts as a percentage of contract revenues (totals may not add due to rounding) (dollars in millions): 
+Fiscal Year Ended
+January 25, 2025
+January 27, 2024
+Contract revenues
+$
+4,702.0 
+100.0 
+%
+$
+4,175.6 
+100.0 
+%
+Expenses:
+Costs of earned revenues, excluding depreciation and amortization
+3,769.9 
+80.2 
+3,361.8 
+80.5 
+General and administrative
+393.0 
+8.4 
+327.7 
+7.8 
+Depreciation and amortization
+198.6 
+4.2 
+163.1 
+3.9 
+Total
+4,361.5 
+92.8 
+3,852.6 
+92.3 
+Interest expense, net
+(61.0)
+(1.3)
+(52.6)
+(1.3)
+Loss on debt extinguishment
+(1.0)
+— 
+— 
+— 
+Other income, net
+29.2 
+0.6 
+21.6 
+0.5 
+Income before income taxes
+307.8 
+6.5 
+292.0 
+7.0 
+Provision for income taxes
+74.4 
+1.6 
+73.1 
+1.8 
+Net income
+$
+233.4 
+5.0 
+%
+$
+218.9 
+5.2 
+%
+Contract Revenues.
+ Contract revenues were $4.702 billion during fiscal 2025 compared to $4.176 billion during fiscal 2024. Contract revenues from acquired businesses were $379.7 million during fiscal 2025 and $102.7 million during fiscal 2024. Acquired revenues represent contract revenues from acquired businesses that were not owned for the full period in both the current and comparable prior periods.
+Excluding amounts generated by the acquired businesses, contract revenues increased by $249.4 million during fiscal 2025 compared to fiscal 2024. Contract revenues increased by $163.5 million for a large telecommunications customer improving its network, by $118.8 million for another customer deploying fiber, by $114.8 million for a telecommunication customer primarily for fiber deployments, and $56.8 million for another telecommunications customer. Contracts revenue decreased by $86.7 million and $80.2 million for two large telecommunication customers, and by $63.9 million for a rural telecommunications customer. All other customers had net increases in contract revenues of $26.3 million on a combined basis during fiscal 2025 compared to fiscal 2024.
+The percentage of our contract revenues by customer type from telecommunications, underground facility locating, and electric and gas utilities and other customers, was 90.4%, 6.7%, and 2.9%, respectively, for fiscal 2025 compared to 89.6%, 7.1%, and 3.3%, respectively, for fiscal 2024.
+33
+Table of Contents
+Costs of Earned Revenues.
+ Costs of earned revenues increased to $3.770 billion, or 80.2% of contract revenues, during fiscal 2025 compared to $3.362 billion, or 80.5% of contract revenues, during fiscal 2024. The primary component of the increase was a $403.0 million aggregate increase in direct labor and subcontractor costs. The increase was further due to a $21.0 million increase in other direct costs and a $1.4 million increase in equipment maintenance and fuel costs combined, partially offset by a $17.3 million decrease in direct materials. 
+Costs of earned revenues as a percentage of contract revenues decreased 0.3% during fiscal 2025 compared to fiscal 2024. As a percentage of contract revenues, direct materials decreased 1.1% primarily as a result of our mix of work in which we provide materials for our customers and other direct costs decreased 0.2% as a percentage of contract revenues during fiscal 2025. Equipment maintenance and fuel costs combined decreased 0.4% as a percentage of contract revenues. Labor and subcontracted labor costs increased 1.4% primarily due to the mix of work performed.
+General and Administrative Expenses.
+ General and administrative expenses increased to $393.0 million, or 8.4% of contract revenues, during fiscal 2025 compared to $327.7 million, or 7.8% of contract revenues, during fiscal 2024. The increase in total general and administrative expenses primarily resulted from increased administrative, payroll, performance based compensation, $11.4 million incremental stock based compensation expense resulting from the CEO transition, acquisition costs, $4.2 million acquisition integration costs and other costs, including incremental general administrative expenses from acquired businesses. See Note 19, 
+Stock-Based Awards, 
+for additional information regarding the CEO transition.
+Depreciation and Amortization.
+ Depreciation expense was $167.2 million, or 3.6% of contract revenues, during fiscal 2025, compared to $143.3 million, or 3.4% of contract revenues, during fiscal 2024. The increase in depreciation expense during fiscal 2025 was primarily due to higher capital expenditures to support our growth in operations, normal replacement cycle of fleet assets, and depreciation from acquired businesses. Amortization expense was $31.4 million and $19.8 million during fiscal 2025 and fiscal 2024, respectively. The increase in amortization expense during fiscal 2025 is due to the increase in amortizing intangibles from acquired businesses.
+Interest Expense, Net.
+ Interest expense, net increased to $61.0 million during fiscal 2025 from $52.6 million during fiscal 2024 as a result of higher outstanding borrowings during the current period and lower interest income on invested cash balances.
+Loss on Debt Extinguishment.
+ Loss on debt extinguishment during fiscal 2025 of $1.0 million includes the write-off of deferred debt issuance costs in connection with the Credit Agreement amendment. See “
+Liquidity and Capital Resources - Compliance with Credit Agreement
+” for more information. 
+Other Income, Net.
+ Other income, net was $29.2 million and $21.6 million during fiscal 2025 and fiscal 2024, respectively. The change in other income, net was primarily a function of the number of assets sold and prices obtained for those assets during each respective period. Gain on sale of fixed assets was $36.5 million and $28.3 million during fiscal 2025 and fiscal 2024, respectively. Other income, net also includes expense associated with the non-recourse sale of accounts receivable under a customer-sponsored vendor payment program. 
+Income Taxes.
+ The following table presents our income tax provision and effective income tax rate for fiscal 2025 and fiscal 2024 (dollars in millions):
+Fiscal Year Ended
+January 25, 2025
+January 27, 2024
+Income tax provision
+$
+74.4 
+$
+73.1 
+Effective income tax rate
+24.2 
+%
+25.0 
+%
+Our effective income tax rate differs from the statutory rate primarily due to the difference in income tax rates from state to state where work was performed, non-deductible and non-taxable items, tax credits recognized, the tax effects of the vesting and exercise of share-based awards, and changes in unrecognized tax benefits. 
+Net Income.
+ Net income was $233.4 million for fiscal 2025 compared to $218.9 million for fiscal 2024.
+Non-GAAP Adjusted EBITDA.
+ Adjusted EBITDA is a Non-GAAP measure, as defined by Regulation G of the SEC. We define Adjusted EBITDA as net income before interest, taxes, depreciation and amortization, gain on sale of fixed assets, stock-based compensation expense, and certain non-recurring items. Management believes Adjusted EBITDA is a helpful measure 
+34
+Table of Contents
+for comparing the Company’s operating performance with prior periods as well as with the performance of other companies with different capital structures or tax rates. The following table provides a reconciliation of net income to Non-GAAP Adjusted EBITDA (dollars in thousands):
+Fiscal Year Ended
+January 25, 2025
+January 27, 2024
+Net income
+$
+233,413 
+$
+218,923 
+Interest expense, net
+60,994 
+52,603 
+Provision for income taxes
+74,377 
+73,076 
+Depreciation and amortization
+198,571 
+163,092 
+Earnings Before Interest, Taxes, Depreciation & Amortization (“EBITDA”)
+567,355 
+507,694 
+Gain on sale of fixed assets
+(36,461)
+(28,348)
+Stock-based compensation expense
+40,320 
+25,457 
+Acquisition integration costs
+4,163 
+— 
+Loss on debt extinguishment
+965 
+— 
+Non-GAAP Adjusted EBITDA 
+(1)
+$
+576,342 
+$
+504,803 
+Non-GAAP Adjusted EBITDA % of contract revenues 
+(1)
+12.3 
+%
+12.1 
+%
+(1)
+ The impacts of a change order and the closeout of several projects increased contract revenues by $26.5 million and contributed $23.6 million to Adjusted EBITDA for the fiscal year ended January 27, 2024.
+A discussion of our financial results for fiscal 2024 compared to our financial results for fiscal 2023 can be found in the “Item 7
+. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Results of Operations”
+ section in our Annual Report on Form 10-K for the fiscal year ended January 27, 2024, filed on March 1, 2024.
+Liquidity and Capital Resources
+We are subject to concentrations of credit risk relating primarily to our cash and equivalents, accounts receivable, and contract assets. Cash and equivalents primarily include balances on deposit with banks and totaled $92.7 million as of January 25, 2025, compared to $101.1 million as of January 27, 2024. We maintain our cash and equivalents at financial institutions we believe to be of high credit quality. For all periods presented, we have not experienced any loss or lack of access to cash in our operating accounts.
+Sources of Cash.
+ Our sources of cash are operating activities, long-term debt, equity offerings, bank borrowings, proceeds from the sale of idle and surplus equipment and real property, and stock option proceeds. Cash flow from operations is primarily influenced by demand for our services and operating margins, but can also be influenced by working capital needs associated with the services that we provide. In particular, working capital needs may increase when we have growth in operations and where project costs, primarily associated with labor, subcontractors, equipment, and materials, are required to be paid before the related customer balances owed to us are invoiced and collected. Our working capital (total current assets less total current liabilities, excluding the current portion of debt) was $1,117.5 million as of January 25, 2025 compared to $1,061.2 million as of January 27, 2024.
+Capital resources are used primarily to purchase equipment and maintain sufficient levels of working capital to support our contractual commitments to customers. We periodically draw upon and repay our revolving credit facility depending on our cash requirements. We currently intend to retain any earnings for use in the business and other capital allocation strategies which may include investment in acquisitions and share repurchases. Consequently, we do not anticipate paying any cash dividends on our common stock in the foreseeable future.
+Our level of capital expenditures can vary depending on the customer demand for our services, the replacement cycle we select for our equipment, and overall growth. We intend to fund these expenditures primarily from operating cash flows, availability under our Credit Agreement (as defined below), and cash on hand. We expect capital expenditures, net of disposals, to range from $220.0 million to $230.0 million during fiscal 2026 to support growth opportunities and the replacement of certain fleet assets.
+35
+Table of Contents
+Sufficiency of Capital Resources.
+ We believe that our capital resources, including existing cash balances and amounts available under our credit agreement, are sufficient to meet our financial obligations. These obligations include payments on our debt, working capital requirements, and the purchase of equipment at our expected level of operations for at least the next 12 months. Our capital requirements may increase to the extent we seek to grow by acquisitions that involve consideration other than our stock, experience difficulty or delays in collecting amounts owed to us by our customers, increase our working capital in connection with new or existing customer programs, or we repurchase our common stock, or repay credit agreement borrowings. Changes in financial markets or other components of the economy could adversely impact our ability to access the capital markets, in which case we would expect to rely on a combination of available cash and our credit agreement to provide short-term funding. Management regularly monitors the financial markets and assesses general economic conditions for possible impact on our financial position. We believe our cash investment policies are prudent and expect that any volatility in the capital markets would not have a material impact on our cash investments.
+Net Cash Flows. 
+The following table presents our net cash flows for fiscal 2025 and fiscal 2024 (dollars in millions):
+Fiscal Year Ended
+January 25, 2025
+January 27, 2024
+Net cash flows:
+Provided by operating activities
+$
+349.1 
+$
+259.0 
+Used in investing activities
+$
+(395.2)
+$
+(306.2)
+Provided by (used in) financing activities
+$
+37.7 
+$
+(75.9)
+Cash Provided by Operating Activities.
+ During fiscal 2025, net cash provided by operating activities was $349.1 million. Changes in working capital (excluding cash) and changes in other long-term assets and liabilities used $114.6 million of operating cash flow during fiscal 2025. Working capital changes that used operating cash flow during fiscal 2025 included an increase in accounts receivable, net of $117.8 million, a decrease in accrued liabilities of $21.0 million, an increase in other assets of $21.0 million, and a decrease in accounts payable of $16.8 million. Working capital changes that provided operating cash flow during fiscal 2025 included an increase in contract liabilities, net of $31.2 million, an increase in income tax payable of $26.5 million, and a decrease in other current assets and inventory of $4.3 million.
+The primary non-cash items in cash flows from operating activities during the current and prior periods are depreciation and amortization, non-cash lease expense, stock-based compensation, amortization of debt issuance costs, deferred income taxes, gain on sale of fixed assets, provision for bad debt and loss on debt extinguishment.
+Days sales outstanding (“DSO”) is calculated based on the ending balance of total current and non-current accounts receivable (including unbilled accounts receivable), net of the allowance for credit losses, and current contract assets, net of contract liabilities, divided by the average daily revenue for the most recently completed quarter. Long-term contract assets are excluded from the calculation of DSO, as these amounts represent payments made to customers pursuant to long-term agreements and are recognized as a reduction of contract revenues over the period for which the related services are provided to the customers. Including these balances in DSO is not meaningful to the average time to collect accounts receivable and current contract asset balances. Our DSO was 114 days and 120 days as of January 25, 2025 and January 27, 2024, respectively. 
+See Note 6, 
+Accounts Receivable, Contract Assets, and Contract Liabilities
+, 
+for further information on our customer credit concentration as of January 25, 2025 and January 27, 2024 and Note 20, 
+Customer Concentration and Revenue Information,
+ for further information on our significant customers. We believe that none of our significant customers were experiencing financial difficulties that would materially impact the collectability of our total accounts receivable and contract assets (liabilities), net as of January 25, 2025 or January 27, 2024.
+During fiscal 2024, net cash provided by operating activities was $259.0 million. Changes in working capital (excluding cash) and changes in other long-term assets and liabilities used $147.9 million of operating cash flow during fiscal 2024. Working capital changes that used operating cash flow during fiscal 2024 included an increase in accounts receivable of $142.4 million, a decrease in accrued liabilities of $24.9 million, and a decrease in income tax payable/receivable of $14.2 million. Working capital changes that provided operating cash flow during fiscal 2024 included a decrease in contract assets, net of $23.0 million, increase in accounts payable of $7.0 million, decrease in other current assets and inventory of $3.1 million and decrease in other assets of $0.4 million.
+36
+Table of Contents
+Cash Used in Investing Activities.
+ Net cash used in investing activities was $395.2 million during fiscal 2025. Capital expenditures of $250.5 million were for the replacement of certain fleet assets and new work opportunities and cash paid for acquisitions was $183.9 million. Proceeds from sale of assets were $39.1 million.
+Net cash used in investing activities was $306.2 million during fiscal 2024. Capital expenditures of $218.5 million were for the replacement of certain fleet assets and new work opportunities. Additionally, we acquired the assets of a telecommunications contraction company for $122.9 million. Proceeds from sale of assets were $35.2 million.
+Cash Provided by (Used in) Financing Activities. 
+Net cash provided by financing activities was $37.7 million during fiscal 2025. During fiscal 2025, borrowings under our credit agreement were $987.4 million. We used approximately $852.4 million to repay borrowings under our Credit Agreement. We repurchased 410,000 shares of our common stock in open market transactions, at an average price of $160.10 per share, for $65.6 million, during fiscal 2025. Average price paid per share excludes 1% excise tax on share repurchases. We also paid $17.0 million to tax authorities in order to meet the payroll tax withholding obligations on restricted share units that vested during fiscal 2025. In addition, we paid $8.0 million, net, to tax authorities for payroll tax withholding obligations on the exercise of stock options. We paid approximately $6.7 million in issuance costs and third party fees and expenses related to our financing transactions.
+Net cash used in financing activities was $75.9 million during fiscal 2024. During fiscal 2024, borrowings under our credit agreement were $763.0 million. We used approximately $780.5 million to repay borrowings under our Credit Agreement. We repurchased 485,000 shares of our common stock in open market transactions, at an average price of $102.39 per share, for $49.7 million, during fiscal 2024. Average price paid per share excludes 1% excise tax on share repurchases. We also paid $9.9 million to tax authorities in order to meet the payroll tax withholding obligations on restricted share units that vested during fiscal 2024. This was partially offset by the exercise of stock options, which provided $1.1 million during fiscal 2024.
+Compliance with Credit Agreement. 
+We are party to a credit agreement, dated as of October 19, 2018, as amended, with the various lenders party thereto and Bank of America, N.A., as administrative agent (as amended on April 1, 2021, May 9, 2023, and May 15, 2024, the “Credit Agreement”). On May 15, 2024, we amended and restated the Credit Agreement to, among other things, increase the term loan facility and extend the maturity date. The Credit Agreement includes a revolving facility with a maximum revolver commitment of $650.0 million and a term loan facility in the principal amount of $450.0 million. The Credit Agreement also includes a $200.0 million sublimit for the issuance of letters of credit and a $50.0 million sublimit for swingline loans. The maturity of the Credit Agreement is January 15, 2029.
+Subject to certain conditions, the Credit Agreement provides us with the ability to enter into one or more incremental facilities either by increasing the revolving commitments under the Credit Agreement and/or by establishing one or more additional term loans, up to the sum of (i) $350.0 million and (ii) an aggregate amount such that, after giving effect to such incremental facilities on a pro forma basis (assuming that the amount of the incremental commitments are fully drawn and funded), the consolidated senior secured net leverage ratio does not exceed 2.25 to 1.00. The consolidated senior secured net leverage ratio is the ratio of our consolidated senior secured indebtedness reduced by unrestricted cash and equivalents in excess of $25.0 million to our trailing four-quarter consolidated earnings before interest, taxes, depreciation, and amortization (“EBITDA”), as defined by the Credit Agreement. Borrowings under the Credit Agreement are guaranteed by substantially all of our domestic subsidiaries and secured by 100% of the equity interests of our direct and indirect domestic subsidiaries and 65% of the voting equity interests and 100% of the non-voting interests of our first-tier foreign subsidiaries (subject to customary exceptions).
+Under our Credit Agreement, borrowings bear interest at the rates described below based upon our consolidated net leverage ratio, which is the ratio of our consolidated total funded debt reduced by unrestricted cash and equivalents in excess of $25.0 million to our trailing four-quarter consolidated EBITDA, as defined by our Credit Agreement. In addition, we incur certain fees for unused balances and letters of credit at the rates described below, also based upon our consolidated net leverage ratio.
+37
+Table of Contents
+Borrowings - Term SOFR Loans
+1.375% - 2.00% plus Term SOFR
+Borrowings - Base Rate Loans
+0.375% - 1.00% plus Base rate
+(1)
+Unused Revolver Commitment
+0.20% - 0.40%
+Standby Letters of Credit
+1.375% - 2.00%
+Commercial Letters of Credit
+0.6875% - 1.000%
+(1) 
+Base rate is described in the Credit Agreement as the highest of (i) the Federal Funds Rate plus 0.50%, (ii) the administrative agent’s prime rate, and (iii) the Term Secured Overnight Financing Rate (“SOFR”) plus 1.00% and if such rate is less than zero, such rate shall be deemed zero.
+Standby letters of credit of approximately $47.5 million, issued as part of our insurance program, were outstanding under our Credit Agreement as of both January 25, 2025 and January 27, 2024.
+The weighted average interest rates and fees for balances under our Credit Agreement as of January 25, 2025 and January 27, 2024 were as follows:
+Weighted Average Rate End of Period
+January 25, 2025
+January 27, 2024
+Borrowings - Term loan facility
+6.02%
+7.06%
+Borrowings - Revolving facility
+(1)
+—%
+—%
+Standby Letters of Credit
+1.63%
+1.63%
+Unused Revolver Commitment
+0.30%
+0.30%
+(1) 
+There were no outstanding borrowings under our revolving facility as of January 27, 2024 and January 25, 2025.
+Our Credit Agreement contains a financial covenant that requires us to maintain a consolidated net leverage ratio of not greater than 3.50 to 1.00, as measured at the end of each fiscal quarter, and provides for certain increases to this ratio in connection with permitted acquisitions. The consolidated net leverage ratio is the ratio of our consolidated indebtedness reduced by unrestricted cash and cash equivalents in excess of $25.0 million to our trailing four-quarter consolidated earnings before interest, taxes, depreciation, and amortization as defined by our Credit Agreement. The agreement also contains a financial covenant that requires us to maintain a consolidated interest coverage ratio, which is the ratio of our trailing four-quarter consolidated EBITDA to our consolidated interest expense, each as defined by our Credit Agreement, of not less than 3.00 to 1.00, as measured at the end of each fiscal quarter. At January 25, 2025 and January 27, 2024, we were in compliance with the financial covenants of our Credit Agreement and had borrowing availability under our revolving facility of $602.5 million, as determined by the most restrictive covenant. For calculation purposes, applicable cash on hand is netted against the funded debt amount as permitted in the Credit Agreement.
+The indenture governing the 2029 Notes contains certain covenants that limit, among other things, our ability and the ability of certain of our subsidiaries to (i) incur additional debt and issue certain preferred stock, (ii) pay certain dividends on, repurchase, or make distributions in respect of, our and our subsidiaries’ capital stock or make other payments restricted by the indenture, (iii) enter into agreements that place limitations on distributions made from certain of our subsidiaries, (iv) guarantee certain debt, (v) make certain investments, (vi) sell or exchange certain assets, (vii) enter into transactions with affiliates, (viii) create certain liens, and (ix) consolidate, merge or transfer all or substantially all of our or our Subsidiaries’ assets. These covenants are subject to a number of exceptions, limitations and qualifications as set forth in the indenture governing the 2029 Notes.
+38
+Table of Contents
+Contractual Obligations. 
+The following table sets forth our outstanding contractual obligations as of January 25, 2025 (dollars in thousands):
+Due in Fiscal 2026
+Due Thereafter
+Total
+2029 Notes
+$
+— 
+$
+500,000 
+$
+500,000 
+Credit agreement – term loan facility
+10,000 
+440,000 
+450,000 
+Fixed interest payments on long-term debt
+(1)
+22,500 
+78,750 
+101,250 
+Obligations under long-term operating leases
+(2)
+36,120 
+96,773 
+132,893 
+Obligations under short-term operating leases
+(3)
+944 
+— 
+944 
+Employment agreements
+28,052 
+5,593 
+33,645 
+Purchase and other contractual obligations
+(4)
+107,343 
+20,538 
+127,881 
+Total
+$
+204,959 
+$
+1,141,654 
+$
+1,346,613 
+(1) 
+Includes interest payments on our $500.0 million principal amount of 2029 Notes outstanding, and excludes interest payments on our variable rate debt. Variable rate debt as of January 25, 2025 consisted of $450.0 million outstanding under our term loan facility. 
+(2) 
+Amounts represent undiscounted lease obligations under long-term operating leases and exclude long-term operating leases that have not yet commenced of $1.2 million as of January 25, 2025.
+(3) 
+Amounts represent lease obligations under short-term operating leases that are not recorded on our consolidated balance sheet as of January 25, 2025.
+(4) 
+We have committed capital for the expansion of our vehicle fleet in order to accommodate manufacturer lead times. As of January 25, 2025, purchase and other contractual obligations includes approximately $83.0 million for issued orders with delivery dates scheduled to occur over the next 12 months. 
+Our consolidated balance sheet as of January 25, 2025 includes a long-term liability of approximately $49.8 million for accrued insurance claims. This liability has been excluded from the table above as the timing of payments is uncertain.
+The liability for unrecognized tax benefits for uncertain tax positions was approximately $21.6 million and $17.6 million, as of January 25, 2025 and January 27, 2024, respectively, and is included in other liabilities in the consolidated balance sheets. This amount has been excluded from the contractual obligations table because we are unable to reasonably estimate the timing of the resolution of the underlying tax positions with the relevant tax authorities.
+Performance and Payment Bonds and Guarantees. 
+We have obligations under performance and other surety contract bonds related to certain of our customer contracts. Performance bonds generally provide a customer with the right to obtain payment and/or performance from the issuer of the bond if we fail to perform our contractual obligations. As of January 25, 2025 and January 27, 2024 we had $413.5 million and $409.6 million of outstanding performance and other surety contract bonds, respectively. The estimated cost to complete projects secured by our outstanding performance and other surety contract bonds was approximately $201.4 million as of January 25, 2025. In addition to performance and other surety contract bonds, as part of our insurance program we also provide surety bonds that collateralize our obligations to our insurance carriers. As of January 25, 2025 and January 27, 2024, we had $31.0 million and $20.4 million, respectively, of outstanding surety bonds related to our insurance obligations. Additionally, we have periodically guaranteed certain obligations of our subsidiaries, including obligations in connection with obtaining state contractor licenses and leasing real property and equipment.
+Letters of Credit.
+ We have standby letters of credit issued under our Credit Agreement as part of our insurance program. These letters of credit collateralize obligations to our insurance carriers in connection with the settlement of potential claims. In connection with these collateral obligations, we had $47.5 million outstanding standby letters of credit issued under our Credit Agreement as of both January 25, 2025 and January 27, 2024.
+Backlog.
+ Backlog is not a measure defined by United States generally accepted accounting principles (“GAAP”) and should be considered in addition to, but not as a substitute for, GAAP results. Participants in our industry often disclose a calculation of their backlog; however, our methodology for determining backlog may not be comparable to the methodologies used by others. We utilize our calculation of backlog to assist in measuring aggregate awards under existing contractual relationships with our customers. We believe our backlog disclosures will assist investors in better understanding this estimate of the services to be performed pursuant to awards by our customers under existing contractual relationships.
+39
+Table of Contents
+Our backlog is an estimate of the uncompleted portion of services to be performed under contractual agreements with our customers and totaled $7.760 billion and $6.917 billion at January 25, 2025 and January 27, 2024, respectively. We expect to complete 59.8% of the January 25, 2025 total backlog during the next 12 months. Our backlog represents an estimate of services to be performed pursuant to master service agreements and other contractual agreements over their terms. These estimates are based on contract terms and evaluations regarding the timing of the services to be provided. In the case of master service agreements, backlog is estimated based on the work performed in the preceding 12 month period, when applicable. When estimating backlog for newly initiated master service agreements and other long and short-term contracts, we also consider the anticipated scope of the contract and information received from the customer during the procurement process and, where applicable, other ancillary information. The majority of our backlog comprises services under master service agreements and other long-term contracts.
+ Generally, our customers are not contractually committed to procure specific volumes of services. Contract revenue estimates reflected in our backlog can be subject to change due to a number of factors, including contract cancellations or changes in the amount of work we expect to be performed under a contract. In addition, contract revenues reflected in our backlog may be realized in different periods from those previously anticipated due to these factors as well as project accelerations or delays due to various reasons, including, but not limited to, changes in customer spending priorities, project cancellations, regulatory interruptions, scheduling changes, commercial issues, such as permitting, engineering revisions, job site conditions and adverse weather. The amount or timing of our backlog can also be impacted by the merger or acquisition activity of our customers. Many of our contracts may be cancelled by our customers, or work previously awarded to us pursuant to these contracts may be cancelled, regardless of whether or not we are in default. The amount of backlog related to uncompleted projects in which a provision for estimated losses was recorded is not material.
+Legal Proceedings
+Refer to Note 22, 
+Commitments and Contingencies
+, in the Notes to the Consolidated Financial Statements in this Annual Report on Form 10‑K. 
+Recently Issued Accounting Pronouncements
+Refer to Note 3, 
+Accounting Standards
+, in the Notes to the Consolidated Financial Statements in this Annual Report on Form 10‑K for a discussion of recent accounting standards and pronouncements.

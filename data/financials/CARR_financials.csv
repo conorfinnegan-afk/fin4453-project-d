@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+CARR,2022,17288000000.0,3984000000.0,0.23044886626561778,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+CARR,2023,18951000000.0,2160000000.0,0.11397815418711414,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+CARR,2024,22486000000.0,2646000000.0,0.11767321889175487,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+CARR,2025,21747000000.0,2172000000.0,0.09987584494413022,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

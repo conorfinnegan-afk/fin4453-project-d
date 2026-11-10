@@ -1,0 +1,865 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The financial and business analysis below provides information which the Company believes is relevant to an assessment and understanding of its consolidated financial position, results of operations and cash flows. This financial and business analysis should be read in conjunction with the Consolidated Financial Statements and related notes. All references to “
+Notes
+” in this 
+Item 7
+ refer to the 
+Notes to Consolidated Financial Statements
+ included in 
+Item 8
+ of this Annual Report on Form 10-K. The following discussion also references a number of financial measures that are not defined under U.S. GAAP. Refer to the section titled "Certain Items Impacting Earnings and Non-GAAP Financial Measures" for additional information on such measures.
+The following discussion and certain other sections of this Annual Report on Form 10-K contain statements reflecting the Company’s views about its future performance that constitute “forward-looking statements” under Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements are based on current expectations, estimates, forecasts and projections about the industry and markets in which the Company operates as well as management’s beliefs and assumptions. Any statements contained herein (including without limitation statements to the effect that the Company or its management “believes,” “expects,” “anticipates,” “plans” and similar expressions) that are not statements of historical fact should be considered forward-looking statements. These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions that are difficult to predict. There are a number of important factors that could cause actual results to differ materially from those indicated by such forward-looking statements. These factors include, without limitation, those set forth, or referenced therein, below under the heading “Cautionary Statement Concerning Forward-Looking Statements.” The Company does not intend to update publicly any forward-looking statements whether as a result of new information, future events or otherwise.
+Strategic Objectives
+In recent years, the Company has re-shaped its portfolio to focus on its leading positions in the tools & outdoor and engineered fastening markets. Leveraging the benefits of a more focused portfolio, the Company initiated a business transformation in mid-2022 that includes reinvestment for faster growth as well as a $2.0 billion Global Cost Reduction Program through 2025. The Company’s primary areas of multi-year strategic focus remain unchanged as follows: 
+•
+Advancing innovation, electrification and global market penetration to achieve mid-single digit organic revenue growth (2 to 3 times the market);
+•
+Streamlining and simplifying the organization, and investing in initiatives that more directly impact the Company's customers and end users;
+•
+Returning adjusted gross margins to historical 35%+ levels by accelerating the operations and supply chain transformation to improve fill rates and better match inventory with customer demand; and
+•
+Prioritizing cash flow generation and inventory optimization.
+The Company's business transformation is intended to drive strong financial performance over the long term (beyond 2027), including:
+•
+Mid-single digit organic revenue growth (2 to 3 times the market);
+•
+> 35% to 37% adjusted gross margins with mid to high-teens adjusted Earnings Before Interest, Taxes, Depreciation and Amortization margin ("adjusted EBITDA margin"); 
+•
+Free cash flow equal to, or exceeding, net income;
+•
+Cash Flow Return On Investment ("CFROI"), computed as cash from operations plus after-tax interest expense, divided by the two-point average of debt and equity, greater than or equal to the mid-teens; and
+•
+Solid investment grade credit rating.
+In terms of capital allocation, the Company remains committed, over time, to returning excess capital to shareholders through a strong and growing dividend as well as a preference toward opportunistically repurchasing shares. In the near term, the Company intends to direct any capital in excess of the quarterly dividend on its common stock toward debt reduction and internal growth investments. 
+Share Repurchases And Other Securities
+29
+During the first quarter of 2022, the Company repurchased 12,645,371 shares of its common stock for approximately $2.3 billion through a combination of an accelerated share repurchase ("ASR"), which provided for an initial delivery of 85% of the total notional share equivalent at execution, or 10,756,770 shares, and open market share repurchases for a total of 1,888,601 shares. The final delivery of the remaining shares under the ASR totaled 3,211,317 and was completed during the second quarter of 2022. 
+Refer to 
+Note I, Capital Stock
+, for further discussion. 
+In addition, on April 23, 2021, the Board of Directors approved repurchases by the Company of its outstanding securities, other than its common stock, up to an aggregate amount of $3.0 billion. No repurchases have been executed pursuant to this authorization to date.
+Divestitures
+On April 1, 2024, the Company sold its Infrastructure business 
+comprised of the attachment and handheld hydraulic tools business
+ to Epiroc AB for net proceeds of $728.5 million. The Company used the net proceeds to reduce debt in the second quarter of 2024.
+On August 19, 2022, the Company sold its Oil & Gas business comprised of the pipeline services and equipment businesses to Pipeline Technique Limited. On July 22, 2022, the Company sold its Convergent Security Solutions ("CSS") business comprised of the commercial electronic security and healthcare businesses to Securitas AB for net proceeds of $3.1 billion. On July 5, 2022, the Company sold its Mechanical Access Solutions ("MAS") business comprised of the automatic doors business to Allegion plc for net proceeds of $916.0 million. Proceeds from the sale of these businesses were used to repay borrowings made in the first quarter of 2022 to fund the Company's share repurchase program previously discussed. The use of proceeds to support a share repurchase program is consistent with the Company's long-term capital allocation strategy.
+The Company has also divested several smaller businesses in recent years that allowed the Company to invest in other areas that fit into its long-term strategy.
+Refer to 
+Note S, Divestitures, 
+for further discussion of the Company's divestitures.
+Global Cost Reduction Program
+In mid-2022, the Company launched a program comprised of a series of initiatives designed to generate cost savings by resizing the organization and reducing inventory with the ultimate objective of driving long-term growth, improving profitability and generating strong cash flow. These initiatives are expected to optimize the cost base as well as provide a platform to fund investments to accelerate growth in the core businesses. The program consists of a selling, general, and administrative ("SG&A") planned pre-tax run-rate cost savings of $500 million and a supply chain transformation expected to deliver $1.5 billion of pre-tax run-rate cost savings by the end of 2025 and facilitate the achievement of projected 35%+ adjusted gross margins.
+The SG&A cost savings were generated by simplifying the corporate structure, optimizing organizational spans and layers and reducing indirect spend. These savings will help fund $300 million to $500 million of innovation and commercial investments through 2025 designed to accelerate organic growth.
+The $1.5 billion of pre-tax run-rate cost savings from the supply chain transformation has been, and continues to be, driven by the following value streams:
+•
+Material Productivity: Implementing capabilities to source in a more efficient and integrated manner across all of the Company’s businesses and leveraging contract manufacturing;
+•
+Operational Excellence: Redesigning in-plant operations following footprint rationalization to deliver incremental efficiencies, simplified organizational design and inventory optimization leveraging a standard operating model and LEAN principles;
+•
+Footprint Rationalization: Transforming the Company’s manufacturing and distribution network from a decentralized and inefficient system of sites built through years of acquisitions to a strategically focused supply chain, inclusive of site closures, transformations of existing sites into manufacturing centers of excellence and re-configuration of the distribution network; and
+•
+Complexity Reduction: Reducing complexity through platforming products and implementing initiatives to drive a SKU reduction.
+During 2024 and since inception of the program, the Company has generated approximately $510 million and $1.5 billion, respectively, of pre-tax run-rate savings, driven by lower headcount, indirect spend reductions and the supply chain 
+30
+transformation. These savings are comprised of supply chain efficiency benefits, which support gross margin improvements as the benefits turn through inventory, and SG&A savings. The Company believes that it is on track to grow to approximately $2 billion of pre-tax run-rate savings by year-end 2025. In addition, the Company has reduced inventory by over $2 billion since the end of the second quarter of 2022 and expects further working capital reductions to support free cash flow generation in 2025. 
+The cash investment required to achieve the $1.5 billion of pre-tax run-rate supply chain cost savings is expected to approximate $0.7 billion, as the source of the savings has shifted to value streams with lower required investment such as material and operational productivity. Of the total estimated cash investment, approximately 30% is expected to be capital expenditures. Through 2024, the Company has made approximately $0.5 billion of total cash investments. The Company intends to continue prioritizing capital expenditures consistent with its existing approach and expects total capital expenditures, inclusive of the supply chain transformation, to approximate 2.5% to 3.0% of net sales annually in 2025 and beyond.
+The charges associated with the ongoing execution of the supply chain transformation are reflected in the Non-GAAP adjustments detailed below in "Results From Operations" and the full year estimate of Non-GAAP adjustments detailed below in "2025 Planning Assumptions". In addition, although the program is expected to be completed by the end of 2025, the Company expects to incur additional charges and make cash investments beyond 2025 relating to footprint actions to support the ongoing network transformation and reposition its supply chain, as necessary.
+Driving Further Profitable Growth by Accelerating A Growth Culture and Fully Leveraging the Company's Core Franchises
+Each of the Company's core franchises share common attributes: they have markets which the Company believes have an attractive growth profile, compete in an attractive market structure where brands matter, can differentiate through rapid innovation and delivering productivity to customers and have the ability to achieve scale.
+•
+The Tools & Outdoor business carries strong brands, proven innovation, global scale, and a broad offering of power tools, hand tools, outdoor products, accessories, and storage and digital products across many channels on a global basis.
+•
+The Engineered Fastening business within the Industrial segment is a GDP+ growth business offering highly engineered, value-added innovative solutions with recurring revenue attributes, and carries strong profitability potential and global scale.
+Management recognizes that these core franchises are important foundations that have a proven track record of providing strong cash flow and growth prospects. Management is committed to growing these businesses through accelerating investments into innovative product development, brand support, commercial activation, and accelerating the operations and supply chain transformation to improve fill rates and better match inventory with customer demand, while improving global cost competitiveness. 
+Continuing to Invest in the Portfolio of Stanley Black & Decker Brands
+The Company has a strong portfolio of brands associated with high-quality products including the iconic DEWALT®, CRAFTSMAN® and STANLEY® brands, which are the priority brands across the Tools & Outdoor segment. The Company also goes to market with strong brands such as BLACK+DECKER®, DEWALT FLEXVOLT®, DEWALT POWERSTACK®, DEWALT POWERSHIFT™, CUB CADET®, TROY-BILT®, HUSTLER®, IRWIN®, LENOX®, PORTER-CABLE®, BOSTITCH®, PROTO®, MAC TOOLS®, FACOM®, Powers®, LISTA®, Vidmar®, and GQ®.
+In 2024, the McLaren team sported the DEWALT® logo prominently on the team’s cars, fire suits, and equipment during the Formula 1 season, where it won its first Formula 1 Constructors’ Championship since 1998. The Company also advertises in the English Premier League ("EPL"), which is the number one soccer league in the world, featuring the DEWALT® brand to a global audience. In 2024, the Company also began sponsorships with one of the EPL’s “Big Six” football clubs, Tottenham Hotspur F.C., and in France, Ligue 1 club Olympique Lyonnais, for their 2024-2025 seasons. The Company also continued its sponsorship of one of the world’s most popular football clubs, FC Barcelona, sponsoring both the Men’s and Women’s first teams, which includes marketing rights, hospitality assets and stadium signage.
+In professional golf, the Company sponsored athletes on the PGA Tour, PGA Tour Champions, and PGA Tour Americas who represented either the DEWALT® or STANLEY® brand on tour. 
+CRAFTSMAN® maintained the title sponsorship of the NASCAR CRAFTSMAN® Truck Series through the Company’s sponsorship with NASCAR as the “Official Tools Partner of NASCAR” and “Official Tools" of all NASCAR-owned tracks. The Company has also maintained long-standing NASCAR and NHRA team sponsorships, which provided brand exposure during nearly 60 events in 2024 with the DEWALT®, CRAFTSMAN®, and MAC TOOLS® brands.
+31
+The above marketing initiatives highlight the Company's strong emphasis on brand building and commercial support, which has resulted in more than 300 billion global brand impressions from digital and traditional advertising and strong brand awareness. Allocating brand and advertising spend judiciously will continue to be the Company’s focus. Among the goals: placing end-user data and insights at the core of product commercialization, generating demand and brand loyalty through promotional support, in-market execution and salesforce effectiveness, evolving proven marketing programs that tie trusted global brands with societal purpose and tapping into technologies to build meaningful 1:1 experiences with customers, end users, employees and shareholders in line with the Company’s mission and vision.
+Segments
+The Company’s operations are classified into two reportable business segments: Tools & Outdoor and Industrial. 
+Tools & Outdoor
+The Tools & Outdoor segment is comprised of the Power Tools Group ("PTG"), Hand Tools, Accessories & Storage ("HTAS"), and Outdoor Power Equipment ("Outdoor") product lines. 
+The PTG product line includes both professional and consumer products. Professional products, primarily under the DEWALT® brand, include professional grade corded and cordless electric power tools and equipment including drills, impact wrenches and drivers, grinders, saws, routers, sanders, and concrete prep and placement tools as well as pneumatic tools and fasteners including nail guns, nails, staplers and staples, and concrete and masonry anchors. DIY and tradesperson focused products include corded and cordless electric power tools sold primarily under the CRAFTSMAN® and STANLEY® brands, and consumer home products such as household power tools, hand-held vacuums, and small appliances primarily under the BLACK+DECKER® brand. 
+The HTAS product line sells hand tools, power tool accessories and storage products primarily under the DEWALT®, CRAFTSMAN® and STANLEY® brands. Hand tools include measuring, leveling and layout tools, planes, hammers, demolition tools, clamps, vises, knives, saws, chisels, material handling, and industrial and automotive tools. Power tool accessories include drill bits, screwdriver bits, router bits, abrasives, saw blades and threading products. Storage products include tool boxes, sawhorses, cabinets and engineered storage solution products. 
+The Outdoor product line primarily sells corded and cordless electric lawn and garden products, including hedge trimmers, string trimmers, lawn mowers, pressure washers and related accessories, and gas powered lawn and garden products, including lawn tractors, zero turn ride on mowers, walk behind mowers, snow blowers, residential robotic mowers, hand-held outdoor power equipment, garden tools, and parts and accessories to professionals and consumers under the DEWALT®, CRAFTSMAN®, CUB CADET®, BLACK+DECKER®, and HUSTLER® brand names.
+Industrial
+The Industrial segment is comprised of the Engineered Fastening business and the Infrastructure business prior to its sale in April 2024.
+The Engineered Fastening business primarily sells highly engineered components such as fasteners, fittings and various engineered products, which are designed for specific application across multiple verticals. The product lines include externally threaded fasteners, blind rivets and tools, blind inserts and tools, drawn arc weld studs and systems, engineered plastic and mechanical fasteners, self-piercing riveting systems, precision nut running systems, micro fasteners, high-strength structural fasteners, axel swage, latches, heat shields, pins, and couplings.
+RESULTS OF OPERATIONS
+The Company’s results represent continuing operations and as a result of the 2022 divestitures of the Company’s CSS and MAS businesses, as described in further detail under the heading “Divestitures” in this Item 7 above, exclude the commercial electronic security, healthcare, and automatic doors businesses. These divestitures represented a single plan to exit the Security segment and were considered a strategic shift that had a major effect on the Company's operations and financial results. Therefore, the operating results of these businesses were classified as discontinued operations through their respective dates of sale. The divestiture of the Oil & Gas and the Infrastructure businesses did not qualify for discontinued operations and therefore, their results were included in the Company's continuing operations within the Industrial segment through the date of sale in the third quarter of 2022 and the second quarter of 2024, respectively. 
+Certain Items Impacting Earnings and Non-GAAP Financial Measures
+The Company has provided a discussion of its results both inclusive and exclusive of certain gains and charges. The results and measures, including gross profit, SG&A, Other, net, Income taxes, and segment profit (including Corporate Overhead), on a basis excluding certain gains and charges, free cash flow, organic revenue and organic growth are Non-GAAP financial measures. These Non-GAAP financial measures are defined and reconciled to their most directly comparable GAAP financial 
+32
+measures below. The Company considers the use of Non-GAAP financial measures relevant to aid analysis and understanding of the Company’s results and business trends aside from the material impact of these items and ensures appropriate comparability to operating results of prior periods. Supplemental Non-GAAP information should not be considered in isolation or as a substitute for the related GAAP financial measures. Non-GAAP financial measures presented herein may differ from similar measures used by other companies. 
+The Company provides expectations for the non-GAAP financial measures of full-year 2025 adjusted EPS, presented on a basis excluding certain gains and charges, as well as 2025 free cash flow. Forecasted full-year 2025 adjusted EPS is reconciled to forecasted full-year 2025 GAAP EPS under the section entitled "2025 Planning Assumptions" below. Consistent with past methodology, forecasted full-year 2025 GAAP EPS excludes the impacts of potential acquisitions and divestitures, potential future regulatory changes or strategic shifts that could impact the Company's contingent liabilities or intangible assets, respectively, potential future cost actions in response to external factors that have not yet occurred, and any other items not specifically referenced under “2025 Planning Assumptions.” A reconciliation of forecasted 2025 free cash flow to its most directly comparable GAAP estimate is not available without unreasonable effort due to high variability and difficulty in predicting items that impact cash flow from operations, which could be material to the Company’s results in accordance with U.S. GAAP. The Company believes such a reconciliation would also imply a degree of precision that is inappropriate for this forward-looking measure. 
+The Company also provides multi-year strategic goals for the non-GAAP financial measures of adjusted gross margin and adjusted EBITDA margin, presented on a basis excluding certain gains and charges, as well as organic revenue growth, free cash flow, and CFROI. A reconciliation for these non-GAAP measures is not available without unreasonable effort due to the inherent difficulty of forecasting the timing and/or amount of various items that have not yet occurred, including the high variability and low visibility with respect to certain gains or charges that would generally be excluded from non-GAAP financial measures and which could be material to the Company’s results in accordance with U.S. GAAP. Additionally, estimating such GAAP measures and providing a meaningful reconciliation consistent with the Company’s accounting policies for future periods requires a level of precision that is unavailable for these future multi-year periods and cannot be accomplished without unreasonable effort. The Company believes such a reconciliation would also imply a degree of precision that is inappropriate for these forward-looking measures. 
+The Company’s operating results at the consolidated level as discussed below include and exclude certain gains and charges impacting gross profit, SG&A, Other, net, and Income taxes. The Company’s business segment results as discussed below include and exclude certain gains and charges impacting gross profit and SG&A. These amounts for 2024, 2023 and 2022 are as follows:
+2024
+(Millions of Dollars)
+GAAP
+Non-GAAP Adjustments
+2
+Non-GAAP
+Gross profit
+$
+4,514.4
+$
+88.8
+$
+4,603.2
+Selling, general and administrative
+1
+3,332.7
+(81.3)
+3,251.4
+Earnings from continuing operations before income taxes
+241.1
+466.0
+707.1
+Income taxes on continuing operations
+(45.2)
+92.6
+47.4
+Net Earnings from Continuing Operations Attributable to Common Shareowners - Diluted
+286.3
+373.4
+659.7
+Diluted earnings per share of common stock - Continuing operations
+$
+1.89
+$
+2.47
+$
+4.36
+2023
+(Millions of Dollars)
+GAAP
+Non-GAAP Adjustments
+2
+Non-GAAP
+Gross profit
+$
+3,932.6 
+$
+166.9 
+$
+4,099.5 
+Selling, general and administrative
+1
+3,290.7 
+(99.4)
+3,191.3 
+(Loss) earnings from continuing operations before income taxes
+(375.7)
+566.2 
+190.5 
+Income taxes on continuing operations
+(94.0)
+65.8 
+(28.2)
+Net (Loss) Earnings from Continuing Operations Attributable to Common Shareowners - Diluted
+(281.7)
+500.4 
+218.7 
+Diluted (loss) earnings per share of common stock - Continuing operations
+$
+(1.88)
+$
+3.33 
+$
+1.45 
+33
+2022
+(Millions of Dollars)
+GAAP
+Non-GAAP Adjustments
+2
+Non-GAAP
+Gross profit
+$
+4,284.1 
+$
+127.4 
+$
+4,411.5 
+Selling, general and administrative
+1
+3,370.0 
+(180.3)
+3,189.7 
+Earnings from continuing operations before income taxes
+37.9 
+642.2 
+680.1 
+Income taxes on continuing operations
+(132.4)
+84.0 
+(48.4)
+Net Earnings from Continuing Operations Attributable to Common Shareowners - Diluted
+165.5 
+558.2 
+723.7 
+Diluted earnings per share of common stock - Continuing operations
+$
+1.06 
+$
+3.56 
+$
+4.62 
+1
+Includes provision for credit losses
+2
+Refer to table below for additional detail of the Non-GAAP adjustments
+Below is a summary of the pre-tax Non-GAAP adjustments for 2024, 2023 and 2022.
+(Millions of Dollars)
+2024
+2023
+2022
+Supply Chain Transformation Costs: 
+ Footprint Rationalization
+1
+$
+66.3
+$
+96.9 
+$
+25.3 
+ Material Productivity & Operational Excellence
+2
+18.6
+69.1 
+— 
+Inventory step-up charges
+—
+— 
+80.3 
+Facility-related costs
+2.6
+1.5 
+14.8 
+Voluntary retirement program
+—
+(0.4)
+5.7 
+Other charges (gains)
+1.3
+(0.2)
+1.3 
+ Gross Profit
+$
+88.8
+$
+166.9 
+$
+127.4 
+Supply Chain Transformation Costs: 
+ Footprint Rationalization
+1
+$
+42.5
+$
+10.8 
+$
+— 
+ Complexity Reduction & Operational Excellence
+8.7
+9.0 
+7.2 
+Acquisition & Integration-related costs
+3
+9.4
+33.6 
+85.2 
+Transition services costs related to previously divested businesses
+19.6
+46.6 
+21.1 
+Functional transformation initiatives
+—
+— 
+19.2 
+Voluntary retirement program
+—
+(2.7)
+33.4 
+Other charges (gains)
+1.1
+2.1 
+14.2 
+ Selling, general and administrative
+$
+81.3
+$
+99.4 
+$
+180.3 
+Other, net
+4
+$
+(19.6)
+$
+(25.1)
+$
+16.9 
+Environmental charges
+5
+143.2
+— 
+— 
+Loss on sales of businesses
+—
+10.8 
+8.4 
+Restructuring charges
+6
+99.9
+39.4 
+140.8 
+Asset impairment charges
+7
+72.4
+274.8 
+168.4 
+ Earnings from continuing operations before income taxes
+$
+466.0
+$
+566.2 
+$
+642.2 
+34
+1
+Footprint Rationalization costs in 2024 primarily relate to accelerated depreciation of manufacturing and distribution center equipment of $48.9 million and other facility exit and re-configuration costs of $45.2 million. In 2023, transfers and closures of targeted manufacturing sites, including Fort Worth, Texas and Cheraw, South Carolina as previously announced in March 2023, resulted in accelerated depreciation of production equipment of $49.1 million, non-cash asset write-downs of $44.0 million (predominantly tooling, raw materials and WIP), and other facility exit and re-configuration costs of $14.6 million.
+2
+Material Productivity & Operational Excellence costs in 2023 primarily related to third-party consultant fees to provide expertise in identifying and quantifying opportunities to source in a more integrated manner and re-design in-plant operations following footprint rationalization, developing a detailed program and related governance, and assisting the Company with the implementation of actions necessary to achieve the related objectives.
+3
+Acquisition & integration-related costs primarily relate to the MTD and Excel acquisitions, including costs to integrate the organizations and shared processes, as well as harmonize key IT applications and infrastructure.
+4
+Includes deal-related costs, net of income related to providing transition services to previously divested businesses. 
+5
+The $143.2 million pre-tax environmental charges in 2024 relate primarily to a reserve adjustment for the non-active Centredale Superfund site as a result of regulatory changes and revisions to remediation alternatives.
+6
+Refer to “Restructuring Activities” below for further discussion.
+7
+Asset impairment charges in 2024 include a $41.0 million pre-tax impairment charge related to the Lenox trade name, a $25.5 million pre-tax impairment charge related to the Infrastructure business, and a $5.9 million pre-tax impairment charge related to a small Industrial business. Asset impairment charges in 2023 include a $124.0 million pre-tax impairment charge related to the Irwin and Troy-Bilt trade names and a $150.8 million pre-tax impairment charge related to the Infrastructure business. The $168.4 million pre-tax impairment charge in 2022 related to the Oil & Gas business.
+Below is a summary of the Company’s operating results at the consolidated level, followed by an overview of business segment performance. Organic growth is utilized to describe the Company's results excluding the impacts of foreign currency fluctuations, acquisitions during their initial 12 months of ownership, and divestitures.
+Consolidated Results
+Net Sales:
+ Net sales were $15.366 billion in 2024 compared to $15.781 billion in 2023, representing a decrease of 3%, as flat organic revenue was more than offset by a 2% decrease from the Infrastructure divestiture and 1% decrease from foreign currency. Tools & Outdoor net sales decreased 1% compared to 2023 as a 1% increase in volume was more than offset by a 1% decrease in both price and foreign currency. Industrial net sales decreased 15% compared to 2023 as a 1% increase in price was more than offset by a 13% decrease from the Infrastructure divestiture, a 2% decrease in volume, and a 1% decrease from foreign currency.
+Net sales were $15.781 billion in 2023 compared to $16.947 billion in 2022, representing a decrease of 7%, as a 1% increase in price was more than offset by a 7% decrease in volume and a 1% decrease from the Oil & Gas divestiture. Tools & Outdoor net sales decreased 7% compared to 2022 due to a 7% decrease in volume. Industrial net sales decreased 4% compared to 2022 as a 3% increase in price was more than offset by a 4% decrease from the Oil & Gas divestiture and a 3% decrease in volume. 
+Gross Profit:
+ The Company reported gross profit of $4.514 billion, or 29.4% of net sales, in 2024 compared to $3.933 billion, or 24.9% of net sales, in 2023. Non-GAAP adjustments, which reduced gross profit, were $88.8 million in 2024 and $166.9 million in 2023. Excluding these adjustments, gross profit was 30.0% of net sales in 2024 compared to 26.0% of net sales in 2023, primarily driven by the supply chain transformation efficiencies and lower inventory destocking costs.
+The Company reported gross profit of $3.933 billion, or 24.9% of net sales, in 2023 compared to $4.284 billion, or 25.3% of net sales, in 2022. Non-GAAP adjustments, which reduced gross profit, were $166.9 million in 2023 and $127.4 million in 2022. Despite lower volume, the impact of selling through high-cost inventory, and production curtailments, gross profit, excluding Non-GAAP adjustments, was 26.0% of net sales in both 2023 and 2022, due to price realization, supply chain transformation benefits, lower inventory destocking costs, and lower shipping costs.
+SG&A Expenses:
+ Selling, general and administrative expenses, inclusive of the provision for credit losses, were $3.333 billion, or 21.7% of net sales, in 2024 compared to $3.291 billion, or 20.9% of net sales, in 2023. Within SG&A, Non-GAAP adjustments totaled $81.3 million in 2024 and $99.4 million in 2023. Excluding these adjustments, SG&A was 21.2% of net sales in 2024 compared to 20.2% in 2023, as the Company invested in growth initiatives designed to deliver increased market penetration and future market share gains.
+SG&A expenses, inclusive of the provision for credit losses, were $3.291 billion, or 20.9% of net sales, in 2023 compared to $3.370 billion, or 19.9% of net sales, in 2022. SG&A declined year-over-year on an absolute dollar basis reflecting cost reductions. Within SG&A, Non-GAAP adjustments totaled $99.4 million in 2023 and $180.3 million in 2022. Excluding these adjustments, SG&A was 20.2% of net sales in 2023 compared to 18.8% in 2022, reflecting the impact of lower sales volume, but relatively flat year-over-year on an absolute dollar basis as the benefits from the Global Cost Reduction Program were offset by increased investments in growth initiatives, higher variable compensation expense and inflation.
+35
+Distribution center costs (i.e. warehousing and fulfillment facility and associated labor costs) are classified within SG&A. This classification may differ from other companies who may report such expenses within cost of sales. Due to diversity in practice, to the extent the classification of these distribution costs differs from other companies, the Company’s gross margins may not be comparable. Such distribution costs classified in SG&A amounted to $534.4 million, $521.7 million and $498.7 million in 2024, 2023, and 2022, respectively. The year-over-year increases in distribution costs in 2024 and 2023 are driven by temporary cost increases to support the Company's distribution network redesign.
+Other, net:
+ Other, net totaled $448.8 million, $320.1 million, and $274.8 million in 2024, 2023, and 2022, respectively. The year-over-year increase in 2024 is primarily driven by an environmental remediation reserve adjustment relating to the Centredale site, as further discussed in 
+Note R, Contingencies
+, partially offset by lower intangible asset amortization due to the divestiture of the Infrastructure business. Excluding Non-GAAP adjustments, Other, net, totaled $325.2 million, $345.2 million, and $257.9 million in 2024, 2023, and 2022, respectively. The decrease in 2024 is driven by lower intangible asset amortization expense as a result of the divestiture of the Infrastructure business. The increase in 2023 was driven by higher pension and environmental remediation costs as well as write-downs on certain investments. 
+Loss on Sales of Businesses:
+ During 2023, the Company reported a loss of $10.8 million primarily related to the divestiture of a small business in the Industrial segment. During 2022, the Company reported a net loss of $8.4 million primarily related to the divestiture of the Oil & Gas business.
+Asset Impairment Charges
+: During 2024, the Company recorded pre-tax, non-cash impairment charges of $72.4 million, comprised of $41.0 million related to the Lenox trade name, $25.5 million related to the Infrastructure business, and $5.9 million related to a small business in the Industrial segment. During 2023, the Company recorded pre-tax, non-cash impairment charges of $274.8 million, comprised of $124.0 million related to the Irwin and Troy-Bilt trade names and $150.8 million related to the Infrastructure business. During 2022, the Company recorded a pre-tax, non-cash impairment charge of $168.4 million related to the Oil & Gas business. Refer to 
+Note E, Goodwill and Intangible Assets
+, for additional information on the trade name impairments. Refer to 
+Note S, Divestitures
+, for additional information on the 2024 divestiture of the Infrastructure business and the 2022 divestiture of the Oil & Gas business.
+Interest, net:
+ Net interest expense in 2024 was $319.5 million compared to $372.5 million in 2023 and $283.8 million in 2022. The 2024 decrease was primarily driven by lower commercial paper balances and lower U.S. interest rates. The increase in 2023 compared to 2022 was primarily driven by higher U.S. interest rates and debt issuances in March 2023, partially offset by higher interest income due to an increase in rates.
+Income Taxes
+: The Company's effective tax rate on continuing operations was (18.7)% in 2024, 25.0% in 2023, and (349.3)% in 2022. Excluding the tax effect on Non-GAAP adjustments, the effective tax rate in 2024 on continuing operations was 6.7%. This effective tax rate differs from the U.S. statutory tax rate primarily due to tax benefits associated with partial realignment of the Company's legal structure, remeasurement of uncertain tax position reserves, the recognition of previously unrecognized foreign deferred tax assets, state income taxes, and tax credits, partially offset by non-deductible expenses, U.S. tax on foreign earnings, withholding taxes, and losses for which a tax benefit is not recognized.
+Excluding the tax effect on Non-GAAP adjustments, the effective tax rate on continuing operations in 2023 was (14.8)%. This effective tax rate differs from the U.S. statutory tax rate primarily due to a tax benefit associated with an intra-entity asset transfer of certain intangible assets related to the continued reorganization of the supply chain, tax on foreign earnings at tax rates different than the U.S. tax rate, state income taxes, and tax credits, partially offset by U.S. tax on foreign earnings, non-deductible expenses, withholding taxes, and losses for which a tax benefit is not recognized.
+Excluding the tax effect on Non-GAAP adjustments, the effective tax rate on continuing operations in 2022 was (7.1)%. This effective tax rate differs from the U.S. statutory tax rate primarily due to a tax benefit associated with an intra-entity asset transfer of certain intangible assets related to the continued reorganization of the supply chain, tax on foreign earnings at tax rates different than the U.S. tax rate, and the recognition of previously unrecognized foreign deferred tax assets, offset by U.S. tax on foreign earnings and the remeasurement of uncertain tax position reserves.
+On December 20, 2021, the Organization for Economic Cooperation and Development published a proposal for the establishment of a global minimum tax rate of 15% (“Pillar Two"). The Pillar Two rules provide a template that jurisdictions can translate into domestic law, to assist with the implementation within an agreed upon timeframe and in a coordinated manner. Certain countries in which the Company operates have enacted legislation effective January 1, 2024, while other jurisdictions are in various stages of implementation. 
+The Company has performed an assessment of the potential impact to its income taxes as a result of Pillar Two. The assessment of the potential impact is based on the most recent tax filings, country-by-country reporting, and financial statements of affected 
+36
+subsidiaries. Based on results of the assessment, the Company believes it can avail itself of the transitional safe harbor rules in most jurisdictions in which the Company operates. There are, however, a limited number of jurisdictions where the transitional safe harbor relief does not apply for which the Company has accrued global minimum taxes of $3.9 million in 2024. The Company does not currently expect a material impact to income taxes in those jurisdictions in the near term. The Company continues to assess the potential impact of Pillar Two and monitor developments in legislation, regulation, and interpretive guidance in this area.
+Business Segment Results
+The Company’s reportable segments represent businesses that have similar products, services and end markets, among other factors. The Company utilizes segment profit which is defined as net sales minus cost of sales and SG&A inclusive of the provision for credit losses (aside from corporate overhead expense), and segment profit as a percentage of net sales to assess the profitability of each segment. 
+The Company’s operations are classified into two reportable business segments: Tools & Outdoor and Industrial. 
+Tools & Outdoor:
+(Millions of Dollars)
+2024
+2023
+2022
+Net sales
+$
+13,304
+$
+13,367 
+$
+14,424 
+Segment profit
+$
+1,197
+$
+688 
+$
+972 
+% of Net sales
+9.0
+%
+5.1 
+%
+6.7 
+%
+Tools & Outdoor net sales decreased $62.9 million, or 1%, in 2024 compared to 2023 as a 1% increase in volume was more than offset by a 1% decrease in both price and foreign currency. Organic revenue was flat as growth in DEWALT® was offset by the weak consumer and DIY backdrop. Organic revenue decreased 1% in North America, remained flat in Europe, and increased 6% in the rest of the world. 
+Segment profit amounted to $1,197.4 million, or 9.0% of net sales, in 2024 compared to $687.6 million, or 5.1% of net sales, in 2023. Excluding Non-GAAP adjustments of $143.1 million and $196.7 million in 2024 and 2023, respectively, segment profit amounted to 10.1% of net sales in 2024 compared to 6.6% of net sales in 2023, primarily due to supply chain transformation benefits and lower inventory destocking costs, which were partially offset by growth investments.
+Tools & Outdoor net sales decreased $1.057 billion, or 7%, in 2023 compared to 2022 due to a 7% decline in volume. Organic revenue decreased 8%, 4% and 3% in North America, Europe and emerging markets, respectively. The overall 7% organic decline was a result of lower consumer outdoor and DIY market demand. The 2023 U.S. retail point-of-sale demand remained above pre-pandemic 2019 levels, supported by price increases and strength in professional tools. 
+Segment profit amounted to $687.6 million, or 5.1% of net sales, in 2023 compared to $971.9 million, or 6.7% of net sales, in 2022. Excluding Non-GAAP adjustments of $196.7 million and $235.4 million in 2023 and 2022, respectively, segment profit amounted to 6.6% of net sales in 2023 compared to 8.4% in 2022, as supply chain transformation savings and reduced shipping costs were more than offset by selling through high-cost inventory, production curtailments and lower volume. 
+Industrial:
+(Millions of Dollars)
+2024
+2023
+2022
+Net sales
+$
+2,062
+$
+2,414 
+$
+2,523 
+Segment profit
+$
+255
+$
+267 
+$
+236 
+% of Net sales
+12.4
+%
+11.0 
+%
+9.4 
+%
+Industrial net sales decreased $352.5 million, or 15%, in 2024 compared to 2023, as a 1% increase in price was more than offset by a 13% decrease from the Infrastructure divestiture, a 2% decrease in volume, and a 1% decrease from foreign currency. Engineered Fastening organic revenues increased 2% as aerospace and general industrial growth was partially offset by market softness in automotive.
+Segment profit totaled $254.9 million, or 12.4% of net sales, in 2024 compared to $266.5 million, or 11.0% of net sales, in 2023. Excluding Non-GAAP adjustments of $3.6 million and $18.7 million in 2024 and 2023, respectively, segment profit amounted to 12.5% of net sales in 2024 compared to 11.8% of net sales in 2023, as lower volume in automotive was more than offset by price realization and cost control.
+37
+Industrial net sales decreased $109.4 million, or 4%, in 2023 compared to 2022, as a 3% increase in price was more than offset by a 4% decrease from the Oil & Gas divestiture and a 3% decrease in volume. Engineered Fastening organic revenues were up 6%, with double-digit growth in both aerospace and automotive, which was partially offset by softness in general industrial fastener markets. 
+Segment profit totaled $266.5 million, or 11.0% of net sales, in 2023 compared to $236.2 million, or 9.4% of net sales, in 2022. Excluding Non-GAAP adjustments of $18.7 million and $7.8 million in 2023 and 2022, respectively, segment profit amounted to 11.8% of net sales in 2023 compared to 9.7% in 2022, as price realization and cost control more than offset lower volume.
+Corporate Overhead 
+Corporate Overhead includes the corporate overhead element of SG&A, which is not allocated to the business segments. Corporate Overhead amounted to $270.6 million, $312.2 million, and $294.0 million in 2024, 2023, and 2022, respectively. Excluding Non-GAAP adjustments of $23.4 million, $50.9 million, and $64.5 million in 2024, 2023, and 2022, respectively, the Corporate Overhead element of SG&A was $247.2 million, $261.3 million, and $229.5 million in 2024, 2023, and 2022, respectively. The year-over-year decrease in 2024 compared to 2023 was primarily driven by the Company’s ongoing efforts to simplify the corporate cost structure and reduce indirect spend. The year-over-year increase in 2023 compared to 2022 was primarily driven by higher employee-related variable compensation costs. 
+38
+RESTRUCTURING ACTIVITIES 
+A summary of the restructuring reserve activity from December 30, 2023 to December 28, 2024 is as follows:
+(Millions of Dollars)
+December 30, 2023
+Net Additions
+Usage
+Currency
+December 28, 2024
+Severance and related costs
+$
+25.8 
+$
+49.0 
+$
+(50.3)
+$
+0.8 
+$
+25.3
+Facility closures and other
+3.1 
+50.9 
+(33.9)
+— 
+20.1
+Total
+$
+28.9 
+$
+99.9 
+$
+(84.2)
+$
+0.8 
+$
+45.4
+During 2024, the Company recognized net restructuring charges of approximately $100 million, primarily related to severance and facility closures associated with the supply chain transformation. The Company expects to achieve annual net cost savings of approximately $129 million by the end of 2025 related to the restructuring costs incurred during 2024. The majority of the $45 million of reserves remaining as of December 28, 2024 is expected to be utilized within the next twelve months.
+During 2023, the Company recognized net restructuring charges of approximately $39 million, primarily related to severance and facility closures associated with the footprint rationalization actions under the supply chain transformation. The Company estimates that these actions resulted in net cost savings of approximately $45 million in 2024.
+During 2022, the Company recognized net restructuring charges of approximately $141 million, primarily related to severance and related costs, including SG&A cost actions under the Global Cost Reduction Program. The Company estimates that these actions resulted in net cost savings of approximately $300 million in 2023. 
+Segments:
+ The $100 million of net restructuring charges in 2024 includes: $84 million pertaining to the Tools & Outdoor segment; $8 million pertaining to the Industrial segment; and $8 million pertaining to Corporate.
+The anticipated annual net cost savings of approximately $129 million related to the 2024 restructuring actions include: $109 million in the Tools & Outdoor segment; $7 million in the Industrial segment; and $13 million in Corporate.
+2025 PLANNING ASSUMPTIONS
+This discussion of certain planning assumptions is intended to provide broad insight into the Company's near-term earnings and cash flow generation prospects. The Company's planning assumptions for 2025 are for diluted earnings per share on a GAAP basis to be $4.05 (+/- $0.65), diluted earnings per share excluding Non-GAAP adjustments to be $5.25 (+/- $0.50), and free cash flow to be $750 million (+/- $100 million). These planning assumptions exclude the impact of new 2025 tariffs.
+The difference between the planning assumptions for 2025 diluted earnings per share on a GAAP basis and diluted earnings per share excluding Non-GAAP adjustments is approximately $1.05 to $1.35, consisting primarily of charges related to the supply chain transformation under the Global Cost Reduction Program. 
+FINANCIAL CONDITION
+Liquidity, Sources and Uses of Capital:
+ The Company’s primary sources of liquidity are cash flows generated from operations and available lines of credit under various credit facilities. 
+Operating Activities:
+ Cash flows provided by operations were $1.107 billion in 2024 compared to $1.191 billion in 2023 as higher earnings were more than offset by lower cash flows from working capital due to the significant inventory reduction in 2023.
+In 2023, cash flows provided by operations were $1.191 billion compared to cash used in operations of $1.460 billion in 2022. The year-over-year change was primarily driven by the Company's focus on reducing inventory, as evidenced by a decline of $1.123 billion in inventory in 2023.
+Free Cash Flow:
+ Free cash flow, as defined in the table below, was an inflow of $753 million in 2024 compared to an inflow of $853 million in 2023 and an outflow of $1.990 billion in 2022. The year-over-year changes in free cash flow are due to the same factors discussed above in operating activities. Management considers free cash flow an important indicator of its liquidity and capital efficiency, as well as its ability to fund future growth and provide dividends to shareowners, and is useful information for investors. Free cash flow does not include deductions for mandatory debt service, other borrowing activity, discretionary dividends on the Company’s common stock and business acquisitions, among other items.
+39
+(Millions of Dollars)
+2024
+2023
+2022
+Net cash provided by (used in) operating activities
+$
+1,107
+$
+1,191 
+$
+(1,460)
+Less: capital and software expenditures
+(354)
+(338)
+(530)
+Free cash flow
+$
+753
+$
+853 
+$
+(1,990)
+Investing Activities:
+ Cash flows provided by investing activities totaled $394 million in 2024 primarily due to net proceeds from sales of businesses of $736 million, partially offset by capital and software expenditures of $354 million.
+Cash flows used in investing activities in 2023 totaled $328 million, primarily due to capital and software expenditures of $338 million.
+Cash flows provided by investing activities in 2022 totaled $3.573 billion, primarily due to proceeds from the Security and Oil & Gas divestitures, net of cash sold, of $4.147 billion, partially offset by capital and software expenditures of $530 million.
+Financing Activities:
+ Cash flows used in financing activities totaled $1.557 billion in 2024 primarily driven by net repayments of short-term commercial paper borrowings of $1.057 billion and cash dividend payments on common stock of $491 million.
+Cash flows used in financing activities totaled $816 million in 2023 primarily driven by net repayments of short-term commercial paper borrowings of $1.045 billion and cash dividend payments on common stock of $483 million, partially offset by net proceeds from debt issuances of $745 million.
+Cash flows used in financing activities totaled $1.971 billion in 2022 primarily driven by share repurchases of $2.323 billion, credit facility repayments of $2.5 billion, the redemption and conversion of preferred stock for $750 million, cash dividend payments on common stock of $466 million, and net repayments of short-term commercial paper borrowings of $138 million, partially offset by $2.5 billion from credit facility borrowings, net proceeds from debt issuances of $993 million and proceeds from the issuance of remarketed Series D Preferred Stock of $750 million.
+Fluctuations in foreign currency rates negatively impacted cash by $106 million in 2024 and $32 million in 2022, due to the strengthening of the U.S. dollar against other currencies. Fluctuations in foreign currency rates positively impacted cash by $2 million in 2023 due to the weakening of the U.S. dollar against other currencies.
+Refer to 
+Note G, Long-Term Debt and Financing Arrangements
+, and 
+Note I, Capital Stock
+, for further discussion regarding the Company's debt and equity arrangements.
+Credit Ratings and Liquidity:
+The Company maintains investment grade credit ratings from the major U.S. rating agencies on its senior unsecured debt (S&P A-, Fitch BBB+, Moody's Baa3), as well as its commercial paper program (S&P A-2, Fitch F2, Moody's P-3). There were no changes to any of the Company's credit ratings during 2024. Failure to maintain investment grade rating levels could adversely affect the Company’s cost of funds, liquidity, and access to capital markets, but would not have an adverse effect on the Company’s ability to access its existing committed credit facilities.
+Cash and cash equivalents totaled $291 million as of December 28, 2024, which was primarily held in foreign jurisdictions. Cash and cash equivalents totaled $449 million as of December 30, 2023, of which approximately 50% was held in foreign jurisdictions.
+As a result of the Tax Cuts and Jobs Act (the "Act"), the Company's tax liability related to the one-time transition tax associated with unremitted foreign earnings and profits totaled $110 million at December 28, 2024. The Act permits a U.S. company to elect to pay the net tax liability interest-free over a period of up to eight years. See the "Contractual Obligations" table below for the estimated amounts due by period. The Company has considered the implications of paying the required one-time transition tax and believes it will not have a material impact on its liquidity.
+The Company has a $3.5 billion commercial paper program which includes Euro denominated borrowings in addition to U.S. Dollars. As of December 28, 2024, the Company had no commercial paper borrowings outstanding. As of December 30, 2023, the Company had $1.1 billion of borrowings outstanding, of which $399.7 million in Euro denominated commercial paper was designated as a net investment hedge. Refer to
+ Note H, Financial Instruments
+, for further discussion.
+40
+In June 2024, the Company amended and restated its existing five-year $2.5 billion committed credit facility with the concurrent execution of a new five year $2.25 billion committed credit facility (the “5-Year Credit Agreement”). Borrowings under the 5-Year Credit Agreement may be made in U.S. Dollars, Euros or Pounds Sterling. A sub-limit of an amount equal to the Euro equivalent of $800.0 million is designated for swing line advances. Borrowings bear interest at a floating rate plus an applicable margin dependent upon the denomination of the borrowing and specific terms of the 5-Year Credit Agreement. The Company must repay all advances under the 5-Year Credit Agreement by the earlier of June 28, 2029 or upon termination. The 5-Year Credit Agreement is designated to be a liquidity back-stop for the Company's $3.5 billion U.S. Dollar and Euro commercial paper program. As of December 28, 2024 and December 30, 2023, the Company had not drawn on its five-year committed credit facility.
+In June 2024, the Company terminated its 364-Day $1.5 billion committed credit facility ("the 2023 Syndicated 364-Day Credit Agreement") dated September 2023. There were no outstanding borrowings under the 2023 Syndicated 364-Day Credit Agreement upon termination and as of December 30, 2023. Contemporaneously, the Company entered into a new $1.25 billion syndicated 364-Day Credit Agreement (the "2024 Syndicated 364-Day Credit Agreement") which is a revolving credit loan. The borrowings under the 2024 Syndicated 364-Day Credit Agreement may be made in U.S. Dollars or Euros and bear interest at a floating rate plus an applicable margin dependent upon the denomination of the borrowing and pursuant to the terms of the 2024 Syndicated 364-Day Credit Agreement. The Company must repay all advances under the 2024 Syndicated 364-Day Credit Agreement by the earlier of June 27, 2025 or upon termination. The Company may, however, convert all advances outstanding upon termination into a term loan that shall be repaid in full no later than the first anniversary of the termination date provided that the Company, among other things, pays a fee to the administrative agent for the account of each lender. The 2024 Syndicated 364-Day Credit Agreement serves as part of the liquidity back-stop for the Company’s $3.5 billion U.S. Dollar and Euro commercial paper program. As of December 28, 2024, the Company had not drawn on its 2024 Syndicated 364-Day Credit Agreement.
+The 5-Year Credit Agreement and the 2024 Syndicated 364-Day Credit Agreement, as described above, contain customary affirmative and negative covenants, including but not limited to, maintenance of an interest coverage ratio. The interest coverage ratio tested for covenant compliance compares adjusted Earnings Before Interest, Taxes, Depreciation and Amortization to adjusted net Interest Expense ("Adjusted EBITDA"/"Adjusted Net Interest Expense"). The Company must maintain, for each period of four consecutive fiscal quarters of the Company, an interest coverage ratio of not less than 3.50 to 1.00, provided that the Company is only required to maintain an interest coverage ratio of not less than (i) 1.50 to 1.00 for any four fiscal quarter period ending on or before the end of the Company’s second fiscal quarter of 2024, and (ii) 2.50 to 1.00 for any four fiscal quarter period ending after the Company’s second fiscal quarter of 2024 through and including the Company’s second fiscal quarter of 2025. For purposes of calculating the Company’s compliance with the interest coverage ratio, as defined in each credit agreement, the Company is permitted to increase EBITDA to allow for additional adjustment addbacks incurred prior to the end of the Company’s second fiscal quarter of 2025, provided that (A) the sum of the applicable adjustment addbacks incurred through and including the Company’s second fiscal quarter of 2024 may not exceed $500 million in the aggregate, and (B) the sum of the applicable adjustment addbacks incurred from the Company’s third fiscal quarter of 2024 through and including the Company’s second fiscal quarter of 2025 may not exceed $250 million in the aggregate; provided, further, that the sum of the applicable adjustment addbacks for any four consecutive fiscal quarter period may not exceed $500 million in the aggregate.
+In addition, the Company has other short-term lines of credit that are primarily uncommitted, with numerous banks, aggregating to $296 million, of which approximately $206 million was available at December 28, 2024 and approximately $90 million of the short-term credit lines were utilized primarily pertaining to outstanding letters of credit for which there are no required or reported debt balances. Short-term arrangements are reviewed annually for renewal.
+At December 28, 2024, the aggregate amount of short-term and long-term committed and uncommitted lines of credit was approximately $3.8 billion. The weighted-average interest rates on U.S. dollar denominated short-term borrowings for the years ended December 28, 2024 and December 30, 2023 were 5.6% and 5.1%, respectively. The weighted-average interest rates on Euro denominated short-term borrowings for the years ended December 28, 2024 and December 30, 2023 were 3.9% and 3.5%, respectively.
+In March 2023, the Company issued $350.0 million of senior unsecured term notes maturing March 6, 2026 ("2026 Term Notes") and $400.0 million of senior unsecured term notes maturing March 6, 2028 (“2028 Term Notes”). The 2026 Term Notes accrue interest at a fixed rate of 6.272% per annum and the 2028 Term Notes at a fixed rate of 6.0% per annum, with interest payable semi-annually in arrears, and both notes rank equally in right of payment with all of the Company's existing and future unsecured unsubordinated debt. The Company received total net proceeds from this offering of $745.3 million, net of $4.7 million of underwriting expenses and other fees associated with the transaction. The Company used the net proceeds from the offering for general corporate purposes, including repayment of indebtedness under the commercial paper program.
+41
+In March 2015, the Company entered into a forward share purchase contract with a financial institution counterparty for 3,645,510 shares of common stock. The contract obligates the Company to pay $350 million, plus an additional amount related to the forward component of the contract. In June 2024, the Company amended the settlement date to June 2026, or earlier at the Company's option.
+Refer to 
+Note G, Long-Term Debt and Financing Arrangements
+, and 
+Note I, Capital Stock
+, for further discussion regarding the Company's debt and equity arrangements.
+Contractual Obligations:
+ The following table summarizes the Company’s significant contractual and other obligations that impact its liquidity:
+Payments Due by Period
+(Millions of Dollars)
+Total
+2025
+2026-2027
+2028-2029
+Thereafter
+Long-term debt (a)
+$
+6,152 
+$
+501 
+$
+901 
+$
+1,100 
+$
+3,650 
+Interest payments on long-term debt (b)
+2,977 
+228 
+378 
+286 
+2,085 
+Lease obligations
+565 
+130 
+196 
+122 
+117 
+Inventory purchase commitments (c)
+713 
+708 
+5 
+— 
+— 
+Deferred compensation
+27 
+— 
+1 
+— 
+26 
+Marketing commitments
+62 
+35 
+27 
+— 
+— 
+Forward stock purchase contract (d)
+350 
+— 
+350 
+— 
+— 
+Pension funding obligations (e)
+30 
+30 
+— 
+— 
+— 
+U.S. income tax (f)
+110 
+110 
+— 
+— 
+— 
+Supplier agreements (g)
+161 
+101 
+60 
+— 
+— 
+Derivatives (h)
+12 
+12 
+— 
+— 
+— 
+Total contractual cash obligations
+$
+11,159 
+$
+1,855 
+$
+1,918 
+$
+1,508 
+$
+5,878 
+(a)
+Future payments on long-term debt encompass all payments related to aggregate debt maturities, excluding certain fair value adjustments included in long-term debt, as discussed further in 
+Note G, Long-Term Debt and Financing Arrangements.
+(b)
+Future interest payments on long-term debt reflect the applicable interest rate in effect at December 28, 2024
+. 
+(c)
+Inventory purchase commitments primarily consist of open purchase orders to purchase raw materials, components, and sourced products.
+(d)
+In March 2015, the Company entered into a forward share purchase contract with a financial institution counterparty which obligates the Company to pay $350 million, plus an additional amount related to the forward component of the contract. In June 2024, the Company amended the settlement date to June 2026, or earlier at the Company's option. See 
+Note I, Capital Stock,
+ for further discussion.
+(e)
+This amount principally represents contributions either required by regulations or laws or, with respect to unfunded plans, necessary to fund current benefits. The Company has not presented estimated pension and post-retirement funding beyond 2025 as funding can vary significantly from year to year based upon changes in the fair value of the plan assets, actuarial assumptions, and curtailment/settlement actions.
+(f)
+Income tax liability for the one-time deemed repatriation tax on unremitted foreign earnings and profits. 
+(g)
+Supplier agreements with long-term minimum material purchase requirements and freight forwarding arrangements. 
+(h)
+Future cash flows on derivative instruments reflect the fair value and accrued interest as of December 28, 2024. The ultimate cash flows on these instruments will differ, perhaps significantly, based on applicable market interest and foreign currency rates at their maturity.
+To the extent the Company can reliably determine when payments will occur, the related amounts will be included in the table above. However, due to the high degree of uncertainty regarding the timing of potential future cash flows associated with the contingent consideration liability related to the Craftsman acquisition and the unrecognized tax liabilities of $167 million and $518 million, respectively, at December 28, 2024, the Company is unable to make a reliable estimate of when (if at all) these amounts may be paid. Refer to 
+Note L, Fair Value Measurements,
+ and 
+Note P, Income Taxes,
+ for further discussion.
+Payments of the above contractual and other obligations (with the exception of payments related to debt principal, the forward stock purchase contract, and tax obligations) will typically generate a cash tax benefit such that the net cash outflow will be lower than the gross amounts summarized above.
+42
+Other Significant Commercial Commitments:
+Amount of Commitment Expirations Per Period
+(Millions of Dollars)
+Total
+2025
+2026-2027
+2028-2029
+Thereafter
+U.S. lines of credit
+$
+3,500 
+$
+1,250 
+$
+— 
+$
+2,250 
+$
+— 
+Short-term borrowings, long-term debt and lines of credit are explained in detail within 
+Note G, Long-Term Debt and Financing Arrangements
+.
+MARKET RISK 
+Market risk is the potential economic loss that may result from adverse changes in the fair value of financial instruments, currencies, commodities and other items traded in global markets. The Company is exposed to market risk from changes in foreign currency exchange rates, interest rates, stock prices, bond prices and commodity prices, amongst others.
+Exposure to foreign currency risk results because the Company, through its global businesses, enters into transactions and makes investments denominated in multiple currencies. The Company’s predominant currency exposures are related to the Euro, Canadian Dollar, British Pound, Australian Dollar, Brazilian Real, Chinese Renminbi and the Taiwan Dollar. Certain cross-currency trade flows arising from both trade and affiliate sales and purchases are consolidated and netted prior to obtaining risk protection through the use of various derivative financial instruments which may include: purchased basket options, purchased options, collars, cross-currency swaps and currency forwards. The Company is thus able to capitalize on its global positioning by taking advantage of naturally offsetting exposures and portfolio efficiencies to reduce the cost of purchasing derivative protection. At times, the Company also enters into foreign exchange derivative contracts to reduce the earnings and cash flow impacts of non-functional currency denominated receivables and payables, primarily for affiliate transactions. Gains and losses from these hedging instruments offset the gains or losses on the underlying net exposures. Management determines the nature and extent of currency hedging activities, and in certain cases, may elect to allow certain currency exposures to remain un-hedged. The Company may also enter into cross-currency swaps and forward contracts to hedge the net investments in certain subsidiaries and better match the cash flows of operations to debt service requirements. Management estimates the foreign currency impact from its derivative financial instruments outstanding at the end of 2024 would have been an incremental pre-tax loss of approximately $45 million based on a hypothetical 10% adverse movement in all net derivative currency positions. The Company follows risk management policies in executing derivative financial instrument transactions, and does not use such instruments for speculative purposes. The Company generally does not hedge the translation of its non-U.S. dollar earnings in foreign subsidiaries, but may choose to do so in certain instances in future periods.
+As mentioned above, the Company routinely has cross-border trade and affiliate flows that cause an impact on earnings from foreign exchange rate movements. The Company is also exposed to currency fluctuation volatility from the translation of foreign earnings into U.S. dollars and the economic impact of foreign currency volatility on monetary assets held in foreign currencies. It is more difficult to quantify the transactional effects from currency fluctuations than the translational effects. Aside from the use of derivative instruments, which may be used to mitigate some of the exposure, transactional effects can potentially be influenced by actions the Company may take. For example, if an exposure occurs from a European entity sourcing product from a U.S. supplier it may be possible to change to a European supplier. Management estimates the combined translational and transactional impact, on pre-tax earnings, of a 10% overall movement in exchange rates is approximately $237 million. In 2024, translational and transactional foreign currency fluctuations negatively impacted pre-tax earnings from continuing operations by approximately $49 million. 
+The Company’s exposure to interest rate risk results from its outstanding debt and derivative obligations, short-term investments, and derivative financial instruments employed in the management of its debt portfolio. The debt portfolio including both trade and affiliate debt, is managed to achieve capital structure targets and reduce the overall cost of borrowing by leveraging, as appropriate, a combination of fixed and floating rate debt as well as interest rate swaps and cross-currency swaps.
+The Company’s primary exposure to interest rate risk comes from its commercial paper program in which the pricing is partially based on short-term U.S. interest rates. The impact of a hypothetical 10% increase in the average interest rate of the Company’s average commercial paper borrowings outstanding during 2024 would have been an incremental pre-tax loss of approximately $5 million. The Company had no outstanding commercial paper borrowings at December 28, 2024.
+The Company has exposure to commodity prices in many businesses, particularly brass, nickel, resin, aluminum, copper, zinc, steel, and energy used in the production of finished goods. Generally, commodity price exposures are not hedged with derivative financial instruments, but instead are actively managed through customer product and service pricing actions, procurement-driven cost reduction initiatives and other productivity improvement projects. 
+43
+The Company has $118.7 million of liabilities as of December 28, 2024 pertaining to unfunded defined contribution plans for certain U.S. employees for which there is mark-to-market exposure.
+The assets held by the Company’s defined benefit plans are exposed to fluctuations in the market value of securities, primarily global stocks and fixed-income securities. The Company employs diversified asset allocations to help mitigate this risk. The Company's investment strategy for pension assets focuses on a liability-matching approach with gradual de-risking taking place over a period of many years to effectively manage portfolio risk. The Company utilizes the current funded status to transition the portfolio toward investments that better match the duration and cash flow attributes of the underlying liabilities. In 2024, investment gains resulted in an increase of $15 million to pension plan assets. In 2023 and 2022, investment returns on pension plan assets resulted in an increase of $144 million and a decrease of $560 million, respectively. The funded status percentage (total plan assets divided by total projected benefit obligation) of all global pension plans was 90% in 2024 and 87% in both 2023 and 2022. The Company expects funding obligations on its defined benefit plans to be approximately $30 million in 2025. Management has worked to minimize this exposure by freezing and terminating defined benefit plans where appropriate. Refer to 
+Note K, Employee Benefit Plans,
+ for further discussion regarding the Company's pension plans.
+The Company has access to financial resources and borrowing capabilities around the world. There are no inst
+ruments within the debt structure that would accelerate payment requirements solely due to a change in credit rating.
+The Company’s existing credit facilities and sources of liquidity, including expected operating cash flows, are considered more than adequate to conduct business as normal. The Company believes that its strong financial position, expected operating cash flows, committed long-term credit facilities and borrowing capacity, and ability to access equity markets, provide the financial flexibility necessary to continue its record of annual dividend payments, to invest in the routine needs of its businesses, and to fund other initiatives encompassed by its business strategy and maintain its strong investment grade credit ratings.
+CRITICAL ACCOUNTING ESTIMATES —
+ Preparation of the Company’s Consolidated Financial Statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. Significant accounting policies used in the preparation of the Consolidated Financial Statements are described in 
+Note A, Significant Accounting Policies
+. Management believes the most complex and sensitive judgments, because of their significance to the Consolidated Financial Statements, result primarily from the need to make estimates about the effects of matters with inherent uncertainty. The most significant areas involving management estimates are described below. Actual results in these areas could differ from management’s estimates.
+GOODWILL AND INTANGIBLE ASSETS — The Company acquires businesses in purchase transactions that result in the recognition of goodwill and intangible assets. The determination of the value of intangible assets requires management to make estimates and assumptions. In accordance with Accounting Standards Codification ("ASC") 350-20, 
+Goodwill
+, acquired goodwill and indefinite-lived intangible assets are not amortized but are subject to impairment testing at least annually or when an event occurs or circumstances change that indicate it is more likely than not an impairment exists. Goodwill represents costs in excess of fair values assigned to the underlying net assets of acquired businesses. At December 28, 2024, the Company reported $7.906 billion of goodwill, $2.348 billion of indefinite-lived trade names and $1.383 billion of net definite-lived intangibles.
+Management tests goodwill for impairment at the reporting unit level. A reporting unit is an operating segment as defined in ASC 280, 
+Segment Reporting
+, or one level below an operating segment (component level) as determined by the availability of discrete financial information that is regularly reviewed by operating segment management or an aggregate of component levels of an operating segment having similar economic characteristics. If the carrying value of a reporting unit (including the value of goodwill) is greater than its estimated fair value, an impairment charge would be recorded for the amount that the carrying amount of the reporting unit exceeded its fair value.
+As required by the Company’s policy, goodwill was tested for impairment in the third quarter of 2024. In accordance with Accounting Standards Update ("ASU") 2011-08, 
+Intangibles - Goodwill and Other (Topic 350): Testing Goodwill for Impairment
+, companies are permitted to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform a quantitative goodwill impairment test. Impairment tests are completed separately with respect to the goodwill of each of the Company’s reporting units. For its annual impairment testing performed in the third quarter of 2024, the Company applied a quantitative test for each of its reporting units using a discounted cash flow valuation model. Based on the results of the Company’s annual impairment testing, it was determined that the fair value of each of its reporting units was in excess of its carrying amount.
+With respect to the quantitative tests, the key assumptions applied to the cash flow projections were a discount rate of 10% for both reporting units, near-term revenue growth rates over the next six years, which represented cumulative annual growth rates 
+44
+ranging from approximately 4.0% to 4.5%, and perpetual growth rates of 3%. These assumptions contemplated business, market and overall economic conditions. Based on the results of this testing, the Company determined that the fair value for each of the reporting units exceeded its carrying amount in excess of 30%. Furthermore, management performed sensitivity analyses on the estimated fair values from the discounted cash flow valuation models utilizing more conservative assumptions that reflect reasonably likely future changes in the discount rate and perpetual growth rate. The discount rate was increased by 100 basis points with no impairment indicated. The perpetual growth rate was decreased by 150 basis points with no impairment indicated. 
+The Company also tested its indefinite-lived trade names for impairment during the third quarter of 2024 utilizing a discounted cash flow model. The key assumptions used included discount rates, royalty rates, and perpetual growth rates applied to the projected sales. With the exception of the Lenox trade name discussed below, the Company determined that the fair values of its indefinite-lived trade names exceeded their respective carrying amounts.
+During 2024, the Company continued its brand prioritization and investment strategy for its major brands, while leveraging certain of its specialty brands in a more focused manner. As a result of these ongoing brand prioritization efforts, the Company recognized a $41.0 million pre-tax, non-cash impairment charge related to the Lenox trade name in the third quarter of 2024. Subsequent to this impairment charge, the Lenox trade name carrying value totaled $115.0 million. In the third quarter of 2023, the Company recognized a $124.0 million pre-tax, non-cash impairment charge related to the Irwin and Troy-Bilt trade names. Subsequent to this impairment charge, the carrying value of the Irwin and Troy-Bilt trade names totaled $113.0 million. The Company intends to continue utilizing these trade names indefinitely, which represented approximately 6% of 2024 net sales for the Tools & Outdoor segment.
+In the event that future operating results of any of the Company's reporting units or indefinite-lived trade names do not meet current expectations, management, based upon conditions at the time, would consider taking restructuring or other strategic actions, as necessary, to maximize revenue growth and profitability. A thorough analysis of all the facts and circumstances existi
+ng at that time would need to be performed to determine if recording an impairment loss would be appropriate.
+DEFINED BENEFIT OBLIGATIONS — T
+he valuation of pension and other postretirement benefits costs and obligations is dependent on various assumptions. These assumptions, which are updated annually, include discount rates, expected return on plan assets, future salary increase rates, and health care cost trend rates. The Company considers current market conditions, including interest rates, to establish these assumptions. Discount rates are developed considering the yields available on high-quality fixed income investments with maturities corresponding to the duration of the related benefit obligations. The Company’s weighted-average discount rates used to determine benefit obligations at December 28, 2024 for the United States and international pension plans were 5.55% and 5.04%, respectively. The Company’s weighted-average discount rates used to determine benefit obligations at December 30, 2023 for the United States and international pension plans were 5.04% and 4.43%, respectively. As discussed further in 
+Note K, Employee Benefit Plans
+, the Company develops the expected return on plan assets considering various factors, which include its targeted asset allocation percentages, historic returns, and expected future returns. The Company’s expected rate of return assumptions for the United States and international pension plans
+ were 6.47% and 5.45%, respecti
+vely, at December 28, 2024. The Company 
+will use a 6.57% weighted-av
+erage expected rate of return assumption to determine t
+he 2025 n
+et periodic benefit cost.
+ A 25 basis point reduction in the expected rate of return assumption would increase 2025 net periodic benefit cost by approximately $4 million on a pre-tax basis.
+The Company believes that the assumptions used are appropriate; however, differences in actual experience or changes in the assumptions may materially affect the Company’s financial position or results of operations. To the extent that actual (newly measured) results differ from the actuarial assumptions, the difference is recognized in accumulated other comprehensive loss, and, if in excess of a specified corridor, amortized over future periods. The expected return on plan assets is determined using the expected rate of return and the fair value of plan assets. Accordingly, market fluctuations in the fair value of plan assets can affect the net periodic benefit cost in the following year. The projected benefit obligation for defined benefit plans exceeded the fair value of plan ass
+ets by $218 million
+ at December 28, 2024. 
+A 25 basis point reduction in the discount rate would have increased the projected benefit obligation by approximately $44 million a
+t December 28, 2024. The primary Black & Decker U.S. pension and post-employment benefit plans were curtailed in late 2010, as well as the only material Black & Decker international plan, and in their place the Company implemented defined contribution benefit plans. The vast majority of the projected benefit obligation pertains to plans that have been frozen; the remaining defined benefit plans that are not frozen are predominantly small domestic union plans and those that are statutorily mandated in certain international jurisdictions. The Company recognized approximately
+ $24 million of
+ defined benefit plan expense in 2024, which may fluctuate in future years depending upon various factors including future discount rates and actual returns on plan assets.
+Additional information regarding the Company's pension plans is available in 
+Note K, Employee Benefit Plans.
+45
+ENVIRONMENTAL — The Company incurs costs related to environmental issues as a result of various laws and regulations governing current operations as well as the remediation of previously contaminated sites. The Company’s policy is to accrue environmental investigatory and remediation costs for identified sites when it is probable that a liability has been incurred and the amount of loss can be reasonably estimated. The amount of liability recorded is based on an evaluation of currently available facts with respect to each individual site and includes such factors as existing technology, presently enacted laws and regulations, and prior experience in remediation of contaminated sites. The liabilities recorded do not take into account any claims for recoveries from insurance or third parties. As assessments and remediation progress at individual sites, the amounts recorded are reviewed periodically and adjusted to reflect additional technical and legal information that becomes available.
+As of December 28, 2024, the Company had reserves of $275 million for remediation activities associated with Company-owned properties as well as for Superfund sites, for losses that are probable and estimable. As of December 28, 2024, the range of environmental remediation costs that is reasonably possible is $192 million to $408 million which is subject to change in the near term. The Company may be liable for environmental remediation of sites it no longer owns. Liabilities have been recorded on those sites in accordance with this policy.
+Additional information regarding environmental matters is available in 
+Note R, Contingencies.
+INCOME TAXES — The Company accounts for income taxes under the asset and liability method in accordance with ASC 740, 
+Income Taxes
+, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the financial statements. Deferred tax assets and liabilities are determined based on the differences between the financial statements and tax basis of assets and liabilities using the enacted tax rates in effect for the year in which the differences are expected to reverse. Any changes in tax rates on deferred tax assets and liabilities are recognized in income in the period that includes the enactment date.
+The Company records net deferred tax assets to the extent that it is more likely than not that these assets will be realized. In making this determination, management considers all available positive and negative evidence, including future reversals of existing temporary differences, estimates of future taxable income, tax-planning strategies, and the realizability of net operating loss carryforwards. In the event that it is determined that an asset is not more likely than not to be realized, a valuation allowance is recorded against the asset. Valuation allowances related to deferred tax assets can be impacted by changes to tax laws, changes to statutory tax rates and future taxable income levels. In the event the Company were to determine that it would not be able to realize all or a portion of its deferred tax assets in the future, the unrealizable amount would be charged to earnings in the period in which that determination is made. Conversely, if the Company were to determine that it would be able to realize deferred tax assets in the future in excess of the net carrying amounts, it would decrease the recorded valuation allowance through a favorable adjustment to earnings in the period that the determination was made.
+The Company records uncertain tax positions in accordance with ASC 740, which requires a two-step process. First, management determines whether it is more likely than not that a tax position will be sustained based on the technical merits of the position and second, for those tax positions that meet the more likely than not threshold, management recognizes the largest amount of the tax benefit that is greater than 50 percent likely to be realized upon ultimate settlement with the related taxing authority. The Company maintains an accounting policy of recording interest and penalties on uncertain tax positions as a component of Income taxes in the Consolidated Statements of Operations.
+The Company is subject to income tax in a number of locations, including U.S. federal, state and foreign jurisdictions. Significant judgment is required when calculating the worldwide provision for income taxes. Many factors are considered when evaluating and estimating the Company's tax positions and tax benefits, which may require periodic adjustments, and which may not accurately anticipate actual outcomes. It is reasonably possible that the amount of the unrecognized benefit with respect to certain of the Company's unrecognized tax positions will significantly increase or decrease within the next twelve months. These changes may be the result of settlements of ongoing audits, litigation, or other proceedings with taxing authorities. The Company periodically assesses its liabilities and contingencies for all tax years still subject to audit based on the most current available information, which involves inherent uncertainty.
+Additional information regarding income taxes is available in 
+Note P, Income Taxes.
+46
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS
+This document contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical fact are “forward-looking statements” for purposes of federal and state securities laws, including, but not limited to, any goals, projections, planning assumptions or guidance of earnings, income, revenue, margins, costs or sales, sales growth, profitability or other financial items; any statements of the plans, strategies and objectives of management for future operations, including expectations around the Company's ongoing transformation; future market share gain, any statements concerning proposed new products, services or developments; any statements regarding future economic conditions or performance; any statements concerning future dividends or share repurchases; any statements relating to initiatives concerning environmental, social and governance matters; any statements of beliefs, plans, intentions or expectations; any statements and assumptions regarding possible tariff and tariff impact projections and related mitigation plans; and any statements of assumptions underlying any of the foregoing. Forward-looking statements may include, among others, the words “may,” “will,” “estimate,” “intend,” “could,” “project,” “plan,” “continue,” “believe,” “expect,” “anticipate,” “run-rate,” “annualized,” “forecast,” “commit,” “objective,” “goal,” “prospect,” “target,” “design,” “on-track,” “position or positioning,” “guidance,” “aim,” “multi-year” or any other similar words.
+Although the Company believes that the expectations reflected in any of its forward-looking statements are reasonable, actual results could differ materially from those projected or assumed in any of its forward-looking statements. The Company's future financial condition and results of operations, as well as any forward-looking statements, are subject to change and to inherent risks and uncertainties, such as those disclosed or incorporated by reference in the Company's filings with the Securities and Exchange Commission. 
+Important factors that could cause the Company's actual results, performance and achievements, or industry results to differ materially from estimates or projections contained in its forward-looking statements include, among others, the following: (i) successfully developing, marketing and achieving sales from new products and services and the continued acceptance of current products and services; (ii) macroeconomic factors, including global and regional business conditions, commodity prices, inflation and deflation, interest rate volatility, currency exchange rates, and uncertainties in the global financial markets related to the recent failures of several financial institutions; (iii) laws, regulations and governmental policies affecting the Company's activities in the countries where it does business, including those related to tariffs, taxation, data privacy, anti-bribery, anti-corruption, government contracts, trade controls such as section 301 tariffs and section 232 steel and aluminum tariffs, and import and export controls; (iv) the Company’s ability to predict the timing and extent of any trade related regulations, restrictions and tariffs as well as its ability to successfully assess the impact to its business of, and mitigate or respond to macroeconomic or trade and tariff changes or policies; (v) the economic, political, cultural and legal environment in Europe and the emerging markets in which the Company generates sales, particularly Latin America and China; (vi) realizing the anticipated benefits of mergers, acquisitions, joint ventures, strategic alliances or divestitures; (vii) pricing pressure and other changes within competitive markets; (viii) availability and price of raw materials, component parts, freight, energy, labor and sourced finished goods; (ix) the impact that the tightened credit markets may have on the Company or its customers or suppliers; (x) the extent to which the Company has to write off accounts receivable, inventory or other assets or experiences supply chain disruptions in connection with bankruptcy filings by customers or suppliers; (xi) the Company's ability to identify and effectively execute productivity improvements and cost reductions; (xii) potential business, supply chain and distribution disruptions, including those related to physical security threats, information technology or cyber-attacks, epidemics, natural disasters or pandemics, sanctions, political unrest, war or terrorism, including the conflicts between Russia and Ukraine, and Israel and Hamas and tensions or conflicts in South Korea, China, Taiwan and the Middle East; (xiii) the continued consolidation of customers, particularly in consumer channels, and the Company’s continued reliance on significant customers; (xiv) managing franchisee relationships; (xv) the impact of poor weather conditions and climate change and risks related to the transition to a lower-carbon economy, such as the Company's ability to successfully adopt new technology, meet market-driven demands for carbon neutral and renewable energy technology, or to comply with changes in environmental regulations or requirements, which may be more stringent and complex, impacting its manufacturing facilities and business operations as well as remediation plans and costs relating to any of its current or former locations or other sites; (xvi) maintaining or improving production rates in the Company's manufacturing facilities, responding to significant changes in customer preferences or expectations, product demand and fulfilling demand for new and existing products, and learning, adapting and integrating new technologies into products, services and processes; (xvii) changes in the competitive landscape in the Company's markets; (xviii) the Company's non-U.S. operations, including sales to non-U.S. customers; (xix) the impact from demand changes within world-wide markets associated with construction and housing, general industrial, automotive, aerospace, outdoor and other markets which the Company serves; (xx) potential adverse developments in new or pending litigation and/or government investigations; (xxi) the incurrence of debt and changes in the Company's ability to obtain debt on commercially reasonable terms and at competitive rates; (xxii) substantial pension and other postretirement benefit obligations; (xxiii) potential regulatory liabilities, including environmental, privacy, data breach, workers compensation and product liabilities; (xxiv) attracting, developing and retaining senior management and other key employees, managing a workforce in many jurisdictions, labor shortages, work stoppages or other labor disruptions; (xxv) the Company's ability to keep abreast with the pace of 
+47
+technological change; (xxvi) changes in accounting estimates; (xxvii) the Company’s ability to protect its intellectual property rights and to maintain its public reputation and the strength of its brands; (xxviii) critical or negative publicity, including on social media, whether or not accurate, concerning the Company’s brands, products, culture, key employees or suppliers, or initiatives, and the Company's handling of diverging stakeholder expectations regarding the same, and (xxix) the Company’s ability to implement, and achieve the expected benefits (including cost savings and reduction in working capital) from, its Global Cost Reduction Program including: continuing to advance innovation, electrification and global market penetration to achieve mid-single digit organic revenue growth; streamlining and simplifying the organization, and investing in initiatives that more directly impact the Company's customers and end users; returning adjusted gross margins to historical 35%+ levels by accelerating the supply chain transformation to leverage material productivity, drive operational excellence, rationalize manufacturing and distribution networks, including consolidating facilities and optimizing the distribution network, and reduce complexity of the product portfolio; improving fill rates and matching inventory with customer demand; prioritizing cash flow generation and inventory optimization; delivering operational excellence through efficiency, simplified organizational design; and reducing complexity through platforming products and implementing initiatives to drive a SKU reduction. 
+Additional factors that could cause actual results to differ materially from forward-looking statements are set forth in this Annual Report on Form 10-K, including under the headings “Risk Factors,” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in the Consolidated Financial Statements and the related Notes, and other filings with the Securities and Exchange Commission.
+Forward-looking statements in this Annual Report on Form 10-K speak only as of the date hereof, and forward-looking statements in documents that are incorporated by reference herein speak only as of the date of those documents. The Company does not undertake any obligation or intention to update or revise any forward-looking statements, whether as a result of future events or circumstances, new information or otherwise, except as required by law. Any standards of measurement and performance made in reference to the Company's environmental, social, governance and other sustainability plans and goals are developing and based on assumptions that continue to evolve and may be subject to change, and no assurance can be given that any such plan, initiative, projection, goal, commitment, expectation, or prospect can or will be achieved. The inclusion of information related to such goals and initiatives is not an indication that such information is material under the standards of the Securities and Exchange Commission. 
+48
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+The Company incorporates by reference the material captioned “Market Risk” in 
+Item 7
+ and in 
+Note H, Financial Instruments
+, of the 
+Notes to Consolidated Financial Statements
+ in 
+Item 8
+.
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+See Item 15 for an index to Financial Statements and Financial Statement Schedule. Such Financial Statements and Financial Statement Schedule are incorporated herein by reference.
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+None.
+49
+ITEM 9A. CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+The management of Stanley Black & Decker, Inc. (the “Company”) is responsible for establishing and maintaining adequate internal control over financial reporting. Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external reporting purposes in accordance with accounting principles generally accepted in the United States of America. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.
+Management has assessed the effectiveness of the Company’s internal control over financial reporting as of December 28, 2024. In making its assessment, management has utilized the criteria set forth by the Committee of Sponsoring Organizations (COSO) of the Treadway Commission in Internal Control — Integrated Framework (2013 Framework). Management concluded that based on its assessment, the Company’s internal control over financial reporting was effective as of December 28, 2024. Ernst & Young LLP, the auditor of the financial statements included in this annual report, has issued an attestation report on the registrant’s internal control over financial reporting, a copy of which appears on page 61.
+Under the supervision and with the participation of management, including the Company’s President and Chief Executive Officer and its Executive Vice President and Chief Financial Officer, the Company has, pursuant to Rule 13a-15(b) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), evaluated the effectiveness of the design and operation of its disclosure controls and procedures (as defined under Rule 13a-15(e) of the Exchange Act). Based upon that evaluation, the Company’s President and Chief Executive Officer and its Executive Vice President and Chief Financial Officer have concluded that, as of December 28, 2024, the Company’s disclosure controls and procedures are effective. 
+Changes in Internal Control Over Financial Reporting
+There has been no change in the Company’s internal control over financial reporting that occurred during the fiscal quarter ended December 28, 2024 that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+ITEM 9B. OTHER INFORMATION
+During the three months ended 
+December 28, 2024
+, no director or Section 16 officer of the Company 
+adopted
+, modified or 
+terminated
+ a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+Not applicable.
+50
+PART III
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE OF THE REGISTRANT
+The information required by this Item, except for the identification of the executive officers of the Company presented in
+ Part I
+ of this Annual Report on Form 10-K under the caption "Information About Our Executive Officers," and certain information with respect to the Company’s Code of Business Ethics and any material changes to the procedures by which shareholders may recommend nominees to the Company’s Board of Directors, as set forth below, is incorporated herein by reference to the information set forth in the section of the Company’s definitive proxy statement (which will be filed pursuant to Regulation 14A under the Exchange Act within 120 days after the close of the Company’s fiscal year) under the headings “Delinquent Section 16(a) Reports,” “Corporate Governance,” “Information Concerning Nominees for Election as Directors,” “Board of Directors,” and “
+Insider Trading Policy
+.”
+Available on the Company's website at https://www.stanleyblackanddecker.com under the “Investors” heading is the Code of Business Ethics applicable to all of its directors and officers, including the President and Chief Executive Officer, Executive Vice President and Chief Financial Officer, and Chief Accounting Officer, and employees worldwide, as well as the Supplemental Code of Ethics for CEO and Senior Financial Officers, applicable to the Company’s President and Chief Executive Officer, and all senior financial officers, including the Executive Vice President and Chief Financial Officer and Chief Accounting Officer. The Company intends to post on its website required information regarding any amendment to, or waiver from, the Code of Business Ethics or the Code of Ethics for CEO and Senior Financial Officers that applies to the Company's President and Chief Executive Officer and senior financial officers within four business days after any such amendment or waiver.
+51
+ITEM 11. EXECUTIVE COMPENSATION
+The information required by this Item is incorporated herein by reference to the information set forth under the sections entitled “Compensation Discussion & Analysis,” “2024 Executive Compensation,” “Director Compensation,” and “Compensation and Talent Development Committee Report” of the Company’s definitive proxy statement, which will be filed pursuant to Regulation 14A under the Exchange Act within 120 days after the end of the fiscal year covered by this Annual Report on Form 10-K.
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+The information required by Item 403 of Regulation S-K is incorporated herein by reference to the information set forth under the sections entitled “Security Ownership of Certain Beneficial Owners” and “Security Ownership of Directors and Officers” of the Company’s definitive proxy statement, which will be filed pursuant to Regulation 14A under the Exchange Act within 120 days after the end of the fiscal year covered by this Annual Report on Form 10-K.
+EQUITY COMPENSATION PLAN INFORMATION
+Compensation plans under which the Company’s equity securities are authorized for issuance at December 28, 2024 follow:
+(A)
+(B)
+(C)
+Plan Category
+Number of securities to be
+issued upon exercise of
+outstanding options and stock awards
+Weighted-average exercise
+price of outstanding options
+Number of securities
+remaining available for
+future issuance under equity
+compensation plans
+(excluding securities
+reflected in column (A))
+Equity compensation plans approved by security holders
+8,580,642 
+(1)
+$
+128.59 
+(2)
+6,791,483 
+(3)
+Equity compensation plans not approved by security holders 
+(4)
+— 
+— 
+— 
+Total
+8,580,642 
+$
+128.59 
+6,791,483 
+(1)
+Consists of 5,918,571 shares underlying outstanding stock options (whether vested or unvested) with a weighted-average exercise price of $128.59 and a weighted-average remaining term of 5.8 years; 2,499,131 shares underlying time-vesting restricted stock units that have not yet vested and the maximum number of shares that will be issued pursuant to outstanding performance awards if all established goals are met; and 162,940 of shares earned but related to which participants elected deferral of delivery. All stock-based compensation plans are discussed in 
+Note I, Capital Stock
+, of the 
+Notes to Consolidated Financial Statements
+ in

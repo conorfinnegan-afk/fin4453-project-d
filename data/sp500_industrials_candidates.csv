@@ -1,0 +1,96 @@
+ticker,cik,name,sector,status
+MMM,0000066740,3M,Industrials,candidate
+AOS,0000091142,A. O. Smith,Industrials,candidate
+ALLE,0001579241,Allegion,Industrials,candidate
+AME,0001037868,Ametek,Industrials,candidate
+AXON,0001069183,Axon Enterprise,Industrials,candidate
+BA,0000012927,Boeing,Industrials,candidate
+CARR,0001783180,Carrier Global,Industrials,candidate
+CAT,0000018230,Caterpillar Inc.,Industrials,candidate
+FIX,0001035983,Comfort Systems USA,Industrials,candidate
+CMI,0000026172,Cummins,Industrials,candidate
+DOV,0000029905,Dover Corporation,Industrials,candidate
+DD,0001666700,DuPont de Nemours,Industrials,candidate
+ETN,0001551182,Eaton Corporation,Industrials,candidate
+EME,0000105634,Emcor,Industrials,candidate
+EMR,0000032604,Emerson Electric,Industrials,candidate
+FTV,0001659166,Fortive,Industrials,candidate
+GE,0000040545,GE Aerospace,Industrials,candidate
+GNRC,0001474735,Generac,Industrials,candidate
+GD,0000040533,General Dynamics,Industrials,candidate
+HON,0000077384,Honeywell International,Industrials,candidate
+HWM,0000004281,Howmet Aerospace,Industrials,candidate
+HUBB,0000048898,Hubbell Incorporated,Industrials,candidate
+HII,0001501585,Huntington Ingalls Industries,Industrials,candidate
+IEX,0000832101,IDEX Corporation,Industrials,candidate
+ITW,0000049826,Illinois Tool Works,Industrials,candidate
+IR,0001699150,Ingersoll Rand,Industrials,candidate
+J,0000052988,Jacobs Solutions,Industrials,candidate
+JCI,0000833444,Johnson Controls International,Industrials,candidate
+LHX,0000202058,L3Harris Technologies,Industrials,candidate
+LDOS,0001336920,Leidos,Industrials,candidate
+LII,0001069202,Lennox International,Industrials,candidate
+LMT,0000936468,Lockheed Martin,Industrials,candidate
+MAS,0000062996,Masco,Industrials,candidate
+NDSN,0000072331,Nordson Corporation,Industrials,candidate
+NOC,0001133421,Northrop Grumman,Industrials,candidate
+OTIS,0001781335,Otis Worldwide,Industrials,candidate
+PCAR,0000075362,PACCAR,Industrials,candidate
+PH,0000076334,Parker Hannifin,Industrials,candidate
+PNR,0000077360,Pentair,Industrials,candidate
+PWR,0001050915,Quanta Services,Industrials,candidate
+ROK,0001024478,Rockwell Automation,Industrials,candidate
+RTX,0000101829,RTX Corporation,Industrials,candidate
+SNA,0000091440,Snap-on,Industrials,candidate
+SWK,0000093556,Stanley Black & Decker,Industrials,candidate
+TXT,0000217346,Textron,Industrials,candidate
+TT,0001466258,Trane Technologies,Industrials,candidate
+TDG,0001260221,TransDigm Group,Industrials,candidate
+VRT,0001674101,Vertiv,Industrials,candidate
+WAB,0000943452,Wabtec,Industrials,candidate
+GWW,0000277135,W.W. Grainger,Industrials,candidate
+XYL,0001524472,Xylem Inc.,Industrials,candidate
+DE,0000315189,Deere & Company,Industrials,candidate
+AGCO,0000880259,AGCO Corporation,Industrials,candidate
+OSK,0000775158,Oshkosh Corporation,Industrials,candidate
+TEX,0000097210,Terex Corporation,Industrials,candidate
+FLS,0000030625,Flowserve Corporation,Industrials,candidate
+LECO,0000059527,Lincoln Electric Holdings,Industrials,candidate
+BWXT,0001486977,BWX Technologies,Industrials,candidate
+TTC,0000098241,Toro Company,Industrials,candidate
+HXL,0000717605,Hexcel Corporation,Industrials,candidate
+ITT,0000216228,ITT Inc.,Industrials,candidate
+TKR,0000098362,Timken Company,Industrials,candidate
+GTLS,0001364426,Chart Industries,Industrials,candidate
+WTS,0000795403,Watts Water Technologies,Industrials,candidate
+DY,0000067215,Dycom Industries,Industrials,candidate
+AWI,0000007431,Armstrong World Industries,Industrials,candidate
+WSO,0000105016,Watsco Inc.,Industrials,candidate
+GEV,0001996810,GE Vernova,Industrials,prefiltered
+VLTO,0001967680,Veralto,Industrials,prefiltered
+KVUE,0001944048,Kenvue,Industrials,prefiltered
+DAL,0000027904,Delta Air Lines,Industrials,prefiltered
+UAL,0000100517,United Airlines Holdings,Industrials,prefiltered
+LUV,0000092380,Southwest Airlines,Industrials,prefiltered
+AAL,0000006201,American Airlines Group,Industrials,prefiltered
+UNP,0000100885,Union Pacific,Industrials,prefiltered
+CSX,0000277948,CSX Corporation,Industrials,prefiltered
+NSC,0000702165,Norfolk Southern,Industrials,prefiltered
+FDX,0000035625,FedEx Corporation,Industrials,prefiltered
+UPS,0001090727,United Parcel Service,Industrials,prefiltered
+CHRW,0001043277,C.H. Robinson,Industrials,prefiltered
+EXPD,0000746515,Expeditors International,Industrials,prefiltered
+JBHT,0000728535,J.B. Hunt Transport,Industrials,prefiltered
+ODFL,0000878926,Old Dominion Freight Line,Industrials,prefiltered
+FAST,0000815556,Fastenal,Industrials,prefiltered
+PAYX,0000784977,Paychex,Industrials,prefiltered
+ADP,0000008670,Automatic Data Processing,Industrials,prefiltered
+BRO,000079282,Brown & Brown,Industrials,prefiltered
+CPRT,0000900075,Copart,Industrials,prefiltered
+CTAS,0000723254,Cintas,Industrials,prefiltered
+EFX,0000033185,Equifax,Industrials,prefiltered
+RSG,0001060391,Republic Services,Industrials,prefiltered
+WM,0000823768,Waste Management,Industrials,prefiltered
+URI,0001067701,United Rentals,Industrials,prefiltered
+GFL,0001780288,GFL Environmental,Industrials,prefiltered
+BLDR,0001312384,Builders FirstSource,Industrials,prefiltered

@@ -1,0 +1,839 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+Management’s discussion and analysis of financial condition and results of operations is provided as a supplement to, and should be read in conjunction with, the consolidated financial statements and related notes to enhance the understanding of the Company’s operations and present business environment. Components of management’s discussion and analysis of financial condition and results of operations include:
+•
+Overview
+•
+Analysis of Operations
+•
+Result of Operations
+•
+Segment Results
+•
+Outlook
+•
+Liquidity and Capital Resources
+•
+Recent Accounting Pronouncements
+•
+Critical Accounting Estimates
+•
+Long-Term Employee Benefits
+•
+Environmental Matters
+OVERVIEW
+As of December 31, 2024, the Company has $1.6 billion of net working capital and $1.9 billion in cash and cash equivalents. The Company expects its cash and cash equivalents, cash generated from operations, and ability to access the debt capital markets to provide sufficient liquidity and financial flexibility to meet the liquidity requirements associated with its continued operations. The Company continually assesses its liquidity position, including possible sources of incremental liquidity, in light of the current economic environment, capital market conditions and Company performance.
+Intended Electronics Separation
+On May 22, 2024, DuPont announced a plan to separate each of its Electronics and Water businesses in a tax-free manner to its shareholders, (the “Previously Intended Business Separations”). On January 15, 2025, DuPont announced it is targeting November 1, 2025, for the completion of the intended separation of the Electronics business (the “Intended Electronics Separation”). DuPont also announced that it would retain the Water business. The Intended Electronics Separation will not require a shareholder vote and is subject to satisfaction of customary conditions, including final approval by DuPont's Board of Directors, receipt of tax opinion from counsel, the filing and effectiveness of a Form 10 registration statement with the U.S. Securities and Exchange Commission, applicable regulatory approvals and satisfactory completion of financing. 
+Mobility & Materials Divestitures
+On November 1, 2022, (the "Transaction Date") DuPont completed the previously announced divestiture of the majority of the historic Mobility & Materials segment, including the Engineering Polymers business line and select product lines within the Advanced Solutions and Performance Resins business lines (the “M&M Divestiture”). The Company had previously entered into a Transaction Agreement (the "Transaction Agreement") with Celanese Corporation ("Celanese") on February 17, 2022 for a purchase price of $11.0 billion in cash. Cash received on the Transaction Date, as adjusted for preliminary and other adjustments was $11.0 billion. These adjustments include approximately $0.5 billion of cash transferred with the M&M Divestiture for which DuPont was reimbursed at closing resulting in net proceeds of $10.5 billion.
+On February 18, 2022, the Company announced that its Board of Directors approved of the divestiture of the Delrin® acetal homopolymer (H-POM) business (the "Delrin® Divestiture"). On November 1, 2023, the Company closed the sale of the Delrin® business to TJC LP ("TJC"), (the “Delrin® Divestiture”). DuPont received cash proceeds of approximately $1.28 billion, which includes certain customary transaction adjustments, a note receivable of $350 million and acquired a 19.9 percent non-controlling equity interest in Derby Group Holdings LLC, (“Derby”). The customary transaction adjustments related to $27 million of cash transferred with the Delrin® Divestiture for which DuPont was reimbursed at closing resulting in net cash proceeds of $1.25 billion. TJC, through its subsidiaries, holds the 80.1 percent controlling interest in Derby. The Delrin® Divestiture together with the M&M Divestiture (collectively the "M&M Divestitures" and the businesses in scope for the M&M Divestitures collectively the "M&M Businesses") represent a strategic shift that has a major impact on DuPont's operations and results.
+The results of operations for the year ended December 31, 2023 present the financial results of the Delrin® Divestiture through the November 1, 2023 transaction date, as discontinued operations. In the comparative period, the results of operations for the year ended December 31, 2022 present the financial results of the M&M Businesses as discontinued operations. For the year ended December 31, 2023, the Consolidated Statements of Cash Flows present the cash flows of the Delrin® Divestiture as 
+33
+Table of Contents
+discontinued operations. In the comparative period, the cash flows for the year ended December 31, 2022 present the financial results of the M&M Businesses as discontinued operations. The comprehensive income of the M&M Businesses have not been segregated and are included in the Consolidated Statements of Comprehensive Income, respectively, for all periods presented. Unless otherwise indicated, the information in the notes to the Consolidated Financial Statements refer only to DuPont's continuing operations and do not include discussion of balances or activity of the M&M Businesses. See Note 4 to the Consolidated Financial Statements for additional information.
+The Auto Adhesives & Fluids, Multibase
+TM
+ and Tedlar® product lines, previously reported within the historic Mobility & Materials segment, (the "Retained Businesses") were not included in the scope of the M&M Divestitures. The Retained Businesses are included in Corporate & Other.
+Donatelle Plastics Acquisition
+On July 28, 2024, DuPont completed the acquisition of Donatelle Plastics, LLC ("Donatelle Plastics"), for a net purchase price of $365 million (the "Donatelle Plastics Acquisition") which includes immaterial adjustments for acquired cash and net working capital. The net purchase price also includes the estimated fair value for a contingent earn-out liability of $40 million. Donatelle Plastics is a medical device company specializing in the design, development and manufacture of medical components and devices. Donatelle Plastics part of Industrial Solutions within the Electronics & Industrial segment. See Note 3 to the Consolidated Financial Statements for additional information.
+Spectrum Acquisition
+On August 1, 2023, the Company completed the previously announced acquisition of Spectrum Plastics Group (“Spectrum”) from AEA Investors (the “Spectrum Acquisition”). Spectrum manufactures flexible packaging products, plastic and silicone extrusions, and components for the industrial, food and medical business sectors throughout the United States and international markets. Spectrum is part of the Electronics & Industrial segment. The net purchase price was approximately $1,781 million, including a net upward adjustment of approximately $43 million for acquired cash and net working capital, among other items. See Note 3 to the Consolidated Financial Statements for additional information.
+Terminated Intended Rogers Acquisition
+On November 1, 2022, the Company announced the termination of the previously announced agreement to acquire the outstanding shares of Rogers Corporation (“Rogers”) as DuPont and Rogers were unable to obtain timely clearance from all the required regulators ("Terminated Intended Rogers Corporation Acquisition").
+Other Divestitures 
+In May 2022, the Company completed the sale of its Biomaterials business unit, which included the Company's equity method investment in DuPont Tate & Lyle Bio Products, to the Huafon Group. Total consideration received related to the sale was approximately $240 million. In May 2022, a pre-tax gain of $26 million ($21 million net of tax) was recorded in "Sundry income (expense) - net" in the Company's Consolidated Statements of Operations. The results of operations of the Biomaterials business unit are reported in Corporate & Other for 2022.
+34
+Table of Contents
+ANALYSIS OF OPERATIONS 
+Joint Settlement Agreement
+On January 22, 2021, the Company, Corteva, EIDP and Chemours entered into a binding Memorandum of Understanding (the “MOU”), pursuant to which the parties have agreed to share certain costs associated with potential future liabilities related to alleged historical releases of certain PFAS arising out of pre-July 1, 2015 conduct (“eligible PFAS costs”) until the earlier to occur of (i) December 31, 2040, (ii) the day on which the aggregate amount of qualified spend (as defined in the MOU) is equal to $4 billion or (iii) a termination in accordance with the terms of the MOU. The parties have agreed that, during the term of this sharing arrangement, Chemours will bear 50 percent of any qualified spend and the Company and Corteva shall together bear 50 percent of any qualified spend. As of December 31, 2024, the Company has recorded an indemnification liability of $222 million in connection with the cost sharing arrangement related to future eligible PFAS costs.
+Total pre-tax charges of $46 million, $487 million and $96 million related to the MOU are reflected as a loss from discontinued operations for the year ended December 31, 2024, 2023 and 2022, respectively, in the Company's Consolidated Statements of Operations.
+The increase in pre-tax charges for the year ended December 31, 2023, are primarily driven by the definitive agreement reached in June 2023 by Chemours, Corteva, EIDP and DuPont to comprehensively resolve all PFAS-related claims of a defined class of U.S. public water systems, (the “Water District Settlement Agreement”) for $1.185 billion in cash to be paid to a Qualified Settlement Fund, (the “Water District Settlement Fund”). DuPont’s contribution of $400 million to the Water District Settlement Fund was made in the third quarter 2023 and is reflected in “Restricted cash and cash equivalents “on the Consolidated Balance Sheets as of December 31, 2023. The Company’s total contribution, including interest, of $408 million has been removed from "Restricted cash and cash equivalents - current" along with the associated "Accrued and other current liabilities" within the Consolidated Balance Sheets as of December 31, 2024, as the settlement became final in the second quarter 2024.
+See Note 16
+of the Consolidated Financial Statements for additional information.
+Dividends
+During 2024, the Board of Directors authorized and paid quarterly dividends of $0.38 per share to shareholders of record in the first, second, third and fourth quarters, respectively.
+Share Buyback Program
+The Company completed its share buyback programs that were open in 2022 and 2023. 
+In the first quarter 2024, the Company’s Board of Directors approved a new share repurchase program authorizing the repurchase and retirement of up to $1 billion of common stock (the "$1B Share Buyback Program”). Under the $1B Share Buyback Program, repurchases may be made from time to time on the open market at prevailing market prices or in privately negotiated transactions off market, including additional ASR agreements in accordance with applicable federal securities laws. The $1B Program terminates on June 30, 2025, unless extended or shortened by the Board of Directors.
+In the first half of 2024, the Company entered and completed a $500 million ASR transaction under the $1B Share Buyback Program. In total, the Company repurchased 6.9 million shares at an average price of $71.96 per share under the Q1 2024 ASR Transaction. In connection with the Previously Intended Separations and continuing in light of the Intended Electronics Separation, DuPont announced its intent not to complete the remaining $500 million in share buyback authority under the $1B Share Buyback program. See the discussion under Liquidity and Capital Resources starting on page 
+47
+ for more information.
+The Inflation Reduction Act of 2022 introduced a 1 percent nondeductible excise tax imposed on the net value of certain stock repurchases made after December 31, 2022. The net value is determined by the fair market value of the stock repurchased during the tax year, reduced by the fair market value of stock issued during the tax year. The Company recorded total excise tax of $8 million and $21 million, respectively, as a reduction to retained earnings for the years ended December 31, 2024 and 2023, reflected within stockholders' equity and a corresponding liability within "Accounts Payable" in our Consolidated Balance Sheets as of December 31, 2024 and 2023.
+35
+Table of Contents
+Interest Rate Swap Agreements 
+In the second quarter of 2022, the Company entered into fixed-to-floating interest rate swap agreements ("2022 Swaps") with an aggregate notional principal amount totaling $1 billion to hedge changes in the fair value of the Company’s long-term debt due to interest rate change movements. These swaps converted $1 billion of the Company’s $1.65 billion principal amount of fixed rate notes due 2038 into floating rate debt for the portion of their terms through 2032 with an interest rate based on the Secured Overnight Financing Rate ("SOFR"). Under the terms of the agreements, the Company agrees to exchange, at specified intervals, fixed for floating interest amounts based on the agreed upon notional principal amount. The 2022 Swaps expire on November 15, 2032 and are carried at fair value.
+Since inception of the 2022 Swaps, fair value hedge accounting has been applied and thus, changes in the fair value of the 2022 Swaps and changes in the fair value of the related hedged portion of long-term debt were presented and net to zero in "Sundry income (expense) – net" in the Consolidated Statements of Operations. On June 5, 2024, DuPont issued a notice of redemption to the bond trustee with respect to a partial redemption of $650 million aggregate principal amount of its 2038 Notes in accordance with their terms. The redemption was effective on June 15, 2024. As a result of the announced redemption, the Company dedesignated the then current hedging relationship. At the time of dedesignation, the total amount recorded as a cumulative fair value basis adjustment on the 2038 Notes was a loss of $81 million of which $32 million was recognized as a component of the loss from partial extinguishment of debt. The remaining basis adjustment is amortized to interest expense over the remaining term of the 2038 Notes. The basis adjustment amortization for the year December 31, 2024 was $1 million. Refer to Note 15 for additional details on the partial redemption of the 2038 Notes.
+In June 2024, the Company entered into two forward-starting fixed-to-floating interest rate swap agreements (“2024 Swaps”) to hedge the changes in the fair value of the Company’s long-term debt due to interest rate change movements. One swap converted $2.15 billion principal amount of the fixed rate notes due 2048 into floating rate debt for the portion of their terms from 2025 through 2048 with an interest rate based on SOFR. The other swap converted $1 billion principal amount of the 2038 Notes into floating rate debt for the portion of their terms from 2032 through 2038 with an interest rate based on SOFR. The 2024 Swaps have a mandatory early termination date of December 15, 2025 and are carried at fair value. Fair value hedge accounting has not been applied.
+The 2022 Swaps and 2024 Swaps are considered economic hedges of the Company’s fixed rate debt. As such, changes in the fair value and gain or loss from net interest settlement of the 2022 Swaps after the date of dedesignation and changes in the fair value of the 2024 Swaps since inception have been recorded in “Sundry income (expense) – net” in the Consolidated Statements of Operations. The amount charged related to interest rate swaps not designated as hedges was a loss of $138 million and zero for the years December 31, 2024 and 2023, respectively. 
+Restructuring Programs
+2023-2024 Restructuring Program
+In December 2023, the Company approved targeted restructuring actions to capture near-term cost reductions due to macroeconomic factors as well as to further simplify certain organizational structures following the Spectrum acquisition and Delrin® Divestiture (the "2023-2024 Restructuring Program"). DuPont recorded a pre-tax charge related to the 2023-2024 Restructuring Program in the amount of $199 million inception-to-date, recognized in "Restructuring and asset related charges - net" in the Company's Consolidated Statements of Operations, comprised of $114 million of severance and related benefit costs and asset related charges of $85 million. At December 31, 2024, total liabilities related to the 2023-2024 Restructuring Program were $47 million for severance and related benefit costs, recognized in "Accrued and other current liabilities" in the Consolidated Balance Sheets.
+2022 Restructuring Program
+In October 2022, the Company approved targeted restructuring actions to capture near-term cost reductions and to further simplify certain organizational structures following the M&M Divestitures (the "2022 Restructuring Program"). DuPont recorded pre-tax charges related to the 2022 Restructuring Program in the amount of $94 million inception-to-date, recognized in "Restructuring and asset related charges - net" in the Company's Consolidated Statements of Operations, comprised of $80 million of severance and related benefit costs and asset related charges of $14 million. At December 31, 2024, total liabilities related to the 2022 Restructuring Program were $1 million for severance and related benefit costs, recognized in "Accrued and other current liabilities" in the Consolidated Balance Sheets. The 2022 Restructuring Program is considered substantially complete.
+36
+Table of Contents
+RESULTS OF OPERATIONS
+Summary of Sales Results
+For the Years Ended December 31, 
+In millions
+2024
+2023
+2022
+Net sales
+$
+12,386 
+$
+12,068 
+$
+13,017 
+Sales Variances by Segment and Geographic Region - As Reported
+For the Year Ended December 31, 2024
+For the Year Ended December 31, 2023
+Percentage change from prior year
+Local Price & Product Mix
+Currency
+Volume
+Portfolio & Other
+Total
+Local Price & Product Mix
+Currency
+Volume
+Portfolio & Other
+Total
+Electronics & Industrial
+(2)
+%
+(1)
+%
+8 
+%
+6 
+%
+11 
+%
+— 
+%
+(1)
+%
+(11)
+%
+2 
+%
+(10)
+%
+Water & Protection
+(1)
+(1)
+(2)
+— 
+(4)
+3 
+(1)
+(7)
+— 
+(5)
+Corporate & Other 
+1
+(1)
+(1)
+(3)
+(1)
+(6)
+1 
+— 
+2 
+(7)
+(4)
+Total
+(1)
+%
+(1)
+%
+2 
+%
+3 
+%
+3 
+%
+2 
+%
+(1)
+%
+(8)
+%
+— 
+%
+(7)
+%
+U.S. & Canada
+— 
+%
+— 
+%
+(1)
+%
+6 
+%
+5 
+%
+3 
+%
+— 
+%
+(9)
+%
+2 
+%
+(4)
+%
+EMEA 
+2
+(2)
+— 
+(2)
+1 
+(3)
+3 
+1 
+(4)
+— 
+— 
+Asia Pacific
+(2)
+(2)
+7 
+— 
+3 
+— 
+(2)
+(11)
+(1)
+(14)
+Latin America
+(1)
+— 
+— 
+3 
+2 
+1 
+— 
+7 
+2 
+10 
+Total
+(1)
+%
+(1)
+%
+2 
+%
+3 
+%
+3 
+%
+2 
+%
+(1)
+%
+(8)
+%
+— 
+%
+(7)
+%
+1. Corporate & Other includes activities of the Retained Businesses and certain divested businesses including Biomaterials, Clean Technologies and Solamet®.
+2. Europe, Middle East and Africa.
+2024 versus 2023
+The Company reported net sales for the year ended December 31, 2024 of $12.4 billion, up 3 percent from $12.1 billion for the year ended December 31, 2023, due to a 2 percent increase in volume and a 3 percent increase in portfolio partially offset by 1 percent decreases due to local price and product mix as well as currency. The volume increase was driven by Electronics & Industrial (up 8 percent) partially offset by Water & Protection (down 2 percent) and Corporate & Other (down 3 percent). Portfolio and other changes increased by 3 percent compared to the same period last year, driven by Electronics & Industrial (up 6 percent), partially offset by Corporate & Other (down 1 percent). Local price and product mix decreased within Electronics & Industrial (down 2 percent), Water & Protection (down 1 percent) and Corporate & Other (down 1 percent). The 1 percent decrease in currency was driven by Asia Pacific (down 2 percent).
+2023 versus 2022
+The Company reported net sales for the year ended December 31, 2023 of $12.1 billion, down 7 percent from $13.0 billion for the year ended December 31, 2022, due to an 8 percent decrease in volume and a 1 percent unfavorable currency impact partially offset by a 2 percent increase due to local price and product mix. Volume decrease was driven by Electronics & Industrial (down 11 percent) and Water and Protection (down 7 percent) partially offset by Corporate & Other (up 2 percent). Local price and product mix increased within Water & Protection (up 3 percent) and Corporate & Other (up 1 percent) and remained flat in Electronics & Industrial. Currency was down 1 percent compared with the same period last year, primarily driven by Asia Pacific (down 2 percent) partially offset by EMEA (up 1 percent).
+Cost of Sales
+Cost of sales was $7.9 billion for the year ended December 31, 2024, up from $7.8 billion for the year ended December 31, 2023. Cost of sales increased for the year ended December 31, 2024 primarily due to increased sales volume mostly offset by lower raw material, logistics and energy costs.
+Cost of sales as a percentage of net sales for the year ended December 31, 2024 was 64 percent compared with 65 percent for the year ended December 31, 2023.
+For the year ended December 31, 2023, cost of sales was $7.8 billion, down from $8.4 billion for the year ended December 31, 2022. Cost of sales decreased for the year ended December 31, 2023 primarily due to decreased sales volume and lower raw material, logistics and energy costs.
+Cost of sales as a percentage of net sales for the years ended December 31, 2023 and December 31, 2022 was 65 percent.
+37
+Table of Contents
+Research and Development Expense ("R&D")
+R&D expense was $531 million for the year ended December 31, 2024, up from $508 million for the year ended December 31, 2023 and $536 million for the year ended December 31, 2022. R&D as a percentage of net sales was 4 percent for the years ended December 31, 2024, 2023 and 2022. 
+The increase in 2024 compared to 2023 was primarily due to higher variable compensation. The decrease in R&D expense in 2023 compared to 2022 was primarily due to lower personnel related expenses partially offset by the Spectrum Acquisition.
+Selling, General and Administrative Expenses ("SG&A")
+For the year ended December 31, 2024, SG&A expenses totaled $1,552 million, up from $1,408 million in the year ended December 31, 2023 and $1,467 million for the year ended December 31, 2022. SG&A as a percentage of net sales was 13 percent, 12 percent, and 11 percent for the years ended December 31, 2024, 2023 and 2022, respectively.
+The increase in SG&A cost in 2024 compared to 2023 was primarily due to higher variable compensation and incremental cost from the Spectrum and Donatelle acquisitions. The decrease in SG&A costs in 2023 compared with 2022 was primarily due to lower Stranded Costs related to the M&M Divestiture, lower personnel related expenses and lower bad debt expense partially offset by the Spectrum Acquisition.
+Amortization of Intangibles
+Amortization of intangibles was $595 million, $600 million and $590 million for the years ended December 31, 2024, 2023 and 2022, respectively. The slight decrease in amortization of intangibles in 2024 compared to 2023 was primarily due to absence of amortization in 2024 from fully amortized assets. The increase in amortization of intangibles in 2023 compared to 2022 was primarily due to the amortization of the intangible assets acquired in the Spectrum Acquisition in the third quarter of 2023 partially offset by the absence of amortization in 2023 from fully amortized assets. See Note 14 to the Consolidated Financial Statements for additional information on intangible assets.
+Restructuring and Asset Related Charges - Net
+Restructuring and asset related charges - net were $87 million, $146 million and $155 million for the years ended December 31, 2024, 2023 and 2022, respectively. For the years ended December 31, 2024 and 2023, DuPont recorded a pre-tax charge related to the 2023-2024 Restructuring Program in the amount of $89 million and $110 million, respectively
+. 
+The activity for the year ended December 31, 2022 included a pre-tax charge related to the 2022 Restructuring Program in the amount of $61 million of severance and related benefit costs and a $94 million ($65 million net of tax) impairment related to an equity method investment within the Electronics & Industrial segment. See Note 6 to the Consolidated Financial Statements for additional information. Inventory write-offs associated with restructuring programs are recorded to "Cost of Sales” in the Consolidated Statements of Operations.
+Goodwill Impairment Charges
+For the years ended December 31, 2024 and 2022, there were no goodwill impairment charges. For the year ended December 31, 2023, there was a goodwill impairment charge of $804 million related to the Water & Protection segment. 
+Acquisition, Integration and Separation Costs
+Acquisition, integration and separation costs were $168 million, $20 million and $193 million for the years ended December 31, 2024, 2023 and 2022, respectively. Acquisition, integration and separation costs primarily consist of financial advisory, information technology, legal, accounting, consulting, other professional advisory fees and other contractual transaction payments. For the year ended December 31, 2024, these costs were primarily related to the Previously Intended Business Separations, including the Intended Electronics Separation. For the year ended December 31, 2023, these costs were primarily related to Spectrum Acquisition. For the year ended December 31, 2022, these costs were primarily related to the Terminated Intended Rogers Corporation Acquisition, specifically the $162.5 million termination fee paid, the Biomaterials business unit divestiture and the Laird PM acquisition in 2021.
+Equity in Earnings of Nonconsolidated Affiliates
+The Company's share of the earnings of nonconsolidated affiliates was $60 million, $51 million and $75 million for the years ended December 31, 2024, 2023 and 2022, respectively. The increase in earnings of nonconsolidated affiliates for the year ended December 31, 2024 and 2023 compared to the prior years is primarily due to higher earnings in the underlying nonconsolidated affiliates. 
+38
+Table of Contents
+Sundry Income (Expense) - Net
+Sundry income (expense) - net includes a variety of income and expenses such as foreign currency exchange gains or losses, interest income, dividends from investments, gains and losses on sales of investments, losses on debt extinguishments and assets, non-operating pension and other post-employment benefit plan credits or costs, interest rate swap mark-to-market adjustments, interest rate swap net interest settlement and certain litigation matters. Sundry income (expense) - net for the year ended December 31, 2024 was $76 million of expense compared with $102 million and $191 million of income in the years ended December 31, 2023 and 2022, respectively.
+The year ended December 31, 2024 included a $138 million net loss related to interest rate swap activity including mark-to-market adjustments and a $74 million loss on debt extinguishment partially offset by $73 million of interest income. The decrease in interest income period over period is due to the decreased cash balance in 2024. 
+The year ended December 31, 2023 included interest income of $155 million and a $19 million net gain on divestiture and sales of other assets, primarily related to a land sale within the Water & Protection segment, partially offset by foreign currency exchange losses of $73 million.
+The year ended December 31, 2022 included interest income of $50 million primarily due to higher cash on hand and marketable securities in the fourth quarter, income of $37 million related to the second quarter sale of a land use right within the Water & Protection segment, a $26 million gain on sale of the Biomaterials business unit recorded in the second quarter, income related to non-operating pension and other post-employment benefit plans of $28 million and foreign currency exchange gains of $15 million.
+See Note 7 to the Consolidated Financial Statements for additional information.
+Interest Expense
+Interest expense was $366 million, $396 million, and $492 million for the years ended December 31, 2024, 2023 and 2022, respectively. The decrease in interest expense in 2024 compared to 2023 is primarily due to the absence of interest expense on the $300 million floating-rate long-term senior unsecured notes that matured in November 2023 and the partial redemption of $650 million aggregate principal amount of the 2038 notes during the second quarter 2024, partially offset by a reduction in capitalized interest.
+The decrease in interest expense from the 2023 compared to 2022, is primarily due to the redemption of $2.5 billion fixed-rate long-term senior unsecured notes due in November 2023, the decrease in commercial paper borrowing and the absence of the structuring and the commitment fees on term loans related to the Terminated Intended Rogers Corporation Acquisition, partially offset by the increase in interest expense from the interest rate swap.
+Refer to Note 15 to the Consolidated Financial Statements for additional information.
+Provision for (benefit from) Income Taxes on Continuing Operations
+The Company's effective tax rate fluctuates based on, among other factors, where income is earned and the level of income relative to tax attributes. For the year ended December 31, 2024, the Company's effective tax rate was 34.7 percent on pre-tax income from continuing operations of $1,192 million. The effective tax rate for the year ended December 31, 2024, was principally driven by the geographic mix of earnings offset by the U.S. taxation of foreign operations as well as certain discrete tax expenses, including the settlement in the second quarter of an international tax audit for which the Company is partially indemnified. In addition, there was a $103 million tax expense recorded in connection with an internal restructuring.
+For the year ended December 31, 2023, the Company's effective tax rate was (5.8) percent on pre-tax income from continuing operations of $504 million. The effective tax rate differential was principally the result of the non-tax-deductible goodwill impairment charge of $804 million in the fourth quarter of 2023 partially offset by a $324 million tax benefit recorded in connection with an internal restructuring.
+For the year ended December 31, 2022, the Company's effective tax rate was 26.7 percent on pre-tax income from continuing operations of $1,448 million. The effective tax rate differential was driven by the U.S tax effect of foreign earnings and dividends, geographic mix of earnings and the tax impacts of acquisition, integration, and separation costs. 
+The underlying factors affecting the Company’s overall tax rate are summarized in Note 8 to the Consolidated Financial Statements.
+39
+Table of Contents
+SEGMENT RESULTS
+The revenues and certain expenses of the M&M Businesses are classified as discontinued operations in the historical periods. Certain expenses, including separation costs, of the M&M Businesses are classified as discontinued operations in the current period. In addition, the Auto Adhesives & Fluids, Multibase
+TM
+ and Tedlar® product lines within the historical Mobility & Materials segment (the "Retained Businesses") are not included in the scope of the M&M Divestitures and are included in Corporate & Other. 
+The costs of the M&M Businesses that are classified as discontinued operations include only direct operating expenses incurred prior to the November 1, 2022 M&M Divestiture and prior to the November 1, 2023 Delrin® Divestiture. Indirect costs, such as those related to corporate and shared service functions previously allocated to the M&M Businesses, do not meet the criteria for discontinued operations and remain reported within continuing operations. A portion of these indirect costs related to activities the Company continues to undertake post-closing of the M&M Divestitures, and for which it is reimbursed (“Future Reimbursable Indirect Costs”). In addition, a portion of these indirect costs relate to activities the Company performs post the close of the Delrin® Divestiture and for which it is reimbursed. Future Reimbursable Indirect Costs are reported within continuing operations but are excluded from operating EBITDA as defined below. The remaining portion of these indirect costs are not subject to future reimbursement (“Stranded Costs”). Stranded Costs are reported within continuing operations in Corporate & Other and are included within Operating EBITDA.
+On August 1, 2023, the Company completed the previously announced acquisition of Spectrum Plastics Group (“Spectrum”) from AEA Investors (the “Spectrum Acquisition”). Spectrum is part of the Electronics & Industrial segment.
+Effective as of January 1, 2024, Electronics & Industrial realigned certain product lines that comprise its business units (Industrial Solutions, Interconnect Solutions and Semiconductor Technologies) that are intended to optimize business operations across the segment leading to enhanced value for customers and cost savings. The net trade revenue table, within Note 5 to the Consolidated Financial Statements, has been recast for all periods presented to reflect the new structure. The realignment did not result in changes to total Electronics & Industrial segment net sales.
+On July 28, 2024, DuPont completed the acquisition of Donatelle Plastics, LLC ("Donatelle Plastics"), (the "Donatelle Plastics Acquisition"). Donatelle Plastics is being integrated into Industrial Solutions within the Electronics & Industrial segment.
+The Company's measure of profit/loss for segment reporting purposes is Operating EBITDA as this is the manner in which the Company's chief operating decision maker ("CODM") assesses performance and allocates resources. The Company defines Operating EBITDA as earnings (i.e., “Income from continuing operations before income taxes") before interest, depreciation, amortization, non-operating pension / other post-employment benefits (“OPEB”) / charges, and foreign exchange gains / losses, excluding Future Reimbursable Indirect Costs, and adjusted for significant items.
+40
+Table of Contents
+ELECTRONICS & INDUSTRIAL
+The Electronics & Industrial segment is a leading provider of materials and solutions for the fabrication and packaging of semiconductors and integrated circuits and provides innovative solutions for thermal management and electromagnetic shielding as well as metallization processes for metal finishing, decorative, and industrial applications. The segment is a leading global supplier of differentiated materials and systems for a broad range of consumer electronics devices including mobile phones, computers, tablets, television monitors and other electronics applications used in a variety of industries. Electronics & Industrial is a leading provider of platemaking systems and photopolymer plates for the packaging graphics industry, digital printing inks and cutting-edge materials for the manufacturing of displays for organic light emitting diode ("OLED"). In addition, the segment produces innovative engineering polymer solutions, high performance parts, flexible packaging products, plastic and silicone extrusions, medical silicones, specialty lubricants and critical polymer-based components and devices for medical and other industrial markets.
+Electronics & Industrial
+For the Years Ended December 31,
+In millions
+2024
+2023
+2022
+Net sales
+$
+5,930 
+$
+5,337 
+$
+5,917 
+Operating EBITDA
+$
+1,717 
+$
+1,472 
+$
+1,836 
+Equity earnings
+$
+37 
+$
+16 
+$
+31 
+Electronics & Industrial
+For the Years Ended December 31,
+Percentage change from prior year
+2024
+2023
+Change in Net Sales from Prior Period due to:
+Local price & product mix
+(2)
+%
+— 
+%
+Currency
+(1)
+(1)
+Volume
+8 
+(11)
+Portfolio & other
+6 
+2 
+Total
+11 
+%
+(10)
+%
+2024 Versus 2023 
+Electronics & Industrial net sales were $5,930 million for the year ended December 31, 2024, up 11 percent from $5,337 million for the year ended December 31, 2023. Net sales increased due to an 8 percent increase in volume and a 6 percent increase in portfolio actions partially offset by a 2 percent decline in local price and product mix and a 1 percent unfavorable currency impact. Volume growth in Semiconductor Technologies and Interconnect Solutions was partially offset by declines in Industrial Solutions. Within Semiconductor Technologies, volume gains were driven by semiconductor demand recovery, primarily due to AI technology applications, advanced node transitions and higher China demand, as well as higher volume in OLED materials led by new product launches. Broad based volume growth in Interconnect Solutions driven by end-market recovery, market share gains and demand from AI-driven technology ramps. Volume declines in Industrial Solutions were driven by channel inventory destocking, primarily for Kalrez® and within biopharma markets. The portfolio impact reflects the August 2023 acquisition of Spectrum and the July 2024 acquisition of Donatelle Plastics. The unfavorable currency impact is primarily driven by the Japanese yen.
+Operating EBITDA was $1,717 million for the year ended December 31, 2024, up 17 percent compared with $1,472 million for the year ended December 31, 2023 primarily due to volume growth, the impact of higher production rates in Semiconductor Technologies and Interconnect Solutions, savings from restructuring actions and the earnings contribution from the Spectrum and Donatelle Plastics acquisitions partially offset by higher variable compensation and select growth investments.
+2023 Versus 2022
+Electronics & Industrial net sales were $5,337 million for the year ended December 31, 2023, down 10 percent from $5,917 million for the year ended December 31, 2022. Net sales decreased due to an 11 percent volume decline and a 1 percent currency headwind offset by a 2 percent increase in portfolio. Volume declines in Semiconductor Technologies were driven by inventory destocking and reduced semiconductor fabrication utilization rates due to electronics demand weakness, led by China, slightly offset by increased demand for OLED materials. Volume declines in Interconnect Solutions related to decreased spending on consumer and industrial electronics and related channel inventory destocking, both led by China. Within Industrial Solutions, volume declines were driven by channel inventory destocking within electronic parts and biopharma markets and lower demand in printing and packaging markets. Local price and product mix gains in Semiconductor Technologies and Industrial Solutions, as a result of actions taken to offset cost inflation, were offset by declines in Interconnect Solutions, including the impact of lower pass-through metals prices. The unfavorable currency impact is primarily driven by the Japanese yen and Chinese yuan. The portfolio impact primarily reflects the August 1, 2023 acquisition of Spectrum.
+41
+Table of Contents
+Operating EBITDA was $1,472 million for the year ended December 31, 2023, down 20 percent compared with $1,836 million for the year ended December 31, 2022 primarily due to decreased sales volumes, the impact of reduced production rates to better align inventory with demand, slightly offset by the earnings associated with Spectrum.
+WATER & PROTECTION
+The Water & Protection segment is a leading provider of engineered products and integrated systems for a number of industries including worker safety, water purification and separation, aerospace, energy, medical packaging and building materials. The segment satisfies the growing global needs of businesses, governments, and consumers for solutions that make life safer, healthier, and better. By uniting market-driven science with the strength of highly regarded brands, the segment strives to bring new products and solutions to solve customers' needs faster, better and more cost effectively.
+Water & Protection
+For the Years Ended December 31,
+In millions
+2024
+2023
+2022
+Net sales
+$
+5,423 
+$
+5,633 
+$
+5,957 
+Operating EBITDA
+$
+1,360 
+$
+1,388 
+$
+1,431 
+Equity earnings
+$
+30 
+$
+35 
+$
+39 
+Water & Protection
+For the Years Ended December 31,
+Percentage change from prior year
+2024
+2023
+Change in Net Sales from Prior Period due to:
+Local price & product mix
+(1)
+%
+3 
+%
+Currency
+(1)
+(1)
+Volume
+(2)
+(7)
+Portfolio & other
+— 
+— 
+Total
+(4)
+%
+(5)
+%
+2024 Versus 2023
+Water & Protection net sales were $5,423 million for the year ended December 31, 2024, down 4 percent from $5,633 million for the year ended December 31, 2023 due to a 2 percent decline in volume, and 1 percent declines related to local price and product mix and unfavorable currency impacts. Safety Solutions had volume declines mainly due to channel inventory destocking, primarily in medical packaging products within healthcare markets. Water Solutions volume declines were primarily due to distributor inventory destocking from weaker industrial demand in China. Shelter Solutions sales were relatively flat from mixed demand in construction markets. The unfavorable currency impact is primarily driven by the Japanese yen, and Chinese yuan, partially offset by the Euro.
+Operating EBITDA was $1,360 million for the year ended December 31, 2024, down 2 percent compared with $1,388 million for the year ended December 31, 2023 driven by decreased volumes and higher variable compensation, partially offset by productivity and savings from restructuring actions.
+2023 Versus 2022
+Water & Protection net sales were $5,633 million for the year ended December 31, 2023, down 5 percent from $5,957 million for the year ended December 31, 2022 due to a 7 percent decline in volume and a 1 percent unfavorable currency impact, partially offset by a 3 percent increase in local price and product mix. Volume declines within Safety Solutions were due to channel inventory destocking, primarily in medical packaging. Shelter Solutions volume declines were driven by weak demand in construction markets including channel inventory destocking. Water Solutions volume declines were primarily due to distributor destocking and weaker industrial demand in China. Local price and product mix increased across all businesses and in all regions as the result of broad-based actions taken in the prior year to offset cost inflation. The unfavorable currency impact is primarily driven by the Chinese yuan and the Japanese yen. 
+Operating EBITDA was $1,388 million for the year ended December 31, 2023, down 3 percent compared with $1,431 million for the year ended December 31, 2022 driven by decreased sales volumes, the impact of reduced production rates and unfavorable currency impacts partially offset by net pricing gains. The currency impacts were primarily driven by the Chinese yuan and the Japanese yen.
+42
+Table of Contents
+Corporate & Other
+Corporate & Other includes sales and activity of the Retained Businesses including the Auto Adhesives & Fluids, Multibase
+TM 
+and Tedlar® product lines. Related to the M&M Divestitures, Corporate & Other includes Stranded Costs and Future Reimbursable Indirect Costs. The results of Corporate & Other include the sales and activity of the Biomaterials (prior to its May 2022 divestiture) business units. Corporate & Other includes DuPont's equity interest in Derby Holdings Group related to the Delrin® Divestiture. Corporate & Other also includes certain enterprise and governance activities including non-allocated corporate overhead costs and support functions, leveraged services, non-business aligned litigation expenses and other costs not absorbed by reportable segments.
+Corporate & Other 
+For the Years Ended December 31,
+In millions
+2024
+2023
+2022
+Net sales
+$
+1,033 
+$
+1,098 
+$
+1,143 
+Operating EBITDA
+$
+67 
+$
+82 
+$
+(6)
+Equity earnings
+$
+(7)
+$
+— 
+$
+5 
+2025 OUTLOOK
+For the full year 2025, the Company anticipates ongoing strength within semiconductor markets as well as more normalized sales patterns in China. Continued growth is expected in the markets served by Interconnect Solutions driven by improved consumer electronics demand and refresh cycles for devices in support of AI adoption. Within the healthcare markets, the Company anticipates growth acceleration in demand for medical devices along with continued demand stabilization for medical packaging applications and biopharma markets. In the markets served by Water, the Company expects increased demand to drive year over year volume growth. The Company anticipates stable demand within the markets served by the Company’s other industrial-based product lines.
+43
+Table of Contents
+LIQUIDITY & CAPITAL RESOURCES 
+The Company continually reviews its sources of liquidity and debt portfolio and may make adjustments to one or both to ensure adequate liquidity and increase the Company’s optionality and financing efficiency as it relates to financing cost and balancing terms/maturities. The Company’s primary source of incremental liquidity is cash flows from operating activities. Management expects the generation of cash from operations and the ability to access the debt capital markets and other sources of liquidity will continue to provide sufficient liquidity and financial flexibility to meet the Company’s and its subsidiaries' obligations as they come due. However, DuPont is unable to predict the extent of macroeconomic related impacts which depend on uncertain and unpredictable future developments. In light of this uncertainty, the Company has taken steps to further ensure liquidity and capital resources, as discussed below.
+In millions
+December 31, 2024
+December 31, 2023
+Cash and cash equivalents
+$
+1,850 
+$
+2,392 
+Total debt
+$
+7,171 
+$
+7,800 
+The Company's cash and cash equivalents at December 31, 2024 and December 31, 2023 were $1.9 billion and $2.4 billion, respectively, of which $1.1 billion at December 31, 2024 and $1.3 billion at December 31, 2023 were held by subsidiaries in foreign countries, including United States territories. For each of its foreign subsidiaries, the Company makes an assertion regarding the amount of earnings intended for permanent reinvestment, with the balance available to be repatriated to the United States. The Company held no investments in marketable securities at December 31, 2024 and 
+2023
+. The decrease in cash and cash equivalents at December 31, 2024 compared to December 31, 2023 was due to cash used in the current year to fund the Q1 2024 ASR Transaction, the Donatelle Acquisition, partial redemption of 2038 Notes and general corporate purposes. Refer to subsequent paragraphs for further discussion of the drivers of the change in cash and cash equivalents.
+Total debt at December 31, 2024 and 
+2023
+ was $7.2 billion and $7.8 billion, respectively. The decrease was primarily due to the partial redemption of $650 million of 2038 Notes discussed below.
+As of December 31, 2024, the Company is contractually obligated to make future cash payments of $7.3 billion and $4.0 billion associated with principal and interest, respectively, on debt obligations. Related to the principal, $1.9 billion will be due in the next twelve months and the remainder will be due subsequent to 2025. The Company may address the maturity with cash on hand, issuance of commercial paper, utilizing existing credit facilities, accessing the debt capital markets or a combination of any of them. Related to interest, $359 million will be due in the next twelve months and the remainder will be due subsequent to 2025. The majority of interest obligations will be due in 2030 or later.
+In relation to the Company’s fixed-to-floating interest rate swap agreements, there is a mandatory early termination date of December 15, 2025. The mark-to-market value on these swaps at December 31, 2024 is $116 million. The final settlement amount will depend on movements in interest rates. Refer to Note 21 to the Consolidated Financial Statements for more information on the Company’s interest rate swap agreements.
+Capital Structure Actions
+In connection with the Previously Intended Business Separations, on June 5, 2024, DuPont issued a notice of redemption to the bond trustee with respect to a partial redemption of $650 million aggregate principal amount of its 2038 Notes, in accordance with their terms. The partial redemption occurred on June 15, 2024, at the redemption price set forth in the indenture of the 2038 Notes. The Company funded the repayment with cash on hand. As a result of the early redemption of the debt, for the year ended December 31, 2024, the Company incurred a loss of approximately $74 million, which consisted of the redemption premium, write-off of the deferred debt issuance costs and the basis adjustment from fair value hedge accounting on the 2022 Swaps associated with this borrowing. See Note 21 for further detail on the 2022 Swaps.
+In connection with the Previously Intended Business Separations and continuing in light of the Intended Electronics Separation, DuPont is considering potentially repaying, redeeming, repurchasing, or exchanging some or all of its other senior notes, which could include redemptions, tender offers, open market purchases, privately negotiated transactions, or other transactions or a combination of any of them, which will be on pricing terms that are determined at the time of any such transaction. Such transactions will depend on liquidity considerations, contractual and legal restrictions, prevailing market conditions and other factors.
+44
+Table of Contents
+Revolving Credit Facilities
+The Company has entered a $1.0 billion 364-day revolving credit facility in the second quarter of each calendar year beginning in 2022. In July 2022, the Company drew down $600 million under its 2022 $1 billion revolving credit facility in order to facilitate certain intercompany internal restructuring steps related to the M&M Divestiture. The Company repaid the borrowing in September 2022.
+The following table summarizes the Company's credit facilities:
+Committed and Available Credit Facilities at December 31, 2024
+In millions
+Effective Date
+Committed Credit
+Credit Available
+Maturity Date
+Interest
+Five-Year Revolving Credit Facility
+ 1
+April 2022
+$
+2,500 
+$
+2,484 
+April 2027
+Floating Rate
+2024 $1B Revolving Credit Facility 
+2
+May 2024
+1,000 
+1,000 
+May 2025
+Floating Rate
+Total Committed and Available Credit Facilities
+$
+3,500 
+$
+3,484 
+1.
+The Five-Year Revolving Credit Facility is generally expected to remain undrawn and serve as a backstop to the Company’s commercial paper and letter of credit issuance.
+2.
+The 2024 $1B Revolving Credit Facility is available to be used for general corporate purposes. There were no drawdowns under the facility during the year ended December 31, 2024. The Company intends to enter into a new revolving credit facility in the second quarter 2025. 
+Repayment of Senior Notes
+In November 2022, the Company redeemed in full $2.5 billion of the 2023 Notes at a redemption price equal to 100 percent of the aggregated principal amount plus the accrued and unpaid interest. The redemption was funded with the net proceeds from the M&M Divestiture.
+In November 2023, the $300 million Floating Rate Senior Unsecured Notes matured and was repaid at par plus the accrued and unpaid interest. The Company funded the repayment with cash on hand.
+Terminated Intended Rogers Acquisition
+In connection with the Terminated Intended Rogers Acquisition, on November 22, 2021, the Company entered into a two-year senior unsecured committed term loan agreement in the amount of $5.2 billion. In October 2022, the facility was amended to extend the lending commitment (as amended the "Amended 2021 Term Loan Facility"). On November 1, 2022, the M&M Divestiture closed and, therefore, based on the terms of the Amended 2021 Term Loan Facility, the commitment was terminated. Separately, on November 1, 2022 the Company announced the termination of the previously announced agreement to acquire the outstanding shares of Rogers. The Company paid Rogers a termination fee of $162.5 million in accordance with the agreement on November 2, 2022. The termination fee was paid with cash on hand and recorded in the "Acquisition, integration and separation costs" within the Consolidated Statement of Operations.
+Commercial Paper
+In April 2022, DuPont downsized its authorized commercial paper program from $3.0 billion to $2.5 billion (the “DuPont Commercial Paper Program”). At December 31, 2024 and 2023, the Company had no issuances outstanding of commercial paper.
+Donatelle Plastics Acquisition
+On July 28, 2024, DuPont completed the acquisition of Donatelle Plastics, LLC for a net purchase price of $365 million, which includes the estimated fair value for a contingent earn-out liability of $40 million. The Company utilized existing cash balances to complete the acquisition.
+Spectrum Acquisition
+On August 1, 2023, the Company completed the Spectrum Acquisition for a net purchase price of approximately $1,781 million, including a net upward adjustment of approximately $43 million for acquired cash and net working capital, among other items. The Company utilized existing cash balances to complete the acquisition.
+Water District Settlement Agreement
+The Company utilized the MOU escrow account balance of approximately $100 million and cash on hand to make its $400 million contribution to the Water District Settlement Fund. The judgment became final in April 2024, therefore the $400 million contribution, plus interest, to the Water District Settlement Fund is reflected as a cash outflow within cash flows from discontinued operations during the year ended December 31, 2024. See Note 16 to the Consolidated Financial Statements for additional information. 
+45
+Table of Contents
+Delrin® Divestiture
+On November 1, 2023, the Company closed the sale of the Delrin® business to TJC LP ("TJC"), (the “Delrin® Divestiture”). DuPont received cash proceeds of approximately $1.28 billion, which includes certain customary transaction adjustments, a note receivable of $350 million and acquired a 19.9 percent non-controlling equity interest in Derby Group Holdings LLC, (“Derby”). The customary transaction adjustments include $27 million of cash transferred with the Delrin® Divestiture for which DuPont was reimbursed at closing resulting in net cash proceeds of $1.25 billion. TJC, through its subsidiaries, holds the 80.1 percent controlling interest in Derby. See Note 4 to the Consolidated Financial Statements for additional information.
+Credit Ratings
+The Company's credit ratings impact its access to the debt capital markets and cost of capital. The Company remains committed to maintaining a strong financial position with a balanced financial policy focused on maintaining a strong investment-grade rating and driving shareholder value and remuneration. At January 31, 2024, DuPont's credit ratings were as follows:
+Credit Ratings
+Long-Term Rating
+Short-Term Rating
+Outlook
+Standard & Poor’s
+BBB+
+A-2
+Watch Negative
+Moody’s Investors Service
+Baa1
+P-2
+Negative
+Fitch Ratings
+BBB+
+F-2
+Watch Negative
+The Company's indenture covenants include customary limitations on liens, sale and leaseback transactions, and mergers and consolidations, subject to certain limitations. The senior unsecured notes (the "2018 Senior Notes") also contain customary default provisions. The Five-Year Revolving Credit Facility and 2024 $1B Revolving Credit Facility contain a financial covenant, typical for companies with similar credit ratings, requiring that the ratio of Total Indebtedness to Total Capitalization for the Company and its consolidated subsidiaries not exceed 0.60. At December 31, 2024, the Company was in compliance with this financial covenant.
+Summary of Cash Flows
+The Company’s cash flows from operating, investing and financing activities, as reflected in the Consolidated Statements of Cash Flows, are summarized in the following table.
+Cash Flow Summary
+2024
+2023
+2022
+(In millions) For the years ended December 31, 
+Cash provided by (used for) from continuing operations:
+Operating activities
+$
+2,321 
+$
+2,191 
+$
+1,249 
+Investing activities
+$
+(849)
+$
+172 
+$
+9,004 
+Financing activities
+$
+(1,847)
+$
+(2,989)
+$
+(7,646)
+Cash used for discontinued operations
+$
+(474)
+$
+(306)
+$
+(763)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash
+$
+(62)
+$
+(37)
+$
+(148)
+Cash Flows provided by Operating Activities - Continuing Operations
+Cash provided by operating activities of continuing operations was $2,321 million, $2,191 million and $1,249 million for the years ended December 31, 2024, 2023 and 2022, respectively. Cash provided by operating activities increased in 2024 compared with 2023, primarily from higher earnings the net impact from changes in variable compensation payouts and accruals partially offset by an increase in cash used by net working capital. Cash provided by operating activities increased in 2023 compared with 2022
+, 
+primarily from improvements in working capital.
+The table below reflects net working capital on a continuing operations basis:
+Net Working Capital
+December 31, 2024
+December 31, 2023 
+1
+In millions (except ratio)
+Current assets
+$
+6,364 
+$
+7,514 
+Current liabilities
+4,801 
+3,098 
+Net working capital
+$
+1,563 
+$
+4,416 
+Current ratio
+1.33:1
+2.43:1
+1.
+Net working capital has been presented to exclude the assets and liabilities related to the Delrin® Divestiture. The assets and liabilities related to the Delrin® Divestiture are presented as assets of discontinued operations and liabilities of discontinued operations, respectively.
+46
+Table of Contents
+Cash Flows used in/ provided by Investing Activities - Continuing Operations
+Cash used in investing activities of continuing operations in 2024 was $849 million compared to cash provided by investing activities of $172 million and $9,004 million in 2023 and 
+2022, respectively
+. The change in investing activities in 2024 versus the 2023 is primarily attributable to the absence of proceeds received from sales and maturity of investments and proceeds from sales of property and business partially offset by the impact of the change in cash paid for acquisition in each year.
+The decrease in cash provided from investing activities in 2023 versus the 2022 is primarily attributable to the absence of cash proceeds received from the M&M Divestiture and cash paid for the Spectrum acquisition, partially offset by proceeds from the Delrin® Divestiture, net of cash divested and the absence of cash used in the purchase of investments and an increase in cash provided by the proceeds from sales and maturities of investments that was previously invested and reflected as a cash outflow in 2022. Cash provided by investing activities in 2022 is primarily attributable to the cash proceeds received from the M&M Divestiture partially offset by purchases of investments. 
+Capital expenditures totaled $579 million, $619 million and $662 million for the years ended December 31, 2024, 2023 and 2022, respectively. The Company
+ expects 2025 capital expenditures to be about $660 million which includes separation-related capital expenditures. The Company may adjust its spending throughout the year as economic conditions develop.
+Cash Flows used for Financing Activities - Continuing Operations
+Cash used for financing activities of continuing operations in 2024 was $1,847 million compared to cash used for financing activities of $2,989 million and $7,646 million in 2023 and 
+2022, respectively
+. The decrease in cash used in financing activities in 2024 versus the 2023 is primarily attributable to the decrease in share buyback activities partially offset by the partial redemption of the 2038 Notes. The decrease in 2023 versus the 2022 is primarily attributable to the decrease in share buyback activities and decrease in the payment of long-term debt. Cash used for financing activities in 2022 primarily driven by the share buyback activities and the redemption of 2023 Notes.
+Cash Flows used for Discontinued Operations
+Cash used for discontinued operations was $474 million compared with $306 million in the same period last year. The cash used from discontinued operations includes MOU activity, refer to Note 4 to the Consolidated Financial Statements for additional information. The activity for the year ended December 31, 2023, Consolidated Statements of Cash Flows present the cash flows of Delrin® as discontinued operations. The activity for the year ended December 31, 2022, Consolidated Statements of Cash Flows present the financial results of the M&M Businesses as discontinued operations. 
+Dividends
+The following table provides dividends paid to common shareholders for the years ended December 31, 2024, 2023 and 2022: 
+Dividends Paid
+December 31, 2024
+December 31, 2023
+December 31, 2022
+In millions
+Dividends paid, per common share 
+$
+1.52 
+$
+1.44 
+$
+1.32 
+Dividends paid to common stockholders
+$
+635 
+$
+651 
+$
+652 
+Share Buyback Programs
+On February 8, 2022, the Company's Board of Directors approved the 2022 Share Buyback Program authorizing the repurchase and retirement of up to $1 billion of common stock with a termination date of March 31, 2023. At the end of the third quarter of 2022, the Company had repurchased and retired a total of 11.9 million shares for $750 million under the 2022 Share Buyback Program.
+In November 2022, DuPont’s Board of Directors approved the $5B Share Buyback Program authorizing the repurchase and retirement of up to $5 billion of common stock with a termination date of June 30, 2024.
+In the fourth quarter 2022, DuPont entered into ASR agreements with three financial counterparties (the "$3.25B ASR Transaction"). DuPont paid with cash on hand an aggregate of $3.25 billion to the counterparties and received initial deliveries of 38.8 million shares in aggregate of DuPont common stock, which were retired immediately and recorded as a reduction to retained earnings of $2.6 billion. The $3.25B ASR Transaction was completed during the third quarter 2023 with DuPont receiving and retiring an additional 8.0 million shares of DuPont common stock. In connection with the completion the remaining $613 million based on the market price of the shares at the time of delivery was settled as a forward contract indexed to DuPont common stock at the time of settlement, classified within stockholders’ equity. At the completion of the $3.25B ASR Transaction, the Company had repurchased and retired a total of 46.8 million shares at an average price of $69.44 per share.
+47
+Table of Contents
+In the third quarter 2023, DuPont entered into accelerated share repurchase agreements with three financial counterparties to repurchase an aggregate of $2.0 billion of common stock (the "$2B ASR Transaction"). DuPont paid an aggregate of $2.0 billion to the counterparties and received initial deliveries of 21.2 million shares in aggregate of DuPont common stock, which were retired immediately and recorded as a reduction to retained earnings of $1.6 billion. The accelerated repurchase agreements under the $2B ASR Transaction were settled during the first quarter of 2024. The settlement resulted in the delivery of 6.7 million additional shares of DuPont common stock, which were retired immediately and will be recorded as a reduction of retained earnings in the first quarter of 2024. In total, the Company repurchased 27.9 million shares at an average price of $71.67 per share under the $2B ASR Transaction. The completion of the $2B ASR Transaction completes the $5B Share Buyback Program.
+In the first quarter 2024, the Company’s Board of Directors approved a new share repurchase program authorizing the repurchase and retirement of up to $1 billion of common stock (“the $1B Share Buyback Program”). Under the $1B Share Buyback Program, repurchases may be made from time to time on the open market at prevailing market prices or in privately negotiated transactions off market, including additional ASR agreements in accordance with applicable federal securities laws. The $1B Share Buyback Program terminates on June 30, 2025, unless extended or shortened by the Board of Directors. The timing and number of shares to be repurchased will depend on factors such as the share price, economic and market conditions, and corporate and regulatory requirements. At this time and with the continued focus on the Intended Electronic Separation, the Company does not currently plan to complete the remaining authorization under the $1B Share Buyback Program.
+Also in the first quarter 2024, DuPont entered an ASR agreement with one counterparty for the repurchase of about $500 million of common stock ("Q1 2024 ASR Transaction"). DuPont paid an aggregate of $500 million to the counterparty and received initial deliveries of 6.0 million shares of DuPont common stock, which were retired immediately and recorded as a reduction of retained earnings of $400 million. The remaining $100 million was evaluated as an unsettled forward contract indexed to DuPont common stock, classified within stockholders' equity as of March 31, 2024.
+In the second quarter of 2024, the Q1 2024 ASR Transaction was completed. The settlement resulted in the delivery of approximately 1.0 million additional shares of DuPont common stock, which were retired immediately and recorded as a reduction of retained earnings of $72 million. In total, the Company repurchased 6.9 million shares at an average price of $71.96 per share under the Q1 2024 ASR Transaction.
+The Inflation Reduction Act of 2022 introduced a 1 percent nondeductible excise tax imposed on the net value of certain stock repurchases made after December 31, 2022. The net value is determined by the fair market value of the stock repurchased during the tax year, reduced by the fair market value of stock issued during the tax year. The Company recorded total excise tax of $8 million and $21 million, respectively, as a reduction to retained earnings for the years ended December 31, 2024 and 2023.
+See Part II, Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities and Note 18 to the Consolidated Financial Statements, for additional information. 
+Pension and Other Post-Employment Plans 
+The Company's funding policy is to contribute to defined benefit pension plans based on pension funding laws and local country requirements. Contributions exceeding funding requirements may be made at the Company's discretion. The Company expects to contribute approximately $56 million to its pension plans in 2025. The amount and timing of the Company’s actual future contributions will depend on applicable funding requirements, discount rates, investment performance, plan design, and various other factors, separations and distributions. See Note 19 to the Consolidated Financial Statements for additional information concerning the Company’s pension plans.
+As of December 31, 2024, the Company is contractually obligated to make future cash contributions of $562 million related to pension and other post-employment benefit plans. $56 million will be due in the next twelve months and the remainder will be due subsequent to 2025 with the majority due subsequent to 2029.
+Restructuring 
+In December 2023, the Company approved targeted restructuring actions to capture near-term cost reductions due to macroeconomic factors as well as to further simplify certain organizational structures following the Spectrum acquisition and Delrin® Divestiture (the "2023-2024 Restructuring Program"). For the years ended December 31, 2023 through December 31, 2024, DuPont recorded a pre-tax charge related to the 2023-2024 Restructuring Program in the amount of $199 million, recognized in "Restructuring and asset related charges - net" in the Company's Consolidated Statements of Operations, comprised of $114 million of severance and related benefit costs and asset related charges of $85 million. At December 31, 2024, total liabilities related to the 2023-2024 Restructuring Program were $47 million for severance and related benefit costs, 
+48
+Table of Contents
+recognized in "Accrued and other current liabilities" in the Consolidated Balance Sheets. Inventory write-offs for plant line closures in connection with the 2023-2024 Restructuring Program were $25 million in "Cost of Sales" within the Consolidated Statements of Operations for the year ended December 31, 2024. 
+In October 2022, the Company approved targeted restructuring actions to capture near-term cost reductions and to further simplify certain organizational structures following the M&M Divestitures (the "2022 Restructuring Program"). For the years ended December 31, 2023 through December 31, 2024, DuPont recorded a pre-tax charge related to the 2022 Restructuring Program in the amount of $94 million, recognized in "Restructuring and asset related charges - net" in the Company's Consolidated Statements of Operations, comprised of severance and related benefit costs. At December 31, 2024, total liabilities related to the 2022 Restructuring Program were $1 million for severance and related benefit costs, recognized in "Accrued and other current liabilities" in the Consolidated Balance Sheets. Actions related to the 2022 Restructuring Program are substantially complete.
+See Note 6 to the Consolidated Financial Statements for more information on the Company's restructuring programs.
+Other Off-balance Sheet Arrangements
+The MOU Cost Sharing Agreement
+In connection with the cost sharing arrangement entered into as part of the MOU, the companies agreed to establish an escrow account to support and manage potential future eligible PFAS costs. Subject to the terms of the arrangement, contributions to the escrow account will be made annually by Chemours, DuPont and Corteva through 2028. Over such period, Chemours will deposit a total of $500 million into the account and DuPont and Corteva, together, will deposit an additional $500 million pursuant to the terms of their existing Letter Agreement. DuPont's aggregate escrow deposits of $35 million at December 31, 2024, are reflected in "Restricted cash and cash equivalents - noncurrent" on the Consolidated Balance Sheet.
+As of June 30, 2023, DuPont had deposited an aggregate of $100 million into the MOU Escrow Account all of which it used to fund in part its $400 million contribution to the Water District Settlement Fund. The judgment became final in April 2024, therefore $400 million contribution, plus interest, to the Water District Settlement Fund is reflected as a cash outflow within cash flows from discontinued operations during the year ended December 31, 2024. See Note 16 to the Consolidated Financial Statements for more information.
+As of December 31, 2024, the Company expects to make cash payments related to qualified PFAS spend of $30 million in the next twelve months. Additional information regarding the MOU and funding of the escrow account can be found in Note 16 to the Consolidated Financial Statements.
+Other Contractual Obligations
+Purchase obligations represents enforceable and legally binding agreements in excess of $1 million to purchase goods or services that specify fixed or minimum quantities; fixed minimum or variable price provisions; and the approximate timing of the agreement. As of December 31, 2024, the Company is contractually obligated to make future cash payments of $96 million related to purchase obligations, of which $48 million will be due in the next twelve months and the remainder will be due subsequent to 2025.
+Lease obligations represents future finance and operating lease payments. As of December 31, 2024, obligations of future lease payments are $469 million, of which $97 million will be due in the next twelve months and remainder will be due subsequent to 2025.
+Environmental remediation obligations represents costs for remediation and restoration with respect to environmental matters and Non-PFAS clean-up responsibilities. As of December 31, 2024, the Company is contractually obligated to make future cash payments of $129 million, of which $18 million will be due in the next twelve months and remainder will be due subsequent to 2025. See Note 16 to the Consolidated Financial Statements for more information. 
+Other miscellaneous obligations includes liabilities related to deferred compensation and other noncurrent liabilities. As of December 31, 2024, the Company is contractually obligated to make future cash payments of $111 million related to other miscellaneous obligations, the majority of which is due subsequent to 2025.
+49
+Table of Contents
+RECENT ACCOUNTING PRONOUNCEMENTS 
+See Note 2 to the Consolidated Financial Statements for a description of recent accounting pronouncements. 
+CRITICAL ACCOUNTING ESTIMATES 
+The Company's significant accounting policies are more fully described in Note 1 to the Consolidated Financial Statements. Management believes that the application of these policies on a consistent basis enables the Company to provide the users of the financial statements with useful and reliable information about the Company's operating results and financial condition.
+The preparation of the Consolidated Financial Statements in conformity with generally accepted accounting principles ("GAAP") in the United States of America requires management to make estimates and assumptions that affect the reported amounts, including, but not limited to, receivable and inventory valuations, impairment of tangible and intangible assets, long-term employee benefit obligations, income taxes, restructuring liabilities, environmental matters and litigation. Management's estimates are based on historical experience, facts and circumstances available at the time and various other assumptions that are believed to be reasonable. The Company reviews these matters and reflects changes in estimates as appropriate. Management believes that the following represent some of the more critical judgment areas in the application of the Company's accounting policies which could have a material effect on the Company's financial position, liquidity or results of operations.
+Pension Plans and Other Post-Employment Benefits
+Accounting for employee benefit plans involves numerous assumptions and estimates. Discount rate and expected return on plan assets are two critical assumptions in measuring the cost and benefit obligation of the Company's pension plans. Management reviews these two key assumptions when plans are re-measured. These and other assumptions are updated periodically to reflect the actual experience and expectations on a plan specific basis as appropriate. As permitted by GAAP, actual results that differ from the assumptions are accumulated on a plan-by-plan basis and to the extent that such differences exceed 10 percent of the greater of the plan's benefit obligation or the applicable plan assets, the excess is amortized over the average remaining service period of active employees or the average remaining life expectancy of the inactive participants if all or almost all of a plan’s participants are inactive.
+For the majority of the benefit plans, the Company utilizes the Aon AA corporate bond yield curves to determine the discount rate, applicable to each country, at the measurement date. 
+The Company establishes strategic asset allocation percentage targets and appropriate benchmarks for significant asset classes in accordance with the laws and practices of those countries. Where appropriate, asset-liability studies are also taken into consideration. For plans, the long-term expected return on plan assets pension expense is determined using the fair value of assets.
+The following table highlights the potential impact on the Company's pre-tax earnings due to changes in certain key assumptions with respect to the Company's pension plans based on assets and liabilities on a continuing operations basis at December 31, 2024:
+Pre-tax Earnings Benefit (Charge)
+(Dollars in millions)
+1/4 Percentage
+Point
+Increase
+1/4 Percentage
+Point
+Decrease
+Discount rate
+$
+(1)
+$
+1 
+Expected rate of return on plan assets
+5 
+(5)
+Additional information with respect to pension plans, liabilities and assumptions is discussed under "Long-term Employee Benefits" and in Note 19 to the Consolidated Financial Statements.
+Legal Commitments and Contingencies
+The Company's results of operations could be affected by significant litigation adverse to the Company, including product liability claims, patent infringement and antitrust claims, and claims for third-party property damage or personal injury stemming from alleged environmental torts. The Company records accruals for legal matters, including its obligations under the MOU as impacted by the Letter Agreement, when the information available indicates that it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. Management makes adjustments to these accruals to reflect the impact and status of negotiations, settlements, rulings, advice of counsel and other information and events that may pertain to a particular matter. Predicting the outcome of claims and lawsuits and estimating related costs and exposure involves substantial uncertainties that could cause actual costs to vary materially from estimates. In making determinations of likely outcomes of litigation matters, management considers many factors. These factors include, but are not limited to, the nature of specific 
+50
+Table of Contents
+claims including unasserted claims, the Company's experience with similar types of claims, the jurisdiction in which the matter is filed, input from outside legal counsel, the likelihood of resolving the matter through alternative dispute resolution mechanisms, and the matter's current status. Considerable judgment is required in determining whether to establish a litigation accrual when an adverse judgment is rendered against the Company in a court proceeding. In such situations, the Company will not recognize a loss if, based upon a thorough review of all relevant facts and information, management believes that it is probable that the pending judgment will be successfully overturned on appeal. A detailed discussion of significant litigation matters is contained in Note 16 to the Consolidated Financial Statements.
+Income Taxes
+The breadth of the Company's operations and the global complexity of tax regulations require assessments of uncertainties and judgments in estimating taxes the Company will ultimately pay. The final taxes paid are dependent upon many factors, including negotiations with taxing authorities in various jurisdictions, outcomes of tax litigation and resolution of disputes arising from federal, state and international tax audits in the normal course of business. The resolution of these uncertainties may result in adjustments to the Company's tax assets and tax liabilities. It is reasonably possible that changes to the Company’s global unrecognized tax benefits could be significant; however, due to the uncertainty regarding the timing of completion of audits and the possible outcomes, a current estimate of the range of increases or decreases that may occur within the next twelve months cannot be made. The Company has ongoing federal, state and international income tax audits in various jurisdictions and evaluates uncertain tax positions that may be challenged by local tax authorities. The impact, if any, of these audits to the Company’s unrecognized tax benefits is not estimable. 
+Deferred income taxes result from differences between the financial and tax basis of the Company's assets and liabilities and are adjusted for changes in tax rates and tax laws when changes are enacted. Valuation allowances are recorded to reduce deferred tax assets when it is more likely than not that a tax benefit will not be realized. Significant judgment is required in evaluating the need for and magnitude of appropriate valuation allowances against deferred tax assets. The realization of these assets is dependent on generating future taxable income, as well as successful implementation of various tax planning strategies. For example, changes in facts and circumstances that alter the probability that the Company will realize deferred tax assets could result in recording a valuation allowance, thereby reducing the deferred tax asset and generating a deferred tax expense in the relevant period. In some situations, these changes could be material. 
+At December 31, 2024, the Company had a net deferred tax liability balance of $669 million, net of a valuation allowance of $772 million. Realization of deferred tax assets is expected to occur over an extended period of time. As a result, changes in tax laws, assumptions with respect to future taxable income, and tax planning strategies could result in adjustments to deferred tax assets. See Note 8 to the Consolidated Financial Statements for additional details related to the deferred tax liability balance.
+The Inflation Reduction Act of 2022 ("IRA") was signed into law on August 16, 2022 and is effective to applicable corporations beginning in 2023. The IRA introduced a new 15 percent corporate alternative minimum tax (“CAMT”), based on adjusted financial statement income of certain large corporations. Applicable corporations will be allowed to claim a credit for the minimum tax paid against regular tax in future years. The Company is an applicable corporation subject to the CAMT requirements however, the Company did not incur a CAMT liability for 2024 and 2023. The IRA also established an excise tax that imposes a 1 percent surcharge on stock repurchases, effective January 1, 2023. Refer to Note 18 to the Consolidated Financial Statements for further information on the 1 percent surcharge on stock repurchases.
+Assessments of Long-Lived Assets and Goodwill
+Assessment of the potential impairment of goodwill, other intangible assets, property, plant and equipment, investments in nonconsolidated affiliates, and other assets is an integral part of the Company's normal ongoing review of operations. Testing for potential impairment of these assets is significantly dependent on numerous assumptions and reflects management's best estimates at a particular point in time. The dynamic economic environments in which the Company's diversified product lines operate, and key economic and product line assumptions with respect to projected selling prices, market growth and inflation rates, can significantly affect the outcome of impairment tests. Estimates based on these assumptions may differ significantly from actual results. 
+Ch
+anges in factors and assumptions used in assessing potential impairments can have a significant impact on the existence and magnitude of impairments, as well as the time in which such impairments are recognized. In addition, the Company continually reviews its diverse portfolio of assets to ensure they are achieving their greatest potential and are aligned with the Company's growth strategy. Strategic decisions involving a particular group of assets may trigger an assessment of the recoverability of the related assets. Such an assessment could result in impairment losses. 
+51
+Table of Contents
+The Company performs its annual goodwill impairment testing during the fourth quarter, or more frequently when events or changes in circumstances indicate that the fair value is below carrying value, at the reporting unit level which is defined as the operating segment or one level below the operating segment. One level below the operating segment, or component, is a business in which discrete financial information is available and regularly reviewed by segment management. The Company aggregates certain components into reporting units based on economic similarities. The Company has eight reporting units.
+For purposes of goodwill impairment testing, the Company has the option to first perform qualitative testing to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value
+. The qualitative evaluation is an assessment of factors, including reporting unit or asset specific operating results and cost factors, as well as industry, market and macroeconomic conditions, to determine whether it is more likely than not that the fair value of a reporting unit or asset is less than the respective carrying amount, including goodwill. If the Company chooses not to complete a qualitative assessment for a given reporting unit or if the initial assessment indicates that it is more likely than not that t
+he carrying value of a reporting unit exceeds its estimated fair value, additional quantitative testing is required. 
+If additional quantitative testing is performed, an impairment loss is recognized when the amount by which the carrying value of the reporting unit exceeds its fair value, limited to the amount of goodwill at the reporting unit. The Company determines fair values for each of the reporting units using a combination of the income approach and market approach.
+Under the income approach, fair value is determined based on the present value of estimated future cash flows, discounted at an appropriate risk-adjusted rate. The Company uses internal forecasts to estimate future cash flows and includes an estimate of long-term future growth rates based on its most recent views of the long-term outlook for each reporting unit. Discounted cash flow valuations are completed using the following key assumptions, some of which are considered significant, including 
+Level 3 unobservable inputs
+: projected revenue growth, EBITDA margin, capital expenditures, weighted average cost of capital, terminal growth rate, and the tax rate. These key assumptions are determined through evaluation of the Company as a whole, underlying business fundamentals and industry risk. The Company derives its discount rates using a capital asset pricing model and analyzing published rates for industries relevant to its reporting units to estimate the cost of equity financing. The Company uses discount rates that are commensurate with the risks and uncertainty inherent in the respective reporting units and in its internally developed forecasts.
+Under the market approach, the Company applies the Guideline Public Company Method ("GPCM") utilizing 
+Level 3 unobservable inputs
+. Selected peer sets are based on close competitors, publicly traded companies and reviews of analysts' reports, public filings, and industry research. In selecting the EBITDA multiples and determining the fair value, the Company considers the size, growth, and profitability of each reporting unit versus the relevant guideline public companies. When applicable, third-party purchase offers may be utilized to measure fair value.
+Estimating the fair value of reporting units requires the use of estimates and significant judgments that are based on a number of factors including actual operating results. It is reasonably possible that the judgments and estimates described above could change in future periods.
+Goodwill Impairment Testing at October 1, 2024
+In the fourth quarter of 2024 at October 1, the Company performed its annual goodwill impairment testing by applying the qualitative assessment to seven of its reporting units and the quantitative assessment to one reporting unit. The Company considered various qualitative factors that would have affected the estimated fair value of the reporting units, and the results of the qualitative assessments indicated that it is not more likely than not that the fair values of the reporting units were less than their carrying values. For the reporting units tested under the quantitative assessment, the results indicated that the estimated fair values of the reporting units exceeded its carrying values. The estimated fair value of the Protection reporting unit within Water & Protection exceeded its carrying value by approximately 5 percent. Given this level of fair value, the reporting unit is sensitive to changes in the significant assumptions used in the analysis, including projected revenue growth, EBITDA margin, weighted average cost of capital, terminal growth rate and tax rate.
+52
+Table of Contents
+LONG-TERM EMPLOYEE BENEFITS
+The Company has various obligations to its employees and retirees. The Company maintains retirement-related programs in many countries that have a long-term impact on the Company's earnings and cash flows. These plans are typically defined benefit pension plans. The Company has a few medical, dental and life insurance benefits for employees, pensioners and survivors and for employees (other post-employment benefits or "OPEB" plans).
+Pension coverage for employees of the Company's non-U.S. consolidated subsidiaries is provided, to the extent deemed appropriate, through separate plans. The Company regularly explores alternative solutions to meet its global pension obligations in the most cost-effective manner possible as demographics, life expectancy and country-specific pension funding rules change. Where permitted by applicable law, the Company reserves the right to change, modify or discontinue its plans that provide pension, medical, dental and life insurance. Benefits under defined benefit pension plans are based primarily on years of service and employees' pay near retirement. 
+Pension benefits are paid primarily from trust funds established to comply with applicable laws and regulations of the sovereign country in which the pension plan operates. Unless required by law, the Company does not make contributions that are in excess of tax-deductible limits. The actuarial assumptions and procedures utilized are reviewed periodically by the plans' actuaries to provide reasonable assurance that there will be adequate funds for the payment of benefits. Thus, there is not necessarily a direct correlation between pension funding and pension expense. In general, however, improvements in plans' funded status tends to moderate subsequent funding needs.
+The Company contributed $5 million to its funded pension plans for the year ended December 31, 2024. The Company contributed $9 million and $23 million to its funded pension plans for the years ended December 31, 2023 and 2022, respectively. All values within this Long-Term Employee Benefits section are inclusive of balances and activity associated with discontinued operations.
+The Company does maintain one U.S. pension benefit plan. This plan is a separate unfunded plan and these benefits are paid to employees from operating cash flows. The Company's remaining pension plans with no plan assets are paid from operating cash flows. The Company made benefit payments of $46 million, $57 million, and $56 million to its unfunded plans, including OPEB plans, for the years ended December 31, 2024, 2023 and 2022, respectively.
+In 2025, the Company expects to contribute approximately $56 million to its funded pension plans and its remaining plans with no plan assets. The amount and timing of actual future contributions will depend on applicable funding requirements, discount rates, investment performance, plan design, and various other factors.
+The Company's income can be affected by pension and defined contribution charges/(benefits) as well as OPEB costs. The following table summarizes the extent to which the Company's income for the years ended December 31, 2024, December 31, 2023 and December 31, 2022 was affected by pre-tax charges related to long-term employee benefits, which include defined contributions and net periodic benefit costs (credits):
+For the Years Ended
+In millions
+December 31, 2024
+December 31, 2023
+December 31, 2022
+Long-term employee benefit plan charges
+$
+123 
+$
+159 
+$
+138 
+The above charges (benefit) for pension and OPEB are determined as of the beginning of each period. See "Pension Plans and Other Post-Employment Benefits" under the Critical Accounting Estimates section of this report for additional information on determining annual expense.
+For 2025, long term employee benefit expense from continuing operations is expected to increase by about $14 million compared to 2024. The increase is mainly due to higher expected net periodic benefit costs.
+53
+Table of Contents
+ENVIRONMENTAL MATTERS
+The Company operates global manufacturing, facilities that are subject to a broad array of environmental laws and regulations. Such rules are subject to change by the implementing governmental agency, and the Company monitors these changes closely. Company policy requires that all operations meet or exceed legal and regulatory requirements. 
+In addition, the Company implements various voluntary programs to reduce its environmental footprint, which include initiatives to reduce air emissions, and greenhouse gas (GHG) emissions, minimize the generation of hazardous waste, decrease the volume of water used and discharged, increase the efficiency of energy use, and seek to avoid, eliminate or minimize substances of concerns. 
+The Company incurs, and expects to incur for the foreseeable future, costs to comply with complex environmental laws and regulations, as well as internal voluntary programs and goals, such as DuPont’s sustainability strategy. Based on existing facts and circumstances, management does not believe that year-over-year changes, if any, in environmental expenses charged to current operations will have a material impact on the Company's financial position, liquidity or results of operations. Annual expenditures in the near term are not expected to vary significantly from the range of such expenditures experienced in the past few years. Longer term, expenditures are subject to considerable uncertainty and may fluctuate significantly.
+Public policies may bring higher operating costs as well as greater revenue and margin opportunities. Legislative efforts to control or limit GHG emissions could affect the Company's energy source and supply choices as well as increase the cost of energy and raw materials derived from fossil fuels. Such efforts are also anticipated to provide the business community with greater certainty for the regulatory future, help guide investment decisions, and drive growth in demand for low-carbon and energy-efficient products, technologies, and services. Similarly, demand is expected to grow for products that facilitate adaptation to a changing climate. However, the current unsettled policy environment in the U.S., where many company facilities are located, adds an element of uncertainty to business decisions, particularly those relating to long-term capital investments.
+In addition, significant differences in regional or national approaches could present challenges in a global marketplace. An effective global climate policy framework will help drive the market changes that are needed to stimulate and efficiently deploy new innovations in science and technology, while maintaining open and competitive global markets.
+Environmental Operating Costs 
+As a result of its operations, the Company incurs costs for pollution abatement activities including waste collection and disposal, installation and maintenance of air pollution controls and wastewater treatment, emissions testing and monitoring, and obtaining permits. The Company also incurs costs related to environmental related research and development activities including environmental field and treatment studies as well as toxicity and degradation testing to evaluate the environmental impact of products and raw materials.
+Environmental Remediation 
+The Company has incurred environmental remediation costs, including indemnification remediation costs, of $21 million, $69 million and $12 million, for the years ended December 31, 2024, 2023 and 2022, respectively.
+Changes in the remediation accrual balance are summarized below:
+(In millions)
+Balance at December 31, 2022
+$
+90 
+Remediation payments 
+1
+(5)
+Net increase in remediation accrual
+ 1
+10 
+Net change, indemnification
+ 2
+53 
+Balance at December 31, 2023
+$
+148 
+Remediation payments 
+1
+(7)
+Net increase in remediation accrual
+ 1
+6 
+Net change, indemnification
+ 2
+(18)
+Balance at December 31, 2024
+$
+129 
+1.
+Excludes indemnification remediation obligations and payments.
+2.
+Represents the net change in indemnified remediation obligations based on activity pursuant to the DWDP Separation and Distribution Agreement and Letter Agreement as discussed below and in Note 16 to the Consolidated Financial Statements. This is not inclusive of the environmental accrual related to eligible PFAS costs associated with the MOU of $146 million and $152 million as of December 31, 2024 and 2023, respectively. 
+54
+Table of Contents
+Considerable uncertainty exists with respect to environmental remediation costs, and, under adverse changes in circumstances, the potential liability may range up to $285 million above the amount accrued as of December 31, 2024. However, based on existing facts and circumstances, management does not believe that any loss, in excess of amounts accrued, related to remediation activities at any individual site will have a material impact on the financial position, liquidity or results of operations of the Company. 
+Pursuant to the DWDP Separation and Distribution Agreement and the Letter Agreement discussed in Note 16 to the Consolidated Financial Statements, the Company indemnifies Dow and Corteva for certain environmental matters. The Company has recorded an indemnification liability of $84 million corresponding to the Company's accrual balance related to these matters at December 31, 2024. The indemnification liability is included in the total remediation accrual liability of $129 million. 
+Environmental Capital Expenditures 
+Capital expenditures for environmental projects, either required by law or necessary to meet the Company’s internal environmental goals, were $11 million for the year ended December 31, 2024. This amount includes $2 million of expenditures used towards the Company's climate change initiatives. The Company currently estimates expenditures for environmental-related capital projects to be approximately $12 million in 2025, with less than $3 million estimated for climate change initiatives.
+55
+Table of Contents

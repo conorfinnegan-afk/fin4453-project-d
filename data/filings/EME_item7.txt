@@ -1,0 +1,507 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+Business Description
+We are one of the largest specialty contractors in the United States and a leading provider of electrical and mechanical construction and facilities services, building services, and industrial services. Our services are provided to a broad range of commercial, technology, manufacturing, industrial, healthcare, utility, and institutional customers through approximately 100 operating subsidiaries. Such operating subsidiaries are organized into the following reportable segments:
+•
+United States electrical construction and facilities services;
+•
+United States mechanical construction and facilities services;
+•
+United States building services;
+•
+United States industrial services; and
+•
+United Kingdom building services. 
+We refer to our United States electrical construction and facilities services segment and our United States mechanical construction and facilities services segment together as our United States construction segments.
+For a more complete description of our operations, refer to Item 1. Business.
+2024 versus 2023
+Overview 
+The following table presents selected financial data for the fiscal years ended December 31, 2024 and 2023 (in thousands, except percentages and per share data): 
+2024
+2023
+Revenues
+$
+14,566,116 
+$
+12,582,873 
+Revenues increase from prior year
+15.8 
+%
+13.6 
+%
+Gross profit
+$
+2,765,051 
+$
+2,089,339 
+Gross profit as a percentage of revenues
+19.0 
+%
+16.6 
+%
+Operating income
+$
+1,344,863 
+$
+875,756 
+Operating income as a percentage of revenues
+9.2 
+%
+7.0 
+%
+Net income attributable to EMCOR Group, Inc.
+$
+1,007,145 
+$
+632,994 
+Diluted earnings per common share
+$
+21.52 
+$
+13.31 
+Revenues of $14.57 billion for the year ended December 31, 2024 set a new annual record for the Company and represent an increase of 15.8% from revenues of $12.58 billion for the year ended December 31, 2023. Demand for our services continues to be strong across most of the market sectors we serve and, as described in further detail below, we experienced revenue growth within the majority of our reportable segments. Revenues for the year ended December 31, 2024 included incremental acquisition contribution of approximately $251.5 million.
+Operating income for 2024 was $1,344.9 million, or 9.2% of revenues, establishing new annual records for the Company with respect to both operating income and operating margin. This compares to operating income of $875.8 million, or 7.0% of revenues, in 2023. The $469.1 million increase in operating income, and corresponding 220 basis point expansion in operating margin, were predominantly a result of improved operating performance within our United States construction segments, as described in further detail below. Operating income for the year ended December 31, 2024 included incremental acquisition contribution of $13.4 million, net of amortization expense attributable to identifiable intangible assets of $15.3 million.
+Net income of $1,007.1 million, or $21.52 per diluted share, for the year ended December 31, 2024, compares favorably to net income of $633.0 million, or $13.31 per diluted share, for the year ended December 31, 2023. While the majority of the increase in our net income and diluted earnings per share was a result of the increased operating income referenced above, these amounts additionally benefited from greater interest income and a reduction in interest expense in 2024. Further, our diluted earnings per share for the year ended December 31, 2024 was positively impacted by a reduced weighted average share count due to common stock repurchases made by us throughout 2023 and 2024.
+23
+Table of Contents
+Impact of Acquisitions
+In order to provide a more meaningful period-over-period discussion of our operating results, we may discuss amounts generated or incurred (revenues, gross profit, selling, general and administrative expenses, and operating income) from companies acquired. The amounts discussed reflect the acquired companies’ operating results in the current reported period only for the time period these entities were not owned by EMCOR in the comparable prior reported period. For further discussion regarding our acquisitions, refer to Note 4 - Acquisitions of Businesses of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data.
+During 2024, we acquired seven companies for upfront consideration of $231.1 million, inclusive of customary working capital adjustments. These acquisitions are comprised of: (a) an electrical contractor in the Southeast region of the United States, that has been included in our United States electrical construction and facilities services segment, (b) two companies that have been included within our United States mechanical construction and facilities services segment, including: (i) a leading plumbing services provider in the Southeast region of the United States and (ii) a full service provider of mechanical construction and maintenance services in Central Texas, (c) three companies that have been included in our United States building services segment, including: (i) a provider of building automation and controls solutions in the Northeast region of the United States, (ii) a mechanical services company in the Western region of the United States, and (iii) a mechanical services company in the Eastern region of the United States, and (d) an instrumentation and electrical contractor, that has been included in our United States industrial services segment, which provides electrical, automation, digital integration, and fabrication services to various energy sector and process equipment customers.
+During 2023, we acquired eight companies for total consideration of $99.6 million. Such acquisitions include: (a) a national energy efficiency specialty services firm, the results of operations of which have been included in our United States building services segment, and (b) seven companies, the results of operations of which were de minimis, consisting of: (i) three companies that have been included within our United States mechanical construction and facilities services segment, one of which provides mechanical and pipe fabrication services in the Midwestern region of the United States, and two of which add capabilities to our national fire protection services, and (ii) four mechanical services companies in the Western and Midwestern regions of the United States that have been included within our United States building services segment and enhance our presence in geographies where we have existing operations.
+During 2022, we acquired six companies for total consideration of $100.8 million. Such acquisitions include: (a) a company that provides electrical construction services in the Greater Boston area, the results of operations of which have been included in our United States electrical construction and facilities services segment, and (b) five companies that enhance our presence in geographies where we have existing operations, the results of operations of which were de minimis, consisting of: (i) two companies that provide fire protection services in the Northeastern and Southern regions of the United States, respectively, and that have been included within our United States mechanical construction and facilities services segment, (ii) two companies that specialize in either building automation and controls or mechanical services in the Southwestern and Southern regions of the United States, respectively, and that have been included within our United States building services segment, and (iii) a company that provides electrical construction services in the Midwestern region of the United States and that has been included within our United States electrical construction and facilities services segment. 
+Discussion and Analysis of Results of Operations 
+Revenues 
+The following table presents our revenues for each of our operating segments and the approximate percentages that each segment’s revenues were of total revenues for the years ended December 31, 2024 and 2023 (in thousands, except for percentages): 
+2024
+% of
+Total
+2023
+% of
+Total
+Revenues from unrelated entities:
+United States electrical construction and facilities services
+$
+3,342,927 
+23 
+%
+$
+2,783,723 
+22 
+%
+United States mechanical construction and facilities services
+6,405,657 
+44 
+%
+5,074,803 
+41 
+%
+United States building services
+3,114,817 
+21 
+%
+3,120,134 
+25 
+%
+United States industrial services
+1,277,190 
+9 
+%
+1,167,790 
+9 
+%
+Total United States operations
+14,140,591 
+97 
+%
+12,146,450 
+97 
+%
+United Kingdom building services
+425,525 
+3 
+%
+436,423 
+3 
+%
+Consolidated revenues
+$
+14,566,116 
+100 
+%
+$
+12,582,873 
+100 
+%
+24
+Table of Contents
+As a result of strong demand for our services across most of the market sectors we serve, revenues for the year ended December 31, 2024 increased to $14.57 billion compared to revenues of $12.58 billion for the year ended December 31, 2023. As described in more detail below, we experienced increases in revenues from the majority of our reportable segments. Additionally, revenues for 2024 included incremental acquisition contribution of approximately $251.5 million.
+Revenues of our United States electrical construction and facilities services segment were $3,342.9 million for the year ended December 31, 2024, a $559.2 million increase compared to revenues of $2,783.7 million for the year ended December 31, 2023. This segment’s results for 2024 included $2.7 million of incremental acquisition revenues. Excluding the impact of acquisitions, the increase in this segment’s revenues was primarily a result of growth within the network and communications market sector, predominantly due to data center construction projects. Increased demand for cloud computing and data storage, driven in part by the emergence of artificial intelligence, has resulted in a greater number of project opportunities for us in several of the geographies in which we operate. In addition, this segment benefited from revenue growth within a number of the other market sectors we serve, such as: (a) the high-tech manufacturing market sector, inclusive of construction projects for customers engaged in the design and manufacturing of semiconductors, (b) the manufacturing and industrial market sector, driven by increased activity with various energy sector customers, (c) the transportation market sector, due to certain infrastructure projects currently underway, and (d) the institutional market sector, given increased project revenues from certain schools and universities. These increases were partially offset by a reduction in revenues within the commercial market sector due in part to reduced demand across the commercial real estate industry.
+Our United States mechanical construction and facilities services segment revenues for the year ended December 31, 2024 were $6,405.7 million, a $1,330.9 million increase compared to revenues of $5,074.8 million for the year ended December 31, 2023. This segment’s results included $172.5 million of incremental acquisition revenues for the year ended December 31, 2024. Excluding the impact of acquisitions, the increase in this segment’s revenues was attributable to revenue growth within the majority of the market sectors in which we operate, as well as greater levels of service work. This segment experienced notable increases in revenues within: (a) the high-tech manufacturing market sector, as a result of stronger demand for our mechanical construction and/or fire protection services by certain customers: (i) engaged in either the design and manufacturing of semiconductors or the production and development of electric vehicles and/or lithium batteries and (ii) within the biotech, life-sciences, and pharmaceutical industries, (b) the network and communications market sector, due to increased data center project activity as this segment benefited from the same market demand described above within our United States electrical construction and facilities services segment, (c) the institutional market sector, given several public sector or university projects which were active during 2024, (d) the manufacturing and industrial market sector largely as a result of the re-shoring of critical supply chain by certain of our customers, (e) the water and wastewater market sector, driven by several projects within the Southeast region of the United States, and (f) the healthcare market sector, due to an increase in projects throughout several of the regions in which we operate. Partially offsetting these increases was a reduction in revenues within the commercial market sector, largely as a result of the completion of various warehouse and distribution projects, that were active in 2023.
+Revenues of our United States building services segment were $3,114.8 million for the year ended December 31, 2024 compared to $3,120.1 million for the year ended December 31, 2023. Excluding incremental acquisition contribution of $31.0 million, this segment’s revenues decreased by $36.3 million as the strength of its mechanical services division was more than offset by revenue declines within its commercial site-based services and government site-based services divisions due to the loss of certain facilities maintenance contracts not renewed pursuant to rebid. With respect to this segment’s mechanical services division, revenue growth was experienced from: (a) HVAC project and retrofit work, as a result of greater: (i) project execution stemming from the increased availability of materials and equipment when compared to the prior year, which experienced greater supply chain disruptions and delays, and (ii) demand for system upgrades and replacements, partially as our customers continue to seek ways to improve the energy efficiency or indoor air quality of their facilities, (b) service repair and maintenance volumes, given growth in our service contract base, and (c) building automation and controls projects, as we continue to expand our service offerings in this area.
+Revenues of our United States industrial services segment for the year ended December 31, 2024 were $1,277.2 million, a $109.4 million increase compared to revenues of $1,167.8 million for the year ended December 31, 2023. This segment’s results included $45.3 million of incremental revenues from an acquired company. Excluding such acquisition contribution, the increase in this segment’s revenues resulted from greater demand, including turnarounds of a larger size and scope growth on certain projects, in its field services division.
+Our United Kingdom building services segment revenues were $425.5 million for the year ended December 31, 2024 compared to $436.4 million for the year ended December 31, 2023. The decrease in this segment’s revenues for 2024 was primarily a result of the loss of certain facilities maintenance contracts not renewed pursuant to rebid. Revenues of this segment for 2024 were positively impacted by $11.4 million as a result of favorable exchange rate movements for the British pound versus the United States dollar.
+25
+Table of Contents
+Cost of sales and gross profit 
+The following table presents cost of sales, gross profit (revenues less cost of sales), and gross profit as a percentage of revenues (“gross profit margin”) for the years ended December 31, 2024 and 2023 (in thousands, except for percentages): 
+2024
+2023
+Cost of sales
+$
+11,801,065 
+$
+10,493,534 
+Gross profit
+$
+2,765,051 
+$
+2,089,339 
+Gross profit margin
+19.0 
+%
+16.6 
+%
+Our gross profit for the year ended December 31, 2024 was $2,765.1 million, or 19.0% of revenues, compared to gross profit of $2,089.3 million, or 16.6% of revenues, for the year ended December 31, 2023. The increase in gross profit and the expansion in gross profit margin were driven by each of our domestic reportable segments due to an improved revenue mix, excellent project execution, and/or favorable pricing. Our gross profit for 2024 included incremental acquisition contribution of $46.2 million net of amortization expense attributable to identifiable intangible assets of $8.6 million. Refer to the operating income section below for further discussion regarding the operating performance of each of our reportable segments.
+Selling, general and administrative expenses 
+The following table presents selling, general and administrative expenses (“SG&A”) and selling, general and administrative expenses as a percentage of revenues (“SG&A margin”) for the years ended December 31, 2024 and 2023 (in thousands, except for percentages): 
+2024
+2023
+Selling, general and administrative expenses
+$
+1,420,188 
+$
+1,211,233 
+SG&A margin
+9.7 
+%
+9.6 
+%
+Our selling, general and administrative expenses for the year ended December 31, 2024 were $1,420.2 million, or 9.7% of revenues, compared to selling, general and administrative expenses of $1,211.2 million, or 9.6% of revenues, for the year ended December 31, 2023. Selling, general and administrative expenses for 2024 included $32.8 million of incremental expenses directly related to companies acquired in 2024 and 2023, including amortization expense attributable to identifiable intangible assets of $6.7 million. Excluding incremental expenses from businesses acquired, the increase in selling, general and administrative expenses was predominantly attributable to greater: (a) salaries and related employment expenses, largely as a result of additional headcount to support our organic revenue growth as well as annual cost of living adjustments, and (b) incentive compensation expense at certain of our operating subsidiaries, due to higher operating results than in the prior year.
+Operating income (loss) 
+The following table presents by segment our operating income (loss) and each segment’s operating income (loss) as a percentage of such segment’s revenues (“operating margin”) for the years ended December 31, 2024 and 2023 (in thousands, except for percentages): 
+2024
+% of
+Segment
+Revenues 
+2023
+% of
+Segment
+Revenues 
+Operating income (loss):
+United States electrical construction and facilities services
+$
+447,186 
+13.4 
+%
+$
+230,640 
+8.3 
+%
+United States mechanical construction and facilities services
+799,613 
+12.5 
+%
+530,644 
+10.5 
+%
+United States building services
+176,720 
+5.7 
+%
+182,995 
+5.9 
+%
+United States industrial services
+44,213 
+3.5 
+%
+35,375 
+3.0 
+%
+Total United States operations
+1,467,732 
+10.4 
+%
+979,654 
+8.1 
+%
+United Kingdom building services
+21,485 
+5.0 
+%
+25,681 
+5.9 
+%
+Corporate administration
+(144,354)
+— 
+(127,229)
+— 
+Impairment loss on long-lived assets
+— 
+— 
+(2,350)
+— 
+Consolidated operating income
+1,344,863 
+9.2 
+%
+875,756 
+7.0 
+%
+Other items:
+Net periodic pension income (cost)
+894 
+(1,119)
+Interest expense
+(3,779)
+(17,199)
+Interest income
+35,404 
+15,415 
+Income before income taxes
+$
+1,377,382 
+$
+872,853 
+26
+Table of Contents
+Operating income for the year ended December 31, 2024 was $1,344.9 million, an increase of $469.1 million compared to operating income of $875.8 million for the year ended December 31, 2023. Operating margin was 9.2% and 7.0% in 2024 and 2023, respectively. As described in more detail below, these increases in profitability were predominantly a result of improved operating performance within our United States construction segments, due to a more favorable mix of work and better project execution, including enhanced productivity, due in part to investments in virtual design and construction, prefabrication, and automation. Operating income for 2024 included incremental acquisition contribution of $13.4 million net of amortization expense attributable to identifiable intangible assets of $15.3 million.
+Operating income of our United States electrical construction and facilities services segment for the year ended December 31, 2024 was $447.2 million, or 13.4% of revenues, compared to operating income for the year ended December 31, 2023 of $230.6 million, or 8.3% of revenues. The $216.5 million increase in operating income and 510 basis point improvement in operating margin of this segment were a result of greater gross profit and gross profit margin from projects within the majority of the market sectors in which we operate, due to both an increase in revenues as well as a more favorable mix of work. While the most significant increase in gross profit was experienced within the network and communications market sector, this segment additionally benefited from greater gross profit recognized on projects within the manufacturing and industrial, transportation, institutional, and high-tech manufacturing market sectors.
+Our United States mechanical construction and facilities services segment’s operating income for the year ended December 31, 2024 was $799.6 million, a $269.0 million increase compared to operating income of $530.6 million for the year ended December 31, 2023. Operating margin of this segment for the year ended December 31, 2024 was 12.5%, a 200 basis point improvement over its operating margin for the year ended December 31, 2023 of 10.5%. This segment’s operating income for 2024 included incremental acquisition contribution of $14.4 million net of amortization expense attributable to identifiable intangible assets of $10.3 million. Excluding the impact of acquisitions, the increases in operating income and operating margin of this segment were primarily a result of contribution from projects within: (a) the high-tech manufacturing market sector, including certain mechanical construction or fire protection projects for customers engaged in either the design or manufacturing of semiconductors or the production and development of electric vehicles and/or lithium batteries, and (b) the network and communications market sector. While the most significant increases in gross profit were seen within the above referenced market sectors, this segment also experienced increases in gross profit across all of the other market sectors in which we operate, with notable increases generated within institutional, manufacturing and industrial, and commercial.
+Operating income of our United States building services segment for the year ended December 31, 2024 was $176.7 million, or 5.7% of revenues, compared to operating income of $183.0 million, or 5.9% of revenues, for the year ended December 31, 2023. Increased gross profit from this segment’s mechanical services division, due primarily to greater profitability across its portfolio of HVAC and building automation and controls projects and retrofits, was partially offset by reductions in gross profit from its commercial site-based services and government site-based services divisions, given the loss of certain facilities maintenance contracts not renewed pursuant to rebid. In addition, operating income and operating margin for the year ended December 31, 2024 were negatively impacted by an $11.0 million reserve recorded during the first quarter for a specific customer bankruptcy within this segment’s commercial site-based services division. Such reserve negatively impacted the operating margin of this segment for 2024 by approximately 30 basis points. 
+Our United States industrial services segment’s operating income for the year ended December 31, 2024 was $44.2 million, or 3.5% of revenues, compared to operating income of $35.4 million, or 3.0% of revenues, for the year ended December 31, 2023. Operating income of this segment benefited from greater gross profit generated within its: (a) field services division due to the increase in revenues referenced above, and (b) shop services division as a result of an improvement in gross profit margin given favorable pricing. The increase in operating margin of this segment was attributable to the increased gross profit margin within the shop services division.
+Operating income of our United Kingdom building services segment for the year ended December 31, 2024 was $21.5 million, or 5.0% of revenues, compared to operating income of $25.7 million, or 5.9% of revenues, for the year ended December 31, 2023. The decrease in operating income and operating margin was due to a decline in gross profit and gross profit margin. In addition to the impact of lower facilities maintenance revenues, gross profit and gross profit margin were negatively affected by a less favorable mix of work when compared to the prior year, which included a greater number of higher margin projects. Operating income of this segment for 2024 was positively impacted by $0.5 million as a result of favorable exchange rate movements for the British pound versus the United States dollar.
+Our corporate administration expenses were $144.4 million for 2024 compared to $127.2 million in 2023. The increase in corporate expenses was primarily due to: (a) greater employment compensation and related costs, including salaries and benefits, incentive compensation, and share-based compensation, (b) certain severance expenses which were recorded during the first quarter of the year, and (c) higher computer hardware and software costs, due to various information technology and cybersecurity initiatives currently in process.
+27
+Table of Contents
+Other items 
+Interest expense was $3.8 million and $17.2 million for the years ended December 31, 2024 and 2023, respectively. The year-over-year decrease in interest expense was a result of the repayment, in December of 2023, of all previously outstanding direct borrowings under our credit facility. Interest income was $35.4 million and $15.4 million for the years ended December 31, 2024 and 2023, respectively. The increase in annual interest income resulted from greater returns on our invested cash, due to an increase in our average daily invested cash balance.
+Our income tax provision for the year ended December 31, 2024 was $370.2 million, based on an income tax rate of 26.9%, compared to an income tax provision and an income tax rate of $239.5 million and 27.5%, respectively, for the year ended December 31, 2023. Refer to Note 11 - Income Taxes of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data for further discussion regarding our income tax provision and effective income tax rate.
+Remaining Unsatisfied Performance Obligations 
+The following table presents the transaction price allocated to remaining unsatisfied performance obligations (“remaining performance obligations”) for each of our reportable segments and their respective percentage of total remaining performance obligations (in thousands, except for percentages):
+December 31, 2024
+% of Total
+December 31, 2023
+% of Total
+Remaining performance obligations:
+United States electrical construction and facilities services
+$
+3,068,396 
+31 
+%
+$
+2,387,844 
+27 
+%
+United States mechanical construction and facilities services
+5,463,096 
+54 
+%
+4,940,519 
+56 
+%
+United States building services
+1,246,642 
+12 
+%
+1,264,818 
+14 
+%
+United States industrial services
+138,599 
+1 
+%
+113,291 
+1 
+%
+Total United States operations
+9,916,733 
+98 
+%
+8,706,472 
+98 
+%
+United Kingdom building services
+185,466 
+2 
+%
+140,949 
+2 
+%
+Total operations
+$
+10,102,199 
+100 
+%
+$
+8,847,421 
+100 
+%
+Our remaining performance obligations at December 31, 2024 were $10.10 billion compared to $8.85 billion at December 31, 2023. Remaining performance obligations increased within all of our reportable segments, with the exception of our United States building services segment, which experienced a modest decline. The most significant growth was experienced within our United States construction segments, largely as a result of the award of several data center construction contracts within the network and communications market sector. These segments also experienced increases in remaining performance obligations across a number of the other sectors we serve, most notably within healthcare. Remaining performance obligations increased by $178.8 million as a result of acquisitions made by us during 2024. Partially offsetting these increases was a decrease in remaining performance obligations within the high-tech manufacturing market sector primarily as a result of progress made on certain semiconductor and electric vehicle manufacturing construction projects within our United States mechanical construction and facilities services segment.
+See Note 3 - Revenue from Contracts with Customers of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data for further disclosure regarding our remaining performance obligations.
+2023 versus 2022
+For discussion and analysis of results of operations for the year ended December 31, 2023 compared to the year ended December 31, 2022, refer to Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations of our Form 10-K for the year ended December 31, 2023.
+28
+Table of Contents
+Liquidity and Capital Resources
+The following section discusses our principal liquidity and capital resources, as well as our primary liquidity requirements and sources and uses of cash. 
+We are focused on the efficient conversion of operating income into cash to provide for the Company’s material cash requirements, including working capital needs, investment in our growth strategies through business acquisitions and capital expenditures, satisfaction of contractual commitments, including principal and interest payments on any outstanding indebtedness, and shareholder return through dividend payments and share repurchases. We strive to maintain a balanced approach to capital allocation in order to achieve growth, deliver value, and minimize risk. 
+Management monitors financial markets and overall economic conditions for factors that may affect our liquidity and capital resources and adjusts our capital allocation strategy as necessary. Negative macroeconomic trends could have an adverse effect on future liquidity if we experience delays in the payment of outstanding receivables beyond normal payment terms, an increase in credit losses, or significant increases in the price of commodities or the materials and equipment utilized for our project and service work, beyond those experienced to date. In addition, during economic downturns, there have typically been fewer small discretionary projects from the private sector and our competitors have aggressively bid larger long-term infrastructure and public sector contracts. Our liquidity is also impacted by: (a) the type and length of construction contracts in place, as performance of long duration contracts typically requires greater amounts of working capital, (b) the level of turnaround activities within our United States industrial services segment, as such projects are billed in arrears pursuant to contractual terms that are standard within the industry, and (c) the billing terms of our maintenance contracts, including those within our United States and United Kingdom building services segments. While we strive to negotiate favorable billing terms, which allow us to invoice in advance of costs incurred on certain of our contracts, there can be no assurance that such terms will be agreed to by our customers.
+As of December 31, 2024, we had cash and cash equivalents, excluding restricted cash, of $1,339.6 million, which are maintained in depository accounts and highly liquid investments with original maturity dates of three months or less. Both our short-term and long-term liquidity requirements are expected to be met through our cash and cash equivalent balances, cash generated from our operations, and, as necessary, the borrowing capacity under our revolving credit facility. Our credit agreement provides for a $1.30 billion revolving credit facility, for which there was $1.23 billion of available capacity as of December 31, 2024. 
+Refer to Note 9 - Debt of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data for further information regarding our credit agreement. Based upon our current credit rating and financial position, we can also reasonably expect to be able to secure long-term debt financing if required to achieve our strategic objectives; however, no assurances can be made that such debt financing will be available on favorable terms. We believe that we have sufficient financial resources available to meet our short-term and foreseeable long-term liquidity requirements.
+Cash Flows
+The following table presents a summary of our operating, investing, and financing cash flows (in thousands):
+2024
+2023
+Net cash provided by operating activities
+$
+1,407,894 
+$
+899,655 
+Net cash used in investing activities
+$
+(299,284)
+$
+(161,291)
+Net cash used in financing activities
+$
+(555,365)
+$
+(412,054)
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash
+$
+(2,600)
+$
+6,372 
+Increase in cash, cash equivalents, and restricted cash
+$
+550,645 
+$
+332,682 
+During the year ended December 31, 2024, our cash balance, including cash equivalents and restricted cash, increased by $550.6 million from $789.8 million at December 31, 2023 to $1,340.4 million at December 31, 2024. Changes in our cash position from December 31, 2023 to December 31, 2024 are described in further detail below. For a discussion of the changes in our cash position from December 31, 2022 to December 31, 2023, refer to the Liquidity and Capital Resources section included in Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations of our Form 10-K for the year ended December 31, 2023. 
+Operating Activities
+ – Operating cash flows generally represent our net income as adjusted for certain non-cash items and changes in assets and liabilities. For 2024, net cash provided by operating activities was approximately $1,407.9 million compared to approximately $899.7 million in 2023. The $508.2 million year-over-year increase in operating cash flows was primarily a result of: (a) our improved operating performance and the corresponding increase in our net income and (b) the timing of cash receipts from our customers.
+29
+Table of Contents
+Investing Activities
+ – Investing cash flows consist primarily of payments for acquisition of businesses, capital expenditures, and proceeds from the sale or disposal of property, plant, and equipment. Net cash used in investing activities for 2024 increased by approximately $138.0 million compared to 2023, primarily due to an increase in payments for acquisitions.
+Financing Activities
+ – Financing cash flows consist primarily of the issuance and repayment of short-term and long-term debt, repurchases of common stock, payments of dividends to stockholders, and the issuance of common stock through certain equity plans. Net cash used in financing activities during 2024 was $555.4 million compared to $412.1 million during 2023. The $143.3 million variance was primarily due to an increase in common stock repurchases made by us during 2024, partially offset by the impact of repayments on our outstanding debt in the prior year period. The timing of common stock repurchases is at management’s discretion subject to securities laws and other legal requirements and depends upon several factors, including market and business conditions, current and anticipated future liquidity, share price, and share availability, among others. For additional detail regarding our share repurchase program, refer to Note 12 - Common Stock of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data.
+We currently pay a regular quarterly dividend of $0.25 per share. For the years ended December 31, 2024 and 2023, cash payments related to dividends were $43.4 million and $32.7 million, respectively. Our credit agreement places limitations on the payment of dividends on our common stock. However, we do not believe that the terms of such agreement currently materially limit our ability to pay such quarterly dividends for the foreseeable future. 
+Effect of Exchange Rate Changes on Cash, Cash Equivalents, and Restricted Cash 
+–
+We are exposed to fluctuations in foreign currency exchange rates, almost entirely with respect to the British pound. Therefore, the $9.0 million variance between the years ended December 31, 2024 and 2023 was a direct result of exchange rate movements for the British pound versus the United States dollar.
+Material Cash Requirements from Contractual and Other Obligations
+As of December 31, 2024, our short-term and long-term material cash requirements for known contractual and other obligations were as follows: 
+Outstanding Debt and Interest Payments
+ – As of December 31, 2024, there were no direct borrowings outstanding under our revolving credit facility. Interest payments on any future borrowings will be determined based on prevailing interest rates at that time. Refer to Note 9 - Debt of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data for further detail of our debt obligations, including our revolving credit facility.
+Operating and Finance Leases
+ – In the normal course of business, we lease real estate, vehicles, and equipment under various arrangements which are classified as either operating or finance leases. Future payments for such leases, excluding leases with initial terms of one year or less, were $390.1 million at December 31, 2024, with $96.9 million payable within the next 12 months. Refer to Note 16 - Leases of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data for further detail surrounding our lease obligations and the timing of expected future payments.
+Open Purchase Obligations
+ – As of December 31, 2024, we had $2.33 billion of open purchase obligations, of which payments totaling approximately $2.01 billion are expected to become due within the next 12 months. These obligations represent open purchase orders to suppliers and subcontractors related to our construction and services contracts. These purchase orders are not reflected in the Consolidated Balance Sheets and are not expected to impact future liquidity as amounts should be recovered through customer billings. 
+Insurance Obligations
+ – As described in further detail in Note 2 - Summary of Significant Accounting Policies of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data, we have loss payment deductibles and/or self-insured retentions for certain insurance matters. As of December 31, 2024, our insurance liabilities, net of estimated recoveries, were $240.1 million. Of this net amount, approximately $41.6 million is estimated to be payable within the next 12 months. Due to many uncertainties inherent in resolving these matters, it is not practical to estimate these payments beyond such period. To the extent that the amount required to settle claims covered by insurance continues to increase, the cost of our insurance coverage, including premiums and deductibles, is likely to increase.
+Contingent Consideration Liabilities
+ – We have incurred liabilities related to contingent consideration arrangements associated with certain acquisitions, payable in the event discrete performance objectives are achieved by the acquired businesses during designated post-acquisition periods. The aggregate amount of these liabilities can change due to additional business acquisitions, settlement of outstanding liabilities, changes in the fair value of amounts owed based on performance during such post-acquisition periods, and accretion in present value. As of December 31, 2024, the present value of expected future payments relating to these contingent consideration arrangements was $29.7 million. Of this amount, $20.4 million is estimated as being payable during 2025, with the remainder due pursuant to the terms of our contractual agreements, some of which extend into 2027.
+30
+Table of Contents
+In addition, material cash requirements for other potential obligations, for which we cannot reasonably estimate future payments, include the following:
+Legal Proceedings
+ – We are involved in several legal proceedings in which damages and claims have been asserted against us. While litigation is subject to many uncertainties and the outcome of litigation is not predictable with assurance, we do not believe that any such matters will have a material adverse effect on our financial position, results of operations, or liquidity. Refer to Note 15 - Commitments and Contingencies of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data for more information regarding legal proceedings
+.
+Multiemployer Benefit Plans
+ – In addition to our Company sponsored benefit plans, we participate in certain multiemployer pension and other post-retirement plans. The cost of these plans is equal to the annual required contributions determined in accordance with the provisions of negotiated collective bargaining agreements. During 2024, 2023, and 2022, contributions made to these plans were $577.0 million, $502.3 million, and $449.9 million, respectively; however, our future contributions to the multiemployer plans are dependent upon a number of factors. Amounts of future contributions that we would be contractually obligated to make pursuant to these plans cannot be reasonably estimated. Refer to Note 14 - Retirement Plans of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data for more information regarding multiemployer benefit plans.
+Off-Balance Sheet Arrangements and Other Commercial Commitments
+The terms of our construction contracts frequently require that we obtain from surety companies, and provide to our customers, surety bonds as a condition to the award of such contracts. These surety bonds are issued in return for premiums, which vary depending on the size and type of the bond, and secure our payment and performance obligations under such contracts. We have agreed to indemnify the surety companies for amounts, if any, paid by them in respect of surety bonds issued on our behalf. As of December 31, 2024, based on the percentage-of-completion of our projects covered by surety bonds, our aggregate estimated exposure, assuming defaults on all our then existing contractual obligations, was approximately $2.5 billion, which represents approximately 25% of our total remaining performance obligations. 
+Surety bonds expire at various times ranging from final completion of a project to a period extending beyond contract completion in certain circumstances. Such amounts can also fluctuate from period to period based upon the mix and level of our bonded operating activity. For example, public sector contracts require surety bonds more frequently than private sector contracts and, accordingly, our bonding requirements typically increase as the amount of our public sector work increases. Our estimated maximum exposure as it relates to the value of the surety bonds outstanding is lowered on each bonded project as the cost to complete is reduced, and each commitment under a surety bond generally extinguishes concurrently with the expiration of its related contractual obligation.
+Surety bonds are sometimes provided to secure obligations for wages and benefits payable to or for certain of our employees, at the request of labor unions representing such employees. In addition, surety bonds or letters of credit may be issued as collateral for certain insurance obligations. As of December 31, 2024, we satisfied approximately $61.7 million and $71.1 million of the collateral requirements of our insurance programs by utilizing surety bonds and letters of credit, respectively. All such letters of credit were issued under our revolving credit facility, therefore reducing the available capacity of such facility.
+We are not aware of any losses in connection with surety bonds that have been posted on our behalf, and we do not expect to incur significant losses in the foreseeable future.
+From time to time, we discuss with our current and other surety bond providers the amounts of surety bonds that may be available to us based on our financial strength and the absence of any default by us on any surety bond issued on our behalf and believe those amounts are currently adequate for our needs. However, if we experience changes in our bonding relationships or if there are adverse changes in the surety industry, we may: (a) seek to satisfy certain customer requests for surety bonds by posting other forms of collateral in lieu of surety bonds, such as letters of credit, parent company guarantees, or cash, in order to convince customers to forego the requirement for surety bonds, (b) increase our activities in our businesses that rarely require surety bonds, and/or (c) refrain from bidding for certain projects that require surety bonds. 
+There can be no assurance that we would be able to effectuate alternatives to providing surety bonds to our customers or to obtain, on favorable terms, sufficient additional work that does not require surety bonds. Accordingly, a reduction in the availability of surety bonds could have a material adverse effect on our financial position, results of operations, and/or cash flows.
+In the ordinary course of business, we, at times, guarantee obligations of our subsidiaries under certain contracts. Generally, we are liable under such an arrangement only if our subsidiary fails to perform its obligations under the contract. Historically, we have not incurred any substantial liabilities as a consequence of these guarantees. 
+We do not have any other material financial guarantees or off-balance sheet arrangements other than those disclosed herein. 
+31
+Table of Contents
+Other Items
+To help mitigate the impacts of greenhouse gas emissions on climate change, EMCOR has established initial carbon-based fuel consumption and greenhouse gas emission reduction targets. Although to date we have not incurred any material costs or capital expenditures associated with achieving our targets, we could be required to expend amounts in future periods as we continue to work towards our goals. It is not possible, at this time, to estimate the impact that future costs and/or capital expenditures may have on our business, financial condition, results of operations, or liquidity.
+New Accounting Pronouncements 
+We review new accounting standards to determine the expected impact, if any, that the adoption of such standards will have on our financial position and/or results of operations. See Note 2 - Summary of Significant Accounting Policies of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data for further information regarding new accounting standards, including the anticipated dates of adoption and the effects on our consolidated financial position, results of operations, or liquidity. 
+Critical Accounting Policies and Estimates 
+The preparation of our consolidated financial statements is based on the application of significant accounting policies, which require management to make estimates and assumptions. Our significant accounting policies are described further in Note 2 - Summary of Significant Accounting Policies of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data. We base our estimates on historical experience, known or expected trends, third-party valuations, and various other assumptions that we believe to be reasonable under the circumstances. As future events and their effects cannot be determined with precision, actual results could differ significantly from these estimates. There have been no significant changes to our critical accounting policies or methods for the year ended December 31, 2024. We believe the following critical accounting policies govern the more significant judgments and estimates used in the preparation of our financial statements.
+Revenue Recognition from Contracts with Customers 
+The Company recognizes revenue when it transfers promised goods or services to customers in an amount that reflects the consideration to which we expect to be entitled in exchange for those goods or services by applying the following five step model: (1) identify the contract with a customer; (2) identify the performance obligations in the contract; (3) determine the transaction price; (4) allocate the transaction price to the performance obligations in the contract; (5) recognize revenue as performance obligations are satisfied.
+The nature of our contracts gives rise to several types of variable consideration, including pending change orders and claims; contract bonuses and incentive fees; and liquidated damages and penalties. We recognize revenue for such variable consideration when it is probable, in our judgment, that a significant future reversal in the amount of cumulative revenue recognized under the contract will not occur when the uncertainty associated with the variable consideration is subsequently resolved. The Company estimates the amount of variable consideration to be included in the transaction price utilizing one of two prescribed methods, depending on which method better predicts the amount of consideration to which the entity will be entitled. 
+Due to uncertainties inherent in the estimation process, as well as the significant judgment involved in determining variable consideration, it is possible that estimates of costs to complete a performance obligation, and/or our estimates of transaction prices, will be revised in the near term. For those performance obligations for which revenue is recognized using a cost-to-cost input method, changes in total estimated costs, and related progress towards complete satisfaction of the performance obligation, or changes in the estimate of transaction prices, are recognized on a cumulative catch-up basis in the period in which the revisions to the estimates are made. 
+Based on an evaluation of individual projects that were substantially complete in prior periods but had revisions to total estimated costs or anticipated contract value (inclusive of the settlement of previously outstanding change orders and claims) that resulted in an increase to profitability in excess of $1.0 million, we recognized revenue during the years ended December 31, 2024 and 2023, as summarized in the following table (in thousands):
+2024
+2023
+United States electrical construction and facilities services
+$
+14,006 
+$
+3,350 
+United States mechanical construction and facilities services
+10,551 
+13,114 
+Total impact
+$
+24,557 
+$
+16,464 
+There were no significant amounts of revenue recognized during the year ended December 31, 2022 related to performance obligations satisfied in prior periods.
+32
+Table of Contents
+Included in our results for the year ended December 31, 2024 was $12.3 million of gross profit recognized on two contracts, which are currently in process, as a result of favorable developments on certain claims. Of this amount, $8.4 million was reported within our United States electrical construction and facilities services segment and $3.9 million was reported within our United States mechanical construction and facilities services segment.
+Based on an evaluation of individual projects that had revisions to total estimated costs or anticipated contract value that resulted in a reduction of profitability in excess of $1.0 million, our operating results were negatively impacted during the years ended December 31, 2024, 2023, and 2022, as summarized in the following table (in thousands): 
+2024
+2023
+2022
+United States electrical construction and facilities services
+$
+27,977 
+$
+12,535 
+$
+33,463 
+United States mechanical construction and facilities services
+38,342 
+10,864 
+13,679 
+United States building services
+— 
+5,658 
+1,261 
+Total impact
+$
+66,319 
+$
+29,057 
+$
+48,403 
+Due to the significant judgments utilized in the estimation process described above, if subsequent actual results and/or updated assumptions, estimates, or projections related to our underlying project positions were to change from those utilized at December 31, 2024, it could result in a material impact to our results of operations. For example, a 50 basis point increase or decrease in the estimated gross profit margin on our uncompleted construction projects, in the aggregate, as a result of a revision in estimated costs to complete a performance obligation or a revision in estimated transaction price, would have resulted in an increase or decrease to operating income of approximately $130 million for the year ended December 31, 2024. 
+See Note 3 - Revenue from Contracts with Customers of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data for further disclosure regarding revenue recognition.
+Insurance Liabilities 
+We have loss payment deductibles for certain workers’ compensation, automobile liability, general liability, and property claims, have self-insured retentions for certain other casualty claims, and are self-insured for employee-related healthcare claims. In addition, we maintain a wholly-owned captive insurance subsidiary to manage certain of our insurance liabilities. Losses are recorded based upon estimates of our liability for claims incurred and for claims incurred but not reported. The liabilities are derived from known facts, historical trends, and industry averages, utilizing the assistance of an independent third-party actuary to determine the best estimate for the majority of these obligations. We believe the liabilities recognized on the Consolidated Balance Sheets for these obligations are adequate. However, such obligations are difficult to assess and estimate due to numerous factors, including severity of injury, determination of liability in proportion to other parties, timely reporting of occurrences, and effectiveness of safety and risk management programs. Therefore, if our actual experience differs from the assumptions and estimates used for recording the liabilities, adjustments may be required and will be recorded in the period that the experience becomes known. In addition, an increase in the cost to settle insurance claims could result in higher insurance costs and deductibles. Our estimated net insurance liabilities for workers’ compensation, automobile liability, general liability, and property claims increased by $20.0 million for the year ended December 31, 2024 compared to the year ended December 31, 2023, partially as a result of greater potential exposures and an increase in certain of our deductibles or self-insured retentions. If our estimated insurance liabilities for workers’ compensation, automobile liability, general liability, and property claims were to increase by 10%, it would have resulted in $24.0 million of additional expense for the year ended December 31, 2024.
+Goodwill, Identifiable Intangible Assets, and Other Long-Lived Assets
+Goodwill
+As of December 31, 2024 and 2023, we had goodwill of $1,018.4 million and $956.5 million, respectively, arising out of the acquisition of businesses. Goodwill is not amortized but instead allocated to its respective reporting unit and evaluated for impairment annually, or more frequently if events or circumstances indicate that the carrying amount of goodwill may be impaired. We have determined that our reporting units are consistent with the reportable segments identified in Note 18 - Segment Information of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data. As of December 31, 2024, approximately 18.8% of our goodwill related to our United States electrical construction and facilities services segment, approximately 33.8% related to our United States mechanical construction and facilities services segment, approximately 35.2% related to our United States building services segment, and approximately 12.2% related to our United States industrial services segment. 
+33
+Table of Contents
+Absent any earlier identified impairment indicators, we perform our annual goodwill impairment assessment on October 1 each fiscal year. Qualitative indicators that may trigger the need for interim quantitative impairment testing include, among others, a deterioration in macroeconomic conditions, declining financial performance, deterioration in the operational environment, or an expectation of selling or disposing of a portion of a reporting unit. Additionally, an interim impairment test may be triggered by a significant change in business climate, a loss of a significant customer, increased competition, or a sustained decrease in share price. In assessing whether our goodwill is impaired, we compare the fair value of the reporting unit to its carrying amount, including goodwill. If the fair value exceeds the carrying amount, no impairment is recognized. However, if the carrying amount of the reporting unit exceeds the fair value, the goodwill of the reporting unit is impaired and an impairment loss in the amount of the excess is recognized and charged to operations.
+We performed our annual impairment assessment of all reporting units as of October 1, 2024 and determined there was no impairment of goodwill. Based on these impairment assessments, the fair values of our United States electrical construction and facilities services segment, our United States mechanical construction and facilities services segment, our United States building services segment, and our United States industrial services segment exceeded their carrying values by approximately $3,940.5 million, $6,852.3 million, $1,143.8 million, and $163.1 million, respectively. As part of such annual testing, we compared the aggregate fair value of our reporting units to our market capitalization, noting that such comparison supported the reasonableness of the key assumptions utilized in determining the fair value of each of our reporting units. 
+In completing our annual impairment assessment, we determined the fair value of each of our reporting units using an income approach whereby fair value was calculated utilizing discounted estimated future cash flows, assuming a risk-adjusted industry weighted average cost of capital. The weighted average cost of capital used in our annual impairment testing was 10.6% for our United States construction segments, 10.9% for our United States building services segment, and 10.5% for our United States industrial services segment. These weighted average cost of capital estimates were developed with the assistance of an independent third-party valuation specialist and reflect the overall level of inherent risk within the respective reporting unit and the rate of return a market participant would expect to earn. 
+Our cash flow projections were derived from our most recent internal forecasts of anticipated revenue growth rates and operating margins, with cash flows beyond the discrete forecast period estimated using a terminal value calculation which incorporated historical and forecasted trends, an estimate of long-term growth rates, and assumptions about the future demand for our services. The perpetual growth rate used for our annual testing was 2.5% for all of our reporting units.
+Due to the inherent uncertainties involved in making estimates, our assumptions may change in future periods. Estimates and assumptions made for purposes of our goodwill impairment testing may prove to be inaccurate predictions of the future, and other factors used in assessing fair value, such as the weighted average cost of capital, are outside the control of management. Unfavorable changes in certain of these key assumptions may affect future testing results. For example, keeping all other assumptions constant, a 50 basis point increase in the weighted average cost of capital would cause the estimated fair values of our United States electrical construction and facilities services segment, our United States mechanical construction and facilities services segment, our United States building services segment, and our United States industrial services segment to decrease by approximately $226.5 million, $383.7 million, $93.5 million, and $32.5 million, respectively. In addition, keeping all other assumptions constant, a 50 basis point reduction in the perpetual growth rate would cause the estimated fair values of our United States electrical construction and facilities services segment, our United States mechanical construction and facilities services segment, our United States building services segment, and our United States industrial services segment to decrease by approximately $123.2 million, $210.1 million, $46.0 million, and $13.0 million, respectively. Given the amounts by which the fair value exceeds the carrying value for each of our reporting units, the decreases in estimated fair values described above would not have significantly impacted the results of our 2024 impairment tests. Further, for each of our reporting units, a 10% decline in the estimated fair value of such reporting unit, due to other changes in our assumptions, including forecasted future cash flows, would not have significantly impacted the results of our 2024 impairment tests.
+Identifiable Intangible Assets and Other Long-Lived Assets
+As of December 31, 2024 and 2023, net identifiable intangible assets (primarily consisting of our customer relationships, subsidiary trade names, developed technology/vendor network, and contract backlog) arising out of the acquisition of businesses were $648.2 million and $586.0 million, respectively. The determination of related estimated useful lives for identifiable intangible assets and whether those assets are impaired involves significant judgments based upon short- and long-term projections of future performance. These forecasts reflect assumptions regarding anticipated macroeconomic conditions as well as our ability to successfully integrate acquired businesses.
+Absent earlier indicators of impairment, we test for impairment of subsidiary trade names that are not subject to amortization on an annual basis (October 1). In addition, we review for impairment of identifiable intangible assets that are being amortized as well as other long-lived assets whenever facts and circumstances indicate that their carrying values may not be fully recoverable. 
+34
+Table of Contents
+As of October 1, 2024, we performed our annual impairment testing of all subsidiary trade names that are not subject to amortization and determined that there was no impairment of these assets. In performing this impairment assessment, we considered the sensitivity of the reported amounts to the methods, assumptions, and estimates underlying our testing. For example, we performed sensitivity analyses and concluded that, individually, none of the following changes in estimates or assumptions would have significantly impacted the results of our testing or resulted in a material impairment of our subsidiary trade names: (a) a 50 basis point increase in the discount rate utilized in our testing, (b) a 50 basis point decline in the perpetual growth rate utilized in our testing, or (c) a 10% decrease in the estimated fair value of each trade name.
+With respect to identifiable intangible assets that are being amortized as well as other long-lived assets, we did not identify any circumstances indicating that their carrying values may not be fully recoverable and, therefore, no impairment testing was required for these assets during the year ended December 31, 2024.
+During 2023, we identified facts and circumstances that indicated the carrying values of certain long-lived assets within our United States mechanical construction and facilities services segment may not be fully recoverable, necessitating a comparison of their carrying values to the undiscounted pre-tax cash flows estimated to result from the use of such assets. As a result of this test, we determined that these assets were impaired, and recognized a $2.4 million impairment charge as calculated using a discounted cash flow model.
+Other Considerations
+As referenced above, impairment testing is based upon assumptions and estimates determined by management from a review of our operating results and business plans as well as forecasts of anticipated growth rates and margins, among other considerations. In addition, estimates of weighted average costs of capital are developed with the assistance of an independent third-party valuation specialist. These assumptions and estimates may change in future periods. Significant adverse changes to external market conditions or our internal forecasts, if any, could result in future impairment charges. It is not possible at this time to determine if any future impairment charge will result or, if it does, whether such a charge would be material to our results of operations. 
+Refer to Note 8 - Goodwill, Identifiable Intangible Assets, and Other Long-Lived Assets of the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data for further information about our goodwill and identifiable intangible assets as well as our impairment testing. No impairment of our goodwill or identifiable intangible assets was recognized during the years ended December 31, 2024, 2023, or 2022.
+35
+Table of Contents

@@ -1,0 +1,16 @@
+ticker,fiscal_year,issue
+HON,ALL,404 Client Error: Not Found for url: https://data.sec.gov/api/xbrl/companyfacts/CIK0000077384.json
+LHX,2024,No revenue under REVENUE_TAGS
+LHX,2024,No operating income under OPERATING_INCOME_TAGS
+LDOS,2024,No revenue under REVENUE_TAGS
+LDOS,2024,No operating income under OPERATING_INCOME_TAGS
+SNA,2025,No revenue under REVENUE_TAGS
+SNA,2025,No operating income under OPERATING_INCOME_TAGS
+SWK,2025,No revenue under REVENUE_TAGS
+SWK,2025,No operating income under OPERATING_INCOME_TAGS
+TXT,2025,No revenue under REVENUE_TAGS
+TXT,2025,No operating income under OPERATING_INCOME_TAGS
+AGCO,ALL,404 Client Error: Not Found for url: https://data.sec.gov/api/xbrl/companyfacts/CIK0000880259.json
+BWXT,ALL,404 Client Error: Not Found for url: https://data.sec.gov/api/xbrl/companyfacts/CIK0001486977.json
+TTC,ALL,404 Client Error: Not Found for url: https://data.sec.gov/api/xbrl/companyfacts/CIK0000098241.json
+GTLS,ALL,404 Client Error: Not Found for url: https://data.sec.gov/api/xbrl/companyfacts/CIK0001364426.json

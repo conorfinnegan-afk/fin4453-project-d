@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+DE,2022,52577000000.0,9508000000.0,0.18083953059322516,Revenues,OperatingIncomeLoss
+DE,2023,61251000000.0,12958000000.0,0.2115557297023722,Revenues,OperatingIncomeLoss
+DE,2024,51716000000.0,9039000000.0,0.17478149895583572,Revenues,OperatingIncomeLoss
+DE,2025,45684000000.0,6257000000.0,0.13696261273093424,Revenues,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments

@@ -1,0 +1,1647 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+ OPERATIONS
+(Dollars in thousands, except per share amounts)
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations should be read together with the Company’s consolidated financial statements and other financial information included elsewhere in this Annual Report on Form 10-K. This Annual Report on Form 10-K contains forward-looking statements that involve risks and uncertainties. Actual results may differ materially from those indicated in the forward-looking statements. See "Item 1A. Risk Factors" for more information regarding forward-looking statements.
+General
+The Company is the world’s largest designer and manufacturer of arc welding and cutting products, manufacturing a broad line of arc welding equipment, consumable welding products and other welding and cutting products.
+The Company is one of only a few worldwide broad-line manufacturers of welding, cutting and brazing products. The Company is the world leader in the design, development and manufacture of arc welding products, automated joining, 
+17
+Table of Contents
+​
+assembly and cutting systems, plasma and oxy-fuel cutting equipment. The Company also has a leading global position in brazing and soldering alloys.
+The Company’s products include arc welding, brazing and soldering filler metals (consumables), arc welding equipment, plasma and oxyfuel cutting systems, wire feeding systems, fume control equipment, welding accessories, specialty gas regulators, and education solutions; as well as a comprehensive portfolio of automated solutions for joining, cutting, material handling, module assembly, and end of line testing.
+The Company invests in the research and development of arc welding products in order to continue its market leading product offering and improve the quality and productivity of welding applications. In addition, the Company actively protects its innovations with patents and trade secrets globally. The Company believes its significant investment in research and development, its highly trained technical sales force and its extensive distributor network provide a competitive advantage in the marketplace.
+The Company’s products are sold globally. In the Americas, products are sold principally through industrial distributors, retailers and also directly to users of welding products. Outside of the Americas, the Company has an international sales organization comprised of Company employees and agents who sell products from the Company’s various manufacturing sites to distributors and product users.
+The Company’s major end-user markets include:
+●
+general fabrication,
+●
+energy (oil and gas, power generation and process industries),
+●
+heavy industries (heavy fabrication, ship building and maintenance and repair),
+●
+automotive and transportation, and
+●
+construction and infrastructure.
+The Company has, through wholly-owned subsidiaries, manufacturing facilities located in the United States, Australia, Austria, Brazil, Canada, China, Colombia, Denmark, France, Germany, India, Italy, Mexico, Poland, Portugal, Romania, South Korea, Spain, Turkey and the United Kingdom.
+The principal raw materials essential to the Company’s business are steel, electronic components, engines, brass, copper, silver, aluminum alloys, robotic components and various chemicals, all of which are normally available for purchase in the open market.
+The Company’s facilities are subject to environmental regulations. To date, compliance with these environmental regulations has not had a material adverse effect on the Company’s earnings. The Company is ISO 14001 certified at most significant manufacturing facilities in North America and Europe and is progressing towards certification at its remaining facilities worldwide. In addition, the Company is ISO 9001 certified at 47 facilities worldwide.
+The Company ensures compliance and the continuous improvement of the environmental performance of its products and operations through its global Environmental, Health, Safety and Quality (“EHS&Q”) systems. The Company’s systems are guided by Corporate EHS&Q Policy, global directives and corporate standards that establish consistent guidelines for the management, measurement and reporting of environmental, health and safety activities, as well as quality across the Company’s global platform. The Company’s products support our customers' sustainable operations through enhanced worker safety, reduced emissions, improved energy efficiency, reduced waste and regulatory compliance.
+Key Indicators
+Key economic measures relevant to the Company include industrial production trends, steel consumption, purchasing manager indices, capacity utilization within durable goods manufacturers and consumer confidence indicators. Key 
+18
+Table of Contents
+​
+industries which provide a relative indication of demand drivers to the Company include steel, farm machinery and equipment, construction and transportation, fabricated metals, electrical equipment, ship and boat building, defense, truck manufacturing, energy and railroad equipment. Although these measures provide key information on trends relevant to the Company, the Company does not have available a more direct correlation of leading indicators which can provide a forward-looking view of demand levels in the markets which ultimately use the Company’s welding products.
+Key operating measures utilized by the operating units to manage the Company include orders, backlog, sales, inventory and fill-rates, all of which provide key indicators of business trends. These measures are reported on various cycles including daily, weekly and monthly depending on the needs established by operating management.
+Key financial measures utilized by the Company’s executive management and operating units in order to evaluate the results of its business and in understanding key variables impacting the current and future results of the Company include: sales; gross profit; selling, general and administrative expenses; operating income; earnings before interest and taxes; earnings before interest, taxes and bonus; net income; adjusted operating income; adjusted earnings before interest and income taxes; adjusted earnings before interest, taxes and bonus; adjusted net income; adjusted diluted earnings per share; operating cash flows; and capital expenditures, as well as applicable ratios such as return on invested capital, adjusted return on invested capital and average operating working capital to sales. These measures are reviewed at monthly, quarterly and annual intervals and are compared with historical periods, as well as objectives established by the Board of the Company.
+​
+The discussion that follows includes a comparison of our results of operations, liquidity and capital resources for fiscal years ended December 31, 2024 and 2023. For a comparison of the Company’s results of operations, liquidity and capital resources for the fiscal years ended December 31, 2023 and 2022, see “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Company’s Annual Report on Form 10-K for the year ended December 31, 2023, which was filed with the SEC on February 27, 2024.
+Results of Operations
+The following table shows the Company’s results of operations:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Year Ended December 31, 
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Favorable (Unfavorable)
+​
+2024
+​
+2023
+​
+2024 vs. 2023
+​
+​
+Amount
+% of Sales
+Amount
+% of Sales
+$
+%
+Net sales
+$
+ 4,008,670
+​
+​
+​
+​
+$
+ 4,191,636
+​
+​
+$
+ (182,966)
+ (4.4)
+%
+Cost of goods sold
+ 2,535,758
+​
+​
+​
+ 2,726,191
+​
+​
+ 190,433
+ 7.0
+%
+Gross profit
+ 1,472,912
+​
+ 36.7
+%
+ 1,465,445
+ 35.0
+%
+ 7,467
+ 0.5
+%
+Selling, general & administrative expenses
+ 780,590
+​
+ 19.5
+%
+ 758,910
+ 18.1
+%
+ (21,680)
+ (2.9)
+%
+Rationalization and asset impairment net charges
+ 55,860
+​
+ 1.4
+%
+ (11,314)
+ (0.3)
+%
+ (67,174)
+ (593.7)
+%
+Operating income
+ 636,462
+​
+ 15.9
+%
+ 717,849
+ 17.1
+%
+ (81,387)
+ (11.3)
+%
+Interest expense, net
+ 42,786
+​
+​
+​
+ 44,371
+​
+​
+ 1,585
+ 3.6
+%
+Other income
+ 473
+​
+​
+​
+ 13,388
+​
+​
+ (12,915)
+ (96.5)
+%
+Income before income taxes
+ 594,149
+​
+ 14.8
+%
+ 686,866
+ 16.4
+%
+ (92,717)
+ (13.5)
+%
+Income taxes
+ 128,041
+​
+​
+​
+ 141,618
+​
+​
+ 13,577
+ 9.6
+%
+Effective tax rate
+ 21.6
+% 
+​
+​
+ 20.6
+% 
+​
+​
+ (1.0)
+% 
+​
+​
+Net income
+$
+ 466,108
+​
+ 11.6
+%
+$
+ 545,248
+ 13.0
+%
+$
+ (79,140)
+ (14.5)
+%
+Diluted earnings per share
+$
+ 8.15
+​
+​
+​
+​
+$
+ 9.37
+​
+$
+ (1.22)
+ (13.0)
+%
+​
+19
+Table of Contents
+​
+Net Sales:
+T
+he following table summarizes the impacts of volume, acquisitions, price and foreign currency exchange rates on Net sales for the twelve months ended December 31, 2024 on a consolidated basis:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Change in Net Sales due to:
+​
+​
+​
+​
+Net Sales
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Foreign 
+​
+Net Sales
+​
+​
+2023
+Volume
+Acquisitions
+Price
+Exchange
+2024
+Lincoln Electric Holdings, Inc.
+​
+$
+ 4,191,636
+​
+$
+ (301,161)
+​
+$
+ 102,757
+​
+$
+ 30,398
+$
+ (14,960)
+​
+$
+ 4,008,670
+​
+% Change
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Lincoln Electric Holdings, Inc.
+​
+​
+​
+​
+ (7.2)
+%
+ 2.5
+% 
+ 0.7
+% 
+​
+ (0.4)
+%
+​
+ (4.4)
+%
+​
+Net sales decreased primarily due to softer demand across all segments.
+Gross Profit:
+Gross profit as a percentage of sales increased 1.7% as compared to 2023 driven by the benefit of effective cost management, cost reduction actions and operational efficiencies.
+Selling, General & Administrative ("SG&A") Expenses:
+SG&A expenses increased in 2024 as compared to 2023 primarily due to SG&A associated with acquisitions, partially offset by lower employee-related costs
+.
+Rationalization and Asset Impairment Net Charges:
+Net charges in 2024 of $55,860 
+primarily relate to rationalization plans initiated in the third quarter of 2024 in all three segments, as well as previously initiated plans and the disposition of the Company’s Russian entity in International Welding
+. Net gains in 2023 primarily reflect a gain on the sale of a property of $36,187, partially offset by Rationalization and asset impairment charges of $24,873 primarily within International Welding. Refer to Note 7 to the consolidated financial statements for further information on the Company’s rationalization plans.
+Operating Income:
+Operating income as a percentage of sales was 15.9% in 2024 as compared to 17.1% in 2023. Excluding special items, Operating income as a percentage of sales was 17.6% in 2024 as compared to 17.1% in the prior year. Refer to explanations above for additional details. Also refer to Non-GAAP Financial Measures for a reconciliation of Adjusted operating income.
+Other Income:
+Other income for 2024 primarily relates to the gain on termination of interest rate swaps and other miscellaneous income, partially offset by pension settlement charges and a loss on asset disposal.
+Income taxes:
+The effective tax rate was higher in 2024 as compared to 2023 primarily due to the mix of earnings and discrete tax items.
+20
+Table of Contents
+​
+Segment Results
+Net Sales:
+The table below summarizes the impacts of volume, acquisitions, price and foreign currency exchange rates on Net sales for the twelve months ended December 31, 2024:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Change in Net Sales due to:
+​
+​
+Net Sales
+​
+​
+​
+​
+​
+​
+Foreign 
+Net Sales
+​
+2023
+​
+Volume
+ (1)
+Acquisitions 
+(2)
+Price 
+(3)
+​
+Exchange
+​
+2024
+​
+Operating Segments
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Americas Welding
+$
+ 2,655,546
+​
+$
+ (192,454)
+​
+$
+ 101,097
+​
+$
+ 10,770
+$
+ (10,112)
+​
+$
+ 2,564,847
+​
+International Welding
+​
+ 1,040,006
+​
+ (96,658)
+​
+ 1,660
+​
+ (8,413)
+​
+ (2,873)
+​
+ 933,722
+​
+The Harris Products Group
+​
+ 496,084
+​
+ (12,049)
+​
+ —
+​
+ 28,041
+​
+ (1,975)
+​
+ 510,101
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+% Change
+​
+​
+​
+​
+​
+​
+​
+Americas Welding
+​
+​
+​
+​
+ (7.2)
+%
+ 3.8
+%
+​
+ 0.4
+%
+​
+ (0.4)
+%
+​
+ (3.4)
+%
+International Welding
+​
+​
+​
+​
+ (9.3)
+%
+ 0.2
+%
+​
+ (0.8)
+%
+​
+ (0.3)
+%
+​
+ (10.2)
+%
+The Harris Products Group
+​
+​
+​
+​
+ (2.4)
+%
+ —
+​
+​
+ 5.7
+%
+​
+ (0.4)
+%
+​
+ 2.8
+%
+​
+(1)
+Decrease in all segments due to softer demand across broad industrial markets.
+(2)
+Increase for Americas Welding and International Welding 
+due to the acquisitions discussed in Note 4 to the consolidated financial statements.
+(3)
+Increase for The Harris Products Group due to price actions taken in response to higher commodity costs.
+21
+Table of Contents
+​
+Adjusted Earnings Before Interest and Income Taxes (“Adjusted EBIT”):
+Segment performance is measured and resources are allocated based on a number of factors, the primary measure being the Adjusted EBIT profit measure. EBIT is defined as Operating income plus Other income. EBIT is adjusted for special items as determined by management such as the impact of rationalization activities, certain asset impairment charges and gains or losses on disposals of assets.
+The following table presents Adjusted EBIT by segment:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Favorable 
+​
+​
+​
+​
+​
+​
+​
+​
+(Unfavorable)
+​
+​
+December 31, 
+​
+2024 vs. 2023
+​
+2024
+​
+2023
+​
+$
+​
+%
+​
+Americas Welding:
+​
+​
+​
+​
+​
+​
+Net sales
+​
+$
+ 2,564,847
+​
+$
+ 2,655,546
+​
+$
+ (90,699)
+​
+ (3.4)
+%
+Inter-segment sales
+​
+​
+ 135,758
+​
+ 127,536
+​
+ 8,222
+​
+ 6.4
+%
+Total Sales
+​
+$
+ 2,700,605
+​
+$
+ 2,783,082
+​
+$
+ (82,477)
+​
+ (3.0)
+%
+Adjusted EBIT 
+(4)
+​
+$
+ 530,188
+​
+$
+ 538,269
+​
+$
+ (8,081)
+​
+ (1.5)
+%
+As a percent of total sales 
+(1)
+​
+​
+ 19.6
+% 
+ 19.3
+% 
+​
+​
+ 0.3
+%
+International Welding:
+​
+​
+​
+​
+​
+​
+​
+​
+Net sales
+​
+$
+ 933,722
+​
+$
+ 1,040,006
+​
+$
+ (106,284)
+​
+ (10.2)
+%
+Inter-segment sales
+​
+​
+ 35,861
+​
+ 31,498
+​
+ 4,363
+​
+ 13.9
+%
+Total Sales
+​
+$
+ 969,583
+​
+$
+ 1,071,504
+​
+$
+ (101,921)
+​
+ (9.5)
+%
+Adjusted EBIT 
+(5)
+​
+$
+ 106,117
+​
+$
+ 136,497
+​
+$
+ (30,380)
+​
+ (22.3)
+%
+As a percent of total sales 
+(2)
+​
+​
+ 10.9
+% 
+ 12.7
+% 
+​
+​
+ (1.8)
+%
+The Harris Products Group:
+​
+​
+​
+​
+​
+​
+​
+​
+Net sales
+​
+$
+ 510,101
+​
+$
+ 496,084
+​
+$
+ 14,017
+​
+ 2.8
+%
+Inter-segment sales
+​
+​
+ 12,321
+​
+ 10,641
+​
+ 1,680
+​
+ 15.8
+%
+Total Sales
+​
+$
+ 522,422
+​
+$
+ 506,725
+​
+$
+ 15,697
+​
+ 3.1
+%
+Adjusted EBIT 
+(6)
+​
+$
+ 88,328
+​
+$
+ 74,144
+​
+$
+ 14,184
+​
+ 19.1
+%
+As a percent of total sales 
+(3)
+​
+​
+ 16.9
+% 
+ 14.6
+% 
+​
+​
+ 2.3
+%
+Corporate / Eliminations:
+​
+​
+​
+​
+​
+​
+​
+​
+Inter-segment sales
+​
+$
+ (183,940)
+​
+$
+ (169,675)
+​
+$
+ (14,265)
+​
+ 8.4
+%
+Adjusted EBIT 
+(7)
+​
+​
+ (11,028)
+​
+ (17,536)
+​
+ 6,508
+​
+ (37.1)
+%
+Consolidated:
+​
+​
+​
+​
+​
+​
+​
+​
+Net sales
+​
+$
+ 4,008,670
+​
+$
+ 4,191,636
+​
+$
+ (182,966)
+​
+ (4.4)
+%
+Net income
+​
+$
+ 466,108
+​
+$
+ 545,248
+​
+$
+ (79,140)
+​
+ (14.5)
+%
+As a percent of total sales
+​
+​
+ 11.6
+% 
+ 13.0
+% 
+​
+​
+ (1.4)
+%
+Adjusted EBIT 
+(8)
+​
+$
+ 713,605
+​
+$
+ 731,374
+​
+$
+ (17,769)
+​
+ (2.4)
+%
+As a percent of sales
+​
+​
+ 17.8
+% 
+ 17.4
+% 
+​
+​
+ 0.4
+%
+​
+(1)
+Increase for 2024 as compared to 2023 
+primarily driven by 
+effective cost management, cost reduction actions, 
+partially offset by the unfavorable impact of lower volumes.
+(2)
+Decrease for 2024 as compared to 2023 primarily driven by unfavorable impact of lower volumes, partially offset by cost reduction actions.
+(3)
+Increase for 2024 compared to 2023 primarily reflects effective cost management and operational improvements.
+(4)
+2024 excludes Rationalization and asset impairment net charges of $18,840, the amortization of step up in value of acquired inventories of $4,776 and pension settlement charges of $4,205
+. 
+2023 excludes Rationalization and asset impairment net charges of $468 and the amortization of step up in value of acquired inventories of $9,390
+.
+22
+Table of Contents
+​
+(5)
+2024 
+excludes Rationalization and asset impairment net charges of $32,960 primarily due to restructuring activities, including the impact of the Company’s disposition of its Russian entity as discussed in Note 7, a loss on asset disposal of $4,950, the amortization of the step up in value of acquired inventories of $250
+ and pension settlement gain of $413
+. 
+2023 excludes pension settlement charges of $845, a gain on asset disposal of $1,646, the amortization of step up in value of acquired inventories of $2,862 and Rationalization and asset impairment net gains of $11,782.
+(6)
+2024 excludes
+ Rationalization and asset impairment net charges of $3,955 as discussed in Note 7.
+(7)
+2024 excludes acquisition transaction costs of $7,042 as discussed in Note 4. 
+(8)
+See non-GAAP Financial Measures for a reconciliation of Net income as reported and Adjusted EBIT.
+Non-GAAP Financial Measures
+The Company reviews Adjusted operating income, Adjusted EBIT, Adjusted net income, adjusted effective tax rate, Adjusted diluted earnings per share, Adjusted return on invested capital, and Adjusted net operating profit after taxes, all non-GAAP financial measures, in assessing and evaluating the Company’s underlying operating performance. These non-GAAP financial measures exclude the impact of special items on the Company’s reported financial results. Non-GAAP financial measures should be read in conjunction with the generally accepted accounting principles in the United States ("GAAP") financial measures, as non-GAAP measures are a supplement to, and not a replacement for, GAAP financial measures. From time to time, management evaluates and discloses to investors the following non-GAAP measures: Free cash flow ("FCF"), defined as Net cash provided by operating activities less Capital expenditures (the Company considers FCF to be a liquidity measure that provides useful information to management and investors about how the amount of cash generated by our business, after the purchase of property and equipment, can be used for debt service, acquisitions, paying dividends and repurchasing our common shares); Cash conversion, defined as FCF divided by Adjusted net income; Organic sales, reflects changes in volumes and prices, and excludes the effects of foreign currency and acquisitions.
+The following table presents a reconciliation of Operating income as reported to Adjusted operating income:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Year Ended December 31, 
+​
+2024
+2023
+Operating income as reported
+​
+$
+ 636,462
+​
+$
+ 717,849
+​
+Special items (pre-tax):
+​
+​
+​
+Rationalization and asset impairment net charges 
+(1)
+​
+ 55,860
+​
+ (11,314)
+​
+Acquisition transaction costs 
+(2)
+​
+ 7,042
+​
+ —
+​
+Amortization of step up in value of acquired inventories 
+(3)
+​
+ 5,026
+​
+ 12,252
+​
+Adjusted operating income
+​
+$
+ 704,390
+​
+$
+ 718,787
+​
+As a percent of total sales
+​
+​
+17.6%
+​
+​
+17.1%
+​
+​
+​
+​
+​
+​
+​
+​
+​
+(1)
+2024 charges 
+primarily relate to rationalization plans initiated in the third quarter of 2024 in all three segments, as well as previously initiated plans and the disposition of the Company’s Russian entity in International Welding
+. 2023 net gains primarily relates to the gain on sale of a property, partially offset by charges within International Welding.
+(2)
+Transaction costs related to acquisitions which are included in Selling, general & administrative expenses.
+(3)
+Costs related to acquisitions which are included in Cost of goods sold.
+23
+Table of Contents
+​
+The following table presents the reconciliations of Net income as reported to Adjusted net income and Adjusted EBIT, Effective tax rate as reported to Adjusted effective tax rate and Diluted earnings per share as reported to Adjusted diluted earnings per share:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Year Ended December 31, 
+​
+2024
+2023
+Net income as reported
+​
+$
+ 466,108
+$
+ 545,248
+​
+Special items:
+​
+​
+​
+Rationalization and asset impairment net charges 
+(1)
+​
+ 55,860
+ (11,314)
+​
+Acquisition transaction costs 
+(2)
+​
+ 7,042
+ —
+​
+Pension settlement net charges 
+(3)
+​
+ 3,792
+ 845
+​
+Amortization of step up in value of acquired inventories 
+(4)
+​
+ 5,026
+ 12,252
+​
+Loss (gain) on asset disposal
+ (5)
+​
+ 4,950
+ (1,646)
+​
+Tax effect of Special items 
+(6)
+​
+ (11,513)
+ 2,537
+​
+Adjusted net income
+​
+$
+ 531,265
+$
+ 547,922
+​
+Interest expense, net
+​
+ 42,786
+ 44,371
+​
+Income taxes as reported
+​
+ 128,041
+ 141,618
+​
+Tax effect of Special items
+ (6)
+​
+ 11,513
+ (2,537)
+​
+Adjusted EBIT
+​
+$
+ 713,605
+$
+ 731,374
+​
+Effective tax rate as reported
+​
+ 21.6
+% 
+ 20.6
+%
+Net special item tax impact
+​
+ (0.8)
+% 
+ (0.4)
+%
+Adjusted effective tax rate
+​
+ 20.8
+% 
+ 20.2
+%
+Diluted earnings per share as reported
+​
+$
+ 8.15
+$
+ 9.37
+​
+Special items per share
+​
+ 1.14
+ 0.04
+​
+Adjusted diluted earnings per share
+​
+$
+ 9.29
+$
+ 9.41
+​
+​
+(1)
+Items in 2024 
+primarily relate to rationalization plans initiated in the third quarter of 2024 in all three segments, as well as previously initiated plans and the disposition of the Company’s Russian entity in International Welding
+. Items in 2023 reflects a gain on the sale of a property, partially offset by Rationalization and asset impairment charges within International Welding.
+(2)
+Transaction costs related to acquisitions which are included in Selling, general and administrative expenses. Refer to Note 4 for further discussion.
+(3)
+Pension settlement net charges are primarily due to the final settlement associated with the termination of pension plans and are included in Other income. Refer to Note 11 for further discussion.
+​
+(4)
+Costs related to acquisitions which are included in Cost of goods sold.
+(5)
+Loss (gain) on asset disposal included in Other income.
+(6)
+Includes
+ the net tax impact of Special items recorded during the respective periods. 
+The tax effect of Special items impacting pre-tax income was calculated as the pre-tax amount multiplied by the applicable tax rate. The applicable tax rates reflect the taxable jurisdiction and nature of each Special item.
+Liquidity and Capital Resources
+Overview
+The Company’s primary sources of liquidity are operating cash flows and revolving credit facilities. As of December 31, 2024, the Company had $377,262 of cash and cash equivalents on hand and $10,520 of outstanding borrowings under its $1,045,608 revolving credit facilities
+.
+24
+Table of Contents
+​
+The Company’s capital allocation priorities include internal investment to support existing operations and organic growth, investment in acquisitions to grow the business and then returning capital to shareholders through dividends and share repurchases.
+The Company’s cash flow from operations can be cyclical. In assessing liquidity, the Company reviews working capital measurements to define areas for improvement. Management anticipates we will be able to satisfy cash requirements for its ongoing businesses for the foreseeable future primarily with cash generated by operations, existing cash balances, borrowings under its existing credit facilities and raising debt in capital markets.
+The Company continues to expand globally and periodically consider acquisitions that would involve significant investments. The Company can fund its global expansion plans with operational cash flow, but a significant acquisition may require access to capital markets, in particular, the long-term debt market, as well as the syndicated bank loan market. The Company’s financing strategy is to fund itself at the lowest after-tax cost of funding. Where possible, the Company utilizes operational cash flows and raises capital in the most efficient market, usually the United States, and then lends funds to the specific subsidiary needing or requiring funding. If additional acquisitions providing appropriate financial benefits become available, additional expenditures may be made.
+Cash Flow 
+​
+The following table reflects changes in key cash flow measures:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Year Ended December 31, 
+$ Change
+​
+​
+2024
+2023
+2024 vs. 2023
+Cash provided by operating activities 
+(1)
+​
+$
+ 598,977
+​
+$
+ 667,542
+​
+$
+ (68,565)
+Cash used by investing activities 
+(2)
+​
+ (361,231)
+​
+ (74,729)
+​
+ (286,502)
+Capital expenditures
+​
+ (116,603)
+​
+ (90,987)
+​
+ (25,616)
+Acquisition of businesses, net of cash acquired
+​
+ (252,746)
+​
+ (32,685)
+​
+ (220,061)
+Proceeds from sale of property, plant and equipment
+​
+​
+ 7,798
+​
+​
+ 49,494
+​
+​
+ (41,696)
+Cash used by financing activities 
+(3)
+​
+ (244,640)
+​
+​
+ (412,392)
+​
+ 167,752
+Proceeds from (payments on) short-term borrowings
+​
+ 8,449
+​
+ (79,873)
+​
+ 88,322
+Proceeds from long-term borrowings
+​
+​
+ 550,000
+​
+​
+ —
+​
+​
+ 550,000
+Payments on long-term borrowings
+​
+​
+ (400,677)
+​
+​
+ (8,109)
+​
+​
+ (392,568)
+Purchase of shares for treasury
+​
+ (263,751)
+​
+ (198,765)
+​
+ (64,986)
+Cash dividends paid to shareholders
+​
+ (162,143)
+​
+ (148,010)
+​
+ (14,133)
+(Decrease) increase in Cash and cash equivalents
+​
+ (16,525)
+​
+ 196,637
+​
+ (213,162)
+​
+(1)
+Cash provided by operating activities decreased in 2024 as compared to 2023 
+primarily due to decreased earnings and working capital.
+(2)
+Cash used by investing activities increased in 2024 as compared to 2023 primarily
+ for capital expenditures and the acquisition of businesses in 2024. 
+(3)
+Cash used by financing activities decreased in 2024 as compared to 2023 
+primarily due to the proceeds from the 2024 Notes issuances, partially offset by the repayment of the Term Loan as described in Note 9
+.
+As of December 31, 2024, the Company had cash of $249,895 held by international subsidiaries.
+The Company paid $162,143 and $148,010 in cash dividends to its shareholders during 2024 and 2023, respectively. In January 2025, the Company paid a cash dividend of $0.75 per share, or $42,158, to shareholders of record on December 31, 2024, which reflects a 5.6% increase in the Company’s dividend payout rate. 
+25
+Table of Contents
+​
+The Company currently anticipates capital expenditures of $100,000 to $120,000 in 2025. Anticipated capital expenditures include investments to increase capacity, improve operational effectiveness and for general maintenance. Management critically evaluates all proposed capital expenditures and expects each project to increase efficiency, reduce costs, support sales growth or improve the overall safety and environmental conditions of the Company’s facilities.
+Revolving Credit Agreements and Other Lines of Credit
+On June 20, 2024, the Company terminated its existing $500,000 revolving credit facility and entered into a $1 billion revolving credit facility. The revolving credit facility matures on June 20, 2029. As of December 31, 2024, the Company had $1 billion of availability under the revolving credit facility. Additionally, the Company has other lines of credit with total availability of $35,088 as of December 31, 2024. Refer to Note 9 for further information on our revolving credit agreements and other lines of credit. 
+Working Capital Ratios 
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2024
+2023
+Average operating working capital to Net sales 
+(1)
+ 16.9
+% 
+ 17.1
+%
+Days sales in Inventories
+ 106.0
+ 104.6
+​
+Days sales in Accounts receivable
+ 46.9
+ 50.0
+​
+Average days in Trade accounts payable
+ 45.8
+ 47.6
+​
+​
+(1)
+Average operating working capital to Net sales is defined as the sum of Accounts receivable, Inventories and contract assets less Trade accounts payable and contract liabilities as of period end divided by annualized rolling three months of Net sales. 
+Stock Repurchase Program
+On February 12, 2020, the Company’s Board authorized a share repurchase program for up to 10 million shares of the Company’s common stock. As of December 31, 2024, there were 6.7 million shares available under the authorization. The Company is not obligated to make any repurchases.
+Contractual Obligations
+Debt
+As of December 31, 2024, the total amount of debt outstanding was $1,261,075, which includes $110,524 in short-term debt. Refer to Note 9 for further information on our debt and interest.
+Lease Obligations
+As of December 
+31, 2024, the Company’s total future minimum lease payments were $61,942, which includes $14,896 in short-term lease obligations. Refer to Note 17 for further information on our lease obligations.
+Purchase Commitments
+Purchase commitments include contractual obligations for raw materials and services. As of December 31, 2024, the Company had total purchase commitments of $91,028, which includes $89,792 in current liabilities.
+Other Material Obligations
+As of December 31, 2024, there was a total liability of $55,425 for deferred compensation, which includes $30,901 in Other current liabilities. 
+26
+Table of Contents
+​
+Off-Balance Sheet Arrangements
+The Company utilizes letters of credit to back certain payment and performance obligations. Letters of credit are subject to limits based on amounts outstanding under the Company’s revolving credit facility.
+Rationalization and Asset Impairments
+Refer to Note 7 to the consolidated financial statements for a discussion of the Company’s rationalization plans. The Company believes the rationalization actions will positively impact future results of operations and will not have a material effect on liquidity and sources and uses of capital.
+Acquisitions
+Refer to Note 4 to the consolidated financial statements for a discussion of the Company’s recent acquisitions.
+Return on Invested Capital
+The Company reviews return on invested capital ("ROIC") in assessing and evaluating the Company’s underlying operating performance. Adjusted ROIC is a non-GAAP financial measure that the Company believes is a meaningful metric to investors in evaluating the Company’s financial performance and may be different than the method used by other companies to calculate ROIC. Adjusted ROIC is defined as rolling 12 months of Adjusted net income excluding tax-effected interest income and expense divided by invested capital. Invested capital is defined as total debt, which includes Amounts due banks, Current portion of long-term debt and Long-term debt, less current portions, plus Total equity.
+​
+27
+Table of Contents
+​
+The following table presents the reconciliation of ROIC and Adjusted ROIC to net income:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Return on Invested Capital
+2024
+2023
+Net income as reported
+​
+$
+ 466,108
+​
+$
+ 545,248
+​
+Plus: Interest expense (after-tax)
+​
+ 39,665
+​
+ 38,050
+​
+Less: Interest income (after-tax)
+​
+ 7,593
+​
+ 5,033
+​
+Net operating profit after taxes
+​
+$
+ 498,180
+​
+$
+ 578,265
+​
+Special items:
+​
+​
+​
+​
+​
+​
+​
+Rationalization and asset impairment net charges
+​
+​
+ 55,860
+​
+​
+ (11,314)
+​
+Acquisition transaction costs
+​
+​
+ 7,042
+​
+​
+ —
+​
+Pension settlement net charges
+​
+​
+ 3,792
+​
+​
+ 845
+​
+Amortization of step up in value of acquired inventories
+​
+​
+ 5,026
+​
+​
+ 12,252
+​
+Loss (gain) on asset disposal
+​
+​
+ 4,950
+​
+​
+ (1,646)
+​
+Tax effect of Special items 
+(1)
+​
+​
+ (11,513)
+​
+​
+ 2,537
+​
+Adjusted net operating profit after taxes
+​
+$
+ 563,337
+​
+$
+ 580,939
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Invested Capital
+​
+​
+​
+​
+​
+​
+​
+Short-term debt
+​
+$
+ 110,524
+​
+$
+ 2,439
+​
+Long-term debt, less current portion
+​
+​
+ 1,150,551
+​
+​
+ 1,102,771
+​
+Total debt
+​
+​
+ 1,261,075
+​
+​
+ 1,105,210
+​
+Total equity
+​
+​
+ 1,327,433
+​
+​
+ 1,308,852
+​
+Invested capital
+​
+$
+ 2,588,508
+​
+$
+ 2,414,062
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Return on invested capital as reported
+​
+​
+ 19.2
+% 
+​
+ 24.0
+%
+Adjusted return on invested capital
+​
+ 21.8
+% 
+ 24.1
+%
+​
+(1)
+Includes the net tax impact of Special items recorded during the respective periods. The tax effect of Special items impacting pre-tax income was calculated as the pre-tax amount multiplied by the applicable tax rate. The applicable tax rate reflects the taxable jurisdiction and nature of each Special item.
+Product Liability Costs
+Product liability costs incurred can be volatile and are largely related to trial activity. The costs associated with these claims are predominantly defense costs which are recognized in the periods incurred.
+The long-term impact of product liability contingencies, in the aggregate, on operating results, operating cash flows and access to capital markets is difficult to assess, particularly since claims are in many different stages of development and the Company benefits significantly from cost sharing with co-defendants and insurance carriers. Moreover, the Company has been largely successful to date in its defense of these claims.
+New Accounting Pronouncements
+Refer to Note 1 to the consolidated financial statements for a discussion of new accounting pronouncements.
+Critical Accounting Policies and Estimates
+The Company’s consolidated financial statements are based on the selection and application of significant accounting policies, which require management to make estimates and assumptions. These estimates and assumptions are reviewed periodically by management and compared to historical trends to determine the accuracy of estimates and assumptions used. If warranted, these estimates and assumptions may be changed as current trends are assessed and updated. Historically, the Company’s estimates have been determined to be reasonable. No material changes to the Company’s 
+28
+Table of Contents
+​
+accounting policies were made during 2024. The Company believes the following accounting policies are some of the more critical judgment areas affecting its financial condition and results of operations.
+Legal and Tax Contingencies
+The Company, like other manufacturers, is subject from time to time to a variety of civil and administrative proceedings arising in the ordinary course of business. Such claims and litigation include, without limitation, product liability claims, administrative claims, regulatory claims and health, safety and environmental claims, some of which relate to cases alleging asbestos induced illnesses. The costs associated with these claims are predominantly defense costs, which are recognized in the periods incurred. Insurance reimbursements mitigate these costs and, where reimbursements are probable, they are recognized in the applicable period. With respect to costs other than defense costs (i.e., for liability and/or settlement or other resolution), reserves are recorded when it is probable that the contingencies will have an unfavorable outcome. The Company accrues its best estimate of the probable costs after a review of the facts with management and counsel and taking into account past experience. If an unfavorable outcome is determined to be reasonably possible but not probable, or if the amount of loss cannot be reasonably estimated, disclosure would be provided for material claims or litigation. Many of the current cases are in differing procedural stages and information on the circumstances of each claimant, which forms the basis for judgments as to the validity or ultimate disposition of such actions, varies greatly. Therefore, in many situations a range of possible losses cannot be made. Reserves are adjusted as facts and circumstances change and related management assessments of the underlying merits and the likelihood of outcomes change. Moreover, reserves only cover identified and/or asserted claims. Future claims could, therefore, give rise to increases to such reserves.
+The Company is subject to taxation from U.S. federal, state, municipal and international jurisdictions. The calculation of current income tax expense is based on the best information available and involves significant management judgment. The actual income tax liability for each jurisdiction in any year can in some instances be ultimately determined several years after the financial statements are published.
+The Company maintains liabilities for unrecognized tax benefits related to uncertain income tax positions in various jurisdictions. The Company uses judgment in determining whether the technical merits of tax positions are more-likely-than-not to be sustained. Judgment is also used in measuring the related amount of tax benefit that qualifies for recognition, including the interpretation of applicable tax law, regulation and tax ruling.
+Liabilities are settled primarily through the completion of audits within each individual tax jurisdiction or the closing of the statute of limitations. Liabilities can be affected by changes in applicable tax law, regulations, tax rulings or such other factors, which may cause management to believe a revision of past estimates is appropriate. Management believes that an appropriate liability has been established for uncertain income tax positions; however, actual results may materially differ from these estimates. Refer to Note 13 to the consolidated financial statements for further discussion of uncertain income tax positions.
+Deferred Income Taxes
+Deferred income taxes are recognized at currently enacted tax rates for temporary differences between the GAAP and income tax basis of assets and liabilities and operating loss and tax credit carry-forwards. The Company will repatriate earnings for certain non-U.S. subsidiaries, which are subject to foreign withholding taxes. The Company considers any remaining earnings and outside basis in all other non-U.S. subsidiaries to be indefinitely reinvested and has not recorded any deferred taxes as such estimate is not practicable.
+At December 31, 2024, the Company had approximately $207,739 of gross deferred tax assets related to deductible temporary differences and tax loss and credit carry-forwards, which may reduce taxable income in future years. In assessing the realizability of deferred tax assets, the Company assesses whether it is more-likely-than-not that a portion or all of the deferred tax assets will not be realized. The Company considers the scheduled reversal of deferred tax liabilities, tax planning strategies and projected future taxable income in making this assessment. At December 31, 2024, a valuation allowance of $35,284 was recorded against certain deferred tax assets based on this assessment. The 
+29
+Table of Contents
+​
+Company believes it is more-likely-than-not that the tax benefit of the remaining net deferred tax assets will be realized. The amount of net deferred tax assets considered realizable could be increased or reduced in the future if the Company’s assessment of future taxable income or tax planning strategies changes.
+Inventories
+Inventories are valued at the lower of cost or net realizable value. Fixed manufacturing overhead costs are allocated to inventory based on normal production capacity and abnormal manufacturing costs are recognized as period costs. Cost for a substantial portion of U.S. inventories is determined on a LIFO basis. LIFO was used for 35% and 37% of total inventories at December 31, 2024 and 2023, respectively. Cost of other inventories is determined by costing methods that approximate a FIFO basis. The valuation of LIFO inventories is made at the end of each year based on inventory levels and costs at that time. Accordingly, interim LIFO calculations are based on management’s estimates of expected year-end inventory levels and costs. Actual year-end inventory levels and costs may differ from interim LIFO inventory valuations. The excess of current cost over LIFO cost was $120,633 and $129,946 at December 31, 2024 and 2023, respectively.
+The Company reviews the net realizable value of inventory on an on-going basis with consideration given to deterioration, obsolescence and other factors. If actual market conditions differ from those projected by management, and the Company’s estimates prove to be inaccurate, write-downs of inventory values and adjustments to Cost of goods sold may be required. Historically, the Company’s reserves have approximated actual experience.
+Long-Lived Assets 
+The Company periodically evaluates whether current facts or circumstances indicate that the carrying value of its depreciable long-lived assets, including leases and intangible assets that do not have indefinite lives, to be held and used may not be recoverable. If such circumstances are determined to exist, an estimate of undiscounted future cash flows produced by the long-lived asset, or the appropriate grouping of assets, is compared to the carrying value to determine whether impairment exists. If an asset is determined to be impaired, a loss is recognized to the extent that carrying value exceeds fair value. Fair value is measured based on quoted market prices in active markets, if available. If quoted market prices are not available, the estimate of fair value is based on various valuation techniques, including the discounted value of estimated future cash flows.
+Goodwill and Intangibles
+The Company performs an annual impairment test of goodwill and indefinite-lived intangible assets in the fourth quarter using the same date each year or more frequently if changes in circumstances or the occurrence of events indicate potential impairment.
+The fair value of each indefinite-lived intangible asset is compared to its carrying value and an impairment charge is recorded if the carrying value exceeds the fair value. For goodwill, the Company first assesses qualitative factors to determine whether it is more-likely-than-not that the fair value of a reporting unit is less than its carrying amount, and whether it is necessary to perform the quantitative goodwill impairment test. The quantitative test is only required if the Company concludes that it is more-likely-than-not that a reporting unit’s fair value is less than its carrying amount. The Company may also perform a quantitative test in instances where the more-likely-than-not threshold has not been met, including when general macroeconomic conditions or changes to the reporting unit warrant a refresh of the baseline used in a qualitative test. For quantitative testing, the Company compares the fair value of each reporting unit with its carrying amount. If the carrying amount exceeds the fair value, an impairment charge is recognized for the amount by which the carrying amount exceeds the reporting unit’s fair value, not to exceed the total amount of goodwill allocated to that reporting unit.
+Fair values are determined using established business valuation techniques and models developed by the Company, estimates of market participant assumptions of future cash flows, future growth rates and discount rates to value 
+30
+Table of Contents
+​
+estimated cash flows. Changes in economic and operating conditions, actual growth below the assumed market participant assumptions or an increase in the discount rate could result in an impairment charge in a future period.
+Acquisitions
+Upon acquisition of a business, the Company uses the income, market or cost approach (or a combination thereof) for the valuation as appropriate. The valuation inputs in these models and analyses are based on market participant assumptions. Market participants are considered to be buyers and sellers unrelated to the Company in the principal or most advantageous market for the asset or liability.
+Fair value estimates are based on a series of judgments about future events and uncertainties and rely on estimates and assumptions. Management values property, plant and equipment using the cost approach supported where available by observable market data, which includes consideration of obsolescence. Management values acquired intangible assets using the relief from royalty method or excess earnings method, forms of the income approach supported by observable market data for peer companies. The significant assumptions used to estimate the value of the acquired intangible assets include discount rates and certain assumptions that form the basis of future cash flows (such as revenue growth rates, customer attrition rates and royalty rates). Acquired inventories are marked to fair value. For certain items, the pre-acquisition carrying value is determined to be a reasonable approximation of fair value based on information available to the Company. Refer to Note 4 to the consolidated financial statements for additional details.
+Revenue Recognition
+Revenue is recognized when obligations under the terms of a contract are satisfied and control is transferred to the customer. Revenue is measured as the amount of consideration the Company expects to be entitled to in exchange for goods or services. Substantially all of the Company’s sales arrangements are short-term in nature involving a single performance obligation. The Company recognizes revenue when the performance obligation is satisfied and control of the product is transferred to the customer based upon shipping terms. In addition, certain customized automation performance obligations are accounted for over time. Under this method, revenue recognition is primarily based upon the ratio of costs incurred to date compared with estimated total costs to complete. The cumulative impact of revisions to total estimated costs is reflected in the period of the change, including anticipated losses. Approximately 10% of the Company’s Net sales are recognized over time.
+The Company recognizes any discounts, credits, returns, rebates and incentive programs based on reasonable estimates as a reduction of sales to arrive at Net sales at the same time the related revenue is recorded. Taxes collected by the Company, including sales tax and value added tax, are excluded from Net sales. The Company recognizes freight billed as a component of Net sales and shipping costs as a component of Cost of goods sold when control transfers to the customer. Sales commissions are expensed when incurred because the amortization period is generally one year or less. These costs are recorded within Selling, general and administrative expenses in the Company’s Consolidated Statements of Income.
+Refer to Note 2 to the consolidated financial statements for additional details.
+​

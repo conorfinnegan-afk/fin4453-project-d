@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+SWK,2022,16947400000.0,1586900000.0,0.09363678204326327,Revenues,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments
+SWK,2023,15781100000.0,-375700000.0,-0.023806958957233653,Revenues,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments
+SWK,2024,15365700000.0,241100000.0,0.015690791828553208,Revenues,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest
+SWK,2025,,,,,

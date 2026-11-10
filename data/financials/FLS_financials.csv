@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+FLS,2022,3615120000.0,197219000.0,0.05455392905353073,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+FLS,2023,4320577000.0,333553000.0,0.07720103125115002,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+FLS,2024,4557806000.0,462279000.0,0.1014257737165645,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+FLS,2025,4729260000.0,399924000.0,0.08456375838926175,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

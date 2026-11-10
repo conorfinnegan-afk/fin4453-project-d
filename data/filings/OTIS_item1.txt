@@ -1,0 +1,240 @@
+PART I
+Item 1. Business
+Our Company
+Otis is t
+he world’s leading elevator and escalator manufacturing, installation and service company. We serve customers in ov
+er 200 countries and territories around t
+he world. 
+Otis has global scale and local focus, with more than 1,400 branc
+hes and offices, and a direct physical presence in more than 70
+ co
+untries. 
+The following description of our busin
+ess should be read in conjunction with Item 7 in this Form 10-K, including 
+the information contained therein under the heading "Business Overview."
+Description of Business by Segment
+Our Company is organized into two segments, New Equipment and Service, which, for 2024, contributed 38% and 62% of our net sales, and 13% and 87% of our segment operating profit, respectively. Our international operations represented 
+appro
+ximately 70% of our net sales for 2024.
+New Equipment
+Through our New Equipment segment, we design, manufacture, sell and install a wide range of passenger and freight elevators, as well as escalators and moving 
+walkways for residential, commercial and infrastructure projects.
+Our New Equipment customers include real estate and building developers and general contractors who develop and/or design buildings for residential, commercial, retail or mixed-use activity. We also sell New Equipment to government agencies, particularly, to support infrastructure projects, such as airports, railways or metros. We generally sell directly to our customers through our New Equipment sales personnel. Due to the nature of the customer base in China and certain other geographies, our direct sales force is augmented by agents and distributors. Given the breadth of our customer base and the large number of customers to whom we deliver new equipment on an annual basis, we are not dependent on any single customer and do not have any contracts material to Otis as a whole with any single customer. The same is true for our broad and geographically dispersed network of agents and distributors.
+New Equipment customers typically engage with us at an early stage during the construction cycle. The timing of order placement depends on factors including project complexity and customer requirements. Elevator installation usually occurs midway through building construction.
+New Equipment orders are generally delivered w
+ithin 12 months of booking, although larger projects can take longer to deliver based on customer construction schedules, and in some regions, mostly in China, the order to delivery window is shorter. 
+When placing New Equipment orders, customers typically make an advance payment to cover costs including design and contract engineering. These advance payments are typically followed by periodic progress payments at specified milestones, such as delivery of materials at the job site and completion of installation and equipment commissioning. Installation is carried out by our installation technicians or through subcontractors, in which case we typically complete the final inspection and commissioning to ensure that our quality standards are met. Revenues are recognized based on percentage of completion. Once commissioned, New Equipment units are typically supported by a warranty for a limited period of time. 
+We have developed a range of elevator and escalator solutions to meet the varying needs and objectives of our diverse customers, primarily centered around the following elevator platforms: 
+Gen2
+, 
+Gen3
+, 
+Gen360
+ and 
+SkyRise
+. Our primary elevator and escalator solutions are described below.
+1
+Table of Contents
+Gen2
+Historically, Gen2 is our principal low-and mid-rise elevator solution. Since its launch in 2000, we have sold over one million units, making it our best-selling elevator platform.
+Gen3
+The successor to the Gen2 family of elevators, the Gen3 platform enhances the space-saving, energy-efficient design of the Gen2 elevator with the connectivity of the Otis ONE IoT (internet of things) digital service platform, while offering additional safety features for passengers and our colleagues who maintain the elevator. 
+In 2023, we introduced the new Gen3 Core elevator in North America, which was designed specifically for low-rise buildings, bringing passengers connectivity, style, and comfort. The Gen3 Core helps minimize energy consumption, material usage and installation costs.
+Gen360
+Initially launched in Europe, we expanded the Gen360 platform into China in 2023. The Gen360 elevator frees hoistway space to accommodate larger cabins and features a new electronic architecture, with many mechanical components replaced by electronic components that, when combined with our service, increase reliability and reduce the potential for entrapments. A foldable, in-ceiling platform allows maintenance operations to be performed safely from within the car rather than on top of it and, depending on local regulations, eliminates the need for a refuge space above the car and the protrusion on the roof allowing for a flat roof design. With optional 360-degree cameras in the hoistway, Otis service teams can visually confirm, fine-tune, diagnose and solve many issues remotely without stopping the elevator. The Otis ONE IoT solution adds a network of sensors for real-time status updates.
+SkyRise High-Rise
+For taller, high-rise buildings, the SkyRise advanced elevator platform combines cutting-edge technologies and precision engineering to deliver solutions for residential, commercial and mixed-use skyscrapers.
+Escalators and Moving Walkways
+In addition t
+o elevator solutions, we also offer escalators and moving walkways. With a range of finishes and aesthetics, Otis escalators integrate easily with any building design. Our smart design and features enhance sustainability and passenger safety, such as sensor-equipped escalators and moving walkways that efficiently run only when passengers approach, or operate at reduced speeds to conserve energy when there are no riders.
+Service
+Through our Service segment, we perform maintenance and repair services, as well as modernization services to upgrade elevators and
+ escalators. We have a maintenance portfolio of
+ approximately 2.4 million units globally,
+ which includes Otis equipment manufactured and sold by us, as well as equipment from other original equipment manufacturers. Through our network of service sales personnel, we sell our services directly to customers in all significant elevator and escalator verticals around the world.
+Service customers typically comprise building owners, facility managers, housing associations and government agencies that operate buildings where elevators and escalators are installed. Customers securing services for elevators are frequently different from those who initially make purchasing decisions with respect to New Equipment solutions. As the largest service provider in the industry worldwide, we have a wide range of customers in our Service segment and do not have any single service contract that is material to Otis as a whole. Contract duration depends on several factors, including customer needs, regulatory requirements and industry/geography dynamics. We work closely with our customers to renew these contracts as appropriate. Certain types of customers, such as those owning or operating large properties or portfolios of properties, tend to execute long-term maintenance agreements.
+2
+Table of Contents
+We provide our Service offerings to our customers through a global network of 
+36,000
+ Service mechanics operating ou
+t of more than 1,400 bra
+nches and offices typically located in close proximity to concentrations of customers. Our mechanics are critical to
+ our ability to deliver a high level of service to our customers. Our OTISLINE operations provide personalized customer support 24/7. They receive customer service requests and assign and dispatch field technicians, as necessary, to respond to service requests. We support our customers with our network of service parts centers and repair centers.
+Our services include inspections, preventive maintenance offerings and other customized maintenance offerings tailored to meet customer needs. A basic maintenance contract provides for inspection consistent with local regulatory needs. We offer incremental, tiered maintenance and service offerings, with varying levels of coverage up to and including comprehensive component replacement coverage. We also provide customers with repair services to address equipment and component wear and tear, as well as breakdowns. 
+We seek to grow our maintenance portfolio through conversion of newly installed units into maintenance contracts, through prospecting and winning units already in service from customers using another service provider and through acquisitions. Our Service sales personnel seek to win service contracts upon the expiration or termination of existing service contracts from customers by offering a superior value proposition through service excellence, an engaged and technically sophisticated group of field service technicians, a streamlined customer experience and reliable elevator and escalator operating performance.
+Similar to most other electro-mechanical equipment, elevators and escalators are subject to wear and tear, which over time erodes equipment functionality. As elevator equipment ages, we work with customers to help renew or refresh their elevators with modernization solutions that enhance equipment operation, improve building functionality and contribute to more sustainable building systems. Modernization offerings can range from relatively simple upgrades of interior finishes and aesthetics to complex upgrades of larger components and sub-systems. Our GEN3 MOD Plus modernization offering for residential, commercial, hospitality, medical or industrial buildings includes built-in connectivity to our Otis ONE IoT digital platform.
+Digital Technology initiatives
+Otis offers a range of technologies for improving the passenger experience and we have been using technology to monitor elevator performance remotely for decades. As of December 31, 2024, approximately 1.0 million units of our global portfolio, including units under the warranty period, are connected. In 2025, we expect to continue to innovate and expand our digital ecosystem and suite of digital solutions for both our existing service portfolio customers and for new equipment shipments from our factories.
+Otis ONE is our latest cloud-based IoT technology, designed to continuously monitor equipment health and performance in real time to provide proactive, predictive and transparent information to our technicians and customers. The technology expands predictive and remote maintenance capabilities to support improved elevator up-time and service productivity.
+We offer additional technology and multimedia options to customers with voice, data and video digital services, leveraging our IoT technologies, as described below. These are often incorporated as an optional upgrade on maintenance contracts.
+ eView In-Car Display
+Our in-car display streams live, customizable infotainment to passengers and can connect them to OTISLINE, Otis' 24-hour service call center, during an emergency.
+Compass 360 Destination Management System
+Our proprietary destination management system groups passengers by their desired destination and directs them to an assigned car that minimizes waiting and ride time. The system's algorithms anticipate traffic demand within a building and improve traffic flow.
+eCall Plus Smartphone App
+Otis' smartphone app enables passengers to summon their elevator remotely for a touchless experience.
+3
+Table of Contents
+Research and Development & Intellectual Property
+Innovation is a fundamental characteristic of our history and is central to our strategy. For 
+2024
+, research and development ("R&D") expense wa
+s $152 million and 1.1% as a percentage 
+of net sales. In addition to R&D expense, we made investments in digital and strategic initiatives of 
+$53 million
+, which in combination with R&D expense was 1.4% as a percentage of net sales. 
+We coordinate our R&D efforts globally through an operating model that sets global and local priorities based on customer and segment needs. We have 11 R&D centers and 17 factories around the world, including major locations in China, India, Japan, France, Germany, Spain and the United States. The R&D centers are strategically located close to concentrations of customers and factories to enable efficient development of engineering solutions that can serve a
+s global model products and adapt quickly and efficiently to local customer needs and local demographic and construction trends. We have
+ 1,300 engi
+neers globally, with increasing focus on digital initiatives, software, design of the user interface and the user experience. 
+We maintain a portfolio of patents, trademarks, copyrights, trade secrets, licenses and franchises related to the Otis business to protect our R&D investments in products and services. We currently own approximatel
+y 5,300 pa
+tents issued in various jurisdictions, and we have approximatel
+y 1,400
+ patent applications pending globally. We filed approximately
+ 800 patent applications in the last three years. Our patents are primarily filed in Europe, the United States and Asia. We belie
+ve that our patents and trade secrets create a competitive advantage and that we have taken reasonable measures to build a portfolio of valid and enforceable intellectual property rights. However, these intellectual property rights might be challenged and could be found invalid or unenforceable. Loss of strategic patents and trade secrets could significantly affect our competitiveness. See Item 1A in this Form 10-K for further discussion of intellectual property matters.
+Joint Ventures and Non-Wholly Owned Subsidiaries
+Our international strategic relationships, joint ventures and non-wholly owned subsidiaries are an important part of our business as they support our access to international markets and customers. Results of these entities are consolidated with our financial and operational results. Our largest joint ventures are located in China with the remainder of our joint ventures and non-wholly owned subsidiaries located in various other countries.
+We operate in China through two principal joint ventures: Otis Elevator (China) Investment Company Limited ("Otis China") and Otis Electric Elevator Company Limited ("Otis Electric"). Otis China is a joint venture established in 1998 for the purpose of manufacturing, installing and servicing elevators, escalators and related equipment. We are a majority owner of Otis China, and Tianjin Tai Kang Investment Co. Ltd. is our joint venture partner. Otis Electric, a subsidiary of Otis China, is a joint venture established in 1997 for the purpose of manufacturing, installing and servicing elevators, escalators and related equipment. Otis China owns a controlling equity stake in Otis Electric. Otis China’s partner in Otis Electric is Xizi Elevator Group Co.
+Competition 
+We operate in a highly competitive industry. Due to the global and localized nature of the industry, there are numerous pa
+rticipants of varying size that operate in our industry. According to industry estimates, there are hundreds of participants that offer New Equipment solutions and several thousand participants that offer maintenance and service solutions. In both the Ne
+w Equipment and Service segments, major competitors globally include KONE Oyj, Schindler Group and TK Elevator, while there are a number of additional competitors in the Asia Pacific region. Competitive dynamics vary significantly by segment and geogr
+aphy. In the Service segment, independent service providers and other small operators are significant competitors in most of our local geograph
+ies. These independent service providers have an aggregate portfolio of
+ about 50%
+ of service units, but account for a smaller percentage of the service business when measured by value because of the types of units and level of maintenance covered by these providers. 
+There are several factors that determine competitiveness in the industry, including local codes and compliance requirements, customer preferences, price, reputation, delivery and execution, product quality, equipment performance, reliability and long-term service and product support.
+Our success in both our New Equipment and Service segments depends upon our ability to develop and market our products, services and solutions, as well as our ability to provide the people, technologies, facilities, equipment and financial capacity needed to deliver those products and services with maximum efficien
+cy. We believe our global presence, local relationships and proven track record in executing complex elevator and escalator solutions contribute to our iconic brand, reputation and competitive position in the industry. 
+4
+Table of Contents
+We believe our business strategies allow us to:
+•
+Sustain New Equipment growth;
+•
+Accelerate Service portfolio growth;
+•
+Deliver modernization value;
+•
+Advance the digitalization of Otis; and
+•
+Focus and empower the organization.
+We believe these results of our business strategies support our ability to successfully compete across the New Equipment and Service segments, and help deliver sustainable earnings growth.
+The Company may not be able to compete effectively on all of these fronts and with all of its competitors, and the failure to do so could have a material adverse effect on its sales and profit margins. 
+For further discussion of risks related to the competitive environment of our business, see Item 1A in this Form 10-K.
+Compliance with Government Regulations 
+We conduct our business through subsidiaries and affiliates worldwide. Any changes in legislation or government policies impacting our industry, including with respect to employee safety, labor-related regulations, industrial equipment, licensing requirements, foreign ownership limitations and building and elevator safety codes, can affect our operations. We closely monitor local legislation and government policies in the locations in which we operate.
+In addition, our operations are subject to and affected by environmental regulations promulgated by federal, state and local authorities in the United States and regulatory authorities with jurisdiction over our foreign operations. We have incurred and will likely continue to incur liabilities under various government statutes and regulations for the cleanup of pollutants previously released into the environment. We do not anticipate that compliance with current provisions relating to the protection of the environment or that any payments we may be required to make for cleanup liabilities will have a material adverse effect upon our competitive position, cash flows, results of operations or financial condition.
+United States (the "U.S.") laws, regulations, orders, and other measures concerning the export or re-export of products, software, services and technology to, and other trade-related activities involving, non-U.S. countries and parties affect the operations of Otis and its affiliates, as do those of other countries pertaining to similar matters.
+For further discussion of risks related to environmental matters and other government regulations, see in this Form 10-K Item 1A, Item 7 and "Note 2: Summary of Significant Accounting Policies" and "Note 21: Contingent Liabilities" in Item 8 in this Form 10-K.
+Seasonality
+Our business and operating results are generally not subject to significant fluctuations as a result of seasonality, although we have experienced lower New Equipment net sales in Asia in the first calendar quarter, coinciding with Lunar New Year celebrations. In addition, we have also experienced lower New Equipment net sales in the fourth quarter in China, due to a national holiday that occurs during the first week of October which may impact the relative mix of net sales within the quarter.
+Raw Materials and Supplies
+Due to the global and distributed nature of our operations, we partner with a diverse network of several thousand 
+suppliers globally. These include product and non-product suppliers, as well as subcontractors. We rely on approximate
+ly 450 key suppliers for our manufacturing supply chain. 
+5
+Table of Contents
+Components and systems necessary to effectively complete our New Equipment projects, as well as to satisfy our maintenance and repair obligations, are often available from two or more sources within the industry. While we believe no single supplier is material to our business, some components or applications require particular specifications or qualifications. In those cases, there may be a single supplier or a limited number of suppliers that can readily provide such components, which have in the past, and could in the future, result in supply constraints or cost pressures due to an issue with such a supplier, including financial or operational difficulties or a contract dispute. We implement mitigation actions to address potential disruption in and other risks relating to our supply chain, including the use of safety stock and alternative materials, as well as risk assessments, qualification of multiple supply sources and use of long-term supplier agreements. 
+Although at times high prices for some important raw materials have caused margin and cost pressures for our business, we do not expect near-term unavailability or pricing of materials, components or supplies that would have a material adverse effect on our business. We seek to manage commodity price risk through locking and hedging strategies, as well as passing the increases onto our customers through pricing. 
+See Item 1A in this Form 10-K for risks associated with raw material and supply chain.
+Environmental, Social and Governance ("ESG")
+Otis has an integrated approach to ESG. Our four ESG pillars of Health & Safety, Environment & Impact, People & Communities and Governance & Accountability are embedded in our business strategy and align with our Otis Absolutes of Safety, Ethics and Quality. We are committed to the health and safety of our colleagues and the riding public. We are committed to managing our impact on the environment, aligning our products and services with our stakeholders’ expectations and aspirations. We proactively engage in the communities where we live and work. We focus on attracting, developing and retaining the best talent on the market. See "Human Capital" below for additional information regarding certain initiatives related to our colleagues. 
+In 2021, we became a signatory to the U.N. Global Compact and published our thirteen ESG goals and aligned them with the U.N. Sustainable Development Goals. Our Environment & Impact goals are as follows:
+•
+Near-term science-based greenhouse gas ("GHG") reduction targets:
+▪
+Reduce absolute scope 1 and 2 GHG emissions 55% by 2033 from 2021 base year (with the target boundary including biogenic land-related emissions and removals from bioenergy feedstocks)
+▪
+Reduce absolute scope 3 GHG emissions from purchased goods and services, business travel, and use of sold products 33% by 2033 from 2021 base year
+•
+Source 100% of factory electricity from renewable energy by 2030
+•
+Achieve 100% factory eligibility for zero-waste-to-landfill certification by 2025
+•
+Complete ISO 14001 certification for all factories by 2025 (goal completed four years early in 2021)
+In April 2024, the Science Based Target Initiative ("SBTi") validated our near-term science-based GHG reduction targets. Our new science-based targets replace our GHG target of 50% reduction in scope 1 and 2 GHG emissions by 2030 from 2019 base year. Our climate transition plan is based on the implementation of major initiatives focused on energy management and operational efficiency across our factories, real estate and fleet. 
+In June 2024, we published our third annual ESG report on our ESG activities, metrics and progress towards our goals in accordance with the Global Reporting Initiative Standards, as well as in alignment with the Sustainability Accounting Standards Board guidelines and the Task Force on Climate-related Financial Disclosures. We also engaged third parties for limited assurance covering certain Health & Safety, Environment & Impact, and People & Community metrics discussed in the ESG report. In the Fall 2024, we conducted our initial double materiality assessment in accordance with the European Corporate Sustainability Reporting Directive. Our ESG goals and ESG reports can be found in the Investor section of our corporate website (http://www.otis.com) under the heading "ESG", which we update from time to time. Our ESG goals, our ESG reports and our corporate website are not incorporated by reference into this Form 10-K.
+The Company has developed an ESG governance model that supports our goals. Our Board of Directors and its committees engage in extensive review and oversight of ESG-related topics. The Company's ESG Council, composed of senior leaders representing multiple functions within the Company, monitors our performance towards our ESG goals and addresses impacts and opportunities related to climate change, as well as those related to all other ESG programs. The ESG Council reports regularly to our CEO on our ESG progress and actions. Our progress towards our ESG goals was included as a performance multiplier in determining payouts under our 2024 executive short-term incentive plan.
+6
+Table of Contents
+There have been no, and we do not expect there to be in the near term, material impacts on our business, financial condition or results of operations as a result of compliance with legislation or regulatory rules regarding climate change, from the known physical effects of climate change or as a result of implementing our ESG initiatives. Increased regulation and other climate change concerns, however, could subject us to additional costs and restrictions, and we are not able to predict how such regulations or concerns would affect our business, operations or financial results. For a discussion of risks associated with ESG matters, see Item 1A in this Form 10-K.
+Human Capital
+As of December 31, 2024, our global workforce consists of 72,000 colleagues (including 44,000 field professionals), with 45% in Asia, 34% in Europe, the Middle East and Africa ("EMEA") and 21% in the Americas.
+Approximately 64% of our U.S. workforce is covered by a collective bargaining agreement. Out
+side of the U.S., our colleagues are represented by workers' councils or statutory labor unions 
+as may be customary or required in those jurisdictions
+.
+ While we strive to maintain good relationships with our employee representative bodies, our business may be adversely affected by work stoppages, union negotiations, labor disputes and other matters associated with our labor force. T
+he collective bargaining agreement for most of our bargaining unit colleagues in the U.S. was renewed without disruption in July 2022 and is set to expire in July 2027.
+ For a discussion of risks associated with employment-related matters, see Item 1A in this Form 10-K.
+Compensation and Benefits
+Our colleagues are vital to our success, and we offer pay and benefits designed to attract, retain and motivate our colleagues and align their compensation with both individual and our overall performance. We follow local labor laws that address minimum wages, insurance coverage of work-related accidents, severance pay and other employment provisions, including overtime and sick pay. While our programs vary by location and eligibility, they generally include base and overtime pay, short-term incentive bonuses, long-term incentive pay in the form of stock awards, retirement plan benefits, health care and insurance benefits, tuition assistance through our Employee Scholar program, paid sick, bereavement, vacation, parental and family leaves, and wellness and employee assistance programs.
+Health and Safety
+Safety is one of the Otis Absolutes. For that reason, safety measures and indicators are regularly monitored by management and reported to our Board of Directors. To promote safety, we have a health and safety management system and regularly measure the effectiveness of our health and safety programs. We also provide regular health and safety training to our field professionals. We follow local labor laws that address maximum working hours. We empower all of our colleagues and subcontractors with stop work authority if they perceive an unsafe condition or behavior that may cause injury. We also seek to promote a culture where stop work authority can be freely exercised without the fear of retribution or retaliation, and a learning culture to enhance the quality and delivery of safety and technical training. Health and Safety is one of the four focus areas of our ESG goals. See the "Environmental, Social and Governance ("ESG")" section of this Form 10-K above for more information regarding our ESG goals.
+We are focused on our colleagues' mental and physical well-being. We provide employee assistance plan benefits to all of our colleagues worldwide. We also offer flexible work arrangements to many salaried colleagues. 
+Hiring, Training, Development and Retention
+We position ourselves to attract and retain the best talent in the market and interact meaningfully in the global communities where we live and work. We aim to be both an equal opportunity employer of choice and a place where our colleagues feel safe, welcomed and heard. We partner with universities and nonprofit organizations and use our Employee Resource Groups ("ERGs") to broaden our hiring pool to meet our hiring needs. 
+We seek others’ ideas, encourage innovation and empower our colleagues through various learning and development programs that are aligned with our business strategy and are designed to contribute to our broader success such as our "Employee Scholar Program", a company-sponsored education program that allows colleagues to expand their skills through degree or certification programs.
+Our mechanics receive extensive training to service and install equipment safely. This training consists of live, virtual, and on-the-job modules with experienced mechanics. 
+We also offer various programs to build leadership and functional capabilities and provide development initiatives through our colleague-led ERGs. Our ERGs’ missions aim at fostering an inclusive work environment through engagement that positively impacts business outcomes. 
+7
+Table of Contents
+We track our colleagues’ voluntary attrition rate to help us assess our workplace initiatives. We also track our colleagues’ satisfaction through colleague surveys to anticipate attrition, as discussed further below. Our commitment to fostering an inclusive workplace strengthens employee engagement and supports the retention of top talent.
+Colleague Engagement
+We believe that engaged colleagues deliver better service to our customers. We measure engagement by periodically conducting colleague surveys. The results, which are reported to our Board of Directors and management, help us assess how our colleagues feel about working for us. We use the survey results to develop action plans to address areas of concern. The engagement survey, which anonymizes the data, covers topics such as safety, ethics, belonging, quality, company prospects, inclusion, empowerment, accountability and managerial effectiveness. 
+Corporate Information
+Otis is a Delaware corporation and was incorporated on March 1, 2019 in connection with the separation and distribution ("Separation") of each of Otis and C
+arrier Global Corporation ("Carrier") from United Technologies Corporation, subsequently renamed RTX Corporation ("UTC" or "RTX", as applicable) into separate independent publicly traded companies. The Separation occurred on April 3, 2020. References to "UTC" relate to pre-Separation matters, and references to "RTX" relate to post-Separation matters.
+The Separation was completed pursuant to a Separation and Distribution Agreement ("Separation Agreement") and other agreements with UTC and Carrier related to the Separation, including but not limited to a tax matters agreement ("TMA"), an employee matter agreement ("EMA") and an
+ intellectual property agreement (the "Intellectual Property Agreement").
+For further discussion of these agreements, see Item 1A, "Note 1: Business Overview" in Item 8 and Item 15 in this Form 10-K.
+Available Information
+This Form 10-K and our quarterly reports on Form-10-Q, current reports on Form 8-K and any amendments to those reports are available free of charge through the Investors section of our Internet website (http://www.otis.com) under the heading "Financial Information" as soon as reasonably practicable after these reports are electronically filed with, or furnished to, the SEC. In addition, the SEC maintains a website (http://www.sec.gov) containing reports, proxy and information statements and other information regarding issuers that file electronically with the SEC.
+8
+Table of Contents
+Cautionary Note Concerning Factors That May Affect Future R
+esults
+This Form 10-K contains statements which, to the extent they are not statements of historical or present fact, constitute "forward-looking statements" under the securities laws. From time to time, oral or written forward-looking statements may also be included in other information released to the public. These forward-looking statements are intended to provide management’s current expectations or plans for Otis’ future operating and financial performance, based on assumptions currently believed to be valid. Forward-looking statements can be identified by the use of words such as "believe," "expect," "expectations," "plans," "strategy," "prospects," "estimate," "project," "target," "anticipate," "will," "should," "see," "guidance," "outlook," "medium-term," "near-term," "confident," "goals" and other words of similar meaning in connection with a discussion of future operating or financial performance. Forward-looking statements may include, among other things, statements relating to future sales, earnings, cash flow, results of operations, uses of cash, dividends, share repurchases, tax rates, R&D spend, restructuring or transformation actions (including UpLift and related reorganization and outsourcing activities), credit ratings, net indebtedness and other measures of financial performance or potential future plans, strategies or transactions, or statements that relate to climate change and our intent to achieve certain ESG targets or goals, including operational impacts and costs associated therewith, and other statements that are not historical facts. All forward-looking statements involve risks, uncertainties and other factors that may cause actual results to differ materially from those expressed or implied in the forward-looking statements. For those statements, Otis claims the protection of the safe harbor for forward-looking statements contained in the U.S. Private Securities Litigation Reform Act of 1995. Such risks, uncertainties and other factors include, without limitation:
+•
+the effect of economic conditions in the industries and markets in which Otis and its businesses operate and any changes therein, including financial market conditions, fluctuations in commodity prices, and other inflationary pressures, interest rates and foreign currency exchange rates, levels of end market demand in construction, pandemic health issues, natural disasters, whether as a result of climate change or otherwise, and the financial condition of Otis’ customers and suppliers;
+•
+the effect of changes in political conditions in the U.S., including in connection with the new administration's policies and priorities, or otherwise, and other countries in which Otis and its businesses operate, including the effects of the conflict between Russia and Ukraine, the conflicts in the Middle East, and tensions between the U.S. and China, on general market conditions, commodity costs, global trade policies and related sanctions, export controls and tariffs, and currency exchange rates in the near term and beyond;
+•
+challenges in the development, production, delivery, support, performance and realization of the anticipated benefits of advanced technologies and new products and services;
+•
+future levels of indebtedness, capital spending and research and development spending;
+•
+future availability of credit and factors that may affect such availability or costs thereof, including credit market conditions and Otis’ capital structure;
+•
+the timing and scope of future repurchases of Otis’ common stock ("Common Stock"), which may be suspended at any time due to various factors, including market conditions and the level of other investing activities and uses of cash;
+•
+fluctuations in prices and delays and disruption in delivery of materials and services from suppliers, whether as a result of changes in general economic conditions, geopolitical conflicts or otherwise;
+•
+cost reduction or containment actions, restructuring or transformation costs and related savings and other consequences thereof, including with respect to UpLift and related impacts of reorganization and outsourcing activities and change management;
+•
+new business and investment opportunities;
+•
+the outcome of legal proceedings, investigations and other contingencies;
+•
+pension plan assumptions and future contributions;
+•
+the impact of the negotiation of collective bargaining agreements and labor disputes, labor actions, including strikes or work stoppages, and labor inflation in the markets in which Otis and its businesses operate globally;
+•
+the effect of changes in tax, environmental, regulatory (including among other things import/export, tariffs, and climate change or other ESG related legal and regulatory changes) and other laws and regulations in the U.S., including in connection with the new administration's policies and priorities, and other countries in which Otis and its businesses operate;
+•
+the ability of Otis to retain and hire key personnel;
+•
+the scope, nature, impact or timing of acquisition and divestiture activity, the integration of acquired businesses into existing businesses and realization of synergies and opportunities for growth and innovation and incurrence of related costs;
+•
+the determination by the Internal Revenue Service (the "IRS") and other tax authorities that the distribution or certain related transactions in connection with the Separation should be treated as taxable transactions; and
+9
+Table of Contents
+•
+our obligations and our disputes that have or may hereafter arise under the agreements we entered into with RTX and Carrier in connection with the Separation.
+These and other factors are more fully discussed in the "Business", "Risk Factors" and "Management’s Discussion and Analysis of Financial Condition and Results of Operations" sections and elsewhere in this Form 10-K and may cause actual results to differ materially from those expressed or implied in the forward-looking statements. 
+The forward-looking statements speak only as of the date of this report, or in the case of any document incorporated by reference, the date of that document. W
+e undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by applicable law. Additional information as to factors that may cause actual results to differ materially from those expressed or implied in the forward-looking statements is disclosed from time to time in our other filings with the SEC.

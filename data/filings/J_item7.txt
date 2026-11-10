@@ -1,0 +1,937 @@
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Page 50
+Critical Accounting Policies and Estimates
+In order to better understand the changes that occur to key elements of our financial condition, results of operations and cash flows, a reader of this Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) should be aware of the critical accounting policies we apply in preparing our consolidated financial statements.
+The consolidated financial statements contained in this report were prepared in accordance with U.S. GAAP. The preparation of our consolidated financial statements and the financial statements of any business performing long-term professional services, engineering and construction-type contracts requires management to make certain estimates and judgments that affect both the entity’s results of operations and the carrying values of its assets and liabilities. Although our significant accounting policies are described in Note 2- 
+Significant Accounting Policies
+ of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K, the following discussion is intended to highlight and describe those accounting policies that are especially critical to the preparation of our consolidated financial statements.
+Revenue Accounting for Contracts
+The Company recognizes engineering, procurement, and construction contract revenue over time, as performance obligations are satisfied, due to the continuous transfer of control to the customer in accordance with ASC 606, 
+Revenue from Contracts with Customers
+. Contracts that include engineering, procurement and construction services are generally accounted for as a single deliverable (a single performance obligation). In some instances, the Company’s services associated with a construction activity are limited only to specific tasks such as customer support, consulting or supervisory services. In these instances, the services are typically identified as separate performance obligations.
+The Company recognizes revenue using the percentage-of-completion method, based primarily on contract costs incurred to date compared to total estimated contract costs. Estimated contract costs include the Company’s latest estimates using judgments with respect to labor hours and costs, materials, and subcontractor costs. The percentage-of-completion method (an input method) is the most representative depiction of the Company’s performance because it directly measures the value of the services transferred to the customer. Subcontractor materials, labor and equipment and, in certain cases, customer-furnished materials and labor and equipment are included in revenue and cost of revenue when management believes that the company is acting as a principal rather than as an agent (e.g., the Company integrates the materials, labor and equipment into the deliverables promised to the customer or is otherwise primarily responsible for fulfillment and acceptability of the materials, labor and/or equipment). Under the typical payment terms of our engineering, procurement and construction contracts, amounts are billed as work progresses in accordance with agreed-upon contractual terms at periodic intervals (e.g., biweekly or monthly) and customer payments are typically due within 30 to 60 days of billing, depending on the contract.
+For service contracts, the Company recognizes revenue over time using the cost-to-cost percentage-of-completion method. In some instances where the Company is standing ready to provide services, the Company recognizes revenue ratably over the service period. When the Company has operations and maintenance or secondment contracts that do not contain variable consideration or have significant timing differences between cash payment and performance, the practical expedient method is applied for revenue recognition. Under the typical payment terms of our service contracts, amounts are billed as work progresses in accordance with agreed-upon contractual terms, and customer payments are typically due within 30 to 60 days of billing, depending on the contract.
+Direct cost of contracts include all costs incurred in connection with and directly for the benefit of client contracts, including depreciation and amortization relating to assets used in providing the services required by the related projects. The level of direct cost of contracts may fluctuate between reporting periods due to a variety of factors, including the amount of pass-through costs we incur during a period. On those projects where we are acting as principal for subcontract labor or third-party materials and equipment, we reflect the amounts of such items in both revenues and costs (and we refer to such costs as “pass-through costs”).
+Page 51
+Accounting for Pension Plans
+The accounting for pension plans requires the use of assumptions and estimates in order to calculate periodic pension cost and the value of the plans’ assets and liabilities. These assumptions include discount rates, investment returns, and projected salary increases, among others. The actuarial assumptions used in determining the funded status of the respective plans are provided in Note 13-
+ Pension and Other Post Retirement Benefit Plans 
+of the Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K.
+The expected rates of return on plan assets ranged from 
+4.6% to 7.8%
+ for fiscal 2025 and range from 
+4.0% to 8.2% f
+or fiscal 2026. We believe the range of rates selected for fiscal 2026 reflects the long-term returns expected on the plans’ assets, considering recent market conditions, projected rates of inflation, the diversification of the plans’ assets, and the expected real rates of market returns. The discount rates used to compute plan liabilities ranged from 
+3.4% 7.0%
+ in fiscal 2025 and range from
+ 3.2% to 6.0% 
+in fiscal 2026. These assumptions represent the Company’s best estimate of the rates at which its pension obligations could be effectively settled.
+Changes in the actuarial assumptions often have a material effect on the values assigned to plan assets and liabilities, and the associated pension expense. For example, if the discount rate used to value the net pension benefit obligation (“PBO”) at September 26, 2025 was lower or higher by 1.0%, the PBO would have been higher or lower, respectively, at that date by approximately 
+$139.1 million
+ for non-U.S. plans, and by approximatel
+y $19.5 million for U.S. plans. If the expected return on plan assets was lower or higher by 1.0%, the net periodic pension cost for fiscal 2025 would be higher or lower, respectively, by approximately $13.1 million for non-U.S. plans, and by approximately $2.7 million
+ for U.S. plans. Differences between 
+actuarial assumptions and actual performance (i.e., actuarial gains and losses) that are not recognized as a component of net periodic pension cost in the period in which such differences arise are recorded to accumulated other comprehensi
+ve loss and are recognized as part of net periodic pension cost in future periods in accordance with U.S. GAAP. Management monitors trends in the marketplace within which our pension plans operate in an effort to assure the reasonableness of the actuarial assumptions used.
+Redeemable Noncontrolling Interests
+In connection with the PA Consulting investment in March 2021, the Company recorded redeemable noncontrolling interests, representing the interest holders' initial 35% equity interest in the form of preferred and common shares of PA Consulting. The preferred shares are entitled to a cumulative annual compounding 12% dividend based on the outstanding preferred share subscription price. These noncontrolling interest holders have certain option rights to put the preferred and common share interests back to the Company at a value based on the fair value of PA Consulting (the redemption values). The primary inputs and assumptions impacting the fair value of PA Consulting include projections of revenue and earnings before interest, taxes, depreciation and amortization and discount rates applied thereto. Additionally, the Company has an option to call the interests for certain individual shareholders in certain circumstances. Because the interests are redeemable at the option of the holders and not solely within the control of the Company, the Company has classified the interests in redeemable noncontrolling interests in the mezzanine section of its Consolidated Balance Sheet at their redemption values. The optional redemption features may become exercisable no earlier than five years from the March 2, 2021 closing date, or upon the occurrence of certain other events.
+The Company has deemed these interests probable of becoming redeemable in the future and requiring their measurement at the greater of (i) the redemption amount that would be paid if settlement occurred at the balance sheet date, or (ii) the historical value resulting from the original acquisition date fair value plus the impact of any earnings or loss attribution amounts, including dividends. 
+The fair value of the PA Consulting redeemable noncontrolling interest is determined using a combination of the income and market approaches. Under the income approach, fair value is determined by using the projected discounted cash flows of PA Consulting. Under the market approach, the fair value is determined by reference to guideline companies that are reasonably comparable to PA Consulting, with the fair value estimated based on those companies' valuation multiples of earnings before interest, taxes, depreciation and amortization.
+Litigation, Investigations, and Insurance
+In the normal course of business, we make contractual commitments, and on occasion we are a party in litigation or arbitration proceedings. The litigation in which we are involved primarily includes personal injury claims, professional liability claims, and breach of contract claims. We are also routinely subject to investigations and audits. 
+Page 52
+We maintain insurance coverage for most insurable aspects of our business and operations. Our insurance programs have varying coverage limits depending upon the type of insurance and include certain conditions and exclusions which insurance companies may raise in response to any claim that the Company brings. We have also elected to retain a portion of certain losses, claims and liabilities that occur through the use of various deductibles, limits, and retentions under our insurance programs and utilize a number of internal financing mechanisms for these self-insurance arrangements including the operation of certain captive insurance entities. As a result, we may be subject to a future liability for which we are only partially insured or completely uninsured. We intend to mitigate any such future liability by continuing to exercise prudent business judgment in negotiating the terms and conditions of the contracts which the Company enters with its clients. Our insurers are also subject to business risk and, as a result, one or more of them may be unable to fulfill their insurance obligations due to insolvency or otherwise.
+Our Consolidated Balance Sheets include amounts representing our probable estimated liability relating to such claims, litigation, audits, and investigations. Our estimates of probable liabilities require us to make assumptions related to potential losses regarding our determination of amounts considered probable and estimable. 
+The Company believes, after consultation with counsel, that such litigation, U.S. government contract-related audits, investigations and claims, and income tax audits and investigations should not have a material adverse effect on our consolidated financial statements, beyond amounts currently accrued.
+Page 53
+JACOBS SOLUTIONS INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF EARNINGS
+For the Fiscal Years Ended September 26, 2025, September 27, 2024 and September 29, 2023 
+(In thousands, except per share information)
+September 26, 2025
+September 27, 2024
+September 29, 2023
+Revenues
+$
+12,029,783 
+$
+11,500,941 
+$
+10,851,420 
+Direct cost of contracts
+(9,044,849)
+(8,668,185)
+(8,140,560)
+Gross profit
+2,984,934 
+2,832,756 
+2,710,860 
+Selling, general and administrative expenses
+(2,121,300)
+(2,140,320)
+(2,034,376)
+Operating Profit
+863,634 
+692,436 
+676,484 
+Other Income (Expense):
+Interest income
+35,804 
+34,454 
+24,975 
+Interest expense
+(145,788)
+(169,058)
+(168,085)
+Loss on extinguishment of debt
+(20,510)
+— 
+— 
+Miscellaneous (expense) income, net
+(189,663)
+219,454 
+(12,399)
+Total other (expense) income, net 
+(320,157)
+84,850 
+(155,509)
+Earnings from Continuing Operations Before Taxes
+543,477 
+777,286 
+520,975 
+Income Tax Expense for Continuing Operations
+(215,555)
+(131,493)
+(101,336)
+Net Earnings of the Group from Continuing Operations
+327,922 
+645,793 
+419,639 
+Net (Loss) Earnings of the Group from Discontinued Operations, net of tax
+(23,966)
+206,850 
+300,017 
+Net Earnings of the Group
+303,956 
+852,643 
+719,656 
+Net Earnings Attributable to Noncontrolling Interests from Continuing Operations
+(3,443)
+(17,990)
+(18,900)
+Net Earnings Attributable to Redeemable Noncontrolling Interests
+(11,177)
+(14,999)
+(21,614)
+Net Earnings Attributable to Jacobs from Continuing Operations
+313,302 
+612,804 
+379,125 
+Net Earnings Attributable to Noncontrolling Interests from Discontinued Operations
+— 
+(13,561)
+(13,365)
+Net (Loss) Earnings Attributable to Jacobs from Discontinued Operations
+(23,966)
+193,289 
+286,652 
+Net Earnings Attributable to Jacobs
+$
+289,336 
+$
+806,093 
+$
+665,777 
+Net Earnings Per Share:
+Basic Net Earnings from Continuing Operations Per Share
+$
+2.59 
+$
+4.81 
+$
+3.06 
+Basic Net (Loss) Earnings from Discontinued Operations Per Share
+$
+(0.20)
+$
+1.54 
+$
+2.26 
+Basic Earnings Per Share
+$
+2.39 
+$
+6.35 
+$
+5.32 
+Diluted Net Earnings from Continuing Operations Per Share
+$
+2.58 
+$
+4.79 
+$
+3.05 
+Diluted Net (Loss) Earnings from Discontinued Operations Per Share
+$
+(0.20)
+$
+1.54 
+$
+2.25 
+Diluted Earnings Per Share
+$
+2.38 
+$
+6.32 
+$
+5.30 
+Note: Earnings per share amounts may not add due to rounding.
+Page 54
+2025 Overview
+Net earnings attributable to the Company from continuing operations for fiscal 2025 were $313.3 million (or $2.58 per diluted share), a decrease of $299.5 million, or 48.9%, from $612.8 million (or $4.79 per diluted share) for the prior year. Our reported net earnings for the current year were favorably impacted by higher gross profit of $152.2 million compared to the prior year, primarily driven by stronger performance in our Infrastructure & Advanced Facilities ("I&AF") operating segment, specifically in the Advanced Facilities, Europe and Asia, Pacific and Middle East ("APME") businesses, as well as growth in our PA Consulting operating segment, as discussed below in the 
+Segment Financial Information
+ section. While current year results reflected higher year-over-year underlying gross profit, the Company’s results from continuing operations for fiscal 2025 were unfavorably impacted by an increase in miscellaneous expense of $409.1 million primarily as a result of $227.3 million in mark-to-market losses relating to our investment in Amentum stock in connection with the Separation Transaction compared to $186.9 million in gains relating to the same investment in the prior year. Fiscal 2025 comparative results were also unfavorably impacted by a prior year realized gain of $35.2 million from settlement of interest rate swaps in fiscal 2024 and $20.5 million in discounts and expenses recorded to Loss on extinguishment of debt associated with our Equity-for-Debt Transaction on March 13, 2025, where the Company exchanged shares of our investment in Amentum Holdings, Inc. for a principal amount of term loans under the 2021 Term Loan Facility, which term loans were immediately extinguished (see Note 9- 
+Borrowings
+ and Note 14- 
+Discontinued Operations
+). These unfavorable impacts were partly offset by an increase in TSA-related income and a decrease in interest expense included in miscellaneous expense as well as a decrease in pre-tax Restructuring and other charges and transaction costs of $104.6 million reported in Selling, general & administrative ("SG&A") expenses compared to the fiscal 2024 period, primarily associated with the Separation Transaction (mainly professional services and employee separation costs), which are discussed in Note 16- 
+Restructuring and Other Charges
+.
+Income taxes were higher in the current year by $84.1 million primarily due to $51.2 million in tax expense from higher year-over-year pre-tax book income after excluding the permanent book-tax difference for the mark-to-market and other related transactions associated with our investment in Amentum stock. Further, our income tax expense was unfavorably impacted by a prior year discrete income tax benefit of $61.6 million related to the election to treat an Australian subsidiary as a corporation versus a partnership for U.S. tax purposes, which resulted in the derecognition of a deferred tax liability in fiscal year 2024. The overall higher income tax expense was partially offset by a return-to-provision income tax benefit of $16.2 million mainly attributable to additional research and development credits claimed on the U.S. federal tax return.
+Net (loss) earnings attributable to Jacobs from discontinued operations for fiscal 2025 were $(24.0) million (or $(0.20) per diluted share), a decrease of $217.3 million, or 112.4%, from $193.3 million (or $1.54 per diluted share) compared to the prior year. The change year-over-year was primarily driven by prior year operating results of the SpinCo Business which were divested on September 27, 2024 and therefore are no longer in Company's financial results in fiscal year 2025. In addition, the Company has accrued approximately $(30.8) million during the year ended September 26, 2025 as an indemnity reserve in respect of an ongoing non-U.S. tax matter related to an entity that was part of the separated SpinCo Business as described in Note 14- 
+Discontinued Operations.
+Backlog at September 26, 2025 was $23.1 billion, up $1.2 billion, from $21.8 billion in the prior year. New prospects and new sales remain strong, and the Company continues to have a positive outlook for many of the industry groups and sectors in which our clients operate.
+Results of Operations
+Fiscal 2025 Compared to Fiscal 2024
+Revenues for the year ended September 26, 2025 were $12.03 billion, an increase of $0.53 billion, or 4.6%, from $11.50 billion for the prior year. The increase in revenues was mainly driven by the Company's I&AF business, as well as year over year revenue growth in our PA Consulting business. The I&AF segment benefited primarily from stronger performance in its Advanced Facilities and APME business operations. Our revenues for fiscal 2025 were favorably impacted by foreign currency translation of $62.4 million in our international businesses, as compared to $77.0 million in the last fiscal year.
+Page 55
+Gross profit for the year ended September 26, 2025 was $2.98 billion, an increase of $152.2 million, or 5.4%, from $2.83 billion for the prior year, with gross profit margins of 24.8% and 24.6% for the respective periods. The Company's increase in gross profit was mainly attributable to higher revenues as mentioned above, with favorable margin impacts from year over year project mix.
+See 
+Segment Financial Information
+ discussion for further information on the Company’s results of operations at the operating segment level.
+Selling, general & administrative expenses for the year ended September 26, 2025 were $2.12 billion, a decrease of $19.0 million, or 0.9%, from $2.14 billion for the prior year. SG&A expenses were impacted by a decrease of $104.6 million in Restructuring and other charges associated with the Separation Transaction, mainly comprised of professional services, compared to the prior year. This was partially offset by an increase in incentives of $36.5 million, primarily related to PA consulting, expenses associated with the TSA with Amentum of $26.0 million, an increase of $9.9 million in expenses associated with IT related software licensing and other costs, as well as year-over-year increases in other personnel costs and other department spend for the fiscal year 2025. Lastly, SG&A expenses were impacted by unfavorable foreign exchange impacts of $10.8 million for the year ended September 26, 2025 as compared to $2.1 million in fiscal 2024.
+Net interest expense for the year ended September 26, 2025 was $110.0 million, a decrease of $24.6 million from $134.6 million for the prior year. The decrease in net interest expense for the fiscal year 2025 was primarily due to a decrease in interest expense driven by lower outstanding debt balances throughout the fiscal year, as proceeds associated with the Separation Transaction were used for the repayment of debt at the end fiscal 2024 as well as in the current year.
+Loss on extinguishment of debt was $20.5 million in fiscal 2025, which includes discounts and expenses associated with the Equity-for-Debt Transaction executed on March 13, 2025, where the Company exchanged shares of our investment in Amentum Holdings, Inc. for a principal amount of term loans under the 2021 Term Loan Facility, which term loans were immediately extinguished. See Note 9- 
+Borrowings
+ and Note 14- 
+Discontinued Operations
+.
+Miscellaneous (expense) income, net for the year ended September 26, 2025 was expense of $(189.7) million, an increase of $409.1 million compared to income of $219.5 million in the prior year. The increase in expense from fiscal 2024 was primarily due to $(227.3) million in mark-to-market losses associated with our investment in Amentum stock in connection with the Separation Transaction as compared to $186.9 million in gains relating to the same investment in the prior year and a prior year $35.2 million realized gain on interest rate swaps settled during the fourth quarter of fiscal 2024. These unfavorable items were partially offset by $40.5 million in TSA-related income associated with the Separation Transaction as discussed in Note 14- 
+Discontinued Operations
+.
+Net (loss) earnings attributable to Jacobs from discontinued operations for fiscal 2025 were $(24.0) million (or $(0.20) per diluted share), a decrease of $217.3 million, or 112.4%, from $193.3 million (or $1.54 per diluted share) in the prior year, primarily driven by prior year operating results of the SpinCo Business which were divested on September 27, 2024 and therefore are no longer in Company's financial results in fiscal year 2025. See Note 14- 
+Discontinued Operations
+.
+Net earnings attributable to noncontrolling interests from continuing operations for the year ended September 26, 2025 were $3.4 million, as compared to $18.0 million for the corresponding period last year. The change in noncontrolling interest for fiscal year 2025 primarily resulted from the impact of an unfavorable interim ruling against a consolidated joint venture in which the Company holds a 50% interest, in connection with a long running project, upon which the Company recorded a reserve against related accounts receivable (the “Consolidated JV Matter”) during the second fiscal quarter of 2025.
+Net earnings attributable to redeemable noncontrolling interests for the year ended September 26, 2025 were $11.2 million, compared to $15.0 million in the corresponding prior period. The year over year changes were primarily due to an increase in the Company's noncontrolling share of expense associated with equity-based incentive grants as discussed in Note 15- 
+PA Consulting Redeemable Noncontrolling Interests,
+ partly offset by favorable underlying net earnings results in our PA Consulting investment compared to the prior year period.
+Page 56
+Fiscal 2024 Compared to Fiscal 2023
+Revenues for the year ended September 27, 2024 were $11.50 billion, an increase of $0.65 billion, or 6.0%, from $10.85 billion from fiscal 2023. The increase in revenues was due mainly to improved performance in our I&AF business, as well as higher revenues year over year in our PA Consulting business. The I&AF segment benefited primarily from stronger performance in its Advanced Facilities and international business operations. Our revenues for fiscal 2024 were favorably impacted by foreign currency translation of $77.0 million in our international businesses, as compared to an unfavorable impact of $175.3 million for the corresponding period last fiscal year.
+Gross profit for the year ended September 27, 2024 was $2.83 billion, up $121.9 million, or 4.5%, from $2.71 billion for fiscal 2023. The Company's increase in gross profit was mainly attributable to higher revenues as mentioned above, with slight margin impacts from year over year mix and personnel cost impacts. Our gross profit margins were approximately 24.6% and 25.0% for the years ended September 27, 2024 and September 29, 2023, respectively. Overall project mix impacts in our portfolios, personnel costs and utilization trends primarily in PA Consulting had mostly offsetting impacts on our overall margin trends year over year.
+See 
+Segment Financial Information
+ discussion for further information on the Company’s results of operations at the operating segment level.
+Selling, general & administrative expenses for the year ended September 27, 2024 were $2.14 billion, an increase of $105.9 million, or 5.2%, from $2.03 billion for fiscal 2023. Fiscal 2024 results were impacted by Restructuring and other charges of $163.4 million in separation activities (mainly professional services and employee separation costs) relating to the Separation Transaction in comparison to prior period costs of $61.1 million. Further our SG&A expenses were impacted by slight increases in other department spend and personnel costs. Lastly, SG&A expenses were impacted by unfavorable foreign exchange impacts of $2.1 million for the year ended September 27, 2024 as compared to favorable impacts of $58.9 million for fiscal 2023.
+Net interest expense for the year ended September 27, 2024 was $134.6 million, a decrease of $8.5 million from $143.1 million for fiscal 2023. The decrease in net interest expense for the fiscal year 2024 was due primarily to the Company's higher levels of cash and lower overall levels of outstanding debt compared to the last fiscal year.
+Miscellaneous income (expense), net for the year ended September 27, 2024 was income of $219.5 million, favorable by $231.9 million as compared to $(12.4) million for the prior period. The increase in income from fiscal 2023 was due primarily to $186.9 million in mark-to-market gains associated with our investment in Amentum stock in connection with the Separation Transaction and a $35.2 million realized gain on interest rate swaps settled during the fourth quarter of fiscal 2024.
+Net earnings attributable to Jacobs from discontinued operations for fiscal 2024 were $193.3 million (or $1.54 per diluted share), a decrease of $93.4 million, or 32.6%, from $286.7 million (or $2.25 per diluted share) for the corresponding prior year period. Included in the current year results from discontinued operations is $98.3 million in costs related to the Separation Transaction and approximately $18 million in pre-tax non-cash charges associated with one-time inventory write downs.
+Net earnings attributable to noncontrolling interests including redeemable noncontrolling interests for the year ended September 27, 2024 of $33.0 million and $40.5 million for the corresponding period last year. The year over year changes were primarily due to lower net earnings results in our PA Consulting investment compared to the prior year periods.
+Page 57
+The following table reconciles total income tax expense on continuing operations using the statutory U.S. federal income tax rate to the consolidated income tax expense on continuing operations shown in the accompanying Consolidated Statements of Earnings for the years ended September 26, 2025, September 27, 2024 and September 29, 2023 (dollars in thousands):
+For the Years Ended
+September 26, 2025
+%
+September 27, 2024
+%
+September 29, 2023
+%
+Statutory amount
+$
+114,130 
+21.0 
+%
+$
+163,230 
+21.0 
+%
+$
+109,405 
+21.0 
+%
+State taxes, net of the federal benefit
+15,852
+2.9 
+%
+21,615 
+2.8 
+%
+13,938 
+2.7 
+%
+Exclusion of tax on non-controlling interests
+(880)
+(0.2)
+%
+(5,230)
+(0.7)
+%
+(5,461)
+(1.0)
+%
+Foreign:
+Difference in tax rates of foreign operations
+11,458
+2.1 
+%
+17,891 
+2.3 
+%
+4,583 
+0.9 
+%
+Expense/(Benefit) from foreign valuation allowance change
+415
+0.1 
+%
+(27,780)
+(3.6)
+%
+(1,305)
+(0.3)
+%
+U.S. tax cost of foreign operations
+76,014 
+14.0 
+%
+72,887 
+9.4 
+%
+68,662 
+13.2 
+%
+Derecognition of deferred tax liabilities related to investment in Australian partnership
+— 
+— 
+%
+(61,614)
+(7.9)
+%
+— 
+— 
+%
+Other Includable Income
+1,344
+0.2 
+%
+25,952 
+3.3 
+%
+— 
+— 
+%
+Tax differential on foreign earnings
+89,231
+16.4 
+%
+27,336
+3.5 
+%
+71,940
+13.8 
+%
+Foreign tax credits
+(48,885)
+(9.0)
+%
+(33,402)
+(4.3)
+%
+(36,180)
+(6.9)
+%
+Tax Rate Change
+98 
+— 
+%
+(147)
+— 
+%
+(9,913)
+(1.9)
+%
+Valuation allowance
+988
+0.2 
+%
+12,339 
+1.6 
+%
+(7,169)
+(1.4)
+%
+Uncertain tax positions
+11,153
+2.1 
+%
+(1,153)
+(0.1)
+%
+(38,844)
+(7.5)
+%
+Other items:
+Disallowed officer compensation
+5,157
+0.9 
+%
+5,394 
+0.7 
+%
+7,081 
+1.4 
+%
+Research and Development Credit
+(35,637)
+(6.6)
+%
+(17,110)
+(2.2)
+%
+(2,133)
+(0.4)
+%
+Non-Deductible Incentive Compensation
+18,376 
+3.4 
+%
+3,296 
+0.4 
+%
+162 
+— 
+%
+Transaction Costs 
+675
+0.1 
+%
+8,500 
+1.1 
+%
+4 
+— 
+%
+Non-taxable mark-to-market Adjustment for Amentum investment
+51,989
+9.6 
+%
+(39,255)
+(5.1)
+%
+— 
+— 
+%
+Other items – net
+(6,692)
+(1.2)
+%
+(13,920)
+(1.8)
+%
+(1,494)
+(0.3)
+%
+Total other items
+33,868
+6.2 
+%
+(53,095)
+(6.8)
+%
+3,620
+0.7 
+%
+Income taxes from continuing operations
+$
+215,555 
+39.7 
+%
+$
+131,493 
+16.9 
+%
+$
+101,336 
+19.5 
+%
+Note: Certain amounts have been reclassified to conform to the current year presentation.
+Restructuring and Other Charges
+During fiscal 2023, the Company implemented restructuring initiatives relating to the Separation Transaction. The Company incurred approximately $28.2 million, $42.0 million and $17.5 million in the years ended September 26, 2025, September 27, 2024 and September 29, 2023, respectively, in pre-tax cash charges in connection with these initiatives. These actions, which are expected to be substantially completed before the end of calendar year 2025, are expected to result in estimated gross annualized pre-tax cash savings of approximately $165 million to $200 million. We will likely incur additional charges under this program through calendar year 2025, which are expected to result in additional savings in future periods.
+During third quarter fiscal 2023, the Company approved a plan to improve business processes and cost structures of our PA Consulting investment by reorganizing senior management and reducing headcount. In connection with these initiatives, which are substantially completed, the Company incurred approximately $1.9 million, $6.4
+million and $14.3
+million in the years ended September 26, 2025, September 27, 2024 and September 29, 2023, respectively, in pre-tax 
+Page 58
+cash charges. These activities are expected to result in estimated gross annualized pre-tax cash savings of approximately $50 million to $65 million.
+Refer to Note 16– 
+Restructuring and Other Charges
+ for further information regarding restructuring and integration initiatives. 
+Page 59
+Segment Financial Information
+The following tables present total revenues, direct cost of contracts, selling, general and administrative expenses and segment operating profit from continuing operations for each reportable segment (in thousands) and includes a reconciliation of segment operating profit to total U.S. GAAP operating profit by including certain corporate-level expenses, Restructuring and other charges (as defined in Note 16
+- Restructuring and Other Charges
+) and transaction and integration costs (in thousands) for the years ended: 
+September 26, 2025
+Infrastructure & Advanced Facilities
+PA Consulting
+Total 
+Revenues from External Customers 
+(1)
+$
+10,764,206 
+$
+1,265,577 
+$
+12,029,783 
+Direct cost of contracts
+(8,228,935)
+(815,914)
+(9,044,849)
+Selling, general and administrative expenses
+(1,631,723)
+(171,164)
+(1,802,887)
+Segment Operating Profit 
+(1)
+$
+903,548 
+$
+278,499 
+$
+1,182,047 
+Restructuring, Transaction and Other Charges 
+(2)
+(162,896)
+Amortization of Intangible Assets
+(155,517)
+Total U.S. GAAP Operating Profit
+$
+863,634 
+Total Other (Expense) Income, net 
+(3)
+(320,157)
+Earnings from Continuing Operations Before Taxes
+$
+543,477 
+(1)
+I&AF revenue and operating profit for the year ended September 26, 2025 were impacted by a reserve in connection with an unfavorable interim ruling against a consolidated joint venture in which the Company holds a 50% interest (the "Consolidated JV Matter"), with the noncontrolling partner’s share included in noncontrolling interests in the Consolidated Statements of Earnings for the respective period.
+(2)
+The year ended September 26, 2025 included $58.8 million in restructuring and other charges related to the Separation Transaction (primarily professional services and employee separation costs), as well as $75.3 million in charges for certain subsidiary level compensation based agreements. The year ended September 26, 2025 included approximately $26.0 million in charges associated with the Company's TSA with Amentum.
+(3)
+The year ended September 26, 2025 included $227.3 million in mark-to-market losses and other related charges associated with our investment in Amentum stock in connection with the Separation Transaction, as well as $40.5 million in income associated with the Company's TSA with Amentum (see Note 14- 
+Discontinued Operations
+). The year ended September 26, 2025 included $20.5 million in discounts and expenses associated with the Equity-for-Debt Transaction (see Note 9- 
+Borrowings 
+and Note 14- 
+Discontinued Operations
+).
+September 27, 2024
+Infrastructure & Advanced Facilities
+PA Consulting
+Total 
+Revenues from External Customers
+$
+10,323,255 
+$
+1,177,686 
+$
+11,500,941 
+Direct cost of contracts
+(7,915,256)
+(752,929)
+(8,668,185)
+Selling, general and administrative expenses
+(1,609,624)
+(185,507)
+(1,795,131)
+Segment Operating Profit 
+$
+798,375 
+$
+239,250 
+$
+1,037,625 
+Restructuring, Transaction and Other Charges 
+(1)
+(192,522)
+Amortization of Intangible Assets
+(152,667)
+Total U.S. GAAP Operating Profit
+$
+692,436 
+Total Other (Expense) Income, net 
+(2)
+84,850 
+Earnings from Continuing Operations Before Taxes
+$
+777,286 
+(1)
+The year ended September 27, 2024 included $163.4 million in restructuring and other charges related to the Separation Transaction (primarily professional services and employee separation costs) and $6.4 million in restructuring and other charges related to the Company's investment in PA Consulting (primarily employee separation costs), as well as certain subsidiary level compensation based agreements.
+(2)
+The year ended September 27, 2024 included $186.9 million in mark-to-market gains associated with our investment in Amentum stock in connection with the Separation Transaction and a $35.2 million realized gain on interest rate swaps settled during the fourth quarter of fiscal 2024.
+Page 60
+September 29, 2023
+Infrastructure & Advanced Facilities
+PA Consulting
+Total 
+Revenues from External Customers
+$
+9,693,276 
+$
+1,158,144 
+$
+10,851,420 
+Direct cost of contracts
+(7,395,838)
+(744,722)
+(8,140,560)
+Selling, general and administrative expenses 
+(1)
+(1,563,836)
+(176,419)
+(1,740,255)
+Segment Operating Profit 
+$
+733,602 
+$
+237,003 
+$
+970,605 
+Restructuring, Transaction and Other Charges 
+(2)
+(146,891)
+Amortization of Intangible Assets
+(147,230)
+Total U.S. GAAP Operating Profit
+$
+676,484 
+Total Other (Expense) Income, net
+(155,509)
+Earnings from Continuing Operations Before Taxes
+$
+520,975 
+(1)
+In fiscal 2023, I&AF SG&A included approximately $15.0 million in net favorable impacts from cost reductions compared to the prior year period, which were associated mainly with net favorable impacts during first quarter from changes in employee benefit programs of $41.0 million offset by approximately $26.0 million in higher spend in company technology platforms and other personnel and corporate cost increases.
+(2)
+The year ended September 29, 2023 included $61.1 million in restructuring and other charges related to the Separation Transaction (primarily professional services and employee separation costs) and $14.3 million, in restructuring and other charges related to the Company's investment in PA Consulting (primarily employee separation costs), as well as certain subsidiary level compensation based agreements. Additionally, in fiscal year 2023, there were $46.7 million in charges associated mainly with real estate impairments.
+Page 61
+In evaluating the Company’s performance by operating segment, the chief operating decision maker ("CODM") reviews various metrics and statistical data for Infrastructure & Advanced Facilities and PA Consulting. For more information, please refer to Note 19- 
+Segment Information
+. In addition, the Company attributes each segment's specific incentive compensation plan costs to the segments. The methods for recognizing revenue, incentive fees, project losses and change orders are consistent among the segments.
+Infrastructure & Advanced Facilities
+For the Years Ended
+September 26, 2025
+September 27, 2024
+September 29, 2023
+Revenue
+$
+10,764,206 
+$
+10,323,255 
+$
+9,693,276 
+Operating Profit
+$
+903,548 
+$
+798,375 
+$
+733,602 
+Fiscal 2025 vs. 2024
+Revenues for the Infrastructure & Advanced Facilities ("I&AF") segment for the year ended September 26, 2025 were $10.76 billion, up $0.44 billion, or 4.3%, from $10.32 billion for the prior year. The increase in revenues for the year ended September 26, 2025 was driven primarily from stronger performance in its Advanced Facilities and APME business operations. This was partly offset by a reserve recorded in second quarter fiscal 2025 associated with an unfavorable interim ruling against a consolidated joint venture in which the Company holds a 50% interest, with the noncontrolling partner’s share included in noncontrolling interests in the Company's Consolidated Statements of Earnings for the year ended September 26, 2025. Foreign currency translation had a favorable impact of $24.4 million on our international business for the year ended September 26, 2025, compared to $37.5 million in favorable impacts in the prior year. 
+Operating profit for the I&AF segment for the year ended September 26, 2025 was $903.5 million, an increase of $105.2 million, or 13.2%, from $798.4 million for the comparative period in fiscal 2024. Higher operating profit for the year ended September 26, 2025
+was a result of higher year over year segment revenues mentioned above, along with increased margin quality associated with favorable impacts from project mix. Higher operating profit for the year ended September 26, 2025 compared to prior year was partially offset by a reserve recorded in second quarter fiscal 2025 associated with an unfavorable interim ruling against a consolidated joint venture in which the Company holds a 50% interest, with the noncontrolling partner's share included in noncontrolling interests in the Company's Consolidated Statements of Earnings for the year ended September 26, 2025. Impacts on operating profit from favorable foreign currency translation were approximately $3.1 million for the year ended September 26, 2025, compared to $11.5 million in favorable impacts in the prior year. 
+Fiscal 2024 vs. 2023
+Revenues for the I&AF segment for the year ended September 27, 2024 were $10.32 billion, up $0.63 billion, or 6.5%, from $9.69 billion for the prior year. The increase in revenue was broad based across most I&AF businesses, particularly due to stronger performance in its Advanced Facilities and Europe business operations as compared to the prior year period. Foreign currency translation had a favorable impact of $37.5 million on our international business for the year ended September 27, 2024, compared to $124.2 million in unfavorable impacts in fiscal 2023. 
+Operating profit for the I&AF segment for the year ended September 27, 2024 was $798.4 million, an increase of $64.8 million, or 8.8%, from $733.6 million for fiscal 2023. The year-over-year increase in operating profit was driven primarily by the revenue growth mentioned above with an unfavorable comparative impact of a one-time net favorable $41 million relating mainly to changes in employee benefits programs during first quarter 2023, partly offset by year over year favorable department spending. Impacts on operating profit from favorable foreign currency translation were approximately $11.5 million for the year ended September 27, 2024, compared to $4.3 million in unfavorable impacts in the prior year. 
+PA Consulting
+For the Years Ended
+September 26, 2025
+September 27, 2024
+September 29, 2023
+Revenue
+$
+1,265,577 
+$
+1,177,686 
+$
+1,158,144 
+Operating Profit
+$
+278,499 
+$
+239,250 
+$
+237,003 
+Page 62
+Fiscal 2025 vs. 2024
+Revenues for the PA Consulting segment for the year ended September 26, 2025 were $1.27 billion, up $87.9 million, or 7.5%, from $1.18 billion for the prior year. The increase in revenue was due primarily to growth in PA Consulting's public services businesses (through the defence and security, public services and health and life sciences sectors). Foreign currency translation had a $38.1 million favorable impact on revenues in our international businesses for the year ended September 26, 2025, compared to a favorable impact of $39.5 million for the prior year.
+Operating profit for the segment for the year ended September 26, 2025 was $278.5 million, an increase of $39.2 million, or 16.4%, from $239.3 million, for the prior year. The year over year increases were mainly attributable to improved revenues as mentioned above, combined with favorable impacts from reduced costs.
+Fiscal 2024 vs. 2023
+Revenues for the PA Consulting segment for the year ended September 27, 2024 were $1.18 billion, up $19.5 million, or 1.7%, from $1.16 billion for fiscal 2023. The increase in revenue was due primarily to growth in PA Consulting's public services businesses. Foreign currency translation had a $39.5 million favorable impact on revenues in our international businesses for the year ended September 27, 2024, compared to an unfavorable impact of $51.1 million for fiscal 2023.
+Operating profit for the segment for the year ended September 27, 2024 was $239.3 million, an increase of $2.2 million, or 0.9%, from $237.0 million, for fiscal 2023. Operating profit trends showed consistent levels year over year overall.
+Backlog Information
+Backlog represents revenue we expect to realize in the future for work to be completed by our consolidated subsidiaries and our proportionate share of work to be performed by unconsolidated joint ventures. Because of variations in the nature, size, expected duration, funding commitments, and the scope of services required by our contracts, the amount and timing of when backlog will be recognized as revenues includes significant estimates and can vary greatly between individual contracts. 
+Consistent with industry practice, substantially all of our contracts are subject to cancellation or termination at the option of the client, including our U.S. government work. While management uses all information available to determine backlog, at any given time our backlog is subject to changes in the scope of services to be provided as well as increases or decreases in costs relating to the contracts included therein. Backlog is not necessarily an indicator of future revenues.
+Because certain contracts (e.g., contracts relating to large Engineering, Procurement & Construction projects as well as national government programs) can cause large increases to backlog in the fiscal period in which we recognize the award, and because many of our contracts require us to provide services that span over several fiscal quarters (and sometimes over fiscal years), we have presented our backlog on a year-over-year basis, rather than on a sequential, quarter-over-quarter basis.
+Please refer to Item 1A- 
+Risk Factors
+, above, for a discussion of other factors that may cause backlog to ultimately convert into revenues at different amounts.
+The following table summarizes our backlog for the years ended September 26, 2025, September 27, 2024 and September 29, 2023 (in millions):
+September 26, 2025
+September 27, 2024
+September 29, 2023
+Infrastructure & Advanced Facilities
+$
+22,649 
+$
+21,472 
+$
+17,526 
+PA Consulting
+415 
+378 
+311 
+ Total
+$
+23,064 
+$
+21,850 
+$
+17,837 
+Page 63
+ The increase in backlog in Infrastructure & Advanced Facilities in the year ended September 26, 2025 was predominantly driven by growth across Water, Environmental, Energy and Cities & Places end markets.
+ The increase in backlog in PA Consulting was primarily driven by organic year-over-year growth of the business including securing larger programs of work.
+Backlog relating to work to be performed either directly or indirectly for the U.S. federal government and its agencies totaled approximately $2.2 billion (or 9.5% of total backlog), $2.4 billion (or 11.1% of total backlog) and $2.6 billion (or 14.7% of total backlog) at September 26, 2025, September 27, 2024 and September 29, 2023, respectively. Most of our federal government contracts require that services be provided beyond one year. In general, these contracts must be funded annually (i.e., the amounts to be spent under the contract must be appropriated by the U.S. Congress to the procuring agency, and then the agency must allot these sums to the specific contracts).
+We estimate that approximately $6.77 billion, or 29.3%, of total backlog at September 26, 2025 will be realized as revenues within the next fiscal year.
+Consolidated backlog differs from the Company’s remaining performance obligations as defined by ASC 606 primarily because of contract change orders or new wins not yet processed and our national government contracts where our policy is to generally include in backlog the contract award, whether funded or unfunded excluding certain option periods while our remaining performance obligations represent a measure of the total dollar value of work to be performed on contracts awarded and in progress. Additionally, the Company does not include our proportionate share of backlog related to unconsolidated joint ventures in our remaining performance obligations.
+Liquidity and Capital Resources
+At September 26, 2025, our principal sources of liquidity consisted of $1.24 billion in cash and cash equivalents and $1.85 billion of available borrowing capacity under our $2.25 billion revolving credit agreement (the "Revolving Credit Facility"). See Note 9- 
+Borrowings
+ for more information. We finance much of our operations and growth through cash generated by our operations.
+Cash and cash equivalents at September 26, 2025 were $1.24 billion, representing an increase of $90.7 million from $1.14 billion at September 27, 2024, the reasons for which are described below. The following table presents selected consolidated cash flow information of the Company for the respective periods shown (including discontinued operations of our separated SpinCo Business, see Note 14- 
+Discontinued Operations 
+for more information):
+Page 64
+(In thousands)
+September 26, 2025
+September 27, 2024
+Net cash provided by operating activities
+$
+686,704 
+$
+1,054,673 
+Cash Flows from Investing Activities:
+Additions to property and equipment
+(79,232)
+(121,114)
+Disposals of property and equipment and other assets
+2,332 
+6,187 
+Capital contributions to equity investees, net of return of capital distributions
+1,609 
+1,737 
+Acquisitions of businesses, net of cash acquired
+— 
+(14,000)
+Net cash used for investing activities 
+(75,291)
+(127,190)
+Cash Flows from Financing Activities:
+Proceeds from long-term borrowings
+2,458,201 
+4,606,697 
+Repayments of long-term borrowings
+(1,471,800)
+(3,370,355)
+Proceeds from short-term borrowings
+— 
+5,345 
+Repayments of short-term borrowings
+(656,981)
+(866,761)
+Debt issuance costs
+(92)
+(34,331)
+Proceeds from issuances of common stock
+34,712 
+47,503 
+Common stock repurchases
+(754,130)
+(402,668)
+Taxes paid on vested restricted stock
+(27,450)
+(41,720)
+Cash dividends to shareholders
+(153,027)
+(142,779)
+Net dividends associated with noncontrolling interests
+(14,205)
+(21,678)
+Repurchase of redeemable noncontrolling interests
+(10,449)
+(55,344)
+Proceeds from issuances of redeemable noncontrolling interests
+— 
+19,761 
+Cash impact from distribution of SpinCo Business
+70,000 
+(495,307)
+Net cash used for financing activities
+(525,221)
+(751,637)
+Effect of Exchange Rate Changes
+3,693 
+41,640 
+Net Increase (Decrease) in Cash and Cash Equivalents and Restricted Cash
+89,885 
+217,486 
+Cash and Cash Equivalents, including Restricted Cash, at the Beginning of the Period
+1,146,931 
+929,445 
+Cash and Cash Equivalents, including Restricted Cash, at the End of the Period
+$
+1,236,816 
+$
+1,146,931 
+Our net cash flow provided by operations of $686.7 million during fiscal 2025 was unfavorable by $368.0 million in comparison to the cash flow provided by operations of $1.05 billion for the corresponding prior year (which included discontinued operations of the separated SpinCo Business). On a continuing operations basis, our cash from operations was unfavorable by $139.0 million, with this decline largely due to higher uses of cash for net working capital, namely accounts receivables, as well as a year-over-year increase in cash income tax payments, offset by an improvement in accounts payable timing, lower year-over-year cash payments related to restructuring and other charges and a year-over-year improvement in net earnings from continuing operations after adjustments to reconcile net earnings from continuing operations to net cash flows provided by operations.
+Our net cash used for investing activities for fiscal 2025 was $75.3 million, compared to $127.2 million in the prior year, with this change due primarily to a decrease in property and equipment spend in the current year and no current year acquisitions.
+Our net cash used for financing activities for the fiscal year ended September 26, 2025 of $525.2 million resulted mainly from $754.1 million in share repurchases and $153.0 million in cash dividends to shareholders. This was offset by $329.4 million in net proceeds from borrowings, and the receipt of $70.0 million associated with the final settlement of the post-closing working capital adjustment from the distribution of the SpinCo Business; see Note 14-
+ Discontinued Operations 
+for more details. Cash used for financing activities in the prior year was $751.6 million primarily due to a $495.3 million direct decrease in reported cash on hand as a result of our prior year SpinCo Business deconsolidation, $402.7 million of cash used for share repurchases and $142.8 million in dividends to shareholders. These uses of cash were offset by $374.9 million in net proceeds from borrowings.
+At September 26, 2025, the Company had approximately $237.5 million in cash and cash equivalents held in the U.S. and $997.9 million held outside of the U.S. (primarily in the U.K., the Eurozone, Australia, India, Canada, and the Middle East region), which is used primarily for funding operations in those regions. Other than the tax cost of repatriating funds to the U.S. (see Note 7-
+ Income Taxes 
+of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K), there are no material impediments to repatriating these funds to the U.S. 
+Page 65
+The Company had $217.0 million in letters of credit outstanding at September 26, 2025. Of this amount, $0.3 million was issued under the Revolving Credit Facility and $216.7 million was issued under separate, committed and uncommitted letter-of-credit facilities.
+On March 27, 2025, the Company, as guarantor, and JEGI, as borrower, entered into a term loan agreement (the “2025 Term Loan Facility”) with Bank of America, N.A., as administrative agent and sole lead arranger, and the lenders party thereto. Under the 2025 Term Loan Facility, JEGI borrowed a $200.0 million term loan and £410.0 million term loan for a term of two-years from the date of initial funding, maturing on March 26, 2027. The proceeds from the 2025 Term Loan Facility were used to repay the outstanding 2021 Term Loan Facility principal equal to $120.0 million and £410.2 million, or $531.6 million, and was otherwise used for general corporate purposes. See Note 9-
+ Borrowings
+.
+Long-term debt as of September 26, 2025 increased by $887.9 million compared to September 27, 2024 primarily due to the Company entering into the 2025 Term Loan Facility for a combined amount of $750.3 million (see Note 9- 
+Borrowings
+), and an increased draw on the revolving credit facility of $255.0 million to fund share buybacks and dividends, partly offset by the termination of the 2021 Term Loan - USD portion.
+Short-term debt as of September 26, 2025 decreased by $875.8 million compared to September 27, 2024 primarily due to the Equity-for-Debt Transaction, pursuant to which the company extinguished $311.5 million under the GBP 2021 Term Loan, in exchange for its approximately 19.5 million shares in Amentum, and the entry to the 2025 Term Loan Facility, the proceeds of which were used to extinguish the remaining $531.6 million under the GBP 2021 term loan contract. For more information please refer to Note- 9 
+Borrowings 
+and Note 14- 
+Discontinued Operations 
+for additional details.
+In connection with the Separation Transaction, during the fourth quarter of fiscal year 2024, Jacobs received a cash payment of approximately $911 million from SpinCo which was subsequently used for the repayment of debt, which was inclusive of the outstanding short term 2020 Term Loan Facility totaling $834.9 million.
+In connection with the Post-Closing Additional Merger Consideration relating to the Separation Transaction, the Company became entitled to receive approximately 7.3 million Amentum shares from the 9.7 million shares held in escrow. On April 30, 2025, the Jacobs' Board of Directors determined to distribute the 7.3 million shares of Amentum's stock and declared an in kind dividend payable to Jacobs' shareholders of record as of May 16, 2025 which was distributed on a pro rata basis on May 30, 2025. Please refer to Note 14- 
+Discontinued Operations 
+for additional details.
+On April 10, 2025, the Company collected $70.0 million in receivables related to the final settlement of the post-closing working capital adjustment from the distribution of the SpinCo Business. The cash was utilized to pay down amounts owed under the Company's Revolving Credit Facility on the same day. Please refer to Note 14- 
+Discontinued Operations 
+for additional details. 
+On February 6, 2023, the Company refinanced its Revolving Credit Facility, and on February 16, 2023, the Company issued 
+$500 million
+ in bonds. On August 18, 2023, the Company issued 
+$600 million
+ in bonds. See Note 9- 
+Borrowings
+ for further discussion relating to the terms of the 5.90% Bonds, the 6.35% Bonds, the Revolving Credit Facility following the issuances and refinancing.
+Certain employees and nonemployees of PA Consulting are eligible to receive equity-based incentive grants since the March 2, 2021 original investment date. As of September 26, 2025, there was approximately $142.1 million of total unrecognized compensation cost related to the remaining 60% of fair value of such grants anticipated to vest upon a liquidity event, as defined in the applicable agreements. This cost is expected to be recognized in Selling, general and administrative expenses when such a liquidity event is considered probable, which could occur in 2026. Please refer to Note 15- 
+PA Consulting Redeemable Noncontrolling Interests
+ for additional details. 
+We believe we have adequate liquidity and capital resources to fund our projected cash requirements for acquisitions, including any potential transaction relating to PA Consulting, and financing activities such as debt servicing, share buybacks and dividends for the next twelve months based on the liquidity provided by our cash and cash equivalents on hand, our borrowing capacity and our continuing cash from operations.
+We were in compliance with all of our debt covenants at September 26, 2025.
+Page 66
+Supplemental Obligor Group Financial Information
+On February 16, 2023, Jacobs Engineering Group Inc., a wholly-owned subsidiary of Jacobs Solutions Inc. (together, the "Obligor Group"), completed an offering of $500 million aggregate principal amount of 5.90% Bonds, due 2033 and on August 18, 2023, completed an offering of $600 million aggregate principal amount of 6.35% Bonds, due 2028 (the “Bonds”). The Bonds are fully and unconditionally guaranteed by the Company (the “Guarantees”). The Bonds and the Guarantees were offered pursuant to prospectus supplements, dated February 13, 2023 and August 15, 2023, respectively, to the prospectus dated February 6, 2023, that forms a part of the Company and JEGI’s automatic shelf registration statement on Form S-3ASR (File Nos. 333-269605 and 333-269605-01) previously filed with the SEC.
+In accordance with SEC Regulation S-X Rule 13-01, set forth below is the summarized financial information for the Obligor Group on a combined basis after elimination of (i) intercompany transactions and balances between Jacobs and JEGI and (ii) equity in the earnings from and investments in all other subsidiaries of the Company that do not guarantee the registered securities of either Jacobs or JEG. This summarized financial information (in thousands) has been prepared and presented pursuant to Regulation S-X Rule 13-01, “Financial Disclosures about Guarantors and Issuers of Guaranteed Securities” and is not intended to present the financial position or results of operations of the Obligor Group in accordance with U.S. GAAP.
+(in thousands)
+September 26, 2025
+Summarized Statement of Earnings Data
+Revenue
+$
+4,021,148 
+Direct cost of contracts
+$
+3,360,986 
+Selling, general and administrative expenses
+$
+355,186 
+Net loss attributable to Guarantor Subsidiaries from continuing operations
+$
+(41,288)
+Noncontrolling interests
+$
+(1,388)
+(in thousands)
+September 26, 2025
+Summarized Balance Sheet Data
+Current assets, less receivables from Non-Guarantor Subsidiaries
+$
+938,319 
+Current receivables from Non-Guarantor Subsidiaries
+$
+749,475 
+Noncurrent assets, less noncurrent receivables from Non-Guarantor Subsidiaries
+$
+642,464 
+Noncurrent receivables from Non-Guarantor Subsidiaries
+$
+563,682 
+Current liabilities
+$
+1,006,916 
+Current liabilities to Non-Guarantor Subsidiaries
+$
+— 
+Long-term Debt
+$
+2,236,456 
+Other Noncurrent liabilities, less amounts payable to Non-Guarantor Subsidiaries
+$
+250,106 
+Noncurrent liabilities to Non-Guarantor Subsidiaries
+$
+1,110,155 
+Noncontrolling interests
+$
+5 
+Accumulated deficit
+$
+(1,709,698)
+Page 67
+New Accounting Pronouncements
+ASU 2025-05, 
+Financial Instruments—Credit Losses,
+ (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets
+, provides all entities with a practical expedient option when estimating expected credit losses for current accounts receivable and current contract assets arising from transactions accounted for under Topic 606. The amendments in this update are effective for annual reporting periods beginning after December 15, 2025, including 
+interim periods within those annual periods, with early adoption permitted. ASU 2025-05 will be effective for the Company in first quarter of fiscal 2027. The Company is evaluating the impact of this guidance on its consolidated financial statements and related disclosures.
+ASU 2025-03, 
+Business Combinations, (Topic 805) and Consolidation (Topic 810): Determining the Accounting Acquirer in the Acquisition of a Variable Interest Entity
+, clarifies the guidance in determining the accounting acquirer in a business combination effected primarily by exchanging equity interests when the acquiree is a variable interest entity that meets the definition of a business. The standard is effective for fiscal years beginning after December 15, 2026, including interim periods within those fiscal years. Early adoption is permitted, and the standard is to be applied prospectively to acquisitions after the adoption date. ASU 2025-03 will be effective for the Company in the first quarter of fiscal 2028. The Company is evaluating the impact of this guidance on its consolidated financial statements and related disclosures.
+ASU 2024-03,
+ Income Statement, (Subtopic 220-40): Reporting Comprehensive Income - Disaggregation of Income Statement Expenses
+, requires disclosure, in the notes to financial statements, of specified information about certain costs and expenses. The amendments in this update also provide guidance on the disaggregation disclosure requirements for certain expense captions presented on the face of an entity’s income statement and provide guidance on the disclosure of selling expenses. The amendments in ASU 2024-03 are effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027, with early adoption permitted. The amendments should be applied prospectively; however, retrospective application is also permitted. ASU 2024-03 will be effective for the Company in the fourth quarter of fiscal 2027. The Company is evaluating the impact of this guidance on its consolidated financial statements and related disclosures.
+ASU 2023-09, 
+Income Taxes
+,
+ (Topic 740): Improvements to Income Tax Disclosures
+, provides qualitative and quantitative updates to the Company's effective income tax rate reconciliation and income taxes paid disclosures, among others, in order to enhance the transparency of income tax disclosures, including consistent categories and greater disaggregation of information in the rate reconciliation and disaggregation by jurisdiction of income taxes paid. The amendments in ASU 2023-09 are effective for fiscal years beginning after December 15, 2024, with early adoption permitted. The amendments should be applied prospectively; however, retrospective application is also permitted. ASU 2023-09 will be effective for the Company's
+annual fiscal 2026 period
+.
+The Company is evaluating the impact of this guidance on its consolidated financial statements and related disclosures.
+ASU 2023-07, 
+Segment Reporting, (Topic 280): Improvements to Reportable Segment Disclosures
+, requires disclosure of significant segment expenses that are regularly provided to the chief operating decision maker (“CODM”) and included within each reported measure of segment profit or loss, an amount and description of its composition for other segment items to reconcile to segment profit or loss, and the title and position of the entity’s CODM. The amendments in this update also expand the interim segment disclosure requirements. ASU 2023-07 is effective for annual periods beginning after December 15, 2023 and interim periods within fiscal years beginning after December 15, 2024. Early adoption is permitted and the amendments in this update are required to be applied on a retrospective basis. ASU 2023-07 was effective for the Company's
+ annual fiscal 2025 period. 
+The Company adopted this update effective for the fiscal year ended 
+September 26, 2025.
+ASU 2023-06, 
+Disclosure Improvements
+:
+ Amendments - Codification Amendments in Response to the Disclosure Update and Simplification Initiative of the Securities and Exchange Commission ("SEC")
+. The Financial Accounting Standards Board issued the standard to introduce changes to US GAAP that originate in either SEC Regulation S-X or S-K, which are rules about the form and content of financial reports filed with the SEC. The provisions of the standard are contingent upon instances where the SEC removes the related disclosure provisions from Regulation S-X and S-K. ASU 2023-06 is effective for fiscal years beginning after December 15, 2024, with early adoption permitted. The amendments should be applied prospectively; however, retrospective application is also permitted. ASU 2023-06 will be effective for the company in the fourth quarter of Fiscal 2026. The Company does not expect that the application of this standard will have a material impact on our consolidated financial statements and related disclosures.
+Page 68

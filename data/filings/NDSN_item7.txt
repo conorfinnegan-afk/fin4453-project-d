@@ -1,0 +1,635 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+NOTE REGARDING AMOUNTS AND FISCAL YEAR REFERENCES
+In this annual report, all amounts related to U.S. dollars and foreign currency and to the number of Nordson Corporation’s common shares, except for per share earnings and dividend amounts, are expressed in thousands. Unless the context otherwise indicates, all references to “we,” “us,” “our,” or the “Company” mean Nordson Corporation.
+Unless otherwise noted, all references to years relate to our fiscal year ending October 31.
+Critical Accounting Policies and Estimates
+Our Consolidated Financial Statements and accompanying notes have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires management to make estimates, judgments and assumptions that affect reported amounts of assets, liabilities, revenues and expenses. On an ongoing basis, we evaluate the accounting policies and estimates that are used to prepare financial statements. We base our estimates on historical experience and assumptions believed to be reasonable under current facts and circumstances. Actual amounts and results could differ from these estimates used by management.
+Certain accounting policies that require significant management estimates and are deemed critical to our results of operations or financial position are discussed below. On a regular basis, critical accounting policies are reviewed with the Audit Committee of the board of directors.
+Revenue recognition - 
+A contract exists when it has approval and commitment from both parties, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectability of the consideration is probable. Revenue is recognized when performance obligations under the terms of the contract with a customer are satisfied. Generally, our revenue results from short-term, fixed-price contracts and primarily is recognized as of a point in time when the product is shipped or at a later point when the control of the product transfers to the customer. Refer to Note 1 to the Consolidated Financial Statements for further discussion regarding the Company's revenue recognition policy.
+Business combinations - 
+The acquisitions of our businesses are accounted for under the acquisition method of accounting. The amounts assigned to the identifiable assets acquired and liabilities assumed in connection with acquisitions are based on estimated fair values as of the date of the acquisition, with the remainder, if any, recorded as goodwill. The fair values are determined by management, taking into consideration information supplied by the management of the acquired entities, and other relevant information. Such information typically includes valuations obtained from independent appraisal experts, which management reviews and considers in its estimates of fair values. The valuations are generally based upon future cash flow projections for the acquired assets, discounted to present value. Determining the fair value of assets acquired and liabilities assumed requires management’s judgment and often involves the use of significant estimates and assumptions, including assumptions with respect to future revenue growth rates and EBITDA margins, discount rates, customer attrition rates, and asset lives, among other items. This judgment could result in either a higher or lower value assigned to amortizable or depreciable assets. The impact could result in either higher or lower amortization and/or depreciation expense.
+Goodwill -
+ Goodwill is the excess of purchase price over the fair value of tangible and identifiable intangible net assets acquired in various business combinations. Goodwill is not amortized but is tested for impairment annually at the reporting unit level, or more often if indications of impairment exist. 
+We test goodwill in accordance with Accounting Standards Codification ("ASC") 350. We did not record any goodwill impairment charges in 2025. We use an independent valuation specialist to assist with refining our assumptions and methods used to determine fair values. To test for goodwill impairment, we estimate the fair value of each of our reporting units using a combination of the discounted cash flow method ("Income Approach") and the Market Approach. 
+The Income Approach uses assumptions for revenue growth, operating margin and working capital turnover that are based on management’s strategic plans tempered by performance trends and reasonable expectations about those trends. Terminal value calculations employ a published formula known as the Gordon Growth Model Method that essentially captures the present value of perpetual cash flows beyond the last projected period assuming a constant Weighted Average Cost of Capital ("WACC") methodology and growth rate. For each reporting unit, a sensitivity analysis is performed to vary the discount and terminal growth rates in order to provide a range of reasonableness for detecting impairment. Discount rates are developed using a WACC methodology. 
+The WACC represents the blended average required rate of return for equity and debt capital based on observed market return data and company specific risk factors. For 2025, the WACC rates used ranged from 8.5 percent to 10.0 percent depending upon the reporting unit's size, end market volatility and projection risk. See Note 6 to the Consolidated Financial Statements for further details regarding the valuation methodologies used.
+Nordson Corporation 23
+Table of Contents
+In 2025, 2024 and 2023, the results of our annual impairment tests indicated no impairment.
+The fair value ("FV") was compared to the carrying value ("CV") for each reporting unit. Based on the results shown in the table below and based on our measurement date of August 1, 2025, our conclusion is that no goodwill was impaired in 2025. Potential events or circumstances, such as a sustained downturn in global economies, could have a negative effect on estimated fair values.
+WACC
+Excess of
+FV over CV
+August 1, 2025 Goodwill
+Industrial Precision Solutions Segment
+8.5%
+311%
+$
+1,198,911 
+Medical and Fluid Solutions Segment
+9.5%
+132%
+$
+1,661,150 
+Advanced Technology Solutions Segment
+10.0%
+205%
+$
+446,371 
+Pension plan in the United States 
+- The measurement of the liabilities related to our domestic pension plan is based on management’s assumptions related to future factors, including interest rates, return on pension plan assets, compensation increases, mortality and turnover assumptions and health care cost trend rates. The liabilities associated with the Company's international pension plans and other post-retirement benefits are not as materially sensitive to changes in assumptions as the pension plan in the United States. 
+The weighted-average discount rate used to determine the present value of our domestic pension plan obligations was 5.35 percent at October 31, 2025 and 5.27 percent at October 31, 2024. The discount rate used was determined by using quality fixed income investments with a duration period approximately equal to the period over which pension obligations are expected to be settled.
+In determining the expected return on plan assets, we consider both historical performance and an estimate of future long-term rates of return on assets similar to those in our plans. We consult with and consider the opinions of financial and actuarial experts in developing appropriate return assumptions. The expected rate of return (long-term investment rate) on domestic pension assets used to determine net benefit costs was 6.50 percent and 6.50 percent in 2025 and 2024, respectively.
+The assumed rate of compensation increases used to determine the present value of our domestic pension plan obligations was 3.28 percent and 3.96 percent at October 31, 2025 and October 31, 2024, respectively. 
+Annual expense amounts are determined based on the discount rate used at the end of the prior year. Differences between actual and assumed investment returns on pension plan assets result in actuarial gains or losses that are amortized into expense over a period of years. 
+Economic assumptions have a significant effect on the amounts reported. The effect of a one percent change in the discount rate, expected return on assets and compensation increase is shown in the table below. Bracketed numbers represent decreases in expense and obligation amounts.
+1% Point
+Increase
+1% Point
+Decrease
+Discount rate:
+Effect on total net periodic pension cost in 2025
+$
+(2,798)
+$
+6,457 
+Effect on pension obligation as of October 31, 2025
+$
+(42,680)
+$
+52,113 
+Expected return on assets:
+Effect on total net periodic pension cost in 2025
+$
+(4,068)
+$
+4,068 
+Compensation increase:
+Effect on total net periodic pension cost in 2025
+$
+4,080 
+$
+(3,597)
+Effect on pension obligation as of October 31, 2025
+$
+10,079 
+$
+(9,095)
+Income taxes 
+– Income taxes are estimated based on income for financial reporting purposes. Deferred income taxes reflect the net tax effect of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes and certain changes in valuation allowances. We provide valuation allowances against deferred tax assets if, based on available evidence, it is more likely than not that some portion or all of the deferred tax assets will not be realized.
+Management believes the valuation allowances are adequate after considering future taxable income, allowable carryforward periods and ongoing prudent and feasible tax planning strategies. In the event we were to determine that we would be able to realize the deferred tax assets in the future in excess of the net recorded amount (including the valuation allowance), an adjustment to the valuation allowance would increase income in the period such determination was made. Conversely, should 
+Nordson Corporation 24
+Table of Contents
+we determine that we would not be able to realize all or part of the net deferred tax asset in the future, an adjustment to the valuation allowance would be expensed in the period such determination was made.
+Further, at each interim reporting period, we estimate an effective income tax rate that is expected to be applicable for the full year. Significant judgment is involved regarding the application of global income tax laws and regulations and when projecting the jurisdictional mix of income. Additionally, interpretation of tax laws, court decisions or other guidance provided by taxing authorities influences our estimate of the effective income tax rates. As a result, our actual effective income tax rates and related income tax liabilities may differ materially from our estimated effective tax rates and related income tax liabilities. Any resulting differences are recorded in the period they become known.
+Results of Operations
+Below is a detailed comparison of our results of operations for the fiscal years ended October 31, 2025 and October 31, 2024. For a discussion of other changes from the fiscal year ended October 31, 2024 to the fiscal year ended October 31, 2023 refer to Item 7, "Management’s Discussion and Analysis of Financial Condition and Results of Operations," of our Annual Report on Form 10-K for the fiscal year ended October 31, 2024.
+As used throughout this annual report, geographic regions include the Americas (United States, Canada, Mexico and Central and South America), Asia Pacific and Europe.
+Consolidated Financial Results 
+Consolidated financial results for the years ended October 31, 2025, 2024 and 2023 were as follows:
+Change
+Change
+(In thousands except for per-share amounts)
+2025
+from 2024
+2024
+from 2023
+2023
+Sales
+$
+2,791,687
+3.8 
+%
+$
+2,689,921 
+2.3 
+%
+$
+2,628,632 
+Operating costs and expenses:
+Cost of sales
+1,251,903
+4.0 
+%
+1,203,792 
+— 
+%
+1,203,227 
+Gross margin
+1,539,784
+3.6 
+%
+1,486,129 
+4.3 
+%
+1,425,405 
+Gross margin %
+55.2%
+— 
+%
+55.2%
+1.0 
+%
+54.2%
+Selling and administrative expenses
+815,514
+0.4 
+%
+812,128 
+7.9 
+%
+752,644 
+Divestiture and related charges
+12,545
+— 
+— 
+2,079,962
+2,015,920 
+1,955,871 
+Operating profit
+711,725
+5.6 
+%
+674,001 
+0.2 
+%
+672,761 
+Interest expense - net
+(101,105)
+20.3 
+%
+(84,011)
+47.8 
+%
+(56,825)
+Other - net
+(12,972)
+187.7 
+%
+(4,509)
+655.3 
+%
+(597)
+(114,077)
+(88,520)
+(57,422)
+Income before income taxes
+597,648
+2.1 
+%
+585,481 
+(4.9)
+%
+615,339 
+Income tax expense
+113,174
+(4.2)
+%
+118,197 
+(7.5)
+%
+127,846 
+Net income
+$
+484,474
+3.7 
+%
+$
+467,284 
+(4.1)
+%
+$
+487,493 
+Nordson Corporation 25
+Table of Contents
+Net Sales
+Net sales for the Industrial Precision Solutions (IPS), Medical and Fluid Solutions (MFS) and Advanced Technology Solutions (ATS) segments were as follows:
+Twelve Months Ended
+Variance - Increase (Decrease)
+Oct 31, 2025
+% of Total
+Oct 31, 2024
+% of Total
+Organic
+Acquisitions / Divestitures
+Currency
+Total
+IPS
+$
+1,331,792
+47.7%
+$
+1,398,912 
+52.0%
+(5.1)
+%
+— 
+%
+0.3 
+%
+(4.8)
+%
+MFS
+835,385
+29.9%
+695,452 
+25.9%
+(3.1)
+%
+23.0 
+%
+0.2 
+%
+20.1 
+%
+ATS
+624,510
+22.4%
+595,557 
+22.1%
+4.1 
+%
+— 
+%
+0.8 
+%
+4.9 
+%
+Total
+$
+2,791,687
+$
+2,689,921 
+(2.5)
+%
+6.0 
+%
+0.3 
+%
+3.8 
+%
+Twelve Months Ended
+Variance - Increase (Decrease)
+Oct 31, 2024
+% of Total
+Oct 31, 2023
+% of Total
+Organic
+Acquisitions / Divestitures
+Currency
+Total
+IPS
+$
+1,398,912 
+52.0%
+$
+1,297,070 
+49.3%
+0.9 
+%
+7.1 
+%
+(0.1)
+%
+7.9 
+%
+MFS
+695,452 
+25.9%
+660,316 
+25.1%
+(0.2)
+%
+5.4 
+%
+0.1 
+%
+5.3 
+%
+ATS
+595,557 
+22.1%
+671,246 
+25.5%
+(11.2)
+%
+— 
+%
+(0.1)
+%
+(11.3)
+%
+Total
+$
+2,689,921 
+$
+2,628,632 
+(2.5)
+%
+4.8 
+%
+— 
+%
+2.3 
+%
+2025 versus 2024: The IPS organic sales decrease of 5.1 percent was driven by declines in polymer processing and industrial coatings product lines, partially offset by increases in nonwovens, packaging, and precision agriculture product lines. The MFS organic sales decrease of 3.1% was driven by a decrease in the medical contract manufacturing business product line that was divested in the fourth quarter of 2025. MFS organic sales were up 1.0% year over year excluding the decrease in the medical contract manufacturing product line. The ATS organic sales increase of 4.1 percent was driven by robust growth in electronics dispense product lines and electronic processing and optical sensors, partially offset by weakness in x-ray inspection systems.
+2024 versus 2023: The IPS organic sales increase of 0.9 percent was driven by increases in packaging, nonwovens, and industrial coatings product lines, principally offset by a decline in polymer processing. The MFS organic sales decrease of 0.2% was driven by a decrease in the medical fluid components product line, partially offset by an increase in the fluid solutions product line. The ATS organic sales decrease of 11.2 percent was driven by lower demand in electronics dispense product lines, measurements and controls, as well as test and inspection product lines. 
+Net Sales by region were as follows:
+Twelve Months Ended
+Variance - Increase (Decrease)
+Oct 31, 2025
+% of Total
+Oct 31, 2024
+% of Total
+Organic
+Acquisitions / Divestitures
+Currency
+Total
+Americas
+$
+1,205,830
+43.2%
+$
+1,178,626 
+43.8%
+(6.7)
+%
+9.5 
+%
+(0.5)
+%
+2.3 
+%
+Europe
+722,221
+25.9%
+726,100 
+27.0%
+(6.7)
+%
+4.2 
+%
+2.0 
+%
+(0.5)
+%
+Asia Pacific
+863,636
+30.9%
+785,195 
+29.2%
+7.6 
+%
+2.3 
+%
+0.1 
+%
+10.0 
+%
+Total
+$
+2,791,687
+$
+2,689,921 
+(2.5)
+%
+6.0 
+%
+0.3 
+%
+3.8 
+%
+Sales outside the United States accounted for 66.9 percent of total sales in 2025, as compared to 66.6 percent in 2024. 
+Gross profit and Selling and administrative expenses
+2025 versus 2024: Gross margins were unchanged at 55.2 percent, while the increase in selling and administrative expenses was primarily driven by the full-year impact of the Atrion acquisition, partially offset by lower non-recurring acquisition costs.
+2024 versus 2023: Gross margins improved 100 basis points reflecting the impact of favorable product mix and lower incremental inventory step-up amortization related to acquisitions of $7,703 in 2024 versus $8,862 in 2023, while the increase in selling and administrative expenses was primarily driven by acquisitions.
+Nordson Corporation 26
+Table of Contents
+Profit
+Segment EBITDA for the IPS, MFS and ATS segments and a reconciliation to consolidated operating profit were as follows for the fiscal years ended October 31, 2025 and October 31, 2024:
+Twelve Months Ended
+October 31, 2025
+% of Sales
+October 31, 2024
+% of Sales
+% of Sales Change
+Industrial precision solutions
+$
+493,873
+37.1%
+$
+520,769 
+37.2%
+(0.1)%
+Medical and fluid solutions
+311,684
+37.3%
+256,553 
+36.9%
+0.4%
+Advanced technology solutions
+146,589
+23.5%
+129,181 
+21.7%
+1.8%
+Total segment EBITDA
+952,146
+34.1%
+906,503 
+33.7%
+0.4%
+Inventory step-up amortization
+(3,135)
+(7,703)
+Acquisition costs
+(2,334)
+(13,957)
+Severance and other
+(19,256)
+(17,332)
+Divestiture and related charges
+(12,545)
+— 
+Depreciation and amortization
+(150,523)
+(136,175)
+Corporate expenses
+(52,628)
+(57,335)
+Operating profit
+$
+711,725
+$
+674,001 
+Segment EBITDA for IPS decreased 10 basis points due to lower organic sales. Segment EBITDA for MFS increased 40 basis points due to favorable mix from lower organic sales related to the divested contract manufacturing business and controlled spending. Segment EBITDA for ATS increased 180 basis points driven by strong incrementals on organic sales and lower selling and administrative expenses. 
+Consolidated operating profit increased in 
+2025 compared to 
+2024 due to the overall increase in segment EBITDA and lower acquisition and related inventory step-up amortization costs partially offset by an increase in severance and other cost reduction costs, depreciation and amortization from recent acquisitions, and divestiture 
+charges associated with the exit of the medical contract manufacturing business.
+Segment EBITDA for the IPS, MFS and ATS segments and a reconciliation to consolidated operating profit were as follows for the fiscal years ended October 31, 2024 and October 31, 2023:
+Twelve Months Ended
+October 31, 2024
+% of Sales
+October 31, 2023
+% of Sales
+% of Sales Change
+Industrial precision solutions
+$
+520,769 
+37.2%
+$
+485,194 
+37.4%
+(0.2)%
+Medical and fluid solutions
+256,554 
+36.9%
+245,833 
+37.2%
+(0.3)%
+Advanced technology solutions
+129,182 
+21.7%
+144,731 
+21.6%
+0.1%
+Total segment EBITDA
+906,505 
+33.7 
+%
+875,758 
+33.3 
+%
+0.4%
+Inventory step-up amortization
+(7,703)
+(8,862)
+Acquisition costs
+(13,957)
+(19,966)
+Severance and other
+(17,332)
+(5,487)
+Divestiture and related charges
+— 
+— 
+Depreciation and amortization
+(136,175)
+(111,898)
+Corporate expenses
+(57,337)
+(56,784)
+Operating profit
+$
+674,001 
+$
+672,761 
+Segment EBITDA for IPS declined 20 basis points due to the impact of the ARAG acquisition offset by the impact of higher organic sales. Segment EBITDA for MFS declined 30 basis points due to the impact of the Atrion acquisition offset by improvements in operating efficiencies on flat sales. Segment EBITDA for ATS improved by 10 basis points on lower sales due to cost reduction actions and favorable mix. 
+Nordson Corporation 27
+Table of Contents
+Consolidated operating profit increased slightly. Operating margin decreased by 
+50
+ basis points primarily driven by costs related to the first-year effect of acquisitions, which more than offset favorable product mix. 
+Gross margins improved 1.0 percentage point reflecting the impact of favorable product mix and lower incremental inventory step-up amortization related to acquisitions in 2024 versus 2023, while the increase in selling and administrative expenses was primarily driven by acquisitions. 
+Interest and Other expenses
+Interest expense in 2025 was $104,156, an increase of $15,232, or 17.1 percent, from 
+2024
+. The increase reflects higher average debt levels compared to the prior year due to the funding of acquisitions. Other expense in 2025 was $12,972 compared to other expense of $4,509 in 
+2024
+. Included in other expense in 2025 were $9,608 in net foreign currency losses and pension losses. Included in the prior year’s other expense was $5,499 in foreign currency losses, which were partially offset by pension gains. 
+Income tax expense
+Income tax expense in 2025 was $113,174, or 18.9 percent of pre-tax income, as compared to $118,197, or 20.2 percent of pre-tax income in 
+2024
+. The effective tax rate decreased 130 basis points primarily due to a decline in federal valuation allowances. 
+Net Income
+Net income was $484,474, or $8.51 per diluted share, in 2025, compared to net income of $467,284, or $8.11 per diluted share, in 2024. This represented a 3.7 percent increase in net income and a 5.0 percent increase in diluted earnings per share. The increase of $0.40 per diluted share was primarily driven by higher operating profit, a lower effective tax rate and the benefit of share repurchases, partially offset by higher interest expense from the funding of acquisitions.
+Liquidity and Capital Resources
+Cash and cash equivalents decreased $7,510 in 2025 to $108,442 as of October 31, 2025 compared to $115,952 as of October 31, 2024. Approximately 71 percent of our consolidated cash and cash equivalents were held at various foreign subsidiaries as of October 31, 2025. 
+A comparison of cash flow changes from 2025 to 2024 follows:
+Twelve Months Ended
+October 31, 2025
+October 31, 2024
+Increase (Decrease)
+Net Income and non-cash items
+$
+662,348
+$
+609,342 
+$
+53,006 
+Changes in operating assets and liabilities
+56,827
+(53,149)
+109,976 
+Net cash provided by operating activities 
+719,175
+556,193 
+162,982 
+Additions to property, plant and equipment
+(58,060)
+(64,410)
+6,350 
+Sale (acquisition) of businesses, net of cash acquired
+28,107
+(789,996)
+818,103 
+Other - net
+3,263
+10,008 
+(6,745)
+Net cash used in investing activities
+(26,690)
+(844,398)
+817,708 
+Net (repayment) issuance of long-term debt
+(224,141)
+464,353 
+(688,494)
+Repayment of finance lease obligations
+(5,868)
+(6,148)
+280 
+Dividends paid
+(179,069)
+(161,438)
+(17,631)
+Issuance of common shares
+9,014
+31,067 
+(22,053)
+Purchase of treasury shares
+(306,367)
+(33,339)
+(273,028)
+Net cash provided (used) by financing activities
+$
+(706,431)
+$
+294,495 
+$
+(1,000,926)
+The improvement in working capital was principally driven by increases in accounts payable and customer advance payments. During 2025, the Company was able to utilize its strong cashflow generation to repurchase over $300 million in common shares, reduce debt outstanding by approximately $224 million, pay $179 million in dividends, and fund capital projects to drive organic growth.
+We have a $1,150,000 unsecured multi-currency credit facility with a group of banks that provides for a term loan facility in the aggregate principal amount of $300,000, maturing in June 2026, and a multicurrency revolving credit facility in the aggregate principal amount of $850,000, maturing in June 2028. At October 31, 2025, we had $265,000 outstanding on the term loan facility and $135,000 outstanding on the revolving credit facility. 
+Nordson Corporation 28
+Table of Contents
+Our operating performance, balance sheet position and financial ratios for 2025 remained strong. We are in compliance with all covenants in the agreements governing our debt as of October 31, 2025. The Company is well-positioned to manage liquidity needs that arise from working capital requirements, capital expenditures, contributions related to pension and postretirement obligations, principal and interest payments on our outstanding debt, dividends, and share repurchases. Our primary sources of capital to meet these needs, as well as other opportunistic investments, are a combination of cash on hand, which was $108,442 as of October 31, 2025, cash provided by operations, which was $719,175 in 2025, and available borrowings under our loan agreements and unused bank lines of credit, which totaled $935,151 as of October 31, 2025. Cash from operations, which when combined with our available borrowing capacity and ready access to capital markets, is expected to be more than adequate to fund our liquidity needs over the twelve months and the foreseeable future thereafter. The Company believes it has the ability to generate and obtain adequate amounts of cash to meet its long-term needs for cash. However, the impact of changes in trade policies, tariffs, and other import/export regulations of the United States and other nations could negatively impact our cash flow from operations and liquidity in future periods. 
+Contractual and Other Material Cash Obligations
+The Company’s cash requirements under contractual obligations include:
+•
+Debt and related interest – Refer to Note 9 to the Consolidated Financial Statements for further detail of the Company’s debt and timing of expected future principal payments.
+•
+Payments for leases - Refer to Note 10 to the Consolidated Financial Statements for further detail of our obligations and the timing of expected future payments.
+•
+Pension and postretirement
+plan contributions - Refer to Note 7 to the Consolidated Financial Statements for further detail of our obligations and expected contributions.
+•
+Purchase obligations - The Company enters into purchase orders for materials used in our manufacturing processes in the ordinary course of business. As of October 31, 2025, the Company has purchase obligations to support the operation of its business similar to those included in historical cash flow trends.
+We believe that the combination of present capital resources, cash from operations and unused financing sources such as our credit facilities, including our revolving credit facility, are more than adequate to meet cash requirements for the twelve months and the foreseeable future thereafter. There are no significant restrictions limiting the transfer of funds from international subsidiaries to the parent company.
+Safe Harbor Statements Under the Private Securities Litigation Reform Act of 1995
+This annual report, particularly “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” contains forward-looking statements within the meaning of the Securities Act of 1933, as amended, the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. Such statements relate to, among other things, income, earnings, cash flows, changes in operations, operating improvements, businesses in which we operate and the United States and global economies. Statements in this annual report that are not historical are hereby identified as “forward-looking statements” and may be indicated by words or phrases such as “anticipates,” “supports,” “plans,” “projects,” “expects,” “believes,” “should,” “would,” “could,” “hope,” “forecast,” “management is of the opinion,” use of the future tense and similar words or phrases. These forward-looking statements reflect management’s current expectations and involve a number of risks and uncertainties. These risks and uncertainties include, but are not limited to, U.S. and international economic and political conditions; financial and market conditions; currency exchange rates and devaluations; possible acquisitions and the Company’s ability to complete and successfully integrate acquisitions, including the integration of Atrion; the Company’s ability to successfully divest or dispose of businesses that are deemed not to fit with its strategic plan; the effects of changes in U.S. trade policy and trade agreements, including changes in tariffs by the United States or other nations; the effects of changes in tax law; and the possible effects of events beyond our control, such as political unrest, including the conflicts in Europe and the Middle East, acts of terror, natural disasters and pandemics.
+In light of these risks and uncertainties, actual events and results may vary significantly from those included in or contemplated or implied by such forward-looking statements. Readers are cautioned not to place undue reliance on such forward-looking statements. These forward-looking statements speak only as of the date made. We undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. 
+Factors that could cause our actual results to differ materially from the expected results are discussed in Part 1, Item 1A, Risk Factors of this annual report.
+Nordson Corporation 29
+Table of Contents

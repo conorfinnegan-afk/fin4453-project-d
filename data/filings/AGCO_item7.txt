@@ -1,0 +1,445 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ OF OPERATIONS
+OVERVIEW
+ Since commencement of our operations in 1990, we have been engaged primarily
+in the discovery, development and commercialization of therapeutics, therapeutic
+devices and therapeutic regimens designed to suppress undesired immune responses
+and enhance the body's ability to accept donor cells, tissues and organs. The
+major sources of our working capital have been the proceeds from sales of
+ 30
+equity securities, sponsored research funding and license fees, capital lease
+financings and borrowings under term loans. Although we commenced initial sales
+of our Eligix HDM Cell Separation Systems in Europe during the fourth quarter of
+2001 through a distribution partner, we have not generated substantial product
+revenues from our sales of products to date. We will be required to conduct
+significant additional research, development, testing and regulatory compliance
+activities that, together with general and administrative expenses, are expected
+to result in significant and increasing operating losses for at least the next
+several years.
+ In addition to conducting research, development and manufacturing on our
+own, we are a party to a number of collaborations and strategic relationships.
+Since 1995, we have had a collaborative agreement with MedImmune, Inc.
+Currently, the main focus of this relationship is the development of Siplizumab,
+which we refer to as MEDI-507, a humanized monoclonal antibody we exclusively
+licensed to MedImmune for stand-alone indications. MedImmune is currently
+conducting multiple Phase II trials of Siplizumab for the treatment of
+psoriasis. We will be entitled to receive royalties on any sales of Siplizumab
+and future generation products. In 2001, we entered into a distribution
+agreement with Gambro BCT for the distribution of our Eligix HDM Cell Separation
+Systems, two versions of which are now being marketed in Europe. Since 1993, we
+have been involved in collaborations with Novartis to research, develop and
+commercialize xenotransplantation products. In 2001, Immerge BioTherapeutics AG,
+the joint venture we formed with Novartis to research xenotransplantation
+products, began operations as an independently run company. Novartis will fund
+the joint venture through 2003.
+ MEDIMMUNE
+ Under our collaborative agreement with MedImmune, MedImmune paid us a
+$2.0 million license fee at the time of execution of the agreement, and agreed
+to fund and assume responsibility for clinical testing and commercialization of
+the BTI-322 monoclonal antibody and other related products developed by us,
+including Siplizumab, which is the name given by MedImmune to MEDI-507, the
+humanized version of BTI-322. MedImmune has provided $2.0 million of
+non-refundable research support and has agreed to make milestone payments which
+could total up to an additional $11.0 million. All milestone payments which are
+received are repayable from royalties on the BTI-322 monoclonal antibody and
+other related products.
+ ELIGIX ACQUISITION
+ On May 15, 2001, we completed our acquisition of Eligix, Inc. Upon
+consummation of the merger, Eligix became our wholly owned subsidiary. Under the
+terms of the merger, we issued 4,939,200 shares of common stock in exchange for
+the outstanding common stock of Eligix and 990,000 shares of common stock to
+certain former employees of Eligix. The shares issued to Eligix employees are
+subject to a repurchase option which lapses over a one-year period.
+ We accounted for the acquisition as a purchase. In accordance with the
+requirements of accounting principles generally accepted in the United States,
+we allocated the purchase price for the acquisition to the assets acquired,
+including intangible assets consisting of in-process research and development,
+acquired technology and goodwill. The allocations among the intangible assets
+were based upon an independent third-party valuation of the intangible assets
+acquired. Synergies, such as the value expected to be derived from the planned
+use of our Eligix-TM- HDM Cell Separation Systems technology in our AlloMune
+Systems, are excluded from the valuation pursuant to applicable accounting
+standards and SEC guidelines. As a result of a preliminary valuation, performed
+in December 2000, we allocated $20.0 million to in-process research and
+development, or IPR&D, and $25.0 million to acquired technology. The excess of
+the purchase price over the fair value of identified intangible and tangible
+assets of $5.7 million was allocated to goodwill. During 2001, the intangible
+assets, including acquired technology and goodwill, were amortized over their
+estimated useful lives of seven years. The fair value
+ 31
+of the IPR&D was recorded as an expense as of the acquisition date. In
+connection with our year-end audit, the third-party valuation firm finalized its
+valuation as of May 15, 2001 based upon revised estimates of expected cash flows
+from the developed portion of the technology acquired from Eligix and other
+variables. As a result of the final valuation report, we reallocated
+$14.0 million from acquired technology to goodwill. As a result, we continued to
+allocate $20.0 million to IPR&D, and allocated $11.0 million to acquired
+technology and $19.7 million to goodwill. Finally, we performed a review of our
+intangible assets as of December 31, 2001 and determined that no impairment
+exists. The reallocation had no impact on our statement of operations for the
+year ended December 31, 2001.
+ GAMBRO DISTRIBUTION--ELIGIX HDM CELL SEPARATION SYSTEMS
+ In August 2001, we entered into an exclusive distribution agreement with
+Gambro BCT, a wholly owned subsidiary of Gambro AB, for the distribution of our
+Eligix HDM Cell Separation Systems. Under this agreement, as amended, we have
+granted Gambro the right to distribute these products worldwide, with the
+exception of the United States and Japan, and the non-exclusive right to
+distribute these products in Canada. Gambro also has the option to negotiate the
+terms of an exclusive arrangement for Canada. If we are unable to negotiate an
+exclusive arrangement in Canada and subsequently reach an agreement with a third
+party, then Gambro's non-exclusive rights in Canada will terminate. Gambro has
+the exclusive option for a limited period of time to negotiate for the exclusive
+right to distribute products in the United States by making a one-time payment
+to us. Thereafter, Gambro has the option, without payment of a fee, to negotiate
+on a non-exclusive basis for United States distribution rights. Gambro also has
+a right of prior notice and first negotiation with respect to any third-party
+discussions we may seek to engage in with respect to distribution in Japan.
+ We and Gambro will share revenues under the Gambro agreement based upon a
+specific formula. Under the terms of the agreement, we will be responsible for
+developing, manufacturing and seeking to obtain CE Mark approval for our Eligix
+HDM Cell Separation Systems. The first two of these products, the BCell-SC and
+CD8-DLI Cell Separation Systems, have received CE Mark approval, permitting
+their sale in the European Union. Gambro will be responsible for continued
+clinical market development and all other aspects of marketing, sales and
+distribution. In August and September 2001, we received an upfront licensing fee
+of $4.0 million, plus milestone payments of $2.0 million for obtaining CE Mark
+approval for our BCell-SC and CD8-DLI Cell Separation Systems. We are
+recognizing these amounts as revenue over the seven-year term of the
+distribution agreement. We are entitled to receive future milestone payments for
+other new products, if any, receiving CE Mark approval. We expect to receive CE
+Mark approval for our CD8-SC Cell Separation System in late 2002.
+ NOVARTIS/IMMERGE BIOTHERAPEUTICS
+ From 1993 through October 2000, we were a party to two collaboration
+agreements with Novartis to research, develop and commercialize
+xenotransplantation products. During these collaborations, we received and
+recognized as revenue an aggregate of $33.5 million in research funding and
+$16.5 million in license fees and milestone payments from Novartis. In
+September 2000, we entered into an arrangement with Novartis to terminate the
+prior collaborations and combine our respective expertise in the field of
+xenotransplantation into a newly formed, independently run Swiss company,
+Immerge BioTherapeutics AG, which began operations in January 2001.
+ Novartis has committed to provide an aggregate of $30.0 million in research
+funding over three years to the joint venture, $20.0 million of which has been
+received to date by Immerge BioTherapeutics, Inc., a Delaware subsidiary of
+Immerge BioTherapeutics AG, to cover Novartis's funding obligation through 2002.
+Both we and Novartis have exclusively licensed to the joint venture patent
+rights and technology in the field of xenotransplantation. The joint venture has
+granted to Novartis an exclusive, worldwide, royalty-bearing license to develop
+and commercialize any
+ 32
+xenotransplantation products resulting from the joint venture's research. We
+will receive royalties from the sale of xenotransplantation products by
+Novartis, if any.
+ We entered into a contract research agreement with Immerge
+BioTherapeutics, Inc. under which we have committed approximately 20 full-time
+employees to perform research and are providing administrative services at rates
+specified in the agreement. We are recognizing the expense reimbursement
+received from Immerge BioTherapeutics, Inc. as an offset to the expenses we
+incur. For the year ended December 31, 2001, we recorded approximately
+$7.8 million in research and development services and support reimbursements and
+approximately $1.0 million in general and administrative services and support
+reimbursements.
+ Novartis holds 67% of the shares of Immerge BioTherapeutics AG and we hold
+the remaining 33%. All income, gain, profit or loss of the joint venture will be
+allocated to us and Novartis pro rata based upon our respective equity ownership
+of the joint venture in effect in the period in which these items accrue. We
+will accrue losses up to the amount of our investment balance in Immerge
+BioTherapeutics AG. Because we have not invested any amount, or committed to
+invest any amounts, in the joint venture, our investment balance is zero.
+Accordingly, we have not recognized any losses related to the joint venture
+during 2001. Initially, the board of directors of Immerge BioTherapeutics, Inc.
+will consist of four directors: one selected by us, one selected by Novartis and
+two additional directors, one each designated by us and Novartis, who are
+experts in the field of xenotransplantation. Immerge BioTherapeutics AG has
+agreed not to undertake, or permit its subsidiaries to undertake, specified
+fundamental corporate actions without the consent of both shareholders.
+RESULTS OF OPERATIONS
+YEARS ENDED DECEMBER 31, 2001 AND 2000
+ Revenues decreased to $690,000 in 2001 from $4.6 million in 2000. This
+decrease was primarily due to the fact that during 2000 all of our revenues were
+derived from sponsored research payments under the Novartis agreement. In late
+2000, we formed a joint venture with Novartis in xenotransplantation and
+terminated the prior collaborations as part of this new relationship. Revenues
+in 2001 represent product sales of $356,000 and $334,000 in Gambro milestone
+payments and up-front license fees, which are being recognized ratably over the
+remaining life of our distribution agreement. Product sales consist of product
+sales to Gambro as well as domestic cost recovery sales to research
+institutions.
+ Cost of revenues of $225,000 in 2001 consists of material, labor and
+overhead costs relating to our BCell-SC and CD8-DLI Cell Separation Systems.
+ Research and development expenses primarily consist of salaries and related
+expenses for personnel, sponsored research, consulting, clinical development
+costs, facilities related costs and depreciation. Research and development
+expenses decreased to $10.9 million in 2001 from $15.0 million in 2000. This
+decrease was due in part to $7.8 million of reimbursements from Immerge for
+approximately 20 full-time research personnel and their related operating
+expenses, in accordance with the terms of our agreement with Immerge. We
+recorded these reimbursements as offsets to the appropriate expense accounts.
+The decrease was also due in part to decreased levels of external research
+support in 2001. This decrease was partially offset by approximately
+$2.5 million of expenses related to the consolidation of Eligix operations,
+which are included in operations beginning May 15, 2001.
+ General and administrative expenses primarily consist of salaries and
+related expenses for personnel, facilities related costs, depreciation and
+professional fees. General and administrative expenses increased to
+$4.9 million in 2001 from $2.5 million in 2000. This increase was primarily due
+to
+ 33
+the inclusion of expenses related to the consolidation of Eligix operations.
+This increase was offset by a $1.0 million reimbursement from Immerge for
+support services.
+ Other, non-cash operating expenses in 2001 related to the acquisition of
+Eligix, including $20.0 million of in-process research and development expense,
+approximately $2.6 million in amortization of intangible assets and goodwill and
+approximately $5.1 million in stock-based compensation. In accordance with
+Statement of Financial Accounting Standard No. 142, GOODWILL AND OTHER
+INTANGIBLE ASSETS, effective January 1, 2002, we will no longer amortize
+goodwill. Rather, we will review annually the carrying amount of goodwill for
+impairment. By not amortizing goodwill, our quarterly amortization expense will
+decrease by $708,000 when compared to our quarterly amortization charge during
+the later half of 2001. The stock-based compensation charge represents the
+amortization of the deferred stock-based compensation relating to the Amended
+and Restated Eligix Management Equity Incentive Plan and the intrinsic value of
+the unvested options assumed by us in the Eligix acquisition. If we had
+allocated stock-based compensation to research and development and general and
+administrative expenses, these expenses would have increased by $2.3 million and
+$2.8 million, respectively, during 2001.
+ Interest income decreased to $530,000 in 2001 from $1.3 million in 2000.
+This decrease was primarily due to lower cash balances available for investment
+purposes as well as declining interest rates.
+ Interest expense increased to $143,000 in 2001 from $60,000 in 2000. This
+increase was primarily due to increased obligations under capital leases as a
+result of the acquisition of Eligix.
+ As a result of the above factors, we generated a net loss for the year ended
+December 31, 2001 of $42.6 million, or $2.60 per share, compared to a loss of
+$11.7 million, or $1.01 per share, for the year ended December 31, 2000.
+YEARS ENDED DECEMBER 31, 2000 AND 1999
+ Revenues decreased to $4.6 million in 2000 from $8.7 million in 1999. This
+decrease was primarily due to the fact that during 2000 we recognized
+$4.6 million in sponsored research payments under the Novartis agreement,
+compared to $8.7 million in sponsored research payments, milestone payments and
+license revenue received under the Novartis agreement during 1999.
+ Research and development expenses decreased to $15.0 million in 2000 from
+$15.7 million in 1999. This decrease was primarily due to decreased levels of
+external research support.
+ General and administrative expenses increased to $2.5 million in 2000 from
+$2.4 million in 1999. This increase was primarily due to increases in our
+general corporate expenditures in 2000 compared to 1999.
+ Interest income increased to $1.3 million in 2000 from $782,000 in 1999.
+This increase was due primarily to higher cash balances available for investment
+purposes as well as rising interest rates.
+ Interest expense increased to $60,000 in 2000 from $18,000 in 1999. This
+increase was primarily due to increased obligations under a term note with a
+bank, in connection with the financing of capital equipment.
+ As a result of the above factors, we generated a net loss in 2000 of
+$11.7 million, or $1.01 per share, compared to a net loss of $8.7 million, or
+$1.01 per share, in 1999.
+QUARTERLY RESULTS OF OPERATIONS
+ The following table sets forth unaudited selected operating results for each
+of the eight fiscal quarters in the two years ended December 31, 2001. We
+believe that the following selected quarterly
+ 34
+information includes all adjustments, consisting only of normal, recurring
+adjustments, that we consider necessary to present this information fairly. You
+should read this financial information in conjunction with the financial
+statements and related notes appearing elsewhere in this Annual Report on
+Form 10-K. Our results of operations have fluctuated in the past and are likely
+to continue to fluctuate greatly from quarter to quarter in the future.
+Therefore, results of operations for any previous periods are not necessarily
+indicative of results of operations to be recorded in the future.
+ QUARTER ENDED
+ ----------------------------------------------------------------------------------------
+ MARCH 31, JUNE 30, SEPT.30, DEC. 31, MARCH 31, JUNE 30, SEPT. 30, DEC. 31,
+ 2000 2000 2000 2000 2001 2001 2001 2001
+ --------- -------- -------- -------- --------- -------- --------- --------
+ (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+Revenue...................... $ 1,488 $ 1,488 $ 1,476 $ 106 $ -- $ -- $ 212 $ 478
+Operating expenses........... 4,302 4,251 4,310 4,654 2,467 25,641 7,087 8,527
+Net loss..................... (2,499) (2,408) (2,501) (4,271) (2,312) (25,557) (6,766) (8,011)
+Basic and diluted net loss
+ per common share........... $ (0.23) $ (0.21) $ (0.21) $ (0.36) $ (0.20) $ (1.76) $ (0.35) $ (0.40)
+ Revenue during each quarter of 2000 relates to sponsored research payments
+we received from Novartis. We terminated our sponsored research agreement with
+Novartis in October 2000, concurrent with the formation of Immerge
+BioTherapeutics, our joint venture with Novartis. During the third quarter of
+2001, we commenced initial sales of our Eligix HDM Cell Separation Systems in
+Europe. In addition, we began to recognize license and milestone revenue under
+our agreement with Gambro BCT.
+ The decrease in operating expenses during the quarter ended March 31, 2001
+related primarily to the expense reimbursements we received from Immerge. The
+increases in expenses during the quarters ended June 30, 2001, September 30,
+2001 and December 31, 2001 related principally to our acquisition of Eligix on
+May 15, 2001. Operating expenses for the quarter ended June 30, 2001 included a
+$20.0 million charge for the IPR&D acquired in the Eligix acquisition.
+LIQUIDITY AND CAPITAL RESOURCES
+ Since our inception, our operations have been funded principally through the
+net proceeds of an aggregate of $99.8 million from sales of equity securities.
+We have also received $50.0 million from research and development and
+collaboration agreements with Novartis, $4.0 million from an alliance agreement
+with MedImmune, $6.0 million in up-front licensing fees and milestone payments
+from our distribution agreement with Gambro and $2.9 million in equipment
+financing. The proceeds of the sales of equity securities, equipment financing
+and cash generated from the corporate collaborations with Novartis, MedImmune
+and our distribution agreement with Gambro have been used to fund operating
+losses of approximately $111.5 million and the investment of approximately
+$9.3 million in equipment and leasehold improvements through December 31, 2001.
+ During the years ended December 31, 2001, 2000 and 1999, we used cash in
+operating activities of $13.1 million, $16.4 million and $6.3 million,
+respectively. The cash used in operations resulted primarily from our operating
+loss adjusted for non-cash expenses and changes in our working capital.
+ During 2001, we used $9.8 million of cash in investing activities,
+consisting primarily of $1.1 million of property and equipment additions, a net
+increase in short-term investments of $5.2 million and $3.5 million of cash paid
+for transaction costs in connection with the acquisition of Eligix. During the
+years ended December 31, 2000 and 1999, we generated cash from investing
+activities of $40,000 and $2.7 million, respectively. The net proceeds from
+investing activities consisted of maturities of short-term investments offset by
+the purchase of property and equipment.
+ 35
+ During the years ended December 31, 2001, 2000 and 1999, we generated cash
+of $17.5 million, $10.2 million and $8.0 million from financing activities. Our
+financing activities consisted principally of issuances of our common stock and
+long-term debt offset by payments on long-term debt.
+ During 1999, we extended the term of, and increased our borrowings under,
+our term note with a bank from $500,000 to $1.0 million for certain equipment
+and fixtures borrowing. As of December 31, 2001, there was approximately
+$233,000 in borrowings outstanding. We are required to maintain certain
+financial covenants under the agreement. As of December 31, 2001, we were in
+compliance with these covenants. In connection with the acquisition of Eligix,
+we assumed the obligations under two outstanding loans to which Eligix was a
+party at the time of the acquisition. As of December 31, 2001, the aggregate
+amount outstanding under these two loans was approximately $1.3 million.
+ On June 8, 2001, we issued and sold to a group of investors an aggregate of
+3,022,000 shares of our common stock, at a purchase price of $6.30 per share,
+for net proceeds of approximately $17.8 million.
+ We have entered into sponsored research and consulting agreements with
+certain hospitals, academic institutions and consultants, requiring periodic
+payments by us. Our aggregate minimum funding obligations under these
+agreements, each of which allows us to cancel without penalty, given sufficient
+notice, total approximately $5.4 million, which includes approximately
+$2.9 million payable in 2002. We lease our facilities under operating leases
+that expire between 2003 and 2009. The aggregate minimum annual rental payments
+under these leases is $9.7 million, of which $1.8 million is payable in 2002.
+For additional information relating to our commercial and contractual
+commitments, please see notes 4, 9 and 11 to our consolidated financial
+statements included herein.
+ We had cash, cash equivalents and short-term investments of $14.7 million as
+of December 31, 2001 as compared to $14.9 million as of December 31, 2000.
+ We anticipate that our existing cash, cash equivalents and short-term
+investments will be sufficient to fund our operating and capital requirements as
+currently planned into the first quarter of 2003. To continue operations beyond
+the first quarter of 2003, we will need to raise additional funds, and may seek
+to raise these funds through additional financings, including public or private
+equity offerings, collaborative arrangements with corporate partners or a
+combination of any of the foregoing. There can be no assurance that funds will
+be available on terms acceptable to us, if at all. If adequate funds are not
+available, we may be required to delay, scale back or eliminate some or all of
+our product development programs or to license to others the right to
+commercialize products or technologies that we would otherwise seek to develop
+and commercialize ourselves, any of which would have a material and adverse
+effect on us.
+ Even if we are able to raise the substantial additional funds required to
+finance our operations, our cash requirements may vary materially from those now
+planned. Factors that may affect this variability include, without limitation:
+ - the progress of our research and development programs;
+ - the scope and results of preclinical and clinical testing;
+ - changes in existing and potential relationships with corporate
+ collaborators;
+ - the time and cost in obtaining regulatory approvals;
+ - the costs involved in obtaining and enforcing patents, proprietary rights
+ and any necessary licenses;
+ - our ability to establish development and commercialization capacities or
+ relationships; and
+ - the costs of manufacturing.
+ 36
+CRITICAL ACCOUNTING POLICIES
+ Our significant accounting policies are summarized in note 2 to our
+consolidated financial statements. However, certain of our accounting policies
+require the application of significant judgment by our management, and such
+judgments are reflected in the amounts reported in our financial statements. In
+applying these policies, our management uses its judgment to determine the
+appropriate assumptions to be used in the determination of estimates. Those
+estimates are based on our historical experience, terms of existing contracts,
+our observance of trends in the industry, information provided by our strategic
+partners and information available from other outside sources, as appropriate.
+Actual results may differ significantly from the estimates contained in our
+financial statements. Our significant accounting policies include:
+ IMPAIRMENT OF LONG-LIVED ASSETS. Our long-lived assets include intangible
+assets and goodwill. At December 31, 2001, we had $28.1 million of intangible
+assets and goodwill, net, which accounted for approximately 56.5% of our total
+assets. In assessing the recoverability of our intangible assets and goodwill,
+we must make assumptions in determining the fair value of the asset by
+estimating future cash flows and considering other factors, including
+significant changes in the manner or use of the assets, or negative industry or
+economic trends. If these estimates or their related assumptions change in the
+future, we may be required to record impairment charges for these assets. We
+adopted the provisions of Statement of Financial Accounting Standards, or SFAS,
+No. 142, GOODWILL AND OTHER INTANGIBLE ASSETS, as of January 1, 2002, and will
+be required to test our intangible assets for impairment during the first six
+months of fiscal 2002, and then on a periodic basis thereafter. We performed a
+review of the realizability of our intangible assets as of December 31, 2001 and
+determined that no impairment exists. However, future events could cause us to
+conclude that impairment indicators exist and that goodwill or other intangible
+assets are impaired. Any resulting impairment loss could have a material adverse
+impact on our financial condition and results of operations.
+ REVENUE RECOGNITION. Our revenue recognition policy is significant because
+our revenue is a key component of our results of operations. In addition, our
+revenue recognition determines the timing of certain expenses. We follow
+specific and detailed guidelines in measuring revenue; however, certain
+judgments affect the application of our revenue policy. Revenue results are
+difficult to predict, and any shortfall in revenue or delay in recognizing
+revenue could cause our operating results to vary significantly from quarter to
+quarter and could result in future operating losses. For a description of our
+revenue recognition policy, see note 2(f) to our consolidated financial
+statements.
+ INVENTORIES. Inventories are stated at the lower of cost or market, cost
+being determined on the first-in, first-out method. Reserves for slow moving and
+obsolete inventories are provided based on historical experience and product
+demand. We have only recently begun the commercialization of our products and
+have limited experience in assessing obsolescence. We evaluate the adequacy of
+these reserves periodically.
+RECENT ACCOUNTING PRONOUNCEMENTS
+ In July 2001, the FASB issued SFAS No. 141, BUSINESS COMBINATIONS. SFAS
+No. 141 requires that all business combinations initiated after June 30, 2001 be
+accounted for under the purchase method of accounting, thereby eliminating the
+use of the pooling-of-interests method. Management does not believe the adoption
+of this statement will have a material impact on our financial statements.
+ We are required to adopt the provisions of SFAS No. 142, GOODWILL AND OTHER
+INTANGIBLE ASSETS on January 1, 2002. This statement affects our treatment of
+goodwill and other intangible assets. The statement requires that goodwill
+existing at the date of adoption be reviewed for possible impairment and that
+impairment tests be periodically repeated, with impaired assets written down to
+fair value. Additionally, existing goodwill and intangible assets must be
+assessed and classified within the
+ 37
+statement's criteria. Intangible assets with finite useful lives will continue
+to be amortized over those periods. Amortization of goodwill and intangible
+assets with indeterminable lives will cease.
+ We have until June 30, 2002 to complete the first step of the transitional
+goodwill impairment test. However, the amounts used in the transitional goodwill
+impairment test are measured as of the beginning of the year of initial
+application. If the carrying amount of the net assets of a reporting unit,
+including goodwill, exceeds the fair value of that reporting unit, the second
+step of the transitional goodwill impairment test will be completed by us as
+soon as possible, but no later than December 31, 2002.
+ An impairment loss recognized as a result of a transitional goodwill
+impairment test, if any, would be recognized by us as the effect of a change in
+accounting principle. Although a transitional impairment loss for goodwill may
+be measured by us in other than the first interim reporting period of fiscal
+year 2002, we are required to report the loss, if any, in the first interim
+period of fiscal year 2002, irrespective of the period in which it is measured,
+consistent with paragraph 10 of SFAS No. 3, REPORTING ACCOUNTING CHANGES IN
+INTERIM FINANCIAL STATEMENTS. Accordingly, if we determine that as a result of
+adopting SFAS No. 142, we have incurred a transitional impairment loss relating
+to our goodwill after we have reported our first quarter results for 2002, we
+will restate our reported fiscal year 2002 interim periods to effect the change
+in accounting.
+ In August 2001, the Financial Accounting Standards Board issued SFAS
+No. 144, ACCOUNTING FOR THE IMPAIRMENT OR DISPOSAL OF LONG-LIVED ASSETS, which
+supersedes SFAS No. 121, ACCOUNTING FOR THE IMPAIRMENT OF LONG-LIVED ASSETS TO
+BE DISPOSED OF, and the accounting and reporting provisions of APB No. 30. SFAS
+No. 144 addresses financial accounting and reporting for the impairment or
+disposal of long-lived assets and is effective for fiscal years beginning after
+December 15, 2001, and interim periods within those fiscal years. Management
+does not believe the adoption will have a material impact on our financial
+statements.

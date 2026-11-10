@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+TT,2022,15991700000.0,2418900000.0,0.1512597159776634,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+TT,2023,17677600000.0,2894000000.0,0.16371000588315157,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+TT,2024,19838200000.0,3500100000.0,0.17643233761127522,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+TT,2025,21321900000.0,3967400000.0,0.18607159774691748,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

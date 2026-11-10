@@ -1,0 +1,1831 @@
+Item 7: Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Management Overview
+We believe our 2024 operating performance demonstrates the possibilities for growth across our businesses, confirms the special resilience of our markets, and reflects the considerable capability of our combined operations and our experienced team to prevail in the difficulties of the current macroeconomic environment. Throughout the uncertainty, we maintained and further extended our ongoing advantages in our products, in our brands and in our people. At the same time, we leveraged existing proficiencies to focus on expanding our professional customer base, not only in automotive repair, but in adjacent markets, additional geographies and other areas, including critical industries, where the cost and penalties for failure can be high. Snap‑on’s value proposition of making work easier for serious professionals is an ongoing strength as we proceed along our strategic runways for coherent growth:
+•
+Enhancing the franchise network, where we continued to focus on helping our franchisees increase their reach through innovative selling processes and productivity initiatives that break the traditional time and space barriers inherent in a mobile van;
+•
+Expanding with repair shop owners and managers, where we continued to make progress in connecting with customers and translating the resulting insights into innovation that solves specific challenges in the repair facility;
+•
+Further extending to critical industries, where we continued to grow our lines of products customized for specific industries, including through further integration of acquisitions; and
+•
+Building in emerging markets, where we continued to maintain manufacturing capacity, as well as refine product lines and distribution capabilities.
+Our strategic priorities and plans for 
+2025
+ also involve continuing to build on our Snap-on Value Creation Processes – our suite of strategic principles and processes we employ every day designed to create value, and employed in the areas of safety, quality, customer connection, innovation and Rapid Continuous Improvement (“RCI”). We expect to continue to deploy these processes in our existing operations as well as into our recently acquired businesses.
+Snap-on’s RCI initiatives employ a structured set of tools and processes across multiple businesses and geographies intended to eliminate waste and improve operations. Savings from Snap-on’s RCI initiatives reflect benefits from a wide variety of ongoing efficiency, productivity and process improvements, including savings generated from product design cost reductions, improved manufacturing line set-up and change-over practices, lower-cost sourcing initiatives and facility consolidations. Unless individually significant, it is not practicable to disclose each RCI activity that generated savings and/or segregate RCI savings embedded in sales volume increases.
+Our global financial services operations continue to serve a significant strategic role in offering financing options to our franchisees, to their customers, and to customers in other parts of our business. We expect that our global financial services business, which includes both Snap-on Credit LLC (“SOC”) in the United States and our other international finance subsidiaries, will continue to be a meaningful contributor to our operating earnings going forward.
+Snap-on has significant international operations and is subject to risks inherent with foreign operations, including foreign currency translation fluctuations. 
+Recent Acquisitions
+On November 20, 2023, Snap-on acquired certain assets of SAVTEQ, Inc. (“SAVTEQ”) for a cash purchase price of $3.0 million. SAVTEQ, based in Lexington, Kentucky, provides precise non-contact measuring capabilities that Snap-on is leveraging in its product offerings.
+On November 1, 2023, Snap-on acquired Mountz, Inc. (“Mountz”) for a cash purchase price of $39.6 million. Mountz, based in San Jose, California, is a leading developer, manufacturer and marketer of high-precision torque tools, including measurement, calibration and documentation products. The acquisition of Mountz has complemented and expanded Snap-on’s torque offerings to customers in a variety of critical industries including aerospace, transportation and advanced manufacturing.
+For segment reporting purposes, the results o
+f operations and assets of SAVTEQ have been included in the Repair Systems & Information Group and those of Mountz have been included in the Commercial & Industrial Group since the respective acquisition dates.
+Pro forma financial information has not been presented 
+for these acquisitions as t
+he net effects, individually and collectively, were neither significant nor material to Snap-on’s results of operations or financial position. 
+28
+SNAP-ON INCORPORATED
+Fiscal Year
+Snap-on’s fiscal year ends on the Saturday that is on or nearest to December 31. Unless otherwise indicated, references in this document to “fiscal 2024” or “2024” refer to the fiscal year ended December 28, 2024; references to “fiscal 2023” or “2023” refer to the fiscal year ended December 30, 2023; and references to “fiscal 2022” or “2022” refer to the fiscal year ended December 31, 2022. References in this document to 2024, 2023 and 2022 year end refer to December 28, 2024, December 30, 2023, and December 31, 2022, respectively. Snap-on’s 2024, 2023 and 2022 fiscal years each contained 52 weeks of operating results. 
+Fiscal 2023 as Compared to Fiscal 2022
+A discussion regarding our financial condition and results of operations for fiscal 2023 compared to fiscal 2022 can be found under “Part II, Item 7: Management’s Discussion and Analysis of Financial Condition and Results of Operations,” in our Annual Report on the Form 10-K for the fiscal year ended December 30, 2023, which was filed with the SEC on February 16, 2024, and is available on the SEC’s website at 
+www.sec.gov
+ as well as in the “Investors” section of our website at 
+www.snapon.com
+.
+Non-GAAP Measures
+References in Management’s Discussion and Analysis of Financial Condition and Results of Operations to “organic sales” refer to sales from continuing operations calculated in accordance with GAAP, adjusted to exclude acquisition-related sales and the impact of foreign currency translation. Management evaluates the company’s sales performance based on organic sales growth, which primarily reflects growth from the company’s existing businesses as a result of increased output, expanded customer base, geographic expansion, new product development and pricing changes, and excludes sales contributions from acquired operations the company did not own as of the comparable prior-year reporting period. Organic sales also exclude the effects of foreign currency translation as foreign currency translation is subject to volatility that can obscure underlying business trends. Management believes that the non-GAAP financial measure of organic sales is meaningful to investors as it provides them with useful information to aid in identifying underlying growth trends in the company’s businesses and facilitates comparisons of its sales performance with prior periods.
+Summary of Consolidated Performance 
+Consolidated
+ net sales of $4,707.4 million in 2024 represented a decrease of $22.8 million, or 0.5%, from 2023 levels, reflecting a $40.6 million, or 0.9%, organic decline and $5.5 million of unfavorable foreign currency translation, partially offset by $23.3 million of acquisition-related sales.
+Operating earnings before financial services of $1,068.8 million in 2024, including 
+a $22.5 million benefit for the final payments associated with a legal matter, which were received in the first six months of 2024 (the “legal payments”),
+ compared to $1,039.9 million in 2023. As a percentage of net sales, operating earnings before financial services were 22.7% compared to 22.0% last year.
+Operating earnings of $1,345.7 million in 2024, including a $22.5 million benefit from the legal payments, compared to $1,310.4 million in 2023. As a percentage of revenues (net sales plus financial services revenue), operating earnings were 26.3% compared to 25.7% last year.
+Net earnings attributable to Snap-on of $1,043.9 million, or $19.51 per diluted share, in 2024, 
+including a $17.5 million, or $0.32 per diluted share, after-tax benefit from the legal payments,
+ compared to $1,011.1 million, or $18.76 per diluted share, in 2023, an increase of $32.8 million or $0.75 per diluted share.
+2024 ANNUAL REPORT
+29
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+Summary of Segment Performance
+The 
+Commercial & Industrial Group
+ consists of business operations serving a broad range of industrial and commercial customers worldwide, including customers in the aerospace, natural resources, government and military, power generation, transportation, and technical education market segments (collectively, “critical industries”), primarily through direct and distributor channels. Segment net sales of $1,476.8 million in 2024 represented an increase of $18.5 million, or 1.3%, from 2023 levels, reflecting a $1.5 million, or 0.1%, organic gain and $23.3 million of acquisition-related sales, partially offset by $6.3 million of unfavorable foreign currency translation. The organic increase primarily reflects a mid single-digit gain in sales to customers in critical industries, partially offset by a double-digit reduction in the power tools operation and a low single-digit decline in the European-based hand tools business. Segment operating earnings of $242.1 million in 2024 compared to $226.1 million in 2023, an increase of $16.0 million or 7.1%.
+The Commercial & Industrial Group intends to focus on the following strategic priorities in 2025: 
+•
+Expanding our business with existing customers and reaching new customers in critical industries and other market segments;
+•
+Leveraging our investments in emerging markets to support growth initiatives;
+•
+Broadening our product offering designed particularly for critical industry segments;
+•
+Increasing our customer-connection-driven understanding of work across multiple industries;
+•
+Investing in innovation that, guided by that understanding of work, delivers an ongoing stream of productivity-enhancing custom-engineered solutions; and
+•
+Continuing to reduce structural and operating costs, as well as improve efficiencies, through RCI initiatives.
+The 
+Snap-on Tools Group
+ consists of business operations primarily serving vehicle service and repair technicians through the company’s multinational mobile tool distribution channel. Segment net sales of $1,989.2 million in 2024 represented a decrease of $99.6 million, or 4.8%, from 2023 levels, reflecting a $100.9 million, or 4.8%, organic sales decline, partially offset by $1.3 million of favorable foreign currency translation. 
+The organic decrease is due to a mid single-digit decline in the U.S., partially offset by a low single-digit gain in the segment’s international operations. Segment o
+perating earnings of $447.3 million in 2024 compared to $493.8 million in 2023, a decrease of $46.5 million or 9.4%.
+The Snap-on Tools Group intends to focus on the following strategic priorities in 2025:
+•
+Enhancing franchisee sales productivity, profitability, commercial health, and satisfaction;
+•
+Developing new programs and products to match current technician preferences, reaching new customers and increasing penetration with existing customers;
+•
+Expanding investment in new product innovation and development; and
+•
+Improving customer service levels and productivity in back office support functions, manufacturing and the supply chain through RCI initiatives and capacity investment.
+The 
+Repair Systems &
+Information Group
+ consists of business operations serving other professional vehicle repair customers worldwide, primarily owners and managers of independent repair shops and OEM dealership service and repair shops (“OEM dealerships”) through direct and distributor channels. Segment net sales of $1,797.9 million in 2024 represented an increase of $16.7 million, or 0.9%, from 2023 levels, reflecting an $18.1 million, or 1.0%, organic sales gain, partially offset by $1.4 million of unfavorable foreign currency translation. 
+The organic improvement primarily reflects a mid single-digit increase in activity with OEM dealerships, partially offset by a low single-digit decline in sales of undercar equipment. Segment o
+perating earnings of $455.2 million in 2024 compared to $433.2 million in 2023, an increase of $22.0 million or 5.1%. 
+The Repair Systems & Information Group intends to focus on the following strategic priorities in 2025:
+•
+Expanding the product offering with new products and services, thereby providing more to sell to repair shop owners and managers;
+•
+Continuing software and hardware upgrades to further improve functionality, performance and efficiency;
+•
+Further building our proprietary databases to enhance software solutions;
+•
+Advancing productivity through RCI initiatives and the optimization of resources; and
+•
+Increasing geographic penetration, including in emerging markets.
+30
+SNAP-ON INCORPORATED
+Financial Services 
+generates revenue from various financing programs and is a strategic partner of the company’s mobile franchise van channel. Financial services revenue of 
+$401.0 million
+ in 2024 compared to 
+$378.1 million
+ in 2023. Originations of $1,182.9 million in 2024 represented a decrease of $52.6 million, or 4.3%, from 2023 levels. Operating earnings from financial services of $276.9 million in 2024 compared to $270.5 million last year.
+Financial Services intends to focus on the following strategic priorities in
+ 2025:
+•
+Delivering financial products and services that attract and sustain profitable franchisees and support Snap‑on’s strategies for expanding market coverage and penetration;
+•
+Improving productivity levels and ensuring high quality in all financial products and processes through the use of RCI initiatives; and
+•
+Maintaining healthy portfolio performance levels.
+Cash Flows
+Net cash provided by operating activities of $1,217.5 million in 2024 compared to $1,154.2 million in 2023. The $63.3 million increase is primarily due to a $34.3 million increase in net earnings and a $18.0 million change in net operating assets and liabilities.
+Net cash used by investing activities of $204.1 million in 2024 included additions to finance receivables of $966.0 million, which were partially offset by collections of $837.8 million. Net cash used by investing activities of $331.8 million in 2023 included additions to finance receivables of $1,029.0 million, partially offset by collections of $833.5 million, as well as $42.6 million of cash used for acquisitions. Capital expenditures in 2024 and 2023 totaled $83.5 million and $95.0 million, respectively. Capital expenditures in both years included continued investments related to the company’s execution of its strategic growth initiatives and Value Creation Processes around safety, quality, customer connection, innovation and RCI.
+Net cash used by financing activities of $649.8 million in 2024 included $406.4 million for dividend payments to shareholders, $290.0 million for the repurchase of 952,000 shares of Snap-on’s common stock, and net repayments of other short-term borrowings of $1.3 million. These amounts were partially offset by $92.3 million of proceeds from stock purchase plans and stock option exercises. Net cash used by financing activities of $572.9 million in 2023 included $355.6 million for dividend payments to shareholders, $294.7 million for the repurchase of 1,126,000 shares of Snap-on’s common stock, and net repayments of other short-term borrowings of $1.7 million. These amounts were partially offset by $113.6 million of proceeds from stock purchase plans and stock option exercises.
+2024 ANNUAL REPORT
+31
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+Results of Operations
+2024 vs. 2023
+Results of operations for 2024 and 2023 are as follows:
+(Amounts in millions)
+2024
+2023
+Change
+Net sales
+$
+4,707.4 
+100.0 
+%
+$
+4,730.2 
+100.0 
+%
+$
+(22.8)
+(0.5)
+%
+Cost of goods sold
+(2,329.5)
+(49.5)
+%
+(2,381.1)
+(50.3)
+%
+51.6 
+2.2 
+%
+Gross profit
+2,377.9 
+50.5 
+%
+2,349.1 
+49.7 
+%
+28.8 
+1.2 
+%
+Operating expenses
+(1,309.1)
+(27.8)
+%
+(1,309.2)
+(27.7)
+%
+0.1 
+— 
+Operating earnings before financial services
+1,068.8 
+22.7 
+%
+1,039.9 
+22.0 
+%
+28.9 
+2.8 
+%
+Financial services revenue
+401.0 
+100.0 
+%
+378.1 
+100.0 
+%
+22.9 
+6.1 
+%
+Financial services expenses
+(124.1)
+(30.9)
+%
+(107.6)
+(28.5)
+%
+(16.5)
+(15.3)
+%
+Operating earnings from financial services
+276.9 
+69.1 
+%
+270.5 
+71.5 
+%
+6.4 
+2.4 
+%
+Operating earnings
+1,345.7 
+26.3 
+%
+1,310.4 
+25.7 
+%
+35.3 
+2.7 
+%
+Interest expense
+(49.6)
+(0.9)
+%
+(49.9)
+(1.0)
+%
+0.3 
+0.6 
+%
+Other income (expense) – net
+77.0 
+1.5 
+%
+67.5 
+1.3 
+%
+9.5 
+14.1 
+%
+Earnings before income taxes
+1,373.1 
+26.9 
+%
+1,328.0 
+26.0 
+%
+45.1 
+3.4 
+%
+Income tax expense
+(304.2)
+(6.0)
+%
+(293.4)
+(5.7)
+%
+(10.8)
+(3.7)
+%
+Net earnings
+1,068.9 
+20.9 
+%
+1,034.6 
+20.3 
+%
+34.3 
+3.3 
+%
+Net earnings attributable to noncontrolling interests
+(25.0)
+(0.5)
+%
+(23.5)
+(0.5)
+%
+(1.5)
+(6.4)
+%
+Net earnings attributable to Snap-on Inc.
+$
+1,043.9 
+20.4 
+%
+$
+1,011.1 
+19.8 
+%
+$
+32.8 
+3.2 
+%
+Percentage Disclosure: All income statement line item percentages below “Operating earnings from financial services” are calculated as a percentage of the sum of Net sales and Financial services revenue.
+Net sales of $4,707.4 million in 2024 represented a decrease of $22.8 million, or 0.5%, from 
+2023
+ levels, reflecting a $40.6 million, or 0.9%, organic decline and $5.5 million of unfavorable foreign currency translation, partially offset by $23.3 million of acquisition-related sales.
+Gross profit of $2,377.9 million in 2024 compared to $2,349.1 million last year, an increase of $28.8 million or 1.2%. Gross margin (gross profit as a percentage of net sales) improved 80 basis points (100 basis points (“bps”) equals 1.0 percent) from 
+2023
+ primarily due to benefits from the company’s RCI initiatives, increased sales in higher-gross-margin businesses, and lower material and other costs. 
+Operating expenses of $1,309.1 million in 2024, including a $22.5 million benefit from the legal payments, compared to $1,309.2 million last year
+. 
+Operating expenses as a percentage of net sales rose 10 bps from last year primarily reflecting the effects of lower sales volumes, partially offset by benefits from the legal payments.
+Operating earnings before financial services of $1,068.8 million in 2024, including a $22.5 million benefit from the legal payments, compared to $1,039.9 million in 
+2023. 
+As a percentage of net sales, operating earnings before financial services were 22.7% compared to 22.0% last year. 
+Financial services revenue of $401.0 million in 2024 compared to $378.1 million last year. Financial services operating earnings of $276.9 million in 2024 compared to $270.5 million in 
+2023
+. 
+Operating earnings of $1,345.7 million in 2024, including a $22.5 million benefit from the legal payments, compared to $1,310.4 million in 
+2023. 
+As a percentage of revenues, operating earnings were 26.3% compared to 25.7% last year.
+Interest expense in 2024 decreased $0.3 million compared to last year. See Note 9 to the Consolidated Financial Statements for additional information on debt and credit facilities.
+32
+SNAP-ON INCORPORATED
+Other income (expense) – net primarily includes interest income, non-service components of net periodic benefit costs, and net gains and losses associated with hedging and currency exchange rate transactions. See Note 17 to the Consolidated Financial Statements for additional information on Other income (expense) – net.
+The effective income tax rate on earnings attributable to Snap-on was 22.6% in 2024 and 22.5% in 2023. See Note 8 to the Consolidated Financial Statements for additional information on income taxes.
+Net earnings attributable to Snap-on of $1,043.9 million, or $19.51 per diluted share, in 2024, including a $17.5 million, or $0.32 per diluted share, after-tax benefit from the legal payments, compared to $1,011.1 million, or $18.76 per diluted share, in 2023, an 
+increase of $32.8 million or $0.75 per diluted share.
+Segment Results
+Snap-on’s operating segments are based on the organization structure used by management for making operating and investment decisions and for assessing performance. Snap-on’s reportable operating segments are: (i) the Commercial & Industrial Group; (ii) the Snap-on Tools Group; (iii) the Repair Systems & Information Group; and (iv) Financial Services. The Commercial & Industrial Group consists of business operations serving a broad range of industrial and commercial customers worldwide, including customers in the aerospace, natural resources, government and military, power generation, transportation and technical education market segments, primarily through direct and distributor channels. The Snap-on Tools Group consists of business operations primarily serving vehicle service and repair technicians through the company’s multinational mobile tool distribution channel. The Repair Systems & Information Group consists of business operations serving other professional vehicle repair customers worldwide, primarily owners and managers of independent repair shops and OEM dealerships, through direct and distributor channels. Financial Services consists of the business operations of Snap-on’s finance subsidiaries.
+Snap-on evaluates the performance of the Commercial & Industrial Group, the Snap-on Tools Group and the Repair Systems & Information Group operating segments based on segment net sales and segment operating earnings. The Snap-on Tools Group segment net sales reflect external net sales, while the Commercial & Industrial Group and the Repair Systems & Information Group segment net sales include both external and intersegment net sales. Snap-on accounts for intersegment net sales and transfers based primarily on standard costs with reasonable mark-ups established between the segments. The Financial Services operating segment is evaluated based on financial services revenue and segment operating earnings. Corporate expenses primarily reflect stock-based compensation and other costs not attributable to an operating segment. Intersegment amounts are eliminated to arrive at Snap-on’s consolidated financial results.
+Commercial & Industrial Group
+(Amounts in millions)
+2024
+2023
+Change
+External net sales
+$
+1,187.6 
+80.4 
+%
+$
+1,145.6 
+78.6 
+%
+$
+42.0 
+3.7 
+%
+Intersegment net sales
+289.2 
+19.6 
+%
+312.7 
+21.4 
+%
+(23.5)
+(7.5)
+%
+Segment net sales
+1,476.8 
+100.0 
+%
+1,458.3 
+100.0 
+%
+18.5 
+1.3 
+%
+Segment cost of goods sold
+(868.6)
+(58.8)
+%
+(887.5)
+(60.9)
+%
+18.9 
+2.1 
+%
+Segment gross profit
+608.2 
+41.2 
+%
+570.8 
+39.1 
+%
+37.4 
+6.6 
+%
+Segment operating expenses
+(366.1)
+(24.8)
+%
+(344.7)
+(23.6)
+%
+(21.4)
+(6.2)
+%
+Segment operating earnings
+$
+242.1 
+16.4 
+%
+$
+226.1 
+15.5 
+%
+$
+16.0 
+7.1 
+%
+Segment net sales of $1,476.8 million in 2024 represented an increase of $18.5 million, or 1.3%, from 2023 levels, reflecting a $1.5 million, or 0.1%, organic gain and $23.3 million of acquisition-related sales, partially offset by $6.3 million of unfavorable foreign currency translation. 
+The organic increase is primarily due to a mid single-digit gain in sales to customers in critical industries, partially offset by a double-digit reduction in the power tools operation and a low single-digit decline in the European-based hand tools business.
+Segment gross margin in 2024 improved 210 bps from last year, primarily reflecting increased sales volumes in higher-gross-margin critical industry sectors, savings from the segment’s RCI initiatives, lower material and other costs, and 40 bps of benefits from acquisitions. 
+Segment operating expenses as a percentage of net sales in 2024 rose 120 bps as compared to 
+2023 primarily due to increased personnel and other costs, and a 50 bps impact from acquisitions.
+2024 ANNUAL REPORT
+33
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+As a result of these factors, segment operating earnings of $242.1 million in 2024 compared to $226.1 million in 2023, an increase of $16.0 million or 7.1%. Segment operating margin (segment operating earnings as a percentage of segment net sales) for the Commercial & Industrial Group of 16.4% in 2024 compared to 15.5% last year.
+Snap-on Tools Group
+(Amounts in millions)
+2024
+2023
+Change
+Segment net sales
+$
+1,989.2 
+100.0 
+%
+$
+2,088.8 
+100.0 
+%
+$
+(99.6)
+(4.8)
+%
+Segment cost of goods sold
+(1,050.3)
+(52.8)
+%
+(1,107.7)
+(53.0)
+%
+57.4 
+5.2 
+%
+Segment gross profit
+938.9 
+47.2 
+%
+981.1 
+47.0 
+%
+(42.2)
+(4.3)
+%
+Segment operating expenses
+(491.6)
+(24.7)
+%
+(487.3)
+(23.4)
+%
+(4.3)
+(0.9)
+%
+Segment operating earnings
+$
+447.3 
+22.5 
+%
+$
+493.8 
+23.6 
+%
+$
+(46.5)
+(9.4)
+%
+Segment net sales of $1,989.2 million in 2024 represented a decrease of $99.6 million, or 4.8%, from 
+2023
+ levels, reflecting a $100.9 million, or 4.8%, organic sales decline, partially offset by $1.3 million of favorable foreign currency translation. The organic decrease is due to a mid single-digit decline in the U.S., partially offset by a low single-digit gain in the segment’s international operations.
+Segment gross margin in 2024 improved 20 bps from last year primarily reflecting decreased sales of lower-gross-margin products.
+Segment operating expenses as a percentage of net sales in 2024 rose 130 bps from last year primarily due to the lower sales volumes.
+As a result of these factors, segment operating earnings of $447.3 million in 2024 compared to $493.8 million in 2023, a decrease of $46.5 million or 9.4%. Operating margin for the 
+Snap‑on
+ Tools Group of 22.5% in 2024 compared to 23.6% last year.
+Repair Systems & Information Group 
+(Amounts in millions)
+2024
+2023
+Change
+External net sales
+$
+1,530.6 
+85.1 
+%
+$
+1,495.8 
+84.0 
+%
+$
+34.8 
+2.3 
+%
+Intersegment net sales
+267.3 
+14.9 
+%
+285.4 
+16.0 
+%
+(18.1)
+(6.3)
+%
+Segment net sales
+1,797.9 
+100.0 
+%
+1,781.2 
+100.0 
+%
+16.7 
+0.9 
+%
+Segment cost of goods sold
+(967.1)
+(53.8)
+%
+(984.0)
+(55.2)
+%
+16.9 
+1.7 
+%
+Segment gross profit
+830.8 
+46.2 
+%
+797.2 
+44.8 
+%
+33.6 
+4.2 
+%
+Segment operating expenses
+(375.6)
+(20.9)
+%
+(364.0)
+(20.5)
+%
+(11.6)
+(3.2)
+%
+Segment operating earnings
+$
+455.2 
+25.3 
+%
+$
+433.2 
+24.3 
+%
+$
+22.0 
+5.1 
+%
+Segment net sales of $1,797.9 million in 2024 represented an increase of $16.7 million, or 0.9%, from 2023 levels, reflecting an $18.1 million, or 1.0%, organic sales gain, partially offset by $1.4 million of unfavorable foreign currency translation. The organic improvement primarily reflects a mid single-digit increase in activity with OEM dealerships, partially offset by a low single-digit decline in sales of undercar equipment.
+Segment gross margin in 2024 improved 140 bps from last year primarily due to increased sales of higher-gross-margin products and savings from the segment’s RCI initiatives.
+Segment operating expenses as a percentage of net sales in 2024 rose 40 bps from 
+2023 
+primarily reflecting increased personnel and other costs.
+As a result of these factors, segment operating earnings of $455.2 million in 2024 compared to $433.2 million in 2023, an increase of $22.0 million or 5.1%. Operating margin for the Repair Systems & Information Group of 25.3% in 2024 compared to 24.3% last year.
+34
+SNAP-ON INCORPORATED
+Financial Services
+(Amounts in millions)
+2024
+2023
+Change
+Financial services revenue
+$
+401.0 
+100.0 
+%
+$
+378.1 
+100.0 
+%
+$
+22.9 
+6.1 
+%
+Financial services expenses
+(124.1)
+(30.9)
+%
+(107.6)
+(28.5)
+%
+(16.5)
+(15.3)
+%
+Segment operating earnings
+$
+276.9 
+69.1 
+%
+$
+270.5 
+71.5 
+%
+$
+6.4 
+2.4 
+%
+Financial services revenue is generally dependent on the size of the average financial services portfolio during the period, as well as on the average yield on receivables. Financial services revenue of $401.0 million in 2024 represented an increase of $22.9 million, or 6.1%, from 
+2023
+. 
+In both 2024 and 2023, the average yield on finance receivables was 17.7%. In 2024 and 
+2023
+, the average yields on contract receivables were 9.0% and 
+8.8%
+, respectively. Originations of $1,182.9 million in 2024 represented a decrease of $52.6 million, or 4.3%, from 2023 levels.
+Financial services expenses primarily include personnel-related and other general and administrative costs, as well as provisions for credit losses. These expenses are generally more dependent on changes in the size of the financial services portfolio than they are on the revenue of the segment. Financial services expenses in 2024 increased primarily due to higher provisions for credit losses as compared to those recorded in 2023. As a percentage of the average financial services portfolio, financial services expenses were 5.0% in 2024 and 4.5% in 2023.
+As a result of these factors, segment operating earnings of 
+$276.9 million
+ in 2024 compared to 
+$270.5 million
+ in 
+2023
+, an increase of $6.4 million, or 2.4%.
+See Note 1 and Note 4 to the Consolidated Financial Statements for additional information on financial services. 
+Corporate
+S
+nap-on’s general corporate expenses in 2024 of $75.8 million compared to $113.2 million recorded in 
+2023
+. The year-over-year decrease primarily reflects benefits from the legal payments received in the first six months of 2024 and lower stock-based compensation costs.
+Quarterly Data
+2024 ANNUAL REPORT
+35
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+(Amounts in millions, except per share data)
+First
+Quarter
+Second
+Quarter
+Third
+Quarter
+Fourth
+Quarter
+Total
+2024
+Net sales
+$
+1,182.3 
+$
+1,179.4 
+$
+1,147.0 
+$
+1,198.7 
+$
+4,707.4 
+Gross profit
+596.7 
+597.3 
+587.8 
+596.1 
+2,377.9 
+Financial services revenue
+99.6 
+100.5 
+100.4 
+100.5 
+401.0 
+Financial services expenses
+(31.3)
+(30.3)
+(28.7)
+(33.8)
+(124.1)
+Net earnings
+269.6 
+277.6 
+257.5 
+264.2 
+1,068.9 
+Net earnings attributable to Snap-on Incorporated
+263.5 
+271.2 
+251.1 
+258.1 
+1,043.9 
+Earnings per share – basic*
+4.99 
+5.15 
+4.77 
+4.92 
+19.85 
+Earnings per share – diluted*
+4.91 
+5.07 
+4.70 
+4.82 
+19.51 
+Cash dividends paid per share
+1.86 
+1.86 
+1.86 
+2.14 
+7.72 
+First
+Quarter
+Second
+Quarter
+Third
+Quarter
+Fourth
+Quarter
+Total
+2023
+Net sales
+$
+1,183.0 
+$
+1,191.3 
+$
+1,159.3 
+$
+1,196.6 
+$
+4,730.2 
+Gross profit
+589.6 
+603.7 
+578.2 
+577.6 
+2,349.1 
+Financial services revenue
+92.6 
+93.4 
+94.9 
+97.2 
+378.1 
+Financial services expenses
+(26.3)
+(26.5)
+(25.5)
+(29.3)
+(107.6)
+Net earnings
+254.3 
+269.9 
+249.1 
+261.3 
+1,034.6 
+Net earnings attributable to Snap-on Incorporated
+248.7 
+264.0 
+243.1 
+255.3 
+1,011.1 
+Earnings per share – basic*
+4.69 
+4.98 
+4.60 
+4.84 
+19.11 
+Earnings per share – diluted*
+4.60 
+4.89 
+4.51 
+4.75 
+18.76 
+Cash dividends paid per share
+1.62 
+1.62 
+1.62 
+1.86 
+6.72 
+*
+Amounts may not total to annual earnings per share because each quarter and year are calculated separately based on basic and diluted weighted-average common shares outstanding during each respective period.
+36
+SNAP-ON INCORPORATED
+Fourth Quarter
+Results of operations for the fourth quarters of 2024 and 2023 are as follows:
+Fourth Quarter
+(Amounts in millions)
+2024
+2023
+Change
+Net sales
+$
+1,198.7 
+100.0 
+%
+$
+1,196.6 
+100.0 
+%
+$
+2.1 
+0.2 
+%
+Cost of goods sold
+(602.6)
+(50.3)
+%
+(619.0)
+(51.7)
+%
+16.4 
+2.6 
+%
+Gross profit
+596.1 
+49.7 
+%
+577.6 
+48.3 
+%
+18.5 
+3.2 
+%
+Operating expenses
+(330.9)
+(27.6)
+%
+(319.7)
+(26.7)
+%
+(11.2)
+(3.5)
+%
+Operating earnings before financial services
+265.2 
+22.1 
+%
+257.9 
+21.6 
+%
+7.3 
+2.8 
+%
+Financial services revenue
+100.5 
+100.0 
+%
+97.2 
+100.0 
+%
+3.3 
+3.4 
+%
+Financial services expenses
+(33.8)
+(33.6)
+%
+(29.3)
+(30.1)
+%
+(4.5)
+(15.4)
+%
+Operating earnings from financial services
+66.7 
+66.4 
+%
+67.9 
+69.9 
+%
+(1.2)
+(1.8)
+%
+Operating earnings
+331.9 
+25.5 
+%
+325.8 
+25.2 
+%
+6.1 
+1.9 
+%
+Interest expense
+(12.3)
+(0.9)
+%
+(12.5)
+(1.0)
+%
+0.2 
+1.6 
+%
+Other income (expense) – net
+19.6 
+1.5 
+%
+17.5 
+1.4 
+%
+2.1 
+12.0 
+%
+Earnings before income taxes
+339.2 
+26.1 
+%
+330.8 
+25.6 
+%
+8.4 
+2.5 
+%
+Income tax expense
+(75.0)
+(5.8)
+%
+(69.5)
+(5.4)
+%
+(5.5)
+(7.9)
+%
+Net earnings
+264.2 
+20.3 
+%
+261.3 
+20.2 
+%
+2.9 
+1.1 
+%
+Net earnings attributable to noncontrolling interests
+(6.1)
+(0.4)
+%
+(6.0)
+(0.5)
+%
+(0.1)
+(1.7)
+%
+Net earnings attributable to Snap-on Inc.
+$
+258.1 
+19.9 
+%
+$
+255.3 
+19.7 
+%
+$
+2.8 
+1.1 
+%
+Percentage Disclosure: All income statement line item percentages below “Operating earnings from financial services” are calculated as a percentage of the sum of Net sales and Financial services revenue.
+Net sales of $1,198.7 million in the fourth quarter of 2024 represented an increase of $2.1 million, or 0.2%, from 
+2023
+ levels, reflecting a $2.0 million, or 0.2%, organic gain and $2.1 million of acquisition-related sales, partially offset by $2.0 million of unfavorable foreign currency translation.
+Gross profit of $596.1 million in the fourth quarter of 2024 compared to $577.6 million last year, an increase of 
+$18.5 million
+ or 
+3.2%
+. Gross margin in the quarter improved 140 bps from the fourth quarter of 
+2023
+ primarily due to increased sales in higher-gross-margin businesses and benefits from the company’s RCI initiatives.
+Operating expenses of $330.9 million in the fourth quarter of 2024 compared to $319.7 million in 2023. Operating expenses as a percentage of net sales rose 90 bps from last year primarily reflecting increased corporate and other operating costs.
+Operating earnings before financial services of $265.2 million in the fourth quarter of 2024 compared to $257.9 million in 
+2023, an increase of $7.3 million or 2.8%.
+ As a percentage of net sales, operating earnings before financial services were 22.1% compared to 21.6% last year.
+Financial services revenue of $100.5 million in the fourth quarter of 2024 compared to $97.2 million last year. Financial services operating earnings of $66.7 million in the period compared to $67.9 million in 
+2023
+. 
+Operating earnings of $331.9 million in the fourth quarter of 2024 compared to $325.8 million in 2023. As a percentage of revenues, operating earnings were 25.5% in the quarter compared to 
+25.2%
+ last year.
+Interest expense in the fourth quarter of 2024 decreased $0.2 million from last year
+. 
+See Note 9 to the Consolidated Financial Statements for additional information on debt and credit facilities.
+Other income (expense) – net primarily includes interest income
+, non-service components of net periodic benefit costs, and net gains and losses associated with hedging and currency exchange rate transactions. See Note 17 to the Consolidated Financial 
+Statements for additional information on Other income (expense) – net.
+2024 ANNUAL REPORT
+37
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+The effective income tax rate on earnings attributable to Snap-on in the fourth quarter was 22.5% in 2024 and 21.4% in 2023. See Note 8 to the Consolidated Financial Statements for additional information on income taxes.
+Net earnings attributable to Snap-on of $258.1 million, or $4.82 per diluted share, in the fourth quarter of 2024 
+compared to
+ $255.3 million, or $4.75 per diluted share, in the fourth quarter of 
+2023.
+Segment Results
+Commercial & Industrial Group
+Fourth Quarter
+(Amounts in millions)
+2024
+2023
+Change
+External net sales
+$
+302.9 
+79.9 
+%
+$
+296.7 
+81.5 
+%
+$
+6.2 
+2.1 
+%
+Intersegment net sales
+76.3 
+20.1 
+%
+67.2 
+18.5 
+%
+9.1 
+13.5 
+%
+Segment net sales
+379.2 
+100.0 
+%
+363.9 
+100.0 
+%
+15.3 
+4.2 
+%
+Segment cost of goods sold
+(223.8)
+(59.0)
+%
+(221.3)
+(60.8)
+%
+(2.5)
+(1.1)
+%
+Segment gross profit
+155.4 
+41.0 
+%
+142.6 
+39.2 
+%
+12.8 
+9.0 
+%
+Segment operating expenses
+(91.9)
+(24.3)
+%
+(88.5)
+(24.3)
+%
+(3.4)
+(3.8)
+%
+Segment operating earnings
+$
+63.5 
+16.7 
+%
+$
+54.1 
+14.9 
+%
+$
+9.4 
+17.4 
+%
+Segment net sales of $379.2 million in the fourth quarter of 2024 represented an increase of $15.3 million, or 
+4.2%, fro
+m 
+2023
+ levels, reflecting a $14.2 million, or 3.9%, organic gain and 
+$2.1 million
+ of acquisition-related sales, partially offset by $1.0 million of unfavorable foreign currency translation. 
+The organic increase is primarily due to a gain in sales to customers in critical industries, including a high single-digit increase in specialty torque. 
+Segment gross margin in the fourth quarter improved 180 bps from 2023, primarily reflecting increased sales volumes in the higher-gross-margin critical industry sectors and savings from the segment’s RCI initiatives.
+Segment operating expenses as a percentage of net sales in the fourth quarter of 2024 was unchanged from last year.
+As a result of these factors, segment operating earnings of $63.5 million in the fourth quarter of 2024 compared to $54.1 million in 
+2023
+, an increase of $9.4 million or 
+17.4%
+. Operating margin for the Commercial & Industrial Group of 16.7% in the quarter compared to 
+14.9%
+ last year.
+Snap-on Tools Group
+Fourth Quarter
+(Amounts in millions)
+2024
+2023
+Change
+Segment net sales
+$
+506.6 
+100.0 
+%
+$
+513.3 
+100.0 
+%
+$
+(6.7)
+(1.3)
+%
+Segment cost of goods sold
+(280.5)
+(55.4)
+%
+(281.2)
+(54.8)
+%
+0.7 
+0.2 
+%
+Segment gross profit
+226.1 
+44.6 
+%
+232.1 
+45.2 
+%
+(6.0)
+(2.6)
+%
+Segment operating expenses
+(119.2)
+(23.5)
+%
+(121.1)
+(23.6)
+%
+1.9 
+1.6 
+%
+Segment operating earnings
+$
+106.9 
+21.1 
+%
+$
+111.0 
+21.6 
+%
+$
+(4.1)
+(3.7)
+%
+Segment net sales of $506.6 million in the fourth quarter of 2024 represented a decrease of $6.7 million, or 1.3%, from 
+2023
+ levels, reflecting a $7.3 million, or 1.4%, organic sales decline, partially offset by $0.6 million of favorable foreign currency translation. The organic decrease is due to a low single-digit decline in the U.S., partially offset by a mid single-digit gain in the segment’s international operations.
+Segment gross margin in the fourth quarter declined 60 bps from last year primarily due to the decreased volumes and the effects of increased sales of lower-gross-margin products.
+Segment operating expenses as a percentage of net sales in the fourth quarter improved 10 bps from 
+2023.
+As a result of these factors, segment operating earnings of $106.9 million in the fourth quarter of 2024 compared to 
+$111.0 million
+ in 
+2023
+, a decrease of $4.1 million, or 3.7%. Operating margin for the 
+Snap‑on
+ Tools Group of 21.1% in the quarter compared to 21.6% last year.
+38
+SNAP-ON INCORPORATED
+Repair Systems & Information Group
+Fourth Quarter
+(Amounts in millions)
+2024
+2023
+Change
+External net sales
+$
+389.2 
+85.2 
+%
+$
+386.6 
+85.8 
+%
+$
+2.6 
+0.7 
+%
+Intersegment net sales
+67.4 
+14.8 
+%
+64.2 
+14.2 
+%
+3.2 
+5.0 
+%
+Segment net sales
+456.6 
+100.0 
+%
+450.8 
+100.0 
+%
+5.8 
+1.3 
+%
+Segment cost of goods sold
+(242.0)
+(53.0)
+%
+(247.9)
+(55.0)
+%
+5.9 
+2.4 
+%
+Segment gross profit
+214.6 
+47.0 
+%
+202.9 
+45.0 
+%
+11.7 
+5.8 
+%
+Segment operating expenses
+(93.2)
+(20.4)
+%
+(89.6)
+(19.9)
+%
+(3.6)
+(4.0)
+%
+Segment operating earnings
+$
+121.4 
+26.6 
+%
+$
+113.3 
+25.1 
+%
+$
+8.1 
+7.1 
+%
+Segment net sales of $456.6 million in the fourth quarter of 2024 represented an increase of $5.8 million, or 1.3%, from 2023 levels, reflecting a $7.3 million, or 1.6%, organic sales increase, partially offset by $1.5 million of unfavorable foreign currency translation. The organic gain includes a mid single-digit increase in activity with OEM dealerships and a low single-digit gain in sales of diagnostic and repair information products to independent repair shop owners and managers, partially offset by a low single-digit decline in sales of undercar equipment.
+Segment gross margin in the fourth quarter improved 200 bps from last year primarily reflecting increased sales of higher-gross-margin products and benefits from the segment’s RCI initiatives.
+Segment operating expenses as a percentage of net sales in the fourth quarter rose 50 bps from 
+2023 
+primarily due to increased personnel and other costs. 
+As a result of these factors, segment operating earnings of $121.4 million in the fourth quarter of 2024 compared to $113.3 million in 2023, an increase of $8.1 million or 7.1%. Operating margin for the Repair Systems & Information Group of 26.6% in the quarter compared to 25.1% last year.
+Financial Services
+Fourth Quarter
+(Amounts in millions)
+2024
+2023
+Change
+Financial services revenue
+$
+100.5 
+100.0 
+%
+$
+97.2 
+100.0 
+%
+$
+3.3 
+3.4 
+%
+Financial services expenses
+(33.8)
+(33.6)
+%
+(29.3)
+(30.1)
+%
+(4.5)
+(15.4)
+%
+Segment operating earnings
+$
+66.7 
+66.4 
+%
+$
+67.9 
+69.9 
+%
+$
+(1.2)
+(1.8)
+%
+Financial services revenue of $100.5 million in the fourth quarter of 2024 represented an increase of $3.3 million, or 3.4%, from last year. In the fourth quarters of 2024 and 2023, the respective average yields on finance receivables were 17.7% and 
+17.8%
+. In the fourth quarters of 2024 and 
+2023
+, the average yields on contract receivables were 9.1% and 
+8.9%
+, respectively. 
+Originations of $285.1 million in the fourth quarter of 2024 represented a decrease of $18.0 million, or 5.9%, from 2023 levels.
+Financial services expenses in the fourth quarter of 2024 increased primarily due to higher provisions for credit losses as compared to those recorded last year. As a percentage of the average financial services portfolio, financial services expenses were 1.3% in the fourth quarter of 2024 and 1.2% in 2023.
+As a result of these factors, segment operating earnings of 
+$66.7 million
+ in the fourth quarter of 2024 compared to 
+$67.9 million
+ in 2023, a decrease of $1.2 million, or 1.8%.
+See Note 1 and Note 4 to the Consolidated Financial Statements for additional information on financial services.
+Corporate
+Snap-on’s fourth quarter 2024 general corporate expenses of $26.6 million compared to $20.5 million last year. The year-over-year increase primarily reflects a benefit from the recovery of costs associated with a legal matter that occurred in the fourth quarter of 2023. 
+2024 ANNUAL REPORT
+39
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+Non-GAAP Supplemental Data
+The following non-GAAP supplemental data is presented for informational purposes to provide readers with insight into the information used by management for assessing the operating performance of Snap-on’s non-financial services (“Operations”) and Financial Services businesses.
+The supplemental Operations data reflects the results of operations and financial position of Snap-on’s tools, diagnostics, equipment products, software, and other non-financial services operations with Financial Services presented on the equity method. The supplemental Financial Services data reflects the results of operations and financial position of Snap-on’s U.S. and international financial services operations. The financing needs of Financial Services are met through intersegment borrowings and cash generated from Operations; Financial Services is charged interest expense on intersegment borrowings at market rates. Income taxes are charged to Financial Services on the basis of the specific tax attributes generated by the U.S. and international financial services businesses. Transactions between the Operations and Financial Services businesses are eliminated to arrive at the Consolidated Financial Statements.
+Non-GAAP Supplemental Consolidating Data – Supplemental Statements of Earnings information for 2024 and 2023 is as follows:
+Operations*
+Financial Services
+(Amounts in millions)
+2024
+2023
+2024
+2023
+Net sales
+$
+4,707.4 
+$
+4,730.2 
+$
+— 
+$
+— 
+Cost of goods sold
+(2,329.5)
+(2,381.1)
+— 
+— 
+Gross profit
+2,377.9 
+2,349.1 
+— 
+— 
+Operating expenses
+(1,309.1)
+(1,309.2)
+— 
+— 
+Operating earnings before financial services
+1,068.8 
+1,039.9 
+— 
+— 
+Financial services revenue
+— 
+— 
+401.0 
+378.1 
+Financial services expenses
+— 
+— 
+(124.1)
+(107.6)
+Operating earnings from financial services
+— 
+— 
+276.9 
+270.5 
+Operating earnings
+1,068.8 
+1,039.9 
+276.9 
+270.5 
+Interest expense
+(49.6)
+(49.9)
+— 
+— 
+Intersegment interest income (expense) – net
+67.1 
+63.9 
+(67.1)
+(63.9)
+Other income (expense) – net
+76.8 
+67.3 
+0.2 
+0.2 
+Earnings before income taxes and equity earnings
+1,163.1 
+1,121.2 
+210.0 
+206.8 
+Income tax expense
+(251.7)
+(241.6)
+(52.5)
+(51.8)
+Earnings before equity earnings
+911.4 
+879.6 
+157.5 
+155.0 
+Financial services – net earnings attributable to Snap-on
+157.5 
+155.0 
+— 
+— 
+Net earnings
+1,068.9 
+1,034.6 
+157.5 
+155.0 
+Net earnings attributable to noncontrolling interests
+(25.0)
+(23.5)
+— 
+— 
+Net earnings attributable to Snap-on
+$
+1,043.9 
+$
+1,011.1 
+$
+157.5 
+$
+155.0 
+* Snap-on with Financial Services presented on the equity method. 
+40
+SNAP-ON INCORPORATED
+Non-GAAP Supplemental Consolidating Data – Supplemental Balance Sheets Information as of 2024 and 2023 year end is as follows:
+Operations*
+Financial Services
+(Amounts in millions)
+2024
+2023
+2024
+2023
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+1,360.4 
+$
+1,001.3 
+$
+0.1 
+$
+0.2 
+Intersegment receivables
+15.1 
+15.7 
+— 
+— 
+Trade and other accounts receivable – net
+815.0 
+790.6 
+0.6 
+0.7 
+Finance receivables – net
+— 
+— 
+610.3 
+594.1 
+Contract receivables – net
+4.8 
+5.5 
+115.2 
+115.3 
+Inventories – net
+943.4 
+1,005.9 
+— 
+— 
+Prepaid expenses and other current assets
+143.8 
+143.2 
+9.4 
+7.4 
+Total current assets
+3,282.5 
+2,962.2 
+735.6 
+717.7 
+Property and equipment – net
+540.2 
+536.5 
+2.4 
+2.8 
+Operating lease right-of-use assets
+83.8 
+73.8 
+5.6 
+0.9 
+Investment in Financial Services
+403.5 
+393.9 
+— 
+— 
+Deferred income tax assets
+51.8 
+51.3 
+26.2 
+24.7 
+Intersegment long-term notes receivable
+831.8 
+785.6 
+— 
+— 
+Long-term finance receivables – net
+— 
+— 
+1,312.0 
+1,284.2 
+Long-term contract receivables – net
+8.4 
+8.3 
+409.9 
+399.6 
+Goodwill
+1,056.8 
+1,097.4 
+— 
+— 
+Other intangible assets – net
+267.6 
+268.9 
+— 
+— 
+Pension assets
+125.4 
+130.5 
+— 
+— 
+Other long-term assets
+35.6 
+30.2 
+0.2 
+0.1 
+Total assets
+$
+6,687.4 
+$
+6,338.6 
+$
+2,491.9 
+$
+2,430.0 
+* Snap-on with Financial Services presented on the equity method. 
+2024 ANNUAL REPORT
+41
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+Non-GAAP Supplemental Consolidating Data – Supplemental Balance Sheets Information (continued):
+Operations*
+Financial Services
+(Amounts in millions)
+2024
+2023
+2024
+2023
+LIABILITIES AND EQUITY
+Current liabilities:
+Notes payable
+$
+13.7 
+$
+15.6 
+$
+— 
+$
+— 
+Accounts payable
+265.4 
+236.2 
+0.5 
+1.8 
+Intersegment payables
+— 
+— 
+15.1 
+15.7 
+Accrued benefits
+67.2 
+64.4 
+— 
+— 
+Accrued compensation
+83.5 
+99.9 
+2.6 
+3.0 
+Franchisee deposits
+70.9 
+73.3 
+— 
+— 
+Other accrued liabilities
+443.6 
+432.2 
+27.7 
+27.4 
+Total current liabilities
+944.3 
+921.6 
+45.9 
+47.9 
+Long-term debt and intersegment long-term debt
+— 
+— 
+2,017.3 
+1,970.2 
+Deferred income tax liabilities
+73.5 
+79.2 
+— 
+— 
+Retiree health care benefits
+19.4 
+21.8 
+— 
+— 
+Pension liabilities
+78.4 
+82.3 
+— 
+— 
+Operating lease liabilities
+63.0 
+54.0 
+5.6 
+0.6 
+Other long-term liabilities
+91.8 
+86.3 
+19.6 
+17.4 
+Total liabilities
+1,270.4 
+1,245.2 
+2,088.4 
+2,036.1 
+Total shareholders’ equity attributable to Snap-on
+5,394.1 
+5,071.3 
+403.5 
+393.9 
+Noncontrolling interests
+22.9 
+22.1 
+— 
+— 
+Total equity
+5,417.0 
+5,093.4 
+403.5 
+393.9 
+Total liabilities and equity
+$
+6,687.4 
+$
+6,338.6 
+$
+2,491.9 
+$
+2,430.0 
+* Snap-on with Financial Services presented on the equity method. 
+42
+SNAP-ON INCORPORATED
+Liquidity and Capital Resources
+Snap-on’s growth has historically been funded by a combination of cash provided by operating activities and debt financing. Snap-on believes that its cash from operations and collections of finance receivables, coupled with its sources of borrowings and available cash on hand, are sufficient to fund its currently anticipated requirements for scheduled debt repayments, payments of interest and dividends, new receivables originated by our financial services businesses, capital expenditures, working capital, funding of pension plans, and share repurchases and acquisitions, if and as they arise. 
+Due to Snap-on’s credit rating over the years, external funds have been available at an acceptable cost. As of February 7, 2025, Snap-on’s long-term debt and commercial paper were rated, respectively: A2 and P-1 by Moody’s Investors Service; A- and A-2 by Standard & Poor’s; and A and F1 by Fitch Ratings. Snap-on believes that its current credit arrangements are sound and that the strength of its balance sheet affords the company the financial flexibility, including through access to financial markets for potential new financing, to respond to both internal growth opportunities and those available through acquisitions. However, Snap-on cannot provide any assurance that financing will be available in the future on acceptable terms, or that its debt ratings will not decrease.
+The following discussion focuses on information included in the accompanying Consolidated Balance Sheets.
+As of 2024 year end, working capital (current assets less current liabilities) of $3,027.9 million represented an increase of $317.5 million from $2,710.4 million as of 2023 year end primarily as a result of the net changes in working capital discussed below. 
+The following represents the company’s working capital position as of 2024 and 2023 year end:
+(Amounts in millions)
+2024
+2023
+Cash and cash equivalents
+$
+1,360.5 
+$
+1,001.5 
+Trade and other accounts receivable – net
+815.6 
+791.3 
+Finance receivables – net
+610.3 
+594.1 
+Contract receivables – net
+120.0 
+120.8 
+Inventories – net
+943.4 
+1,005.9 
+Prepaid expenses and other current assets
+139.6 
+138.4 
+Total current assets
+3,989.4 
+3,652.0 
+Notes payable
+(13.7)
+(15.6)
+Accounts payable
+(265.9)
+(238.0)
+Other current liabilities
+(681.9)
+(688.0)
+Total current liabilities
+(961.5)
+(941.6)
+Working capital
+$
+3,027.9 
+$
+2,710.4 
+Cash and cash equivalents of $1,360.5 million as of 2024 year end represented an increase of $359.0 million from 2023 year-end levels 
+primarily due to: (i) $1,217.5 million of cash generated from operations; (ii) $837.8 million of cash from collections of finance receivables; and (iii) $92.3 million of cash proceeds from stock purchase plans and stock option exercises. These increases in cash and cash equivalents were partially offset by: (i) the funding of $966.0 million of new finance receivables; (ii) dividend payments to shareholders of $406.4 million; (iii) the repurchase of 952,000 shares of the company’s common stock for $290.0 million; (iv) the funding of $83.5 million for capital expenditures; and (v) net repayments of other short-term borrowings of $1.3 million.
+Of the $1,360.5 million of cash and cash equivalents as of 2024 year end, $494.1 million was held outside of the United States. Snap-on maintains non-U.S. funds in its foreign operations to: (i) provide adequate working capital; (ii) satisfy various regulatory requirements; and/or (iii) take advantage of business expansion opportunities as they arise. Although the Tax Cuts and Jobs Act (“Tax Act”) generally eliminated U.S. federal taxation of dividends from foreign subsidiaries, such dividends may still be subject to state income taxation and foreign withholding taxes. Snap-on periodically evaluates its cash held outside the United States and may pursue opportunities to repatriate certain foreign cash amounts to the extent that it can be accomplished in a tax efficient manner.
+2024 ANNUAL REPORT
+43
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+Trade and other accounts receivable – net of $815.6 million as of 2024 year end represented an increase of $24.3 million from 2023 year-end levels primarily due to an increase in days sales outstanding, partially offset by $21.2 million of foreign currency translation. Days sales outstanding (trade and other accounts receivable – net as of the respective period end, divided by the respective trailing 12 months of sales, times 360 days) was 62 days and 60 days at the respective 2024 and 2023 year ends.
+The current portions of net finance and contract receivables of $730.3 million as of 2024 year end compared to $714.9 million at 2023 year end. The long-term portions of net finance and contract receivables of $1,730.3 million as of 2024 year end compared to $1,692.1 million at 2023 year end. The combined $53.6 million increase in net current and long-term finance and contract receivables compared to 2023 year-end levels is primarily due to net receivable originations, partially offset by $17.0 million of foreign currency translation.
+Inventories – net of $943.4 million as of 2024 year end decreased $62.5 million from 2023 year-end levels primarily due to easing supply chain disruptions and $31.7 million of foreign currency translation. As of 2024 and 2023 year end, inventory turns (trailing 12 months of cost of goods sold, divided by the average of the beginning
+ and ending inventory balances for the trailing 12 months) were 2.4 turns and 2.3 turns, respectively. Inventories accounted for using the first-in, first-out (“FIFO”) method as of 2024 and 2023 year end approximated 57% and 59% of total inventories, respectively. All other inventories are accounted for using the last-in, first-out (“LIFO”) method. The company’s LIFO reserve was $122.4 million and $115.9 million at 2024 and 2023 year end, respectively.
+Notes payable of $13.7 million as of 2024 year end compared to $15.6 million as of 2023 year end. Average notes payable outstanding were $14.9 million and $17.5 million in 2024 and 2023, respectively. The 2024 weighted-average interest rate on such borrowings of 10.4% compared with 11.0% in 2023. At 2024 year end, the weighted-average rate on outstanding notes payable of 9.5% compared with 11.1% in 2023.
+Accounts payable of $265.9 million as of 2024 year end represented an increase of $27.9 million from 2023 year-end levels, primarily due to the timing of payments, partially offset by $3.8 million of foreign currency translation.
+Other accrued liabilities of $457.7 million as of 2024 year end represented an increase of $10.3 million from 2023 year-end levels.
+Long-term debt of $1,185.5 million as of 2024 year end consisted of: (i) $300.0 million of unsecured 3.25% notes that mature on March 1, 2027 (the “2027 Notes”); (ii) $400.0 million of unsecured 4.10% notes that mature on March 1, 2048 (“the 2048 Notes”); and (iii) $500.0 million of 3.10% notes that mature on May 1, 2050 (the “2050 Notes”), partially offset by $14.5 million of unamortized debt issuance costs and issuance discounts.
+Snap-on has a $900 million multicurrency revolving credit facility that terminates on September 12, 2028 (the “Credit Facility”). The Credit Facility contains an accordion feature that, subject to certain customary conditions, may allow the maximum commitment to be increased by up to $450 million with the approval of the lenders providing additional commitments. No amounts were borrowed or outstanding under the Credit Facility during the years ended and as of December 28, 2024 or December 30, 2023.
+Borrowings under the Credit Facility bear interest at varying rates based on either: (i) Snap-on’s then-current, long-term debt ratings; or (ii) Snap-on’s then-current ratio of consolidated debt net of certain cash adjustments (“Consolidated Net Debt”) to earnings before interest, taxes, depreciation, amortization and certain other adjustments for the preceding four fiscal quarters then ended (the “Consolidated Net Debt to EBITDA Ratio”). The Credit Facility’s financial covenant requires that Snap-on maintain, as of each fiscal quarter end, either (i) a ratio not greater than 0.60 to 1.00 of Consolidated Net Debt to the sum of Consolidated Net Debt plus total equity and less accumulated other comprehensive income or loss (the “Leverage Ratio”); or (ii) a Consolidated Net Debt to EBITDA Ratio not greater than 3.50 to 1.00. Snap-on may, up to two times during any five-year period during the term of the Credit Facility (including any extensions thereof), elect to increase the maximum Leverage Ratio to 0.65 to 1.00 and/or increase the maximum Consolidated Net Debt to EBITDA Ratio to 4.00 to 1.00 for four consecutive fiscal quarters in connection with certain material acquisitions (as defined in the related credit agreement). As of December 28, 2024, the company’s consolidated cash balance, net of certain adjustments, exceeded consolidated debt resulting in actual ratios of (0.01) and (0.05), respectively. Both ratios are within the permitted ranges set forth in this financial covenant. 
+Snap-on generally issues commercial paper to fund its financing needs on a short-term basis and uses the Credit Facility as back-up liquidity to support such commercial paper issuances. There was no commercial paper issued or outstanding during the years ended and as of December 28, 2024 or December 30, 2023.
+44
+SNAP-ON INCORPORATED
+Snap-on’s Credit Facility and other debt agreements also contain certain usual and customary borrowing, affirmative, negative and maintenance covenants. As of 2024 year end, Snap-on was in compliance with all covenants of its Credit Facility and other debt agreements.
+Snap-on believes it has sufficient available cash and access to both committed and uncommitted credit facilities to cover its expected funding needs on both a short-term and long-term basis. Snap-on manages its aggregate short-term borrowings so as not to exceed its availability under the Credit Facility. Snap-on believes that it can access short-term debt markets, predominantly through commercial paper issuances and existing lines of credit, to fund its short-term requirements and to ensure near-term liquidity. Snap-on regularly monitors the credit and financial markets and, if it believes conditions are favorable, it may take advantage of such conditions to issue long-term debt to further improve its liquidity and capital resources. Near-term liquidity requirements for Snap-on include payments of interest and dividends, funding to support new receivables originated by our financial services businesses, capital expenditures, working capital, the funding of pension plans, and funding for share repurchases and acquisitions, if and as they arise. Snap-on intends to make contributions of $4.3 million to its foreign pension plans and $6.5 million to its domestic pension plans in 2025, as required by law. Depending on market and other conditions, Snap-on may make discretionary cash contributions to its pension plans in 2025.
+Snap-on’s long-term financing strategy is to maintain continuous access to the debt markets to accommodate its liquidity needs, including the potential use of commercial paper, additional fixed-term debt and/or securitizations.
+The following discussion focuses on information included in the accompanying Consolidated Statements of Cash Flows.
+Operating Activities
+Net cash provided by operating activities of $1,217.5 million in 2024 increased $63.3 million from $1,154.2 million in 2023. The increase is primarily due to a $34.3 million increase in net earnings and a $18.0 million change in net operating assets and liabilities. 
+Depreciation expense was $72.7 million in 2024 and $72.2 million in 2023. Amortization expense was $25.3 million in 2024 and $27.1 million in 2023. See Note 6 and Note 7 to the Consolidated Financial Statements for information on property and equipment and goodwill and other intangible assets.
+Investing Activities
+Net cash used by investing activities of $204.1 million in 2024 included additions to finance receivables of $966.0 million, partially offset by collections of $837.8 million. Net cash used by investing activities of $331.8 million in 2023 included additions to finance receivables of $1,029.0 million, partially offset by collections of $833.5 million. Finance receivables are comprised of extended-term installment payment contracts to both technicians and independent shop owners (i.e., franchisees’ customers) to enable them to purchase tools, diagnostics, and equipment products on an extended-term payment plan, with average payment terms of approximately four years.
+Net cash used by investing activities in 2023 also included $42.6 million for the acquisitions of Mountz and SAVTEQ. See Note 3 to the Consolidated Financial Statements for information about acquisitions.
+Capital expenditures in 2024 and 2023 totaled $83.5 million and $95.0 million, respectively. Capital expenditures in both years included continued investments related to the company’s execution of its strategic Value Creation Processes. The company also invested in: (i) new product, efficiency, safety and cost reduction initiatives that are intended to expand and improve its manufacturing and distribution capabilities worldwide; (ii) new production and machine tooling to enhance manufacturing operations, as well as ongoing replacements of manufacturing and distribution equipment, particularly in the United States; and (iii) the ongoing enhancement of the company’s global enterprise resource planning (ERP) management information systems. Snap-on believes that its cash generated from operations, as well as its available cash on hand and funds available from its credit facilities will be sufficient to fund the company’s capital expenditure requirements in 2025.
+Financing Activities
+Net cash used by financing activities of $649.8 million in 2024 included net repayments of other short-term borrowings of $1.3 million. Net cash used by financing activities of $572.9 million in 2023 included net repayments of other short-term borrowings of $1.7 million.
+2024 ANNUAL REPORT
+45
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+Proceeds from stock purchase plans and stock option exercises totaled $92.3 million in 2024 and $113.6 million in 2023. In 2024, Snap-on repurchased 952,000 shares of its common stock for $290.0 million under its previously announced share repurchase programs. Snap-on repurchased 1,126,000 shares of its common stock for $294.7 million in 2023. As of 2024 year end, Snap-on had remaining availability to repurchase up to an additional $429.4 million in common stock pursuant to its Board’s authorizations. The repurchase of Snap-on common stock to offset dilution related to equity plan issuances or for other corporate purposes is at the company’s discretion, subject to prevailing financial and market conditions. Snap-on believes that its cash generated from operations, available cash on hand, and funds available from its credit facilities, will be sufficient to fund the company’s additional share repurchases, if any.
+Snap-on has paid consecutive quarterly cash dividends, without interruption or reduction, since 1939. Cash dividends paid in 2024 and 2023 totaled $406.4 million and $355.6 million, respectively. On November 8, 2024, the company announced that its Board increased the quarterly cash dividend by
+ 15.1% to 
+$2.14
+ per share ($8.56 per share annualized).
+ Quarterly dividends in 2024 were $2.14 per share in the fourth quarter and $1.86 per share in the first three quarters ($7.72 per share for the year). Quarterly dividends in 2023 were $1.86 per share in the fourth quarter and $1.62 per share in the first three quarters ($6.72 per share for the year).
+2024
+2023
+Cash dividends paid per common share
+$
+7.72 
+$
+6.72 
+Cash dividends paid as a percentage of prior-year retained earnings
+5.8 
+%
+5.6 
+%
+Snap-on believes that its cash generated from operations, available cash on hand, and funds available from its credit facilities, will be sufficient to pay dividends in 2025.
+Contractual Obligations and Commitments
+Snap-on’s contractual obligations for long-term debt and operating and finance leases are reflected in the Consolidated Balance Sheets; see Note 9 and Note 16 to the Consolidated Financial Statements for information on the company’s long-term debt and leases. Snap-on also enters into contracts for future purchases in the normal course of business. As of year-end 2024, the company had $159.0 million in purchase commitments to be paid in 2025 and $5.1 million to be paid thereafter. 
+Snap-on intends to make contributions of $4.3 million to its foreign pension plans and $6.5 million to its domestic pension plans in 2025, as required by law. Depending on market and other conditions, Snap-on may make additional discretionary cash contributions to its pension plans in 2025; see Note 11 and Note 12 to the Consolidated Financial Statements for information on the company’s benefit plans and payments.
+Due to the uncertainty of the timing of settlements with taxing authorities, Snap-on is unable to make reasonably reliable estimates of the period of cash settlement of unrecognized tax benefits totaling $6.6 million for its remaining uncertain tax liabilities. See Note 8 to the Consolidated Financial Statements for information on income taxes.
+Environmental Matters
+Snap-on is subject to various federal, state and local government requirements regulating the discharge of materials into the environment or otherwise relating to the protection of the environment. Snap-on’s policy is to comply with these requirements and the company believes that, as a general matter, its policies, practices and procedures are properly designed to prevent unreasonable risk of environmental damage, and of resulting financial liability, in connection with its business. Some risk of environmental damage is, however, inherent in some of Snap-on’s operations and products, as it is with other companies engaged in similar businesses.
+Snap-on is and has been engaged in the handling, manufacture, use and disposal of many substances classified as hazardous or toxic by one or more regulatory agencies. Snap-on believes that, as a general matter, its handling, manufacture, use and disposal of these substances are in accordance with environmental laws and regulations. It is possible, however, that future knowledge or other developments, such as improved capability to detect substances in the environment or increasingly strict environmental laws and standards and enforcement policies, could affect the company’s handling, manufacture, use or disposal of these substances.
+46
+SNAP-ON INCORPORATED
+In recent years there has been increased public awareness, concern and focus on environmental and sustainability issues, including matters related to climate change.
+The current focus on these matters is resulting in additional and/or more restrictive regulations, disclosure requirements and industry or third-party requirements and standards to reduce or mitigate climate change as well as other environmental or sustainability risks. Snap-on is monitoring developments in this area.
+New Accounting Standards
+See Note 1 to the Consolidated Financial Statements for information on new accounting standards.
+Critical Accounting Policies and Estimates
+The Consolidated Financial Statements and related notes contain information that is pertinent to management’s discussion and analysis. The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America (“GAAP”) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. These estimates are generally based on historical experience, current conditions and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily available from other sources, as well as identifying and assessing our accounting treatment with respect to commitments and contingencies. Actual results could differ from those estimates.
+In addition to the company’s significant accounting policies described in Note 1 to the Consolidated Financial Statements, Snap-on considers the following policies and estimates to be the most critical in understanding the judgments that are involved in the preparation of the company’s consolidated financial statements and the uncertainties that could impact the company’s financial position, results of operations and cash flows.
+Allowance for Credit Losses on Finance Receivables:
+ The allowance for credit losses on finance receivables is maintained at a level management believes is adequate to cover expected losses in Snap-on’s finance receivables portfolio as of the reporting date. The allowance represents management’s estimate of the expected losses in the company’s finance receivables portfolio based on ongoing assessments and evaluations of credit losses over the remaining contractual life of the receivables portfolio considering collectability, historical loss experience, current conditions and future market changes. Determination of the proper level of allowance requires management to exercise judgment about the timing, frequency and severity of credit losses that could materially affect the provision for credit losses and, as a result, net earnings. The allowance takes into consideration numerous quantitative and qualitative factors that include receivable type, historical loss experience, delinquency trends, collection experience, current and future economic conditions and credit risk characteristics. Some of these factors are influenced by items such as the customers’ financial condition, past payment experience, credit bureau and proprietary Snap-on credit model information, as well as the value of the underlying collateral. Changes in economic conditions and assumptions, including the resulting credit quality metrics relative to the performance of the finance receivables portfolio, create uncertainty and could result in changes to both the allowance for credit losses and provision for credit losses.
+Management utilizes established policies and procedures in an effort to ensure the estimates and assumptions are well controlled, reviewed and consistently applied. As of December 28, 2024, the ratio of the allowance for credit losses to finance receivables was 3.63%. As of December 30, 2023, the allowance ratio was 3.48%.
+While management believes it exercises prudent judgment and applies reasonable assumptions in establishing its estimates for allowances for finance receivables, there can be no assurance that changes in economic conditions or other factors would not adversely impact the financial health of our customers and result in changes to the estimates used in the allowance calculation. For reference, a 100 bps increase in the allowance ratios for finance receivables as of December 28, 2024, would have increased Snap-on’s 2024 provision for credit losses and related allowance for credit losses by approximately $20.0 million. 
+For additional information on Snap-on’s allowances for credit losses, see Note 1 and Note 4 to the Consolidated Financial Statements.
+Impairment of Goodwill:
+ Goodwill is tested for impairment annually or more frequently if events or changes in circumstances indicate that the assets might be impaired. Annual impairment tests are performed by the company in the second quarter of each year using information available as of April month end.
+2024 ANNUAL REPORT
+47
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+Snap-on evaluates the recoverability of goodwill by estimating the future discounted cash flows of the businesses to which the goodwill relates. Estimated cash flows and related goodwill are grouped at the reporting unit level. The company has determined that its reporting units for testing goodwill impairment are its operating segments or components of an operating segment that constitute a business for which discrete financial information is available and for which segment management regularly reviews the operating results. Within its four reportable operating segments, the company has identified 11 reporting units.
+Snap-on evaluates the recoverability of goodwill by utilizing an income approach that estimates the fair value of the future discounted cash flows of the reporting units to which the goodwill relates. The future projections, which are based on both past performance and the projections and assumptions used in the company’s operating plans, are subject to change as a result of changing economic and competitive conditions. This approach reflects management’s internal outlook at the reporting units, which management believes provides the best determination of value due to management’s insight and experience with the reporting units. Significant estimates used by management in the discounted cash flows methodology include estimates of future cash flows based on expected growth rates, price increases, working capital levels, expected benefits from RCI initiatives, and a weighted-average cost of capital that reflects the risk profile of the reporting unit being tested. The company’s methodologies for valuing goodwill are applied consistently on a year-over-year basis; the assumptions used in performing the second quarter 2024 impairment calculations were evaluated in light of then-current market and business conditions. Snap-on continues to believe that the future discounted cash flow valuation model provides the most reasonable and meaningful fair value estimate based upon the reporting units’ projections of future operating results and cash flows and replicates how market participants would value the company’s reporting units in an orderly transaction.
+In the event the fair value of a reporting unit is less than the carrying value, including goodwill, the company would then record an impairment charge based on the excess of a reporting units carrying amount over its fair value.
+Inherent in fair value determinations are significant judgments and estimates, including material assumptions about future revenue, profitability and cash flows, the company’s operational plans and its interpretation of current economic indicators. Should the operations of the businesses with which goodwill is associated incur significant and unanticipated changes in circumstances, such as declines in profitability and cash flow due to long-term deterioration in macroeconomic, industry and market conditions, the loss of key customers, changes in technology or markets, changes in key personnel or litigation, a sustained decrease in share price and/or other events, some or all of the recorded goodwill could be subject to impairment and could result in a material adverse effect on Snap-on’s financial position or results of operations. 
+Snap-on completed its annual impairment testing of goodwill in the second quarter of 2024, the results of which did not result in any impairment. As of 2024 year end, the company has no accumulated impairment losses. Although the company consistently uses the same methods in developing the assumptions and estimates underlying the fair value calculations, such estimates are uncertain by nature and can vary from actual results. In performing its annual impairment testing the company performed a sensitivity analysis on the material assumptions used in the discounted cash flow valuation models for each of its 11 reporting units. Based on the company’s second quarter 2024 impairment testing, and assuming a hypothetical 10% decrease in the estimated fair values of each of its 11 reporting units, the hypothetical fair value of each of the company’s 11 reporting units would have been greater than its carrying value. See Note 7 to the Consolidated Financial Statements for additional information about goodwill.
+Pension Benefits:
+ The pension benefit obligation and related pension expense are calculated in accordance with GAAP and are impacted by certain actuarial assumptions. Changes in these assumptions are primarily influenced by factors outside of Snap-on’s control, such as changes in economic conditions, and can have a significant effect on the amounts reported in the financial statements. Snap-on believes that the two most critical assumptions are (i) the expected return on plan assets; and (ii) the assumed discount rate.
+Snap-on’s domestic pension plans have a long-term investment horizon and a total return strategy that emphasizes a capital growth objective. In 2024, the long-term investment performance objective for Snap-on’s domestic plans’ assets was to achieve net of expense returns that met or exceeded the 7.5% domestic expected return on plan assets assumption. Snap-on uses a three-year, market-related value asset method of amortizing the difference between actual and expected returns on its domestic plans’ assets. As of 2024 year end, Snap-on’s domestic pension plans’ assets comprised approximately 86% of the company’s worldwide pension plan assets.
+48
+SNAP-ON INCORPORATED
+Based on forward-looking capital market expectations, Snap-on selected an expected return on plan assets assumption for its U.S. pension plans of 7.5%, the same rate used in 2024, to be used in determining pension expense for 2025. In estimating the domestic expected return on plan assets, Snap-on utilizes a nominal returns forecasting method. For each asset class, future returns are estimated by identifying the premium of riskier asset classes over lower risk alternatives. The methodology constructs expected returns using a “building block” approach to the individual components of total return. These forecasts are stated in both nominal and real (after inflation) terms. This process first considers the long-term historical return premium based on the longest set of data available for each asset class. These premiums, calculated using the geometric mean, are then adjusted based on current relative valuation levels, macro-economic conditions, and the expected alpha related to active investment management. The asset return assumption is also adjusted by an implicit expense load for estimated administrative and investment-related expenses. Since asset allocation is a key determinant of expected investment returns, the current and expected mix of plan assets are also considered when setting the assumption.
+Pension expense increases as the expected rate of return on plan assets decreases. Lowering the expected rate of return assumption for Snap-on’s
+ domestic pension plans’ assets by 50 bps would have increased Snap-on’s 2024 domestic pension expense by approximatel
+y $6.0 million.
+The objective of Snap-on’s discount rate assumption is to reflect the rate at which the pension benefits could be effectively settled. The domestic discount rate as of 2024 and 2023 year end was selected based on a cash flow matching methodology developed by the company’s outside actuaries that incorporates a review of current economic conditions. This methodology matches the plans’ yearly projected cash flows for benefits and service costs to those of hypothetical bond portfolios using high-quality, AA rated or better, corporate bonds from either Moody’s Investors Service or Standard & Poor’s credit rating agencies available at the measurement date. This technique calculates bond portfolios that produce adequate cash flows to pay the plans’ projected yearly benefits and then selects the portfolio with the highest yield and uses that yield as the recommended discount rate.
+The selection of the 5.6% weighted-average discount rate for Snap-on’s domestic pension plans as of 2024 year end (compared to 5.5% as of 2023 year end) represents the single rate that produces the same present value of cash flows as the estimated benefit plan payments. Lowering Snap-on’s domestic discount rate assumption by 50 bps would have increased Snap-on’s 2024 domestic pension expense and projected benefit obligation by approximately $3.0 million and $46.4 million, respectively. As of 2024 year end, Snap-on’s domestic projected benefit obligation comprised approximately 85% of Snap-on’s worldwide projected benefit obligation. The weighted-average discount rate for Snap-on’s foreign pension plans of 4.6% (compared to 4.3% as of 2023 year end) represents the single rate that produces the same present value of cash flows as the estimated benefit plan payments. Lowering Snap-on’s foreign discount rate assumption by 50 bps would have increased Snap-on’s 2024 foreign pension expense and projected benefit obligation by approximately $1.0 million and $12.3 million, respectively.
+Actuarial gains and losses in excess of 10 percent of the greater of the projected benefit obligation or market-related value of assets are amortized on a straight-line basis over the average remaining service period of active participants or over the average remaining life expectancy for plans with primarily inactive participants. Prior service costs and credits resulting from plan amendments are amortized in equal annual amounts over the average remaining service period of active participants or over the average remaining life expectancy for plans with primarily inactive participants.
+Pension income in 2024 was $6.9 million and Snap-on expects to have pension expense of approximately $16.8 million in 2025, primarily reflecting higher amortization of pension actuarial losses. 
+The projected 
+2025
+ pension expense is based on benefit plan status, weighted average discount rates, expected returns on plan assets, and other factors. 
+To determine the 2025 net periodic benefit cost, Snap-on is using weighted-average discount rates for its domestic and foreign pension plans of 5.6% and 4.6%, respectively, and an expected return on plan assets for its domestic pension plans of 7.5%. The expected returns on plan assets for foreign pension plans ranged from 2.2% to 6.4% as of 2024 year end. See Note 11 to the Consolidated Financial Statements for additional information on pension plans.
+2024 ANNUAL REPORT
+49
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued)
+Outlook
+We believe that our markets and our operations possess and have demonstrated continuing and considerable resilience against the uncertainties of the current environment. In 2025, Snap-on expects to make ongoing progress along its decisive runways for coherent growth, leveraging capabilities already proven in the automotive repair arena, developing and expanding its professional customer base, not only in automotive repair, but in adjacent markets, additional geographies and other areas, including extending in critical industries, where the cost and penalties for failure can be high. In pursuit of these initiatives, we project that capital expenditures in 2025 will approximate
+ $100 million.
+Snap-on currently anticipates that its full-year 2025 effective income tax rate will be in the range 
+of 22% to 23%.
+50
+SNAP-ON INCORPORATED

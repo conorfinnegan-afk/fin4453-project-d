@@ -1,0 +1,15 @@
+ticker,name,reason
+AOS,A. O. Smith,Filing extraction failed or 10-K missing
+ETN,Eaton Corporation,Filing extraction failed or 10-K missing
+GE,GE Aerospace,Filing extraction failed or 10-K missing
+HON,Honeywell International,Filing extraction failed or 10-K missing
+LHX,L3Harris Technologies,NaN values present in revenue or margin for 2022-2025
+LDOS,Leidos,NaN values present in revenue or margin for 2022-2025
+SNA,Snap-on,NaN values present in revenue or margin for 2022-2025
+SWK,Stanley Black & Decker,NaN values present in revenue or margin for 2022-2025
+TXT,Textron,NaN values present in revenue or margin for 2022-2025
+AGCO,AGCO Corporation,Missing XBRL financials file
+BWXT,BWX Technologies,Filing extraction failed or 10-K missing
+TTC,Toro Company,Filing extraction failed or 10-K missing
+HXL,Hexcel Corporation,Filing extraction failed or 10-K missing
+GTLS,Chart Industries,Filing extraction failed or 10-K missing

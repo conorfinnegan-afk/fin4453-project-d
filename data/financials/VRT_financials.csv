@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+VRT,2022,5691500000.0,223400000.0,0.03925151541772819,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+VRT,2023,6863200000.0,872200000.0,0.1270835761743793,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+VRT,2024,8011800000.0,1367400000.0,0.17067325694600463,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+VRT,2025,10229900000.0,1829700000.0,0.1788580533534052,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

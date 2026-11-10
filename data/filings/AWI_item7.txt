@@ -1,0 +1,360 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+ FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Armstrong World Industries, Inc. (“AWI”) is a Pennsylvania corporation incorporated in 1891.
+This discussion should be read in conjunction with the financial statements, the accompanying notes, the cautionary note regarding forward-looking statements and risk factors included in this Form 10-K.
+Overview
+AWI is an Americas leader in the design, innovation and manufacture of interior and exterior architectural applications including ceilings, specialty walls and exterior metal solutions. Our products primarily include mineral fiber, fiberglass, metal, felt, wood, resin, wood fiber and glass-reinforced-gypsum. We also manufacture ceiling suspension system (grid) products through a joint venture with Worthington Enterprises, Inc. called Worthington Armstrong Venture (“WAVE”).
+Acquisitions
+In December 2024, we acquired all the issued and outstanding stock of A. Zahner Company (“Zahner”), based in Kansas City, Missouri. Zahner is a designer and manufacturer of exterior metal architectural solutions. The operations, assets and liabilities of Zahner are included in our Architectural Specialties segment.
+In April 2024, we acquired all the issued and outstanding membership interests in 3form, LLC (“3form”), based in Salt Lake City, Utah from Hunter Douglas, Inc. 3form is a designer and manufacturer of architectural resin and glass products used for specialty walls, partitions and ceilings. The operations, assets and liabilities of 3form are included in our Architectural Specialties segment.
+In January 2024, we entered into a strategic partnership and equity investment in Overcast Innovations LLC (“Overcast”) with McKinstry Essention, LLC whereby we contributed $5.5 million in exchange for a 19.5% ownership interest in Overcast, with future rights to increase our ownership interest. Overcast is a solutions company offering prefabricated ceiling cloud systems, modular grid platforms and engineering design services to reduce waste and inefficiencies in the built environment. Our investment and equity earnings in Overcast are included in our Unallocated Corporate segment.
+In October 2023, we acquired a portion of the business and certain assets of Insolcorp, LLC (“Insolcorp”), based in Albemarle, North Carolina. Insolcorp develops, tests and manufactures energy saving products deployed in building and roofing installations. The acquired operations, assets and liabilities of Insolcorp are included in our Mineral Fiber segment.
+In July 2023, we acquired all the issued and outstanding stock of BOK Modern, LLC (“BOK”), based in San Rafael, California. BOK is a designer of exterior metal architectural solutions. The operations, assets and liabilities of BOK are included in our Architectural Specialties segment.
+In November 2022, we acquired the business of GC Products, Inc. (“GC Products”), based in Lincoln, California. GC Products is a designer and manufacturer of glass-reinforced-gypsum, glass-reinforced-cement, molded ceiling and specialty wall products. The operations, assets and liabilities of GC Products are included in our Architectural Specialties segment.
+Manufacturing Plants
+As of December 31, 2024, we operated 20 manufacturing plants, including 18 plants located within the U.S. and two plants in Canada.
+WAVE operates seven additional plants in the U.S. to produce suspension system (grid) products, which we use and sell in our ceiling systems.
+Reportable Segments
+Our operating segments are as follows: Mineral Fiber, Architectural Specialties and Unallocated Corporate.
+Mineral Fiber
+ – produces suspended mineral fiber and fiberglass ceiling systems. Our mineral fiber products offer various performance attributes such as acoustical control, rated fire protection, and energy efficiency, along with other health and sustainability features and aesthetic appeal. Ceiling products are primarily sold to resale distributors, ceiling systems contractors and wholesalers, and retailers (including large home centers). The Mineral Fiber segment also includes the results of WAVE, which
+23
+manufactures and sells suspension system (grid) products and ceiling component products that are invoiced by both AWI and WAVE. Segment results relating to WAVE consist primarily of equity earnings and reflect our 50% equity interest in the joint venture. Ceiling component products consist of ceiling perimeters and trim, in addition to grid products that support drywall ceiling systems. For some customers, WAVE sells its suspension system products to AWI for resale to customers. Mineral Fiber segment results reflect those sales transactions. The Mineral Fiber segment also includes all assets and liabilities not specifically allocated to our Architectural Specialties or Unallocated Corporate segment, including all property and related depreciation associated with our Lancaster, Pennsylvania headquarters. Operating results for the Mineral Fiber segment include a significant majority of allocated Corporate administrative expenses that represent a reasonable allocation of general services to support its operations.
+Architectural Specialties
+ – designs, produces and sources specialty ceilings, walls, and other interior and exterior architectural applications primarily for use in commercial settings. Products are available in numerous materials, such as metal, felt, wood, resin, wood fiber and glass-reinforced-gypsum in various colors, shapes and designs. These products offer a range of design options and performance attributes such as acoustical control, rated fire protection, light, aesthetic appeal, energy conservation and building performance. We sell standard, premium and customized products, a portion of which are sourced from third-party producers. Architectural Specialties products are sold primarily to resale distributors and direct customers, primarily ceiling systems contractors. This segment’s revenues are primarily project driven, which can lead to more variability in sales patterns. Operating results for the Architectural Specialties segment include a portion of allocated Corporate administrative expenses that represent a reasonable allocation of general services to support its operations.
+Unallocated Corporate
+ – includes certain assets, liabilities, income and expenses that have not been allocated to our other business segments and consists of: cash and cash equivalents, our Overcast investment and related equity earnings/losses, the net funded status of our U.S. Retirement Income Plan (“RIP”), the estimated fair value of interest rate swap contracts, outstanding borrowings under our senior secured credit facility and income tax balances.
+Factors Affecting Revenues
+For information on our segments’ 2024 net sales by geography and disaggregated expenses, see Note 3 to the Consolidated Financial Statements included in this Form 10-K. For information on our segments’ 2024 net sales disaggregated by major customer groups, see Note 4 to the Consolidated Financial Statements included in this Form 10-K.
+Markets.
+ We compete in the building product markets of the Americas. We closely monitor publicly available macroeconomic data and trends that provide insight into commercial construction market activity, including, but not limited to, GDP, office vacancy rates, the Architecture Billings Index, new commercial construction starts, state and local government spending, corporate profits, and retail sales. The Company continues to monitor the impacts of tariffs and geopolitical events, including but not limited to, conflicts in Ukraine and the Middle East; none of which had a material direct impact on our financial condition, liquidity or results of operations during 2024 or 2023.
+Several factors and trends within our markets affected our business performance during 2024 compared to 2023. During 2024, increased sales volumes contributed $89 million to the increase in net sales versus the prior year, due primarily to our December 2024 acquisition of 3form, Zahner and BOK, which collectively contributed $84 million and $11 million of net sales in 2024 and 2023, respectively. Net sales volumes also benefitted from growth in custom project revenues within our Architectural Specialties segment.
+Average Unit Value
+. We periodically modify sales prices of our products due to changes in costs for raw materials and energy, market conditions and the competitive environment. Typically, realized price increases are less than announced price increases because of project pricing, competitive adjustments and changing market conditions. We also offer a wide assortment of products that are differentiated by style, design and performance attributes. Pricing and margins for products within the assortment vary. In addition, changes in the relative quantity of products purchased at different price points can impact year-to-year comparisons of net sales and operating income. Within our Mineral Fiber segment, we focus on improving sales dollars per unit sold, or average unit value (“AUV”), as a measure that accounts for the varying assortment of products and like-for-like pricing impacting our revenues.
+Favorable AUV contributed approximately $62 million to our total consolidated net sales for the year ended December 31, 2024 compared to the same period in 2023. Our Architectural Specialties segment revenues are primarily generated by individual contracts that include a mix of products, both manufactured by us and sourced from third parties, that varies by project. As such, we do not track AUV performance for this segment but rather attribute all changes in net sales to volume, including gross to net sales adjustments.
+During the first and third quarters of 2024, we implemented price increases on Mineral Fiber ceiling products. During the first and second quarters of 2024, WAVE implemented price increases on grid products. In the fourth quarter of 2024, we announced price increases on Mineral Fiber ceiling products and WAVE announced price increases on grid products that became effective in the first quarter of 2025. We may implement future pricing actions based on numerous factors, namely the rate and pace of inflation and its impact on our business.
+24
+Seasonality
+. Historically, our sales tend to be stronger in the second and third quarters of our fiscal year due to more favorable weather conditions, customer business cycles and the timing of renovation and new construction projects.
+Factors Affecting Operating Costs
+Operating Expenses.
+ Our operating expenses are comprised of direct production costs (principally raw materials, labor, and energy), manufacturing overhead costs, freight, costs to purchase sourced products and selling, general and administrative (“SG&A”) expenses.
+Our largest raw material expenditures are primarily for fiberglass, perlite, recycled paper, and starch. Other raw materials include clays, felt, pigment, resin, wood and wood fiber. We manufacture substantially all of our mineral wool at one of our manufacturing facilities. We use aluminum and steel in the production of metal building products by us and by WAVE. Finally, natural gas and packaging materials also represent significant input costs. Fluctuations in the prices of these inputs impact our financial results. In 2024, lower energy and freight costs were partially offset by higher raw material costs, resulting in a $6 million benefit to operating income compared to 2023.
+Acquisition-Related Expenses and Losses
+In connection with our acquisitions of Zahner, 3form, Insolcorp, BOK and Arktura LLC (“Arktura”) acquired in December 2020, we recorded certain acquisition-related expenses and losses to operating income for the years ended December 31, 2024, 2023, and 2022, summarized as follows (dollar amounts in millions):
+2024
+2023
+2022
+Affected Line Item in the Consolidated Statements of Earnings and Comprehensive Income
+Inventory
+$
+0.3
+$
+-
+$
+-
+Cost of goods sold
+Acquisition costs
+1.8
+-
+-
+SG&A expenses
+Deferred cash and restricted stock expenses
+-
+10.7
+7.9
+SG&A expenses
+Loss related to change in fair
+ value of contingent consideration
+1.6
+0.1
+11.0
+Loss related to change in fair
+ value of contingent consideration
+Net negative impact to operating income
+$
+3.7
+$
+10.8
+$
+18.9
+The inventory amounts above reflect the post-acquisition expenses associated with recording inventory at fair value as part of purchase accounting for the 3form acquisition. Acquisition costs above reflect certain contingent third-party professional fees incurred due to the Zahner and 3form acquisitions. Expenses related to the deferred cash and restricted stock awards were for Arktura’s former owners and employees that were recorded over their respective service periods, as such payments were subject to the awardees’ continued employment with AWI. The change in fair value of contingent consideration is related to our BOK and Insolcorp acquisitions and was remeasured quarterly during each acquisition's respective earn-out periods. See Note 19 to the Consolidated Financial Statements for further information.
+Depreciation and amortization of fixed and intangible assets acquired have been excluded from the table above. See Note 5 to the Consolidated Financial Statements for further information.
+RESULTS OF OPERATIONS
+The following discussion includes year-to-year comparisons between 2024 and 2023. Discussions of year-to-year comparisons between 2023 and 2022 that are not included in this Form 10-K can be found in Management’s
+Discussion
+and
+Analysis
+of Financial
+Condition
+and Results of Operations in Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2023. Please refer to Notes 3 and 6 to the Consolidated Financial Statements for a reconciliation of segment operating income to consolidated earnings from continuing operations before income taxes and additional financial information related to discontinued operations.
+CONSOLIDATED RESULTS FROM CONTINUING OPERATIONS
+(dollar amounts in millions)
+2024
+2023
+Change is Favorable
+Total consolidated net sales
+$
+1,445.7
+$
+1,295.2
+11.6
+%
+Operating income
+$
+374.3
+$
+323.7
+15.6
+%
+Consolidated net sales for 2024 increased 11.6% due to higher sales volumes of $89 million and favorable AUV of $62 million.
+25
+Mineral Fiber net sales increased $54 million, while Architectural Specialties net sales increased $97 million. The increase in Mineral Fiber net sales was primarily driven by improved AUV, as a result of increased like-for-like pricing and favorable mix, partially offset by lower sales volumes. Architectural Specialties net sales improved primarily due to contributions from the acquisitions of Zahner, 3form and BOK, in addition to increased custom project net sales.
+Cost of goods sold during 2024 was 59.8% of net sales, compared to 61.6% for 2023. The year-over-year decrease in cost of goods sold as a percentage of net sales was driven primarily by favorable AUV margin benefit, improved manufacturing productivity and lower input costs.
+SG&A expenses in 2024 were $308.5 million, or 21.3% of net sales, compared to $262.5 million, or 20.3% of net sales, in 2023. The year-over-year increase in SG&A expenses was primarily driven by a $32 million increase related to the acquisitions of Zahner, 3form and BOK, an $8 million increase in selling expenses, primarily due to higher employee costs, a $7 million increase in incentive compensation and a $6 million decrease in company-owned officer life insurance gains related to deferred compensation plans. These increases were partially offset by a $9 million decrease in acquisition-related expenses.
+In 2024, we recorded $1.6 million of remeasurement losses for changes in the fair value of contingent consideration related to the acquisitions of BOK and Insolcorp. In the same period in 2023, we recorded $0.1 million of remeasurement losses for changes in the fair value of contingent consideration related to the acquisition of BOK. See Note 19 to the Consolidated Financial Statements for further information.
+Losses on sales of fixed assets, net were $0.6 million in 2024, which was comprised of a $5.2 million loss on sale for undeveloped land adjacent to our Corporate headquarters, partially offset by a $4.6 million gain on the sale of our idled Mineral Fiber plant in St. Helens, Oregon.
+Equity earnings from unconsolidated subsidiaries were $103.4 million in 2024, compared to $89.3 million in 2023. In 2024, WAVE equity earnings were $104.3 million, while Overcast equity losses were $0.9 million. The increase in WAVE earnings was primarily driven by the benefits of favorable AUV, higher volumes and lower steel costs, partially offset by higher employee costs. See Note 11 to the Consolidated Financial Statements for further information.
+Interest expense was $39.8 million in 2024 compared to $35.3 million in 2023. The increase in interest expense was primarily due to higher average effective interest rates, partially offset by lower average debt balances.
+Other non-operating income, net was $12.6 million during 2024 compared to $9.9 million during 2023. Other non-operating income, net, is primarily comprised of the non-service cost components of pension and postretirement net periodic benefit costs and interest income. The increase in other non-operating income was primarily due to an increase in amortization of pension and postretirement credits.
+Income tax expense was $82.2 million in 2024 compared to $74.5 million in 2023. The effective tax rate was 23.7% in 2024 compared to 25.0% in 2023. The effective tax rate for 2024 was lower compared to 2023 primarily due to the benefits recognized from a reduction in our valuation allowance for capital loss carryforwards, in addition to statute closures.
+Total Other Comprehensive Loss (“OCL”) was $5.5 million in 2024 compared to $4.6 million in 2023. The change in OCL was primarily driven by changes in pension and postretirement adjustments and foreign currency translation adjustments, partially offset by lower interest rate swap derivative losses in 2024 compared to 2023. Pension and postretirement adjustments represent the actuarial gains and losses related to our defined benefit pension and postretirement plans. Foreign currency translation adjustments represent the change in the U.S. dollar value of assets and liabilities denominated in foreign currencies. Foreign currency translation adjustments during 2024 and 2023 were driven primarily by changes in the Canadian dollar. Derivative gain/loss represents the mark-to-market value adjustments of our derivative assets and liabilities, and the recognition of gains and losses previously deferred in accumulated OCI.
+REPORTABLE SEGMENT RESULTS
+Mineral Fiber
+(dollar amounts in millions)
+2024
+2023
+Change is Favorable
+Total segment net sales
+$
+986.0
+$
+932.4
+5.7
+%
+Operating income
+$
+322.5
+$
+285.7
+12.9
+%
+Mineral Fiber net sales increased $54 million due to $62 million of favorable AUV, partially offset by $8 million of lower sales volumes. The increase in AUV was driven by positive like-for-like pricing and favorable mix. The decrease in volumes for 2024 was
+26
+driven primarily within our home center customer channel, most notably due to prior-year first quarter inventory level increases that did not repeat in the current-year period, partially offset by two additional shipping days in 2024 and the positive contribution from our growth initiatives compared to the prior-year period.
+Mineral Fiber cost of goods sold during 2024 was $586 million, 59.5% of net sales, compared to $574 million, 61.6% for 2023. Gross profit increased $42 million, or 11.6%, compared to 2023. The year-over-year increase in gross profit was driven primarily by a $39 million benefit from favorable AUV benefit and an $8 million decrease in manufacturing costs due to improved manufacturing productivity and input costs, partially offset by a $5 million negative impact from lower sales volumes and a $3 million increase in depreciation and amortization expense.
+Mineral Fiber SG&A expenses were $181 million, or 18.3% of net sales in 2024 compared to $162 million, or 17.4% of net sales for 2023. The year-over-year increase in SG&A expenses was primarily driven by a $6 million decrease in company-owned officer life insurance gains related to deferred compensation plans, a $5 million increase in incentive compensation, a $4 million increase in selling expense, partially due to higher employee costs, and a $2 million increase in depreciation and amortization expense.
+Equity earnings from our WAVE joint venture were $104.3 million in 2024, compared to $89.3 million in 2023. The increase in WAVE earnings was primarily driven by the benefits of favorable AUV, higher volumes and lower steel costs, partially offset by higher employee costs.
+Architectural Specialties
+(dollar amounts in millions)
+2024
+2023
+Change is Favorable
+Total segment net sales
+$
+459.7
+$
+362.8
+26.7
+%
+Operating income
+$
+55.3
+$
+40.9
+35.2
+%
+Architectural Specialties net sales increased $97 million, driven primarily by a $73 million increase from the acquisitions of Zahner, 3form and BOK, in addition to increased custom project net sales.
+Architectural Specialties cost of goods sold during 2024 was $276 million, 60.1% of net sales, compared to $222 million, 61.3% for 2023. Gross profit increased $43 million, or 30.6%, compared to 2023. The year-over-year increase in gross profit was driven primarily by a $58 million benefit from increased sales, driven by the acquisitions of Zahner, 3form and BOK, in addition to the benefit from improved custom project margins and better operating leverage. These benefits were partially offset by an increase in manufacturing costs due to the acquisitions of Zahner, 3form and BOK, in addition to the impact of growth investments, primarily in the form of higher rent expense due to recent years' facilities expansions, and an increase in employee costs.
+Architectural Specialties SG&A expenses were $127 million, or 27.6% of net sales in 2024 compared to $99 million, or 27.4% of net sales for 2023. The year-over-year increase in SG&A expenses was primarily driven by a $32 million increase related to the acquisitions of Zahner, 3form and BOK, as well as a $4 million increase in selling expenses, due to higher employee costs. These increases were partially offset by a $9 million decrease in acquisition-related costs.
+Unallocated Corporate
+Unallocated Corporate operating loss was $4 million in 2024 compared to $3 million in 2023. The increase in operating loss was primarily due to $0.9 million of Overcast equity losses in 2024.
+FINANCIAL CONDITION AND LIQUIDITY
+Cash Flow
+Operating activities for 2024 provided $266.8 million of cash, compared to $233.5 million in 2023. The favorable change in cash from operating activities was driven by higher cash earnings and a favorable change in accounts payable and accrued expenses due to timing-related benefits, primarily from our Mineral Fiber segment, and the impact of higher incentive compensation accruals. These positive operating cash flow benefits were partially offset by an unfavorable change in accounts receivables, driven primarily by timing-related increase in receivables, primarily due to custom projects within our Architectural Specialties segment, and an increase in cash paid for income taxes.
+Net cash used for investing activities was $79.3 million for 2024, compared to $10.4 million in 2023. The unfavorable change in cash used in investing activities in 2024 compared to 2023 was primarily due to $124.0 million of cash paid for the 3form and Zahner acquisitions, partially offset by proceeds received from the sales of our idled St. Helens manufacturing plant and undeveloped land adjacent to our corporate headquarters in 2024 and an increase in proceeds received from company-owned life insurance policies.
+27
+Net cash used for financing activities was $177.6 million in 2024, compared to $258.6 million in 2023. The favorable change in cash was primarily due to a decrease in repurchases of outstanding common stock and lower payments of acquisition-related contingent consideration.
+Liquidity
+Our liquidity needs for operations vary throughout the year. We retain lines of credit to facilitate our seasonal cash flow needs, since
+cash flow is historically lower during the first and fourth quarters of our fiscal year.
+We have a $950.0 million variable rate senior credit facility, which is comprised of a $500.0 million revolving credit facility (with a $150.0 million sublimit for letters of credit) and a $450.0 million Term Loan A. As of December 31, 2024, the revolving credit facility and Term Loan A were priced at 1.375% over the Secured Overnight Financing Rate (“SOFR”), plus a 10 basis point adjustment. The revolving credit facility and Term Loan A mature in December 2027. We also have a $25.0 million bi-lateral letter of credit facility.
+As of December 31, 2024, total borrowings outstanding under our senior credit facility were $427.5 million under Term Loan A and $100.0 million under the revolving credit facility.
+The senior credit facility includes two financial covenants that require the ratio of consolidated earnings before interest, taxes, depreciation and amortization (“EBITDA”) to consolidated cash interest expense minus consolidated cash interest income to be greater than or equal to 3.0 to 1.0, and requires the ratio of consolidated funded indebtedness, minus AWI and domestic subsidiary unrestricted cash and cash equivalents up to $100 million, to EBITDA to be less than or equal to 3.75 to 1.0 (subject to certain exceptions for certain acquisitions). As of December 31, 2024, we were in compliance with all covenants of the senior credit facility.
+We use interest rate swaps to minimize the fluctuations in earnings caused by interest rate volatility associated with our senior credit facility.
+The Term Loan A is currently priced on a variable interest rate basis. The following tables summarize our interest rate swaps,
+including forward interest rate swaps (dollar amounts in millions):
+Coverage Period
+Notional
+Amount
+Risk Coverage
+Trade Date
+March 2021 to March 2025
+$
+100.0
+USD-SOFR
+November 28, 2018
+November 2023 to December 2025
+$
+50.0
+USD-SOFR
+October 23, 2023
+March 2024 to June 2026
+$
+50.0
+USD-SOFR
+March 25, 2024
+November 2023 to December 2026
+$
+50.0
+USD-SOFR
+October 10, 2023
+March 2024 to June 2027
+$
+50.0
+USD-SOFR
+March 27, 2024
+November 2023 to November 2027
+$
+50.0
+USD-SOFR
+September 29, 2023
+June 2024 to June 2028
+$
+50.0
+USD-SOFR
+June 26, 2024
+Under the terms of the interest rate swap with a November 28, 2018 trade date above, we pay a fixed rate monthly and receive a floating rate based on SOFR, inclusive of a 0% floor. Under the terms of all remaining interest rate swaps above, we pay a fixed rate monthly and receive a floating rate based on SOFR. These swaps are designated as cash flow hedges against changes in SOFR for a portion of our variable rate debt.
+We use lines of credit and other commercial commitments to ensure that adequate funds are available to meet operating requirements. Letters of credit are currently arranged through our revolving credit facility and our bi-lateral facility. Letters of credit may be issued to third party suppliers, insurance companies and financial institutions and typically can only be drawn upon in the event of AWI’s failure to pay its obligations to the beneficiary. The following table presents details related to our letters of credit facilities (dollar amounts in millions):
+December 31, 2024
+Financing Arrangements
+Limit
+Used
+Available
+Bi-lateral facility
+$
+25.0
+$
+7.7
+$
+17.3
+Revolving credit facility
+150.0
+-
+150.0
+Total
+$
+175.0
+$
+7.7
+$
+167.3
+28
+The table below reflects scheduled future payments of long-term debt, excluding $2.4 million of unamortized debt financing costs, and the related interest payments, which are projected based on market-based interest rate swap curves (dollar amounts in millions):
+2025
+2026
+2027
+2028
+2029
+Thereafter
+Total
+Long-term debt
+$
+22.5
+$
+22.5
+$
+482.5
+$
+-
+$
+-
+$
+-
+$
+527.5
+Scheduled interest payments
+31.0
+29.3
+26.3
+-
+-
+-
+86.6
+As of December 31, 2024, we had $79.3 million of cash and cash equivalents, $63.9 million in the U.S. and $15.4 million in various foreign jurisdictions, primarily Canada. As of December 31, 2024, we also had $400 million of borrowing capacity available under our revolving credit facility. We believe cash on hand and cash generated from operations, together with borrowing capacity under our credit facility, will be adequate to address our near-term liquidity needs based on current expectations of our business operations, capital expenditures and scheduled payment of debt obligations. In 2025, we expect to spend approximately $90 million to $100 million on capital expenditures and approximately $54 million on dividends.
+In July 2016, our Board of Directors approved a share repurchase program authorizing us to repurchase up to $150.0 million of our outstanding shares of common stock (the “Program”). Since inception of the Program, we have been authorized to repurchase up to an aggregate of $1,700.0 million of our outstanding shares of common stock through December 31, 2026. We had $661.8 million remaining under the Board’s repurchase authorization as of December 31, 2024.
+Repurchases of our common stock under the Program may be made through open market, block and privately negotiated transactions, including Rule 10b5-1 plans, at such times and in such amounts as management deems appropriate, subject to market and business conditions, regulatory requirements and other factors. The Program does not obligate AWI to repurchase any particular amount of common stock and may be suspended or discontinued at any time without notice.
+CRITICAL ACCOUNTING ESTIMATES
+In preparing our consolidated financial statements in accordance with U.S. generally accepted accounting principles (“GAAP”), we are required to make certain estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. We evaluate our estimates and assumptions on an on-going basis, using relevant internal and external information. We believe that our estimates and assumptions are reasonable; however, actual results may differ from what was estimated and could have a significant impact on the financial statements.
+We have identified the following as our critical accounting estimates and have discussed these with our Audit Committee.
+U.S. Pension Credit and Postretirement Benefit Costs
+ – We maintain significant pension and postretirement plans in the U.S. Our defined benefit pension and postretirement benefit costs are developed from actuarial valuations. These valuations are calculated using a number of assumptions, which represent management’s best estimate of the future. The assumptions that have the most significant impact on reported results are the discount rate, the estimated long-term return on plan assets and the estimated inflation in health care costs. These assumptions are generally updated annually.
+Management utilizes the Aon Hewitt AA only above median yield curve, which is a hypothetical AA yield curve comprised of a series of annualized individual discount rates, as the primary basis for determining discount rates. As of December 31, 2024 and 2023, we assumed discount rates of 5.68% and 5.01%, respectively, for our U.S. defined benefit pension plans. As of December 31, 2024 and 2023, we assumed discount rates of 5.61% and 4.96%, respectively, for our U.S. postretirement plan. The effects of the change in discount rate will be amortized into earnings as described below. Absent any other changes, a one-quarter percentage point increase or decrease in the discount rates for the U.S. pension and postretirement plans would impact 2025 non-operating income by $0.3 million.
+We manage two U.S. defined benefit pension plans, our RIP, which is a qualified funded plan, and a nonqualified unfunded plan. For the RIP, the expected long-term return on plan assets represents a long-term view of the future estimated investment return on plan assets. This estimate is determined based on the target allocation of plan assets among asset classes and input from investment professionals on the expected performance of the asset classes over 10 to 30 years. Historical asset returns are monitored and considered when we develop our expected long-term return on plan assets. An incremental component is added for the expected return from active management based on historical information obtained from the plan’s investment consultants. These forecasted gross returns are reduced by estimated management fees and expenses. Over the 10-year period ended December 31, 2024, the historical annualized return was approximately 2.43% compared to an average expected return of 5.73%. The actual loss on plan assets incurred
+29
+for 2024 was 0.55%, net of fees. The difference between the actual and expected rate of return on plan assets will be amortized into earnings as described below.
+The expected long-term return on plan assets used in determining our 2024 U.S. pension cost was 6.00%. We have assumed a return on plan assets for 2025 of 6.00%. The 2025 expected return on assets was calculated in a manner consistent with 2024. Absent any other changes, a one-quarter percentage point increase or decrease in this assumption would impact 2025 non-operating income by $0.9 million.
+Contributions to the unfunded pension plan were $2.5 million in 2024 and were made on a monthly basis to fund benefit payments. We estimate the 2025 contributions will be approximately $2.9 million. See Note 18 to the Consolidated Financial Statements for more information.
+The estimated inflation in health care costs represents a 5 to 10-year view of the expected inflation in our postretirement health care costs. We separately estimate expected health care cost increases for pre-65 retirees and post-65 retirees due to the influence of Medicare coverage at age 65, as illustrated below:
+Assumptions
+Actual
+Post-65
+Pre-65
+Post-65
+Pre-65
+2023
+7.8
+%
+7.3
+%
+19.9
+%
+23.6
+%
+2024
+10.5
+%
+7.8
+%
+11.8
+%
+12.0
+%
+2025
+12.0
+%
+8.6
+%
+The difference between the actual and expected health care costs is amortized into earnings as described below. As of December 31, 2024, health care cost increases are estimated to decrease ratably until 2034, after which they are estimated to be constant at 4.50%. See Note 18 to the Consolidated Financial Statements for more information.
+Actual results that differ from our various pension and postretirement plan estimates are captured as actuarial gains/losses. When certain thresholds are met, the gains and losses are amortized into future earnings over the remaining life expectancy of participants. Changes in assumptions could have significant effects on earnings in future years.
+Total net actuarial losses related to our U.S. pension benefit plans decreased by $3.7 million in 2024 primarily due to changes in actuarial assumptions, including a 67-basis point increase in the discount rate, partially offset by the impact of demographic changes. The $3.7 million change in actuarial loss impacting our U.S. pension plans is reflected as a component of other comprehensive income in our Consolidated Statements of Earnings and Comprehensive Income along with actuarial gains and losses from our foreign pension plan and our postretirement benefit plans.
+Income Taxes
+ – Our effective tax rate is primarily determined based on our pre-tax income, statutory income tax rates in the jurisdictions in which we operate, and the tax impacts of items treated differently for tax purposes than for financial reporting purposes. Some of these differences are permanent, such as expenses that are not deductible in our tax returns, and some of these differences are temporary, reversing over time, such as depreciation expense. These temporary differences create deferred income tax assets and liabilities. Deferred income tax assets are also recorded for state net operating losses (“NOL”) and capital loss carryforwards.
+As of December 31, 2024, we have recorded valuation allowances totaling $36.3 million for various federal and state deferred tax assets. While we have considered future taxable income in assessing the need for the valuation allowances based on our best available projections, if these estimates and assumptions change in the future or if actual results differ from our projections, we may be required to adjust our valuation allowances accordingly. Such adjustments could be material to our Consolidated Financial Statements.
+As further described in Note 16 to the Consolidated Financial Statements, our Consolidated Balance Sheet as of December 31, 2024, includes deferred income tax liabilities of $167.1 million, which is net of $106.8 million of deferred tax assets. We have established $36.3 million of valuation allowances consisting of $30.7 million for state deferred tax assets, primarily net operating loss carryforwards, and $5.6 million for federal and state capital loss carryforwards. Inherent in determining our effective tax rate are judgments regarding business plans and expectations about future operations. These judgments include the amount and geographic mix of future taxable income, limitations on usage of NOL carryforwards, the impact of ongoing or potential tax audits, and other future tax consequences.
+As of December 31, 2024, and 2023, we had $622.9 million and $646.7 million, respectively, of gross state NOL carryforwards expiring between 2025 and 2043. We estimate we will need to generate future U.S. taxable income of approximately $168.8 million for state income tax purposes during the respective realization periods (ranging from 2025 to 2043) to be able to fully realize the gross state NOL carryforwards offset by related valuation allowances.
+30
+Our ability to utilize deferred tax assets may be impacted by certain future events, such as changes in tax legislation and insufficient future taxable income prior to expiration of certain deferred tax assets.
+Impairments of Tangible Assets, Intangible Assets and Goodwill
+ – Our indefinite-lived assets include goodwill and other intangibles, primarily trademarks and brand names. Those trademarks and brand names are integral to our corporate identity and are expected to contribute indefinitely to our corporate cash flows. Accordingly, they have been assigned an indefinite life. We conduct our annual impairment tests for these indefinite-lived intangible assets and goodwill during the fourth quarter. These assets undergo more frequent tests if an indication of possible impairment exists. We conduct impairment tests for tangible assets and definite-lived intangible assets when indicators of impairment exist for the asset group, such as operating losses and/or negative cash flows.
+The principal assumptions used in our impairment tests for definite-lived intangible assets is operating profit adjusted for depreciation and amortization and, if required to estimate the fair value, the discount rate. The principal assumptions used in our impairment tests for indefinite-lived intangible assets include revenue growth rates, discount rate and royalty rate. The principal assumptions used in our impairment tests for goodwill include after-tax cash flows growth rates and discount rate. Revenue growth rates, after-tax cash flows growth rates and operating profit assumptions are derived from those used in our operating plan and strategic planning processes. The discount rate assumption is calculated based upon an estimated weighted average cost of capital which reflects the overall level of inherent risk and the rate of return a market participant would expect to achieve. The royalty rate assumption represents the estimated contribution of the intangible assets to the overall profits of the related businesses. Methodologies used for valuing our intangible assets did not change from prior periods.
+In 2024, indefinite-lived intangibles and goodwill were tested for impairment based on the identified asset (for indefinite-lived intangibles) or on our identified reporting units (for goodwill). There were no impairment charges recorded in 2024, 2023 or 2022 related to intangible assets. We did not test tangible assets for impairment in 2024, 2023 or 2022 as no indicators of impairment existed.
+The revenue and cash flow estimates used in applying our impairment tests are based on management’s analysis of information available at the time of the impairment test and represent a market participant view. Actual cash flows lower than the estimate could lead to significant future impairments. If subsequent testing indicates that fair values have declined, the carrying values would be reduced and our future statements of earnings would be affected.
+We cannot predict the occurrence of certain events that might lead to material impairment charges in the future. Such events may include, but are not limited to, the impact of economic environments, particularly related to the commercial construction industry, material adverse changes in relationships with significant customers, or strategic decisions made in response to economic and competitive conditions. See Notes 3 and 13 to the Consolidated Financial Statements for further information.
+Environmental Liabilities
+ – We are actively involved in the investigation, closure and/or remediation of existing or potential environmental contamination under the Comprehensive Environmental Response, Compensation and Liability Act (“CERCLA”), and state Superfund and similar environmental laws at two domestically owned locations allegedly resulting from past industrial activity. In both cases, we are one of several potentially responsible parties and have agreed to jointly fund the required investigation, while preserving our defenses to the liability. We may also have rights of contribution or reimbursement from other parties or coverage under applicable insurance policies.
+We provide for environmental remediation costs and penalties when the responsibility to remediate is probable and the amount of associated costs is reasonably determinable. Accruals are estimates based on the judgment of management related to ongoing proceedings. Estimates of our future liability at the environmental sites are based on evaluations of currently available facts regarding each individual site. In determining the probability of contribution, we consider the solvency of other parties, the site activities of other parties, whether liability is being disputed, the terms of any existing agreements and experience with similar matters, and the effect of both our October 2006 Chapter 11 reorganization and separation with AFI upon the validity of the claim.
+We evaluate the measurement of recorded liabilities each reporting period based on current facts and circumstances specific to each matter. The ultimate losses incurred upon final resolution may materially differ from the estimated liability recorded. Changes in estimates are recorded in earnings in the period in which such changes occur.
+We are unable to predict the extent to which any recoveries from other parties or coverage under insurance policies might cover our final share of costs for these sites. Our final share of investigation and remediation costs may exceed any such recoveries, and such amounts net of insurance recoveries may be material. However, we do not expect the total future costs to have a material adverse effect on our liquidity or financial condition as the cash payments may be made over many years.
+Business Combinations and Contingent Consideration
+ – Acquired businesses are accounted for using the acquisition method of accounting, which requires that the purchase price be allocated to the assets acquired and liabilities assumed at their respective fair
+31
+values. Any excess of the purchase price over the estimated fair values of the assets acquired and liabilities assumed is recorded as goodwill. The estimated fair value of contingent consideration is recorded as a liability on the balance sheet at the date of acquisition.
+The purchase price allocation requires us to make significant estimates and assumptions, especially at the acquisition date, with respect to intangible assets and contingent consideration. Although we believe the assumptions and estimates we have made are reasonable, they are based in part on historical experience and information obtained from the management of the acquired companies.
+We engage independent, third-party valuation specialists to assist in determining the fair values of acquired intangible assets and contingent consideration.
+Both the BOK and Insolcorp acquisitions in 2023 include the potential for future contingent earn-out payments based on the financial or operational performance of the acquired companies. We estimated the fair value of these contingent consideration liabilities upon acquisition and are required to measure these liabilities at fair value each reporting period until the contingencies are resolved, with changes in the fair value after the acquisition date affecting earnings in the period of the estimated fair value change. See Notes 5 and 19 to the Consolidated Financial Statements for further information.
+The principal assumptions used in valuing certain intangible assets include discount rates, royalty rates, future expected cash flows from sales attributed to the acquired company's developed technologies, trade names, trade secrets and customer relationships, as well as assumptions about the period of time such assets will continue to be used in the combined company's portfolio. The principal assumptions used in valuing contingent consideration include the probability of meeting the future revenue and EBITDA growth targets and discount rates.
+These estimates are inherently uncertain and unpredictable, and if different estimates were used, the total consideration including the estimated fair value of the contingent consideration, could be allocated to the acquired assets and liabilities differently from the allocation that we have made. In addition, unanticipated events and circumstances may occur, which may affect the accuracy or validity of such estimates, and if such events occur, we may be required to record a charge against the value assigned to an acquired asset or an increase in the amounts recorded for assumed liabilities.
+ACCOUNTING PRONOUNCEMENTS EFFECTIVE IN FUTURE PERIODS
+See Note 2 to the Consolidated Financial Statements for further information.
+32

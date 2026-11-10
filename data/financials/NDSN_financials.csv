@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+NDSN,2022,2590278000.0,702360000.0,0.2711523627965801,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+NDSN,2023,2628632000.0,672761000.0,0.25593578713186177,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+NDSN,2024,2689921000.0,674001000.0,0.25056535117574086,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+NDSN,2025,2791687000.0,711725000.0,0.2549444117481652,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss

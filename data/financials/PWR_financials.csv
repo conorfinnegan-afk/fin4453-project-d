@@ -1,0 +1,5 @@
+ticker,fiscal_year,revenue,operating_income,operating_margin,revenue_tag,op_income_tag
+PWR,2022,17073903000.0,872058000.0,0.05107549222928114,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+PWR,2023,20882206000.0,1127976000.0,0.05401613220365703,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+PWR,2024,23672795000.0,1346468000.0,0.05687828581289197,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
+PWR,2025,28479697000.0,1611509000.0,0.05658448543184993,RevenueFromContractWithCustomerExcludingAssessedTax,OperatingIncomeLoss
