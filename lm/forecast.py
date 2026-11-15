@@ -8,7 +8,9 @@
 #   python lm/forecast.py --summary             # MAE vs the 3-yr baseline
 #   python lm/forecast.py --run both --mock     # offline test, no API calls
 #
-# Needs ANTHROPIC_API_KEY in the environment (or AWS credentials with --provider bedrock).
+# Free option for UF students: --provider navigator (UF NaviGator Toolkit, Llama 3.3 70B),
+# needs NAVIGATOR_TOOLKIT_API_KEY. Otherwise needs ANTHROPIC_API_KEY (or AWS credentials
+# with --provider bedrock).
 
 import argparse, datetime, hashlib, json, os, re, sys, time
 import pandas as pd
@@ -30,8 +32,14 @@ MAX_TOKENS = 1500
 MAX_CHARS = 350_000        # per section; longest Item 7 in the sample is ~322k chars
 ANONYMIZE = True
 
-# Cutoffs from Anthropic's model pages (checked 15 Nov 2026). Goes into run_log.json.
+NAVIGATOR_URL = os.environ.get("NAVIGATOR_BASE_URL", "https://api.navigator.ai.ufl.edu/v1")   # UF NaviGator Toolkit (LiteLLM), OpenAI-compatible
+DEFAULT_MODEL = {"anthropic": MODEL, "bedrock": "us.anthropic.claude-sonnet-4-20250514-v1:0",
+                 "navigator": "llama-3.3-70b-instruct"}
+
+# Cutoffs from the model makers' pages (checked 15 Nov 2026). Goes into run_log.json.
 MODEL_INFO = {
+    "llama-3.3-70b-instruct": {"reliable_knowledge_cutoff": "Dec 2023", "training_data_cutoff": "Dec 2023",
+                               "source": "Meta Llama 3.3 model card, huggingface.co/meta-llama/Llama-3.3-70B-Instruct (pretraining data cutoff December 2023)"},
     "claude-haiku-4-5-20251001": {"reliable_knowledge_cutoff": "Feb 2025", "training_data_cutoff": "Jul 2025",
                                   "source": "https://platform.claude.com/docs/en/models/haiku-4-5/overview"},
     "us.anthropic.claude-sonnet-4-20250514-v1:0": {"reliable_knowledge_cutoff": "Jan 2025", "training_data_cutoff": "Mar 2025",
@@ -122,6 +130,12 @@ def quote_found(quote, source):
 
 # ---- model calls ----------------------------------------------------------
 def make_client(provider):
+    if provider == "navigator":
+        import openai
+        key = os.environ.get("NAVIGATOR_TOOLKIT_API_KEY")
+        if not key:
+            sys.exit("NAVIGATOR_TOOLKIT_API_KEY is not set. See lm/README.md.")
+        return openai.OpenAI(base_url=NAVIGATOR_URL, api_key=key, max_retries=6, timeout=600)
     import anthropic
     if provider == "bedrock":
         return anthropic.AnthropicBedrock(aws_region=os.environ.get("AWS_REGION", "us-east-1"), max_retries=6)
@@ -130,7 +144,57 @@ def make_client(provider):
     return anthropic.Anthropic(max_retries=6)
 
 
+def json_instructions(tool):
+    lines = ["Do not call a tool. Reply with ONLY one JSON object, no other text, with exactly these keys:"]
+    for k, v in tool["input_schema"]["properties"].items():
+        kind = "/".join(v["type"]) if isinstance(v.get("type"), list) else v.get("type")
+        if "enum" in v:
+            kind = " or ".join(f'"{e}"' for e in v["enum"])
+        lines.append(f'- "{k}" ({kind}): {v.get("description", "")}')
+    return "\n".join(lines)
+
+
+def parse_json(text, tool):
+    """Pull the JSON object out of the reply and check the fields and types."""
+    start, end = text.find("{"), text.rfind("}")
+    if start < 0 or end < start:
+        raise ValueError("no JSON object in the reply")
+    out = json.loads(text[start:end + 1])
+    props = tool["input_schema"]["properties"]
+    for k in tool["input_schema"]["required"]:
+        if k not in out:
+            raise ValueError(f"missing key {k}")
+        kind = props[k].get("type")
+        if kind == "number" and not isinstance(out[k], (int, float)):
+            txt = str(out[k]).strip()
+            out[k] = float(txt.replace("%", "")) / (100 if txt.endswith("%") else 1)
+        if kind == "boolean" and isinstance(out[k], str):
+            out[k] = out[k].strip().lower() == "true"
+    return out
+
+
+def call_json(client, model, system, user, tool):
+    """OpenAI-style APIs (NaviGator): ask for plain JSON instead of a tool call, retry if it won't parse."""
+    user = user.replace(f"Call the {tool['name']} tool once with your answer.", "").replace(f"Call the {tool['name']} tool once.", "")
+    msgs = [{"role": "system", "content": system},
+            {"role": "user", "content": user + "\n\n" + json_instructions(tool)}]
+    tin = tout = 0
+    for attempt in range(3):
+        r = client.chat.completions.create(model=model, messages=msgs, temperature=TEMPERATURE, max_tokens=MAX_TOKENS)
+        text = r.choices[0].message.content or ""
+        if r.usage:
+            tin, tout = tin + r.usage.prompt_tokens, tout + r.usage.completion_tokens
+        try:
+            return parse_json(text, tool), tin, tout, r.model
+        except (ValueError, json.JSONDecodeError) as e:
+            msgs = msgs + [{"role": "assistant", "content": text},
+                           {"role": "user", "content": f"That reply could not be read ({e}). Send only the JSON object."}]
+    raise ValueError("model did not return valid JSON after 3 tries")
+
+
 def call_tool(client, model, system, user, tool):
+    if hasattr(client, "chat"):                      # OpenAI-compatible client
+        return call_json(client, model, system, user, tool)
     msg = client.messages.create(
         model=model, max_tokens=MAX_TOKENS, temperature=TEMPERATURE, system=system,
         tools=[tool], tool_choice={"type": "tool", "name": tool["name"]},
@@ -272,7 +336,7 @@ def main():
     ap.add_argument("--run", choices=["full", "no_mdna", "both"])
     ap.add_argument("--probe", action="store_true", help="leak probe: can the model recall FY2025 actuals?")
     ap.add_argument("--summary", action="store_true", help="print MAE vs the baselines")
-    ap.add_argument("--provider", default=PROVIDER, choices=["anthropic", "bedrock"])
+    ap.add_argument("--provider", default=PROVIDER, choices=["anthropic", "bedrock", "navigator"])
     ap.add_argument("--model", default=None)
     ap.add_argument("--tickers", default=None, help="comma list, e.g. CAT,BA")
     ap.add_argument("--limit", type=int, default=None)
@@ -299,7 +363,7 @@ def main():
     if args.limit:
         df = df.head(args.limit)
 
-    model = args.model or ("us.anthropic.claude-sonnet-4-20250514-v1:0" if args.provider == "bedrock" else MODEL)
+    model = args.model or DEFAULT_MODEL[args.provider]
     client = None if args.mock else make_client(args.provider)
     print(f"Model: {model}   provider: {args.provider}   firms: {len(df)}   mock: {args.mock}")
 

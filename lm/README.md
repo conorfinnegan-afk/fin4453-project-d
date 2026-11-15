@@ -6,10 +6,28 @@
 
 ```
 pip install -r lm/requirements.txt
-export ANTHROPIC_API_KEY=sk-ant-...      # Windows PowerShell: $env:ANTHROPIC_API_KEY="sk-ant-..."
 ```
 
-Run everything from the repo root.
+Run everything from the repo root. Pick one of these:
+
+**Free, for UF students: NaviGator Toolkit (Llama 3.3 70B).** Every UF student gets a $100 a month credit for UF's locally hosted models, and both runs cost about $1 of it.
+
+1. Log in at https://api.navigator.ai.ufl.edu/ui with your GatorLink.
+2. Go to **Virtual Keys** and click **Create New Virtual Key**. Set **Team** to `navigator-toolkit` (a key with no team gets "model not available" errors), give it access to `llama-3.3-70b-instruct`, and create it. Copy the key right away; it's only shown once.
+3. Set it, then add `--provider navigator` to every command below:
+
+```
+export NAVIGATOR_TOOLKIT_API_KEY=sk-...        # Windows PowerShell: $env:NAVIGATOR_TOOLKIT_API_KEY="sk-..."
+python lm/forecast.py --provider navigator --run full --limit 3
+```
+
+If UF moves the API again, set `NAVIGATOR_BASE_URL` to the new address (it ends in `/v1`).
+
+**Paid: Anthropic API (Claude Haiku 4.5).** A few dollars for both runs.
+
+```
+export ANTHROPIC_API_KEY=sk-ant-...      # Windows PowerShell: $env:ANTHROPIC_API_KEY="sk-ant-..."
+```
 
 ## Running it
 
@@ -32,7 +50,7 @@ Cost: the full run averages about 32k input tokens per firm and the no-MD&A run 
 | :--- | :--- |
 | `data/lm_forecasts.csv` | `ticker, label, growth, margin`. Labels are `AI full` and `AI no MD&A`. This is what Person 2's notebook picks up. |
 | `lm/output/lm_forecasts_detailed.csv` | Everything: forecasts, backlog summary, both quotes, whether each quote was found in the text, reasoning, confidence, tokens, model served |
-| `lm/output/raw/<run>/<TICKER>.json` | One file per firm per run, the raw answer |
+| `lm/output/raw/<run>/<TICKER>.json` | One file per firm per run, the raw answer. Kept on the computer that ran it and left out of git, since `lm_forecasts_detailed.csv` has the same fields. If you rerun without these files, the script calls the model again for every firm. |
 | `lm/output/leak_probe.csv` | Probe results: does the model claim to know FY2025, what it recalls, and whether that's within 1pp of the actual |
 | `lm/output/run_log.json` | Model ID, cutoffs, temperature, prompt version and hash, token totals, run time. Paste into the AI Use Log. |
 
@@ -54,16 +72,16 @@ Margin is defined as GAAP operating income over revenue, to match `master.csv`. 
 
 The brief says to score only on years after the model's training cutoff. FY2025 results came out in early 2026, so the model can't have seen them if its training data stops before then. The cleaner standard is a cutoff before the 10-Ks were filed (around February 2025).
 
-Every older Claude with a pre-2025 cutoff (3.5 Sonnet, 3.5 Haiku, 3.7 Sonnet) is retired from Anthropic's API. The default is the oldest one still callable:
+| | Llama 3.3 70B (UF NaviGator, free) | Claude Haiku 4.5 (Anthropic API) | Claude Sonnet 4 (AWS Bedrock) |
+| :--- | :--- | :--- | :--- |
+| Model ID | `llama-3.3-70b-instruct` | `claude-haiku-4-5-20251001` | `us.anthropic.claude-sonnet-4-20250514-v1:0` |
+| Knowledge cutoff | Dec 2023 (Meta model card) | Feb 2025 reliable, Jul 2025 training data | Jan 2025 reliable, Mar 2025 training data (confirm on the system card) |
+| Context window | 128k tokens | 200k | 200k |
+| How to run | `--provider navigator` | default | `--provider bedrock`, needs AWS credentials and `pip install boto3` |
 
-| | Claude Haiku 4.5 (default) | Claude Sonnet 4 (optional, AWS Bedrock) |
-| :--- | :--- | :--- |
-| Model ID | `claude-haiku-4-5-20251001` | `us.anthropic.claude-sonnet-4-20250514-v1:0` |
-| Reliable knowledge cutoff | Feb 2025 | Jan 2025 (confirm on the system card) |
-| Training data cutoff | Jul 2025 | Mar 2025 (confirm on the system card) |
-| How to run | default | `--provider bedrock`, needs AWS credentials and `pip install boto3` |
+Llama 3.3 is the cleanest honest test: its training data stops more than a year before FY2025 started, so it can't have seen any 2025 results. It also hasn't seen 2024 news, but it reads the FY2024 10-K and the FY2024 numbers in the prompt, so that's covered. The longest prompt in the sample is about 94k tokens, under its 128k limit. NaviGator doesn't use tool calls here, so the script asks Llama for plain JSON, checks every field, and retries up to 3 times if the reply won't parse.
 
-Neither one has seen full-year FY2025 results. Haiku 4.5's training data does run into mid-2025, so it may have seen Q1 or Q2 2025 earnings for some firms. That's a partial leak and the memo should say so. Three things limit it:
+Every older Claude with a pre-2025 cutoff (3.5 Sonnet, 3.5 Haiku, 3.7 Sonnet) is retired from Anthropic's API, so Haiku 4.5 is the oldest Claude still callable. Neither Claude option has seen full-year FY2025 results. Haiku 4.5's training data does run into mid-2025, so it may have seen Q1 or Q2 2025 earnings for some firms. That's a partial leak and the memo should say so. Three things limit it:
 
 1. Company names, short brand names, tickers of 3+ letters and website addresses are replaced with "the Company" before the text goes to the model. This is partial. Segment names and dollar figures still give big firms away (CAT's $64.8 billion revenue, for example).
 2. The system prompt tells the model not to use anything after February 2025.

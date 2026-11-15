@@ -1,3 +1,4 @@
 anthropic>=0.40
+openai>=1.0     # only for --provider navigator
 pandas
 # boto3  # only for --provider bedrock
