@@ -1,0 +1,24 @@
+{
+  "model_requested": "llama-3.3-70b-instruct",
+  "model_served": [
+    "llama-3.3-70b-instruct"
+  ],
+  "provider": "navigator",
+  "temperature": 0.0,
+  "max_tokens": 1500,
+  "anonymized": true,
+  "prompt_version": "v1.0",
+  "prompt_sha256": "9a51f8c2fcc61005",
+  "runs": [
+    "AI full",
+    "AI no MD&A"
+  ],
+  "firms": 53,
+  "input_tokens": 1838908,
+  "output_tokens": 26580,
+  "run_finished": "2026-11-15T14:06:34",
+  "mock": false,
+  "reliable_knowledge_cutoff": "Dec 2023",
+  "training_data_cutoff": "Dec 2023",
+  "source": "Meta Llama 3.3 model card, huggingface.co/meta-llama/Llama-3.3-70B-Instruct (pretraining data cutoff December 2023)"
+}
