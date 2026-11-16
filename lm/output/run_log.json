@@ -14,9 +14,9 @@
     "AI no MD&A"
   ],
   "firms": 53,
-  "input_tokens": 1838908,
-  "output_tokens": 26580,
-  "run_finished": "2026-11-15T14:06:34",
+  "input_tokens": 1821825,
+  "output_tokens": 26533,
+  "run_finished": "2026-11-16T17:38:52",
   "mock": false,
   "reliable_knowledge_cutoff": "Dec 2023",
   "training_data_cutoff": "Dec 2023",
