@@ -1,0 +1,28 @@
+ticker,growth,margin,growth_step,growth_evidence,margin_note,raw_growth
+CMI,0.0,0.11,G3,"2025 Outlook lists trends only, no revenue figure; no backlog/orders figure",M2: FY24 margin,0.00109
+FLS,0.04,0.101,G2,"backlog FPD $1,930.4M + FCD $869.6M vs $1,891.7M + $826.8M; 'expect annual revenue growth' has no size",M2: FY24 margin,0.04244
+GD,0.05,0.101,G2,"backlog $90.6B vs $93.6B; revenue guidance is by segment only, not company-wide",M2: FY24 margin,0.04837
+HII,0.01,0.046,G2,backlog $48.7B vs $48.1B,M2: FY24 margin,0.00977
+HUBB,-0.07,0.194,G2,"backlog $1,898M vs $2,328M",M2: FY24 margin,-0.06857
+IEX,-0.0,0.207,G3,no backlog/orders figure; no revenue guidance,M2: FY24 margin,-0.00156
+IR,0.045,0.182,G2,"orders, sum of 2 segments: $7,105.5M vs $6,822.4M",M2 adj: +$13.9M intangible impairment,0.04685
+ITT,0.105,0.187,G3,no backlog/orders figure; no revenue guidance,M2: FY24 margin,0.10591
+ITW,-0.015,0.268,G3,no backlog/orders figure; no revenue guidance,M2: FY24 margin,-0.01298
+LECO,-0.045,0.159,G3,no backlog/orders figure; no revenue guidance,M2: FY24 margin,-0.04365
+LMT,0.075,0.099,G2,backlog $176.0B vs $160.6B,M2: FY24 margin,0.07364
+NOC,0.065,0.106,G2,backlog $91.5B vs $84.2B,M2: FY24 margin,0.06553
+PNR,-0.09,0.197,G2,backlog $611.2M vs $738.3M (-17.2%),"M2 adj: +$6.3M impairment, -$7.5M legal accrual reversal",-0.08872
+RTX,0.14,0.096,G2,backlog $218B vs $196B,M2 adj: +$918M legal settlements (DPAs/SEC/FCA) +$300M impairments,0.14186
+TKR,-0.025,0.134,G1,guidance: 2025 revenue 'down 4% to 1%' -> midpoint -2.5%,M2: FY24 margin,-0.025
+TT,0.05,0.176,G2,"backlog $6,747.7M vs $6,930.5M",M2: FY24 margin,0.04792
+WAB,0.075,0.155,G3,"backlog $22.3B given for 2024 only, no 2023 comparison",M2: FY24 margin,0.07337
+WSO,0.045,0.103,G3,no backlog/orders figure; no revenue guidance,M2: FY24 margin,0.04593
+ALLE,0.035,0.207,G3,only a currency comment for 2025; no backlog/orders figure,M2: FY24 margin,0.03325
+AWI,0.115,0.259,G3,no backlog/orders figure; no revenue guidance,M2: FY24 margin,0.1162
+DOV,0.04,0.156,G2,bookings +7.3% to $7.7B,M2: FY24 margin,0.0405
+GWW,0.04,0.154,G3,no backlog/orders figure; no revenue guidance,M2: FY24 margin,0.04187
+HWM,0.12,0.22,G3,'projects sales to increase' has no size; no backlog figure,M2: FY24 margin,0.11898
+LII,0.07,0.196,G3,no backlog/orders figure; no revenue guidance,M2 adj: +$6.8M environmental and special litigation charges,0.07214
+MAS,-0.015,0.174,G3,no backlog/orders figure; no revenue guidance,M2: FY24 margin,-0.01745
+OTIS,0.005,0.141,G3,no backlog/orders figure; no revenue guidance,M2: FY24 margin,0.00366
+WTS,0.095,0.173,G3,no backlog/orders figure; no revenue guidance,M2: FY24 margin,0.09527

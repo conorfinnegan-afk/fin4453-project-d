@@ -1,0 +1,54 @@
+ticker,company,backlog_firm,blind,revenue_fy22_$m,revenue_fy23_$m,revenue_fy24_$m,growth_fy23,growth_fy24,margin_fy22,margin_fy23,margin_fy24,my_growth_fy25,my_margin_fy25,backlog_note
+AME,Ametek,yes,yes,6151,6597,6941,0.073,0.052,0.244,0.259,0.256,0.01,0.256,"G2: backlog ?3.7% (L32), FY24 +5.2% ? 0.75% ? 1.0%; M2: FY24 25.6%, no impairment"
+CMI,Cummins,yes,yes,28074,34065,34102,0.213,0.001,0.104,0.052,0.11,0,0.11,G3: FY24 growth +0.11% -> 0.000; M2: FY24 margin -> 0.110 [rule applied by Claude]
+DY,Dycom Industries,yes,yes,3131,3808,4176,0.217,0.096,0.017,0.047,0.07,,,EXCLUDED: text file is the FY2025 10-K (answer is in it)
+EMR,Emerson Electric,yes,yes,13804,15165,17492,0.099,0.153,0.176,0.191,0.116,,,EXCLUDED: text file is the FY2025 10-K (answer is in it)
+FLS,Flowserve Corporation,yes,yes,3615,4321,4558,0.195,0.055,0.055,0.077,0.101,0.04,0.101,"G2: change +3.0%, FY24 +5.5% -> +4.24% -> 0.040; M2: FY24 margin -> 0.101 [rule applied by Claude]"
+GD,General Dynamics,yes,yes,39407,42272,47716,0.073,0.129,0.107,0.1,0.101,0.05,0.101,"G2: change -3.2%, FY24 +12.9% -> +4.84% -> 0.050; M2: FY24 margin -> 0.101 [rule applied by Claude]"
+HII,Huntington Ingalls Industries,yes,yes,10676,11454,11535,0.073,0.007,0.053,0.068,0.046,0.01,0.046,"G2: change +1.2%, FY24 +0.7% -> +0.98% -> 0.010; M2: FY24 margin -> 0.046 [rule applied by Claude]"
+HUBB,Hubbell Incorporated,yes,yes,4948,5373,5628,0.086,0.048,0.143,0.191,0.194,-0.07,0.194,"G2: change -18.5%, FY24 +4.8% -> -6.86% -> -0.070; M2: FY24 margin -> 0.194 [rule applied by Claude]"
+IEX,IDEX Corporation,yes,yes,3182,3274,3269,0.029,-0.002,0.236,0.224,0.207,0,0.207,G3: FY24 growth -0.16% -> 0.000; M2: FY24 margin -> 0.207 [rule applied by Claude]
+IR,Ingersoll Rand,yes,yes,5916,6876,7235,0.162,0.052,0.138,0.169,0.18,0.045,0.182,"G2: change +4.1%, FY24 +5.2% -> +4.68% -> 0.045; M2 adj: +$13.9M intangible impairment -> 0.182 [rule applied by Claude]"
+ITT,ITT Inc.,yes,yes,2988,3283,3631,0.099,0.106,0.157,0.162,0.187,0.105,0.187,G3: FY24 growth +10.59% -> 0.105; M2: FY24 margin -> 0.187 [rule applied by Claude]
+ITW,Illinois Tool Works,yes,yes,15932,16107,15898,0.011,-0.013,0.238,0.251,0.268,-0.015,0.268,G3: FY24 growth -1.30% -> -0.015; M2: FY24 margin -> 0.268 [rule applied by Claude]
+J,Jacobs Solutions,yes,yes,9783,10851,11501,0.109,0.06,0.055,0.062,0.06,,,EXCLUDED: text file is the FY2025 10-K (answer is in it)
+JCI,Johnson Controls International,yes,yes,20637,22331,22952,0.082,0.028,0.054,0.05,0.066,,,EXCLUDED: text file is the FY2025 10-K (answer is in it)
+LECO,Lincoln Electric Holdings,yes,yes,3761,4192,4009,0.114,-0.044,0.163,0.171,0.159,-0.045,0.159,G3: FY24 growth -4.37% -> -0.045; M2: FY24 margin -> 0.159 [rule applied by Claude]
+LMT,Lockheed Martin,yes,yes,65984,67571,71043,0.024,0.051,0.127,0.126,0.099,0.075,0.099,"G2: change +9.6%, FY24 +5.1% -> +7.36% -> 0.075; M2: FY24 margin -> 0.099 [rule applied by Claude]"
+NOC,Northrop Grumman,yes,yes,36602,39290,41033,0.073,0.044,0.098,0.065,0.106,0.065,0.106,"G2: change +8.7%, FY24 +4.4% -> +6.55% -> 0.065; M2: FY24 margin -> 0.106 [rule applied by Claude]"
+PNR,Pentair,yes,yes,4122,4104,4083,-0.004,-0.005,0.144,0.18,0.197,-0.09,0.197,"G2: change -17.2%, FY24 -0.5% -> -8.87% -> -0.090; M2 adj: +$6.3M impairment, -$7.5M legal accrual reversal -> 0.197 [rule applied by Claude]"
+ROK,Rockwell Automation,yes,yes,7760,9058,8264,0.167,-0.088,0.138,0.213,0.193,,,EXCLUDED: text file is the FY2025 10-K (answer is in it)
+RTX,RTX Corporation,yes,yes,67074,68920,80738,0.028,0.171,0.082,0.052,0.081,0.14,0.096,"G2: change +11.2%, FY24 +17.1% -> +14.19% -> 0.140; M2 adj: +$918M legal settlements (DPAs/SEC/FCA) +$300M impairments -> 0.096 [rule applied by Claude]"
+TKR,Timken Company,yes,yes,4497,4769,4573,0.061,-0.041,0.135,0.138,0.134,-0.025,0.134,G1: guidance midpoint -2.5% -> -0.025; M2: FY24 margin -> 0.134 [rule applied by Claude]
+TT,Trane Technologies,yes,yes,15992,17678,19838,0.105,0.122,0.151,0.164,0.176,0.05,0.176,"G2: change -2.6%, FY24 +12.2% -> +4.79% -> 0.050; M2: FY24 margin -> 0.176 [rule applied by Claude]"
+WAB,Wabtec,yes,yes,8362,9677,10387,0.157,0.073,0.121,0.131,0.155,0.075,0.155,G3: FY24 growth +7.34% -> 0.075; M2: FY24 margin -> 0.155 [rule applied by Claude]
+WSO,Watsco Inc.,yes,yes,7274,7284,7618,0.001,0.046,0.114,0.109,0.103,0.045,0.103,G3: FY24 growth +4.59% -> 0.045; M2: FY24 margin -> 0.103 [rule applied by Claude]
+ALLE,Allegion,no,yes,3272,3651,3772,0.116,0.033,0.179,0.194,0.207,0.035,0.207,G3: FY24 growth +3.33% -> 0.035; M2: FY24 margin -> 0.207 [rule applied by Claude]
+AWI,Armstrong World Industries,no,yes,1233,1295,1446,0.05,0.116,0.226,0.25,0.259,0.115,0.259,G3: FY24 growth +11.62% -> 0.115; M2: FY24 margin -> 0.259 [rule applied by Claude]
+DOV,Dover Corporation,no,yes,7844,7684,7746,-0.02,0.008,0.163,0.159,0.156,0.04,0.156,"G2: change +7.3%, FY24 +0.8% -> +4.05% -> 0.040; M2: FY24 margin -> 0.156 [rule applied by Claude]"
+GWW,W.W. Grainger,no,yes,15228,16478,17168,0.082,0.042,0.145,0.156,0.154,0.04,0.154,G3: FY24 growth +4.19% -> 0.040; M2: FY24 margin -> 0.154 [rule applied by Claude]
+HWM,Howmet Aerospace,no,yes,5663,6640,7430,0.173,0.119,0.162,0.181,0.22,0.12,0.22,G3: FY24 growth +11.90% -> 0.120; M2: FY24 margin -> 0.220 [rule applied by Claude]
+LII,Lennox International,no,yes,4718,4982,5341,0.056,0.072,0.139,0.159,0.195,0.07,0.196,G3: FY24 growth +7.21% -> 0.070; M2 adj: +$6.8M environmental and special litigation charges -> 0.196 [rule applied by Claude]
+MAS,Masco,no,yes,8680,7967,7828,-0.082,-0.017,0.149,0.169,0.174,-0.015,0.174,G3: FY24 growth -1.74% -> -0.015; M2: FY24 margin -> 0.174 [rule applied by Claude]
+NDSN,Nordson Corporation,no,yes,2590,2629,2690,0.015,0.023,0.271,0.256,0.251,,,EXCLUDED: text file is the FY2025 10-K (answer is in it)
+OTIS,Otis Worldwide,no,yes,13685,14209,14261,0.038,0.004,0.149,0.154,0.141,0.005,0.141,G3: FY24 growth +0.37% -> 0.005; M2: FY24 margin -> 0.141 [rule applied by Claude]
+WTS,Watts Water Technologies,no,yes,1980,2056,2252,0.039,0.095,0.159,0.171,0.173,0.095,0.173,G3: FY24 growth +9.53% -> 0.095; M2: FY24 margin -> 0.173 [rule applied by Claude]
+BA,Boeing,yes,no,66608,77794,66517,0.168,-0.145,-0.053,-0.01,-0.161,,,
+CARR,Carrier Global,yes,no,17288,18951,22486,0.096,0.187,0.23,0.114,0.118,,,
+CAT,Caterpillar Inc.,yes,no,59427,67060,64809,0.128,-0.034,0.133,0.193,0.202,,,
+DD,DuPont de Nemours,yes,no,13017,6614,6719,-0.492,0.016,0.111,-0.042,0.017,,,
+DE,Deere & Company,yes,no,52577,61251,51716,0.165,-0.156,0.181,0.212,0.175,,,
+EME,Emcor,yes,no,11076,12583,14566,0.136,0.158,0.051,0.07,0.092,,,
+FIX,Comfort Systems USA,yes,no,4140,5207,7027,0.258,0.35,0.061,0.08,0.107,,,
+OSK,Oshkosh Corporation,yes,no,8282,9658,10730,0.166,0.111,0.045,0.087,0.094,,,
+PCAR,PACCAR,yes,no,28820,35127,33664,0.219,-0.042,0.134,0.163,0.16,,,
+PH,Parker Hannifin,yes,no,15862,19065,19930,0.202,0.045,0.188,0.179,0.204,,,
+PWR,Quanta Services,yes,no,17074,20882,23673,0.223,0.134,0.051,0.054,0.057,,,
+TEX,Terex Corporation,yes,no,3155,2676,2820,-0.152,0.054,0.264,0.187,0.211,,,
+VRT,Vertiv,yes,no,5692,6863,8012,0.206,0.167,0.039,0.127,0.171,,,
+XYL,Xylem Inc.,yes,no,5522,7364,8562,0.334,0.163,0.113,0.089,0.118,,,
+AXON,Axon Enterprise,no,no,1187,1561,2083,0.315,0.334,0.078,0.1,0.028,,,
+FTV,Fortive,no,no,5826,3914,4081,-0.328,0.043,0.169,0.147,0.176,,,
+GNRC,Generac,no,no,4565,4023,4296,-0.119,0.068,0.124,0.096,0.125,,,
+MMM,3M,no,no,26161,24610,24575,-0.059,-0.001,0.167,-0.434,0.196,,,
+TDG,TransDigm Group,no,no,5429,6585,7940,0.213,0.206,0.408,0.444,0.445,,,
