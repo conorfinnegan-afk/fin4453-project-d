@@ -1,4 +1,5 @@
 # FIN 4453 Capstone — Project D Data Pipeline (Fall 2026)
+** SCOPED ONLY FOR CONOR's DATA SCRAPING **
 
 This repository contains the standardized, versioned data pipeline and deliverables for **Project D (Industrials Backlog Forecasting)**. 
 Downstream teammates (Person 2: DCF / Baseline Forecaster, Person 3: Language Model Pipeline, Person 4: Validation & Scoring) can consume these files directly without querying EDGAR or XBRL.
