@@ -36,4 +36,8 @@ Save `data/lm_forecasts.csv` with columns `ticker, label, growth, margin` (decim
 
 ## Main modelling choices
 
-Year-1 growth is the forecast, and it fades in a straight line to 2.5% by year 5 (FY2029). Reinvestment is max(growth, 0) / ROIC, so faster growth costs cash. WACC (8.8%), terminal growth, tax (25%) and ROIC (20%) are the same for every forecast, and Part 4 shows they don't change which forecast wins.
+Year-1 growth is the forecast, and it fades in a straight line to 2.5% by year 5 (FY2029). Reinvestment is max(growth, 0) / ROIC, so faster growth costs cash. WACC (8.8%), terminal growth, tax (25%) and ROIC (20%) are the same for every forecast, and Part 4 shows changing them one at a time doesn't change the order. Giving each firm its own inputs (Part 5) does reshuffle the model against "last year".
+
+## Validation
+
+`../eval/03_validation.ipynb` checks the model's output (quotes, backlog read, leak) and recomputes the headline numbers a second way, including the bootstrap without the four flagged firms.

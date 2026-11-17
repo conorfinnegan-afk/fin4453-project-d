@@ -30,8 +30,9 @@ Repo: `https://github.com/conorfinnegan-afk/fin4453-project-d` (public, built by
 | `output/baseline_forecasts.csv` | One row per firm (53): `base_growth, base_margin, last_growth, last_margin, actual_growth, actual_margin, backlog, flag`. Index `ticker`. |
 | `output/dcf_valuations.csv` | One row per firm per scenario: `ticker, scenario, growth, margin, ev, ev_perfect_foresight, err_growth_only, err_margin_part, err_full`. |
 | `HANDOFF.md` | This file. |
+| `../eval/03_validation.ipynb` | Person 4's validation (Agnivesh took this over on 17 Nov): output checks, quote grounding, backlog flag agreement, leak checks, the headline numbers recomputed a second way, and which Lecture 1 check backs each number. Writes `eval/output/quote_check.csv` and `verification_scorecard.csv`. Run from `eval/`. |
 
-Nothing outside `dcf/` was modified. Don't edit `data/` or `scripts/`; they belong to Person 1.
+Outside `dcf/`, Person 2 added `scripts/pull_xbrl_extra.py` and `scripts/pull_market_data.py` (and their outputs in `data/`), `data/rule_labels.csv` with its evidence file, and the fiscal-2024 filing fixes in Section 7. Otherwise `data/` and `scripts/` belong to Person 1.
 
 Requirements: `pandas`, `numpy`; `numpy-financial` optional (one check only, wrapped in try/except). To open: `jupyter` or VS Code + `ipykernel`. The notebook must run with `dcf/` as the working directory because it reads `../data/master.csv` and writes `output/`.
 
@@ -109,6 +110,8 @@ Paired bootstrap on growth error (10,000 draws, firms resampled):
 | AI full vs last year | −0.8pp, not distinguishable | −1.4pp, not distinguishable | +0.6pp, not distinguishable |
 | AI full vs no MD&A | −0.5pp, not distinguishable | −0.6pp, not distinguishable | −0.2pp, not distinguishable |
 
+The all-firm result depends on the four flagged firms. Without BA, DD, FTV and MMM (`eval/03_validation.ipynb`, Part 5): AI full vs 3-yr average −0.9pp [−2.5, +0.7], backlog ex-flagged −1.6pp [−3.6, +0.3], neither distinguishable. The two biggest wins are DD and FTV, where the 3-yr average averages over a restated FY2022. Firm by firm, AI full beats the 3-yr average on 27 of 53 and last year on 21 of 53. In dollars (summed absolute growth-only miss): 3-yr $134bn, last year $132bn, AI full $101bn; ex-flagged $107bn / $101bn / $83bn.
+
 Valuation error (median absolute, growth only, all 53): last year 4.4%, AI full 5.2%, 3-yr 5.3%, no MD&A 5.5%. Means tell the other half: AI full 7.6% vs last year 9.0% vs 3-yr 11.1%, so the AI mostly avoids large misses rather than winning the typical firm. Backlog firms, median growth-only: AI full 5.2%, 3-yr 5.9%, last year 7.6%. Growth and margin combined, median: 3-yr 11.4%, last year 9.1%, AI full 9.5%, no MD&A 8.7%.
 
 Decomposition (ex-flagged, median): 3-yr average growth part 4.9%, margin part 11.5%; AI full 5.2% and 6.1%. Margin drove the 3-yr average's valuation gap; the AI closed most of it by tracking the latest margin.
@@ -139,8 +142,8 @@ Level check: ~1.7x EV/revenue is about half Damodaran's Machinery EV/Sales of 3.
 
 1. **Firm-specific scenario:** done (see Section 6, notebook Part 5).
 2. **Quantified-backlog split:** done (see Section 6).
-3. **Person 4:** memo, AI Use Log, Part #4 slides. The AI Use Log must cover the model runs, the rule labels (applied with Claude) and Claude's help on the DCF and data fixes.
-4. **Memo:** Prof. Wu's three-sentence format from Lecture 8. State that the growth-vs-margin split depends on the fade, and disclose the leak and its fix.
+3. **Person 4's work:** Agnivesh took it over on 17 Nov. Validation notebook done (`eval/03_validation.ipynb`). Memo (Prof. Wu's three sentences from Lecture 8) and AI Use Log (Lecture 1's four questions) are in a Claude doc, with a copy in `eval/MEMO_AND_AI_USE_LOG.md`. Teammates still need to fill in their own lines of the AI Use Log.
+4. **Slides:** handed off by Agnivesh to a teammate. The Part 2 slide-content doc has the clean numbers.
 
 ## 9. Style rules (follow these if you edit the notebook)
 

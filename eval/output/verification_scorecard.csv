@@ -1,0 +1,14 @@
+number,check,where
+Growth MAE: 6.5% / 5.6% / 4.8% / 5.3%,independent method,"Part 4: rebuilt from raw files, matches notebook"
+"AI vs 3-yr average, all 53: -1.7pp, reliably better",independent method,"Part 5: second bootstrap, seed 1, matrix draws"
+"AI vs 3-yr average, ex-flagged: -0.9pp, not distinguishable",independent method,Part 5: new in this notebook
+AI vs last year: not distinguishable in any group,independent method,Part 5
+Every EV in dcf_valuations.csv,closed form,"Part 6: array formula, all 212 rows"
+CAT valuation,hand calculation,Part 6: five rounded steps in $bn
+"DCF engine (npv, Gordon, scaling)",closed form,dcf notebook Part 2
+Forecast values,sanity bounds,"Part 1: growth in [-30%, 40%], margin in [-20%, 50%]"
+Quotes in filing: 89% (97% with close paraphrases),independent method,Part 2: five-word pieces vs script's exact match
+Backlog flag: model = quantified rule on 53 of 53,independent method,Part 2: regex rule vs model
+No leak: 0 of 53 recalled; AI no closer to actuals than last year,sanity bounds,Part 3
+Numbers in quotes found in context: 94%,independent method,Part 2: number plus neighbouring word
+Summed growth miss: $134bn vs $101bn,independent method,Part 6: from the closed-form EVs
