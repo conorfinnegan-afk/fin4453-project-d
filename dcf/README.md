@@ -17,7 +17,11 @@
 
 `output/baseline_forecasts.csv` has one row per firm: baseline and last-year growth and margin, the actuals, and the `backlog` and `flag` columns.
 
-`output/dcf_valuations.csv` has one row per firm per scenario: `ev`, `ev_actual`, `err_growth_only`, `err_margin_part`, `err_full`.
+`output/dcf_valuations.csv` has one row per firm per scenario: `ev`, `ev_perfect_foresight` (our DCF fed actual FY2025 results, not a market value), `err_growth_only`, `err_margin_part`, `err_full`.
+
+## Backlog rule
+
+`data/rule_labels.csv` holds a mechanical backlog rule applied to 28 firms (applied with Claude, evidence in `data/rule_labels_evidence.csv`). The notebook scores every scenario on those 28 firms in Part 3.
 
 ## Adding the model's forecasts
 

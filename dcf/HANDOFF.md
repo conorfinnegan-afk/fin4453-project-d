@@ -28,7 +28,7 @@ Repo: `https://github.com/conorfinnegan-afk/fin4453-project-d` (public, built by
 | `02_dcf_baseline.ipynb` | The deliverable. Runs top to bottom from `../data/master.csv`, saved with outputs. **This is the source of truth; edit it directly.** |
 | `README.md` | Short user guide (what's in each part, outputs, how to add LM forecasts). |
 | `output/baseline_forecasts.csv` | One row per firm (53): `base_growth, base_margin, last_growth, last_margin, actual_growth, actual_margin, backlog, flag`. Index `ticker`. |
-| `output/dcf_valuations.csv` | One row per firm per scenario: `ticker, scenario, growth, margin, ev, ev_actual, err_growth_only, err_margin_part, err_full`. |
+| `output/dcf_valuations.csv` | One row per firm per scenario: `ticker, scenario, growth, margin, ev, ev_perfect_foresight, err_growth_only, err_margin_part, err_full`. |
 | `HANDOFF.md` | This file. |
 
 Nothing outside `dcf/` was modified. Don't edit `data/` or `scripts/`; they belong to Person 1.
@@ -91,50 +91,52 @@ These were all discussed and agreed with Person 2. Don't change them without a r
 
 Caveat for the memo: the Damodaran tables are January 2026, the valuation date is February 2025. It's a small effect; one line in the memo is enough.
 
-## 6. Results so far (benchmarks only, no LM forecasts yet)
+## 6. Results on clean data (updated 17 Nov 2026)
 
-Growth and margin accuracy, FY2025 MAE:
+All 53 firms, after the fiscal-year fix in Section 7. Growth and margin MAE against actual FY2025:
 
-| Group | n | growth, 3-yr | growth, last yr | 3-yr growth bias | margin, 3-yr | margin, last yr |
-| :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| all | 53 | 6.51% | 5.61% | +1.08% | 2.82% | 1.87% |
-| backlog | 38 | 7.47% | 6.59% | +1.82% | 2.42% | 1.95% |
-| no backlog | 15 | 4.10% | 3.14% | −0.77% | 3.83% | 1.67% |
-| ex-flagged | 49 | 5.42% | 4.98% | +2.80% | 2.36% | 1.54% |
+| Group | n | 3-yr avg | Last year | AI full | AI no MD&A | Margin: 3-yr / last / AI full |
+| :--- | ---: | ---: | ---: | ---: | ---: | :--- |
+| all | 53 | 6.5% | 5.6% | **4.8%** | 5.3% | 2.8% / 1.9% / 1.8% |
+| backlog | 38 | 7.5% | 6.6% | **5.2%** | 5.8% | 2.4% / 2.0% / 1.7% |
+| no backlog | 15 | 4.1% | **3.1%** | 3.8% | 4.0% | 3.8% / 1.7% / 2.0% |
 
-Valuation error (median absolute), growth-only version: 3-yr average 5.3%, last year 4.4% (all 53). By group the ranking flips: among backlog firms the 3-yr average is better (5.9% vs 7.6%), and ex-flagged too (4.7% vs 5.4%). Full version: 11.4% vs 9.1%.
+Paired bootstrap on growth error (10,000 draws, firms resampled):
 
-Decomposition (ex-flagged, median): for the 3-yr average, growth part 4.9%, margin part 11.5%; the margin part is bigger for about 71% of firms. Without the fade the growth part about doubles (9.6%). So **margin misses drive valuation error more than growth misses**, partly by construction (EV ∝ margin; growth only drives year 1). This matters for the story: an LM that nails backlog-driven growth gains less in value terms than in accuracy terms.
+| Comparison | All 53 | Backlog (38) | No backlog (15) |
+| :--- | :--- | :--- | :--- |
+| AI full vs 3-yr avg | −1.7pp [−3.6, −0.0] reliably better | −2.3pp [−4.5, −0.2] reliably better | −0.3pp, not distinguishable |
+| AI full vs last year | −0.8pp, not distinguishable | −1.4pp, not distinguishable | +0.6pp, not distinguishable |
+| AI full vs no MD&A | −0.5pp, not distinguishable | −0.6pp, not distinguishable | −0.2pp, not distinguishable |
 
-Sensitivity (median firm: growth 6.7%, margin 15.2%, EV ≈ 1.73x FY2024 revenue). Swing per percentage point: WACC 0.29, terminal growth 0.18, margin 0.11, year-1 growth 0.026, tax 0.023, ROIC 0.017 (in x revenue). Ranked by raw swing, margin comes first only because it was varied over a wider range; that's the Lecture 8 tornado warning, and the table reports ranges for that reason.
+Valuation error (median absolute, growth only, all 53): last year 4.4%, AI full 5.2%, 3-yr 5.3%, no MD&A 5.5%. Means tell the other half: AI full 7.6% vs last year 9.0% vs 3-yr 11.1%, so the AI mostly avoids large misses rather than winning the typical firm. Backlog firms, median growth-only: AI full 5.2%, 3-yr 5.9%, last year 7.6%. Growth and margin combined, median: 3-yr 11.4%, last year 9.1%, AI full 9.5%, no MD&A 8.7%.
 
-Robustness: the same benchmark wins under all 10 alternative settings (WACC ±1pp, WACC 8.2% with ERP 4.33%, g 1.5%/3.5%, tax 21%, ROIC 15%/25%, no fade). The fixed assumptions change the size of errors, not the ranking.
+Decomposition (ex-flagged, median): 3-yr average growth part 4.9%, margin part 11.5%; AI full 5.2% and 6.1%. Margin drove the 3-yr average's valuation gap; the AI closed most of it by tracking the latest margin.
 
-Level check: the model's ~1.7x EV/revenue is about half Damodaran's Machinery EV/Sales of 3.43x ([psdata.html](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/psdata.html)). That's fine for a ratio-based comparison, but these aren't price targets.
+Secondary split (`backlog_quantified.csv`, rule in `flag_quantified_backlog.py`): 29 firms whose 10-K quantifies the change in backlog, 24 that don't. Growth MAE, quantified: AI full 5.6%, last year 6.8%, 3-yr 7.1%; not quantified: AI full 3.8%, last year 4.2%, 3-yr 5.8%. The AI's edge over the 3-yr average is similar in both groups; over last year it is larger where backlog is quantified (−1.2pp vs −0.4pp). No gap in this split clears the bootstrap. The rule was fixed before results were split by it; the 38/15 split stays primary.
 
-## 7. How the LM forecasts plug in (Person 3 → Person 2)
+Robustness: the median growth-only ranking (last year first) holds in all 10 settings (base + 9 alternatives).
 
-Save `data/lm_forecasts.csv`:
+Backlog rule (28 firms, 19 backlog / 9 not; `data/rule_labels.csv`): growth MAE rule 3.9%, AI full 3.1%, AI no MD&A 2.7%, 3-yr 3.4%, last year 3.3%. On backlog firms the AI beats the rule by 1.8pp [−3.5, −0.4]. The rule's backlog step (G2) fails on firms like PNR and HUBB, whose backlog fell 17–18% as supply-chain backlogs normalised while sales kept growing; PNR's 10-K says outright that backlog isn't an indicator of 2025 sales. Reading context beats reading the number. The 28 firms exclude the most dramatic movers, so compare within that table only.
 
-| column | meaning |
-| :--- | :--- |
-| `ticker` | matches `master.csv` |
-| `label` | one per run, e.g. `AI full`, `AI no MD&A` |
-| `growth` | FY2025 revenue growth forecast, decimal |
-| `margin` | FY2025 operating margin forecast, decimal |
+Sensitivity (median firm: growth 6.7%, margin 15.2%, EV ≈ 1.73x FY2024 revenue). Swing per point, as % of EV: WACC 16.8, terminal growth 10.2, margin 6.6, year-1 growth 1.5, tax 1.3, ROIC 1.0.
 
-Rerun the notebook. Each label becomes a scenario in every table, the decomposition, the robustness check and `dcf_valuations.csv`. Firms missing from a run fall back to the baseline and the notebook prints how many. This path was tested with a synthetic file (two labels, two missing firms) and worked. If Person 3's script outputs a different format (e.g. JSON with quotes), write a small adapter to this CSV rather than changing the notebook. Percentages must be decimals.
+Level check: ~1.7x EV/revenue is about half Damodaran's Machinery EV/Sales of 3.43x. `ev_perfect_foresight` is our DCF fed actual FY2025 results, not a market value; every forecast is scored as a ratio to it, so the level cancels.
 
-**Critical issue for Person 3/4: training cutoff.** FY2025 results were published roughly Jan–Mar 2026. A model whose training data extends past about January 2026 may already know actual FY2025 revenue, which breaks the "honest test". The brief requires testing only on years after the model's cutoff. Record the exact model, version and cutoff in the AI Use Log, and if the cutoff is too late, say so in the memo.
+## 7. Data problems found and fixed
 
-## 8. What's next
+**Fiscal-year leak (fixed 16 Nov).** `scripts/pull_filings.py` took the first 10-K "filed in 2025". For the 9 non-December filers (DE, DY, EMR, J, JCI, NDSN, PH, ROK, TDG) that was the FY2025 10-K, so the answer was in the text, and the model copied it (J and NDSN growth and TDG margin matched actuals exactly). The 18 text files were replaced with the fiscal-2024 10-Ks (Dycom: fiscal year ended 27 Jan 2024) and Person 3 reran those 9 firms (commits 5708a93, dc488bd). The script itself still has the bug if anyone reruns it.
 
-1. **Person 3:** produce `data/lm_forecasts.csv` (full 10-K run, and the no-MD&A run if doing the ablation).
-2. **Rerun the notebook** and read every table again, especially the robustness table: if the winner flips under a plausible setting, report it.
-3. **Person 4:** score accuracy on FY2025 only; report the LM against both benchmarks; split by `backlog` (the 15 non-backlog firms are a control group: an edge only on backlog firms supports the thesis); report with and without the four flags; keep M&A-driven wins (XYL, CARR) separate from backlog wins.
-4. **Memo:** use Prof. Wu's three-sentence format from Lecture 8: the number and the gap, the assumption carrying it with its magnitude, and a specific condition under which you'd be wrong. State that the growth-vs-margin split depends on the fade.
+**Table-of-contents extractions.** Several Item 7 files start at the 10-K's table of contents and run through Items 1–6 before the MD&A: GNRC, HUBB, HII, LII, PWR, RTX, FLS, WSO (and IR's Item 1). The MD&A is inside each, so nothing is missing; it is extra text. Deere and Dycom were extracted by hand.
 
-Optional improvements nobody has asked for yet: date-matched (Jan 2025) Damodaran inputs; industry-specific ROIC (no industry column exists in `firm_list.csv`, so it would need a hand mapping); a bootstrap confidence interval on the median errors, since n = 53 and the gaps between methods are small.
+**Plug-in format for model forecasts:** `data/lm_forecasts.csv` with `ticker, label, growth, margin` (decimals). Rerunning `lm/forecast.py` with `--tickers` overwrites the file with only those firms; to redo a subset, delete their JSONs in `lm/output/raw/` and run without `--tickers`.
+
+## 8. What's next (as of 17 Nov)
+
+1. **Firm-specific scenario (robustness).** A teammate pointed out that every firm shares one WACC and a growth/ROIC reinvestment rule. Plan: Conor runs `scripts/pull_xbrl_extra.py` and `scripts/pull_market_data.py` (cash, debt, shares, capex, D&A, working capital; price at the valuation date, 52-week range, beta), then a second DCF scenario uses firm-specific WACC and reinvestment and reports whether the forecast ranking holds. An appendix chart compares per-share values with the 52-week range. The main test stays as is.
+2. **Quantified-backlog split:** done (see Section 6).
+3. **Person 4:** memo, AI Use Log, Part #4 slides. The AI Use Log must cover the model runs, the rule labels (applied with Claude) and Claude's help on the DCF and data fixes.
+4. **Memo:** Prof. Wu's three-sentence format from Lecture 8. State that the growth-vs-margin split depends on the fade, and disclose the leak and its fix.
 
 ## 9. Style rules (follow these if you edit the notebook)
 
@@ -155,6 +157,6 @@ The notebook was checked against this list after the rewrite. Keep it that way.
 1. Notebook runs top to bottom with no errors from inside `dcf/`.
 2. Part 2: `npv` agrees with `numpy_financial`; the vectorised dummy-firm EV equals `dcf()`; the Gordon identity difference is about 1e-12; the guard raises `ValueError`; the margin and revenue scaling are both exactly 2.000000.
 3. Part 3: the identity `(1+total) = (1+growth)(1+margin)` prints `True`.
-4. A CAT spot check: 3-yr EV ≈ $126.0bn vs actual-results EV ≈ $117.3bn (+7.4%) at base assumptions.
+4. A CAT spot check: 3-yr EV ≈ $126.0bn vs perfect-foresight EV ≈ $117.3bn (+7.4%) at base assumptions.
 5. An independent recompute of all EVs in `dcf_valuations.csv` with separately written code matched to 2e-15 at handoff. Redo it if you touch `dcf()`.
 6. Prose still clean against Section 9.
