@@ -23,6 +23,10 @@
 
 `data/rule_labels.csv` holds a mechanical backlog rule applied to 28 firms (applied with Claude, evidence in `data/rule_labels_evidence.csv`). The notebook scores every scenario on those 28 firms in Part 3.
 
+## Secondary backlog split
+
+`flag_quantified_backlog.py` flags firms whose 10-K quantifies the change in backlog; it writes `backlog_quantified.csv` with the evidence sentence for each firm. The notebook adds it as two extra groups.
+
 ## Adding the model's forecasts
 
 Save `data/lm_forecasts.csv` with columns `ticker, label, growth, margin` (decimals, one label per run like `AI full` or `AI no MD&A`) and rerun the notebook. Any firm missing from a run gets the baseline forecast, and the notebook prints how many.

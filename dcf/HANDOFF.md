@@ -115,6 +115,10 @@ Decomposition (ex-flagged, median): 3-yr average growth part 4.9%, margin part 1
 
 Secondary split (`backlog_quantified.csv`, rule in `flag_quantified_backlog.py`): 29 firms whose 10-K quantifies the change in backlog, 24 that don't. Growth MAE, quantified: AI full 5.6%, last year 6.8%, 3-yr 7.1%; not quantified: AI full 3.8%, last year 4.2%, 3-yr 5.8%. The AI's edge over the 3-yr average is similar in both groups; over last year it is larger where backlog is quantified (−1.2pp vs −0.4pp). No gap in this split clears the bootstrap. The rule was fixed before results were split by it; the 38/15 split stays primary.
 
+Firm-specific robustness (notebook Part 5, data from `scripts/pull_xbrl_extra.py` and `scripts/pull_market_data.py`): each firm gets its own beta (2-yr weekly vs S&P 500, Blume-adjusted), debt weight (book debt / book debt + market cap on 28 Feb 2025), cost of debt (interest / debt, 3% to 9%), tax rate (effective, 15% to 30%), and reinvestment ((capex − D&A) and working capital as shares of revenue; terminal capex at least covers D&A). WACCs run from 6.4% (LMT) to 13.0% (VRT), median 9.3%. Results: the AI beats the 3-yr average on every measure; against last year the order shuffles (AI has the lowest median growth-only error, 5.7% vs 6.0%; last year keeps the lowest combined median, 10.0% vs 12.2%). Per-firm AI errors correlate 0.89 (rank) with the flat-input version. Gaps filled with medians: net capex for EME, IEX, ITW, PH, PNR, PWR; working capital for PCAR, DE; tax for ITW; cost of debt for 18 firms without an interest-expense tag. Terex shows $0 debt (tag gap after the ESG acquisition).
+
+Market level check (`output/per_share_vs_price.csv`, `.png`): perfect-foresight value per share is inside the 52-week range for 10 of 53 firms; median value / price 0.56. Defense primes land above price (low betas), thin-margin firms (AXON, DD, BA) far below. This is why the main test scores against perfect foresight, not price.
+
 Robustness: the median growth-only ranking (last year first) holds in all 10 settings (base + 9 alternatives).
 
 Backlog rule (28 firms, 19 backlog / 9 not; `data/rule_labels.csv`): growth MAE rule 3.9%, AI full 3.1%, AI no MD&A 2.7%, 3-yr 3.4%, last year 3.3%. On backlog firms the AI beats the rule by 1.8pp [−3.5, −0.4]. The rule's backlog step (G2) fails on firms like PNR and HUBB, whose backlog fell 17–18% as supply-chain backlogs normalised while sales kept growing; PNR's 10-K says outright that backlog isn't an indicator of 2025 sales. Reading context beats reading the number. The 28 firms exclude the most dramatic movers, so compare within that table only.
@@ -133,7 +137,7 @@ Level check: ~1.7x EV/revenue is about half Damodaran's Machinery EV/Sales of 3.
 
 ## 8. What's next (as of 17 Nov)
 
-1. **Firm-specific scenario (robustness).** A teammate pointed out that every firm shares one WACC and a growth/ROIC reinvestment rule. Plan: Conor runs `scripts/pull_xbrl_extra.py` and `scripts/pull_market_data.py` (cash, debt, shares, capex, D&A, working capital; price at the valuation date, 52-week range, beta), then a second DCF scenario uses firm-specific WACC and reinvestment and reports whether the forecast ranking holds. An appendix chart compares per-share values with the 52-week range. The main test stays as is.
+1. **Firm-specific scenario:** done (see Section 6, notebook Part 5).
 2. **Quantified-backlog split:** done (see Section 6).
 3. **Person 4:** memo, AI Use Log, Part #4 slides. The AI Use Log must cover the model runs, the rule labels (applied with Claude) and Claude's help on the DCF and data fixes.
 4. **Memo:** Prof. Wu's three-sentence format from Lecture 8. State that the growth-vs-margin split depends on the fade, and disclose the leak and its fix.
