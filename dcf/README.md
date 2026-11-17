@@ -11,11 +11,14 @@
 | 2 | `npv`, `growth_path` and `dcf`, tested on dummy numbers first |
 | 3 | All 53 firms valued under each forecast, with the error split into growth and margin |
 | 4 | Growth x margin grid, one-at-a-time sensitivity, and whether the assumptions change who wins |
-| 5 | Notes for Persons 3 and 4 |
+| 5 | Firm-specific robustness: each firm's own WACC, tax and reinvestment, plus value per share vs the 52-week price range |
+| 6 | Notes for Persons 3 and 4 |
 
 ## Output files
 
 `output/baseline_forecasts.csv` has one row per firm: baseline and last-year growth and margin, the actuals, and the `backlog` and `flag` columns.
+
+`output/per_share_vs_price.csv` and `.png` compare firm-specific value per share with each firm's 52-week range (a level check, not a score).
 
 `output/dcf_valuations.csv` has one row per firm per scenario: `ev`, `ev_perfect_foresight` (our DCF fed actual FY2025 results, not a market value), `err_growth_only`, `err_margin_part`, `err_full`.
 
