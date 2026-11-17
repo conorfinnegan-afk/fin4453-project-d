@@ -142,7 +142,7 @@ Level check: ~1.7x EV/revenue is about half Damodaran's Machinery EV/Sales of 3.
 
 1. **Firm-specific scenario:** done (see Section 6, notebook Part 5).
 2. **Quantified-backlog split:** done (see Section 6).
-3. **Person 4's work:** Agnivesh took it over on 17 Nov. Validation notebook done (`eval/03_validation.ipynb`). Memo (Prof. Wu's three sentences from Lecture 8) and AI Use Log (Lecture 1's four questions) are in a Claude doc, with a copy in `eval/MEMO_AND_AI_USE_LOG.md`. Teammates still need to fill in their own lines of the AI Use Log.
+3. **Person 4's work:** Agnivesh took it over on 17 Nov. Validation notebook done (`eval/03_validation.ipynb`). Memo (Prof. Wu's three sentences from Lecture 8) and AI Use Log (Lecture 1's four questions) are in a Claude doc, with a Word copy in `eval/Project_D_Memo_and_AI_Use_Log.docx`. Teammates still need to fill in their own lines of the AI Use Log.
 4. **Slides:** handed off by Agnivesh to a teammate. The Part 2 slide-content doc has the clean numbers.
 
 ## 9. Style rules (follow these if you edit the notebook)

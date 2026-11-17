@@ -15,4 +15,4 @@
 
 Outputs: `output/quote_check.csv` (one row per quote) and `output/verification_scorecard.csv`.
 
-`MEMO_AND_AI_USE_LOG.md` is the three-sentence memo, the numbers behind it, the limitations and the AI Use Log. Lines in square brackets are for teammates to fill in.
+`Project_D_Memo_and_AI_Use_Log.docx` is the three-sentence memo, the numbers behind it, the limitations and the AI Use Log. Lines in square brackets are for teammates to fill in.
